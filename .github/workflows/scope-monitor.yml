@@ -4,7 +4,7 @@ on:
   schedule:
     # bounty-targets-data itself only updates every ~30 min, so polling
     # faster than this just re-checks the same data.
-    - cron: "*/30 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch: {} # lets you trigger it manually from the Actions tab
 
 permissions:
