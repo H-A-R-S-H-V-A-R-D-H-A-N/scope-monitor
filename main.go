@@ -1,12 +1,16 @@
-// scope-monitor watches HackerOne + Bugcrowd program scope data (sourced from
-// arkadiyt/bounty-targets-data, which crawls both platforms every ~30 min)
-// and pushes a Telegram alert whenever:
+// scope-monitor watches HackerOne, Bugcrowd, and Intigriti program scope
+// data (sourced from arkadiyt/bounty-targets-data, which crawls all three
+// platforms every ~30 min) and pushes a Telegram alert whenever:
 //   - a new program appears
 //   - a program disappears (removed/renamed/taken private)
 //   - a new in-scope target is added to an existing program
 //   - an in-scope target is removed from an existing program
-//   - a program's data changes in some other way we didn't specifically parse
-//     (policy text, severity table, etc.) — flagged as "needs manual check"
+//
+// A full-record hash is tracked per program but no longer triggers its own
+// alert — it originally flagged any other change as "needs manual check",
+// but in practice that fired on volatile stats fields (report counts,
+// bounty averages, activity timestamps) with zero relation to scope.
+// Confirmed false-positive prone, so only the four events above alert now.
 //
 // State is persisted to state.json and expected to be committed back to the
 // repo by the CI workflow, so you also get a git history of every diff.
@@ -331,10 +335,13 @@ func diff(prev *Snapshot, cur Snapshot) []string {
 		sort.Strings(removedScope)
 
 		if len(addedScope) == 0 && len(removedScope) == 0 {
-			// hash changed but no scope-item diff we could detect ->
-			// something else changed (policy, payout, rules text)
-			lines = append(lines, fmt.Sprintf("✏️ UPDATED (non-scope change) [%s]\n%s\n%s\nSomething changed on this program's page that isn't a scope add/remove — worth a manual look.",
-				platformName(k), safeName(p), p.URL))
+			// Hash changed but no scope-item diff detected. This used to
+			// fire an "UPDATED (non-scope change)" alert, but in practice
+			// it triggered on volatile stats fields (report counts, bounty
+			// averages, last-activity timestamps) on big active programs
+			// that change constantly with zero relation to scope. Confirmed
+			// false-positive prone, so it's silently skipped now rather
+			// than alerting on noise.
 			continue
 		}
 
