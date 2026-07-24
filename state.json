@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-24T17:47:20Z",
+  "captured_at": "2026-07-24T19:43:21Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -25452,7 +25452,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "806a69d490eef158eac3b1ec12411bc927fe65b48c393ebbb52222577cf20643"
+      "Hash": "029cab20fed1e57dbbb8fdaa34ad278f9892d290d3e83e7af62f4d7746ea4527"
     },
     "h1:amazonvrp": {
       "Key": "amazonvrp",
@@ -26056,7 +26056,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6c48b7a1653412b4fe217ded64dd086450e8235f9e439354210c3aa7bc9138f2"
+      "Hash": "704dca49cd8488f50f1acfd91eb48027401a9e3aaef94d99a39e40122ef3a278"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -87751,7 +87751,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "abe23262270905a5766b94ea9f6e67ef6c626c1075d51ff251faf62c6168c969"
+      "Hash": "a66cbd746faf020cc9139f8ea92565cbf4c13cfc97f2a47a174d9e885ee0e8b4"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -97458,7 +97458,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "46a85eac436112510c9d19f702145bbe17d22131de54b9b4c63e4504a5434d3a"
+      "Hash": "291da19151d9dbfb4369d7b9e408ba297faf132c5ce436189a9b292c129703b5"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -97852,7 +97852,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "eb0e82690323f6a219fd7ae340a0f79c2c36986429b3d19ab692785bb411007f"
+      "Hash": "ecbc1aca4be01052a90a4062601e34b8ba653d0a7369cb752a818aaaf27bd79b"
     },
     "h1:equifax": {
       "Key": "equifax",
@@ -144778,7 +144778,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9ca1d0e4d3fa473458ae711b3233d6e49253dc8af64deea6d35d34dbd26832f2"
+      "Hash": "2c7046c2a5897655ec8bf102f79c266dd782bb85f80767f0d85fc991a25dde32"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -149160,7 +149160,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bf652463768b572d917d38aa2b2b60ee21492e569af38ca945be81e01540d002"
+      "Hash": "8ccfdec08a6dcececb74ea22fd99133610f82cdc84a91790718f6806e805a6c1"
     },
     "h1:hyland_software": {
       "Key": "hyland_software",
@@ -163156,6 +163156,10 @@
           "ID": "vistaar.tal.deere.com",
           "Type": "URL"
         },
+        "visualai.ea-advtech-sandbox-vpn.us.e05.c01.johndeerecloud.com": {
+          "ID": "visualai.ea-advtech-sandbox-vpn.us.e05.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
         "vnd.agrisync.com": {
           "ID": "vnd.agrisync.com",
           "Type": "URL"
@@ -164995,7 +164999,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2534da54e2b88683c9c74879d38169afab09ad4ed86142c08607d12892279a0d"
+      "Hash": "b5c51c46b2582cabe18d2b0e95ae972718898cae6d5057aacd1f9b0e7d62de10"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -166828,7 +166832,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cbcb16f61dc210b75992a1c5d56c9dbc730ab849f65638238d851f70e68693bc"
+      "Hash": "a9f44eb0d9e548728107a80201e6adc856cf218031b55b57f62d18d4599cc445"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -170455,7 +170459,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5fcc7bf6e5e34089f83c0789fe76d7587f0b1d682a6fdebc6c9e644bb401caea"
+      "Hash": "9e308c12fe90077bc987739622983536b1b194ac63e76791f730cf62f0e89b01"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -179410,7 +179414,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "e12321ea0cb29d06c01895254f96995c6ef70f6b0689ee08f133ffee22ea72cb"
+      "Hash": "075be6c98bb14bf39c4549412e193d4f802c94d1180cf6bd492d1ffbc5485b70"
     },
     "h1:penn_entertainment": {
       "Key": "penn_entertainment",
@@ -186111,7 +186115,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6b9c61403be5c9b3d74d2628e7fc65f54649202ef7be0a5701ff73a56440638d"
+      "Hash": "1f1675b6fec4bf80714d34c5eea85dfa8248bdfdf8d8fb60759c615aa8629b33"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -186261,7 +186265,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dffd4ea3b05c4b0c12b126eeed7f05492063219da91eb06bfd3c2aff53a5471b"
+      "Hash": "3286e9aa6594f35c2849da6b7554370e47df7a60b4fd8a344e3ac4786559a110"
     },
     "h1:starling_bank": {
       "Key": "starling_bank",
@@ -189629,7 +189633,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "41a09594edb7622ca55c7770e4ebdcadbaae4447d7916adddf2e33cace36aba2"
+      "Hash": "1e941e0e017884878533a13d8425591366751fd80e87ee03e36850ad4b3f1aa8"
     },
     "h1:ui": {
       "Key": "ui",
@@ -192517,7 +192521,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c6ec52ab2880357a0b23232f7daf0646e67b83167894c17f36747b75b1498c7c"
+      "Hash": "c0866349cd7af846c161962c189d9e57302753770e457b65af37596528e047b5"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -201331,10 +201335,6 @@
           "ID": "*.digitalocean.com",
           "Type": "wildcard"
         },
-        "*.snapshooter.com": {
-          "ID": "*.snapshooter.com",
-          "Type": "wildcard"
-        },
         "169.254.169.254": {
           "ID": "169.254.169.254",
           "Type": "iprange"
@@ -201443,6 +201443,10 @@
         },
         "*.onstagingocean.app": {
           "ID": "*.onstagingocean.app",
+          "Type": "wildcard"
+        },
+        "*.snapshooter.com": {
+          "ID": "*.snapshooter.com",
           "Type": "wildcard"
         },
         "Assets created by other DigitalOcean customers": {
@@ -201566,7 +201570,7 @@
           "Type": "url"
         }
       },
-      "Hash": "cc59612d50b9ee495848ae6c51b5980a2d71e4c104308c181f9d01a0b342e6c9"
+      "Hash": "4a27240f523291ec2e9dbfc6d0d8a8182dafad3f00095942ecee9afb60007706"
     },
     "in:e1dc7326-0466-4c06-bd52-3c6df82370be": {
       "Key": "e1dc7326-0466-4c06-bd52-3c6df82370be",
