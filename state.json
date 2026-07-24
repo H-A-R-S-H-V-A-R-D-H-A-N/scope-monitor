@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-24T14:06:56Z",
+  "captured_at": "2026-07-24T15:43:02Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -182189,7 +182189,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "412f4532d4850b09a634a594cf09d9e2ed483a7c3ee7876bd567c9fa77ef02fe"
+      "Hash": "cd7e6db7780ca4bed5aebb833130d4c5df7a319d4cba6d17db5b96173eb71c36"
     },
     "h1:redis-vdp": {
       "Key": "redis-vdp",
@@ -182884,7 +182884,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "b8069b14ca1d68868be1a479428b7c9d8c6f0e3f93b70d0f1a9e312765a4a5ed"
+      "Hash": "c753a0c45eef7c9d3b0a17266d81d9609b4cdaa859578ee0c5a79ba4a0162d52"
     },
     "h1:render": {
       "Key": "render",
@@ -185642,7 +185642,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4e88c5e5c1487bdfddf200eeee8a59fcf2d7623865aea41da9583d2892554516"
+      "Hash": "a4e3d78e66335640aa63b38dcb68eeb122285747d7a83f604cbd9735175c4b0e"
     },
     "h1:smtp2go": {
       "Key": "smtp2go",
@@ -190418,7 +190418,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8c21761bcfdf6e271dd41ddaafa42c0b8f2b9e9b07d72c3e20f3a6e0001ea800"
+      "Hash": "fca2e461c0f2535165ae789f145f1807d3d2dfe9d7a302a9b792721d5b41b78a"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -199630,19 +199630,6 @@
       },
       "OutScope": {},
       "Hash": "dbdf70b0dfa7c30d9d6adca3258e54d6de84a21a51f5eab4c20cd6c315afc790"
-    },
-    "in:a78e0210-4de1-4ced-8895-48ac98c3166d": {
-      "Key": "a78e0210-4de1-4ced-8895-48ac98c3166d",
-      "Name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-      "URL": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
-      "InScope": {
-        "https://www.kuleuven.be/sapredir/huisvesting": {
-          "ID": "https://www.kuleuven.be/sapredir/huisvesting",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "3e162d1cf3c14843e44299afed0c2c603bca0cdfe81e150590fa20999f690e79"
     },
     "in:ad2bd496-536c-4c24-b885-ce01d66966b9": {
       "Key": "ad2bd496-536c-4c24-b885-ce01d66966b9",
