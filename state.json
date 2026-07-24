@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-24T15:43:02Z",
+  "captured_at": "2026-07-24T17:47:20Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -27891,7 +27891,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9aecef362c5d8f6d31a7a1a28cafceba627cfdae742de0159f8c8872ff47ba6a"
+      "Hash": "0c9f1dd4299fa01c389b740a1b391346b05f3e309b3153b7e4db76ab2befdc26"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -31665,7 +31665,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7e6b6a65b3490439f6c73c15f6399d49b07444133565f2b044617ad919c4d195"
+      "Hash": "9b68aa8af2e69e4a384392184da97cc91719e5ac9320c6e7a6b998ee6f1f8440"
     },
     "h1:capital-one": {
       "Key": "capital-one",
@@ -31896,7 +31896,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b04e51414c016c38be3395e10e92368cfb1d91331d18abf536a56cb5663a0709"
+      "Hash": "85468222be8bed643aa0c0777e286ddb412a73d101cd202e1f5ced60716b8500"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -87751,7 +87751,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a66cbd746faf020cc9139f8ea92565cbf4c13cfc97f2a47a174d9e885ee0e8b4"
+      "Hash": "abe23262270905a5766b94ea9f6e67ef6c626c1075d51ff251faf62c6168c969"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -88514,7 +88514,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "60e8c8630692fcf23c03d35c610d6ca698ab39ecf0ab5e9f07952fe49f919c30"
+      "Hash": "9cbe2f11298c45dc4960036eb36eaccfe5e5de471e7d2a3f2102a02ad31fe00f"
     },
     "h1:costco": {
       "Key": "costco",
@@ -144597,7 +144597,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "419b4577913e7171873d6e44155c652924e7fc87e9757841965d35dc559ce1b6"
+      "Hash": "ebb9cfd84de5f3ba1750b5d8718334080516ee48c7b34d006762cc5d73d940bb"
     },
     "h1:fresenius": {
       "Key": "fresenius",
@@ -159000,6 +159000,10 @@
           "ID": "edi-self-service.deere.com",
           "Type": "URL"
         },
+        "edl-nlq.ae-edl-ingest-prod-vpn.us.e18.c01.johndeerecloud.com": {
+          "ID": "edl-nlq.ae-edl-ingest-prod-vpn.us.e18.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
         "edl.services.wirtgen-group.com": {
           "ID": "edl.services.wirtgen-group.com",
           "Type": "URL"
@@ -164991,7 +164995,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a88c165b27904790e4c7a9f37be59a8e72f861a43ac113f0de45615594ce34b1"
+      "Hash": "2534da54e2b88683c9c74879d38169afab09ad4ed86142c08607d12892279a0d"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -168704,7 +168708,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "294ad83cb771d0438f30a084e75dafb02745a4c86827f9de647eba936dce24ba"
+      "Hash": "865a828c4fa8872645310f916f180e001a8fc2535379b22b12a3683860658b71"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -186107,7 +186111,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1f1675b6fec4bf80714d34c5eea85dfa8248bdfdf8d8fb60759c615aa8629b33"
+      "Hash": "6b9c61403be5c9b3d74d2628e7fc65f54649202ef7be0a5701ff73a56440638d"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -186220,7 +186224,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "d59b66ba42cfab1e2256b32160b0db3e216c34a30a7385dc78b5881dc9099b08"
+      "Hash": "b19edf20d6a7174b1a4b802007b1143de3223a63879031766205d7f6612204cb"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -189527,7 +189531,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "250e4e113bf0de2de3f0bcdc938c6aefdfee41af264061857d5d76ec09adba21"
+      "Hash": "daa00efe5c3e75ad25ecac1a418e46ab7a1e206ab2aff26c8829560a45c45d58"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -192971,7 +192975,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d3cfa00d24e6518f0c42563a88c6b5754d6d11f2019a4905b648e31105a5e281"
+      "Hash": "5487649681f620d5e1bb2847df1b012778d5734acb36e274b800b347815920ae"
     },
     "h1:worklytics": {
       "Key": "worklytics",
@@ -193005,7 +193009,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2e198c67505f5407809fe850b405293871b3742578c7df9e26be4bdb89be8a9d"
+      "Hash": "eb331682364cdd088f5324879601cfc15dd5b8e0c939cc5def1de29697e5fa7b"
     },
     "h1:x": {
       "Key": "x",
@@ -193372,7 +193376,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dbe57f736e029ae35875726e1c3aa7184f73a2042a46c448ff800b838665f494"
+      "Hash": "8179792cfabaf2ea81d97bf8f424fce2c965a7f525a134da9f47cbfd584c295f"
     },
     "h1:xvideos": {
       "Key": "xvideos",
@@ -194244,7 +194248,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c92b2a1e70fd0833942a08b24ea890908c52da9d0063774f942f37565469335d"
+      "Hash": "33b5fbb02ec2a7205faad72005095539328608ccb0c56f6123d80ebc3ed8c4ee"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
