@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-24T11:53:04Z",
+  "captured_at": "2026-07-24T14:06:56Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -17992,7 +17992,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "0076d0efe51c5a343ecea41e8e7dfb9c0b5036fa8a65e93a1a1dd16f292d995a"
+      "Hash": "1b4ddacec46f57b2d0d8f3d84e1f9f5abaab4b1b5717c5c2eb91f4949e67d601"
     },
     "h1:6sense-vdp": {
       "Key": "6sense-vdp",
@@ -31216,7 +31216,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f8cdfa97d458c835857332fe594dbc26642afc822a362c51307f8dcbb6f9c218"
+      "Hash": "3190d2df3d48556b1f38ee90ba02440a7d84952f8d392c300c17a8eed82a587b"
     },
     "h1:bumba_bbp": {
       "Key": "bumba_bbp",
@@ -87444,7 +87444,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5c8a224101fe93b9e053a6788085e1f3fb0efa07f66310566fd95e46c062d57d"
+      "Hash": "c01dc8f61bb185289004a929707fba4a3cd0d501803b27f98a24cadc345d2031"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -87751,7 +87751,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "abe23262270905a5766b94ea9f6e67ef6c626c1075d51ff251faf62c6168c969"
+      "Hash": "a66cbd746faf020cc9139f8ea92565cbf4c13cfc97f2a47a174d9e885ee0e8b4"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -145167,7 +145167,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "88cd6a91049f48940ccc25ca21dca10675213779c9714871ee0a340bd48645ac"
+      "Hash": "48100c2adff9decbbb0a66c7ba05a6b864bbcfdab1cabc20c5a287c1e50c9300"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -166667,7 +166667,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4a1dcc8b6ec24974963f1d76020cb6239aa2190bda8f1b7811b184107ea72f52"
+      "Hash": "c372636b8ef7e8bb00f578ded9e0fc9732d98f0371424182f0a640ad4627667c"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -167295,7 +167295,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7f620031f738ec6bdd8fcb7821f57cb408bb65ddc0e050aedc4ead3025d3f238"
+      "Hash": "d1873edce047d6a305e6e8360ab854633e35bd72720ae413c545ab94f689aa54"
     },
     "h1:lpl_financial-vdp": {
       "Key": "lpl_financial-vdp",
@@ -169854,6 +169854,10 @@
           "ID": "http://pip-azu2-sec-paf-001-mgmt.ukwest.cloudapp.azure.com",
           "Type": "URL"
         },
+        "http://recruitment.roke.co.uk": {
+          "ID": "http://recruitment.roke.co.uk",
+          "Type": "URL"
+        },
         "http://skipper.thorntontomasetti.com": {
           "ID": "http://skipper.thorntontomasetti.com",
           "Type": "URL"
@@ -170409,7 +170413,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d1f725e126867df35bcafc31c9ff6c5c76f8763adcc97419bcd735743f327895"
+      "Hash": "e07c4ea2bf907b1bf81c889332a22deda19e4d445be891db401b254b89170db7"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -175005,7 +175009,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4b5ea1dd27467be864e73a20357ab7fbb1f587b38902997028722d6ec4df94a5"
+      "Hash": "1aa6228268c6bac1479cf3e0911636192eac590e814c946e78b9dfdc610d5770"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -175030,7 +175034,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4994a9651401a0ed1d4692ddeaac28f2ca471d009e4e3d564c28915ca7128c5b"
+      "Hash": "8203e203589830df31bdbab26b104623786730003f0d367a2e80d6fa410baad4"
     },
     "h1:myndr": {
       "Key": "myndr",
@@ -176772,7 +176776,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9c59209dbfe7f39033c428870351b7668a3d8805c45fbb55cef727014dba1745"
+      "Hash": "363a6a30da9dc326bcd1e8ba51c9a4c1ff6b33e14238ba5b8589339feb22a3be"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -177319,7 +177323,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f9d9d28f4522935385a5c810e50793267e1cf798a52db1bd235c4abd9d456870"
+      "Hash": "ea5994abe1cc0e7ffd5128478508c5a211e263481302c397b6296c67fe17ad2b"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -180675,7 +180679,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d4d73f1349bda2dfc3ead5b206a94dc30f8c8cbbfa3dd37259e2fad63c1f06d"
+      "Hash": "4a25ab896f8c1ccee348d06e4af5f0bef8121d9ab6341a4b797aeeb4a37c5ac2"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -186216,7 +186220,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "92c579186ee8c5aac507bc9f7b690e06e3163e8531c2b53a029d2414bd706ca1"
+      "Hash": "d59b66ba42cfab1e2256b32160b0db3e216c34a30a7385dc78b5881dc9099b08"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -188077,7 +188081,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "59591c7e76720051298986e5180888cea93cdd120223dd8c8a07de70f83c6127"
+      "Hash": "edc9874f3e473734f8c73c65341059f743a9faf919b4ddb22222be79744dc293"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -190448,7 +190452,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6941fb44283b34ff20998541d0c2ad2f76d726444e1d56f8bdf1c248ea06a3d6"
+      "Hash": "89a85fadc00aa0da6a1e1b0ef9f35c14f1902bf82a62b8e09f7a3ebb98984c7a"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -193001,7 +193005,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e369217e55fd6fbabca0eccbe12823ced8d8206c471951c7f1e2845b6ec0811e"
+      "Hash": "2e198c67505f5407809fe850b405293871b3742578c7df9e26be4bdb89be8a9d"
     },
     "h1:x": {
       "Key": "x",
@@ -200034,92 +200038,6 @@
         }
       },
       "Hash": "183338b8fbcc9f3a3f50168e4fd116be4fc950c440e43299862eb9abe7b730cb"
-    },
-    "in:afc4415d-c004-4cf8-9a12-e0f18cde6db5": {
-      "Key": "afc4415d-c004-4cf8-9a12-e0f18cde6db5",
-      "Name": "WP Engine Bug Bounty",
-      "URL": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "InScope": {
-        "*. advancedcustomfields.com": {
-          "ID": "*. advancedcustomfields.com",
-          "Type": "wildcard"
-        },
-        "*. bettersearchreplace.com": {
-          "ID": "*. bettersearchreplace.com",
-          "Type": "wildcard"
-        },
-        "*.deliciousbrains.com": {
-          "ID": "*.deliciousbrains.com",
-          "Type": "wildcard"
-        },
-        "*.localwp.com": {
-          "ID": "*.localwp.com",
-          "Type": "wildcard"
-        },
-        "*.nitropack.io": {
-          "ID": "*.nitropack.io",
-          "Type": "wildcard"
-        },
-        "*.studiopress.com": {
-          "ID": "*.studiopress.com",
-          "Type": "wildcard"
-        },
-        "*.wpengine.io": {
-          "ID": "*.wpengine.io",
-          "Type": "wildcard"
-        },
-        "*.wpesvc.net": {
-          "ID": "*.wpesvc.net",
-          "Type": "wildcard"
-        },
-        "WP Engine-developed WordPress Plugins and Themes": {
-          "ID": "WP Engine-developed WordPress Plugins and Themes",
-          "Type": "other"
-        },
-        "https://app.getflywheel.com": {
-          "ID": "https://app.getflywheel.com",
-          "Type": "url"
-        },
-        "https://getflywheel.com": {
-          "ID": "https://getflywheel.com",
-          "Type": "url"
-        },
-        "https://makeshift.film": {
-          "ID": "https://makeshift.film",
-          "Type": "url"
-        },
-        "https://my.wpengine.com": {
-          "ID": "https://my.wpengine.com",
-          "Type": "url"
-        },
-        "https://payments.wpengine.com": {
-          "ID": "https://payments.wpengine.com",
-          "Type": "url"
-        },
-        "https://studiopress.blog": {
-          "ID": "https://studiopress.blog",
-          "Type": "url"
-        },
-        "https://torquemag.io": {
-          "ID": "https://torquemag.io",
-          "Type": "url"
-        },
-        "https://velocitize.com": {
-          "ID": "https://velocitize.com",
-          "Type": "url"
-        },
-        "https://wpengine.com": {
-          "ID": "https://wpengine.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "marketing.nitropack.io": {
-          "ID": "marketing.nitropack.io",
-          "Type": "url"
-        }
-      },
-      "Hash": "fbd90ea7a0d2644c6cfbda18d54e897fb647873775ed3badb7489bd6dddd2c93"
     },
     "in:afeb2624-ac2e-46bc-b078-b0e018baeb62": {
       "Key": "afeb2624-ac2e-46bc-b078-b0e018baeb62",
