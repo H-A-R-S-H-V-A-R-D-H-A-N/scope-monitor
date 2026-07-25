@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-25T00:13:32Z",
+  "captured_at": "2026-07-25T03:53:01Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23208,7 +23208,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0f6719c673c6c8ef9df7acda6337e115e895cd6ff87456b66a8e454c0cb52ef1"
+      "Hash": "897b7db86e7c071dd5ebafb252b3828fc34751f8c78d1a805d995e8d18bbc1a8"
     },
     "h1:adobe": {
       "Key": "adobe",
@@ -23961,7 +23961,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c11860729db0cbabca5e64528656cb729c7f60f6d69fbf43ce66bc50d90b9e66"
+      "Hash": "ca87cbd61e59941d47999a962e466d599bcfb5be7a6ca302d296fbed693d33d1"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -31896,7 +31896,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b04e51414c016c38be3395e10e92368cfb1d91331d18abf536a56cb5663a0709"
+      "Hash": "fa4ac6d172606feafdac9b2308b78966601e9625ace7b8da92f701f7ef8eef71"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -88167,7 +88167,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "91a47a995bd0b18db7853eb92a776bbe6dfbb796a168c581cb3c699af7457bb6"
+      "Hash": "ab552b6a9ff339c35b893ceee546c712041200d66f5e6d3fd188b3d9d653621e"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -88514,7 +88514,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "9cbe2f11298c45dc4960036eb36eaccfe5e5de471e7d2a3f2102a02ad31fe00f"
+      "Hash": "60e8c8630692fcf23c03d35c610d6ca698ab39ecf0ab5e9f07952fe49f919c30"
     },
     "h1:costco": {
       "Key": "costco",
@@ -101224,7 +101224,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8947ddb4160233fca56a5d899b756df03107f0157daa772fa20ea56fc380b084"
+      "Hash": "9e133d4b7956861a72e5bc8a1fe447e658a80339a1c6565ee0dd438b18344116"
     },
     "h1:exness": {
       "Key": "exness",
@@ -144723,7 +144723,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "15f2bfe1796ce70f0be32698ba7d5ab34b68c7fe69f9a4cc8730636351d4b01c"
+      "Hash": "17167d8092658f9d86dfc96cf24c2211a5dffb0e9f12d9f570cdc57eb7d3a48e"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -149954,7 +149954,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "46a033845a341d9473064145536f0a202b35a06b34360c7261f488cd38d8dea2"
+      "Hash": "13448fa7544bf77b2dfb211a71b9ccfac7641fa2ff0ed2f9f06620c7cdeb5998"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -188800,7 +188800,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8acb048be57ef87d70cb49ed3990798e754b2dcf697f4e9b38e2205c799b2e89"
+      "Hash": "2ef153f8946658893fdc20b117152f0a924ae6c1970a2d452d618b58be58956b"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -193380,7 +193380,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8179792cfabaf2ea81d97bf8f424fce2c965a7f525a134da9f47cbfd584c295f"
+      "Hash": "dbe57f736e029ae35875726e1c3aa7184f73a2042a46c448ff800b838665f494"
     },
     "h1:xvideos": {
       "Key": "xvideos",
@@ -196672,88 +196672,6 @@
         }
       },
       "Hash": "e75f63ea23bd1bff84872e0ca095c636c1563c985a40811c2dba36220c141517"
-    },
-    "in:48853273-690a-4555-8ac5-821a1c464312": {
-      "Key": "48853273-690a-4555-8ac5-821a1c464312",
-      "Name": "Capital.com",
-      "URL": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
-      "InScope": {
-        "*.backend-capital.com": {
-          "ID": "*.backend-capital.com",
-          "Type": "wildcard"
-        },
-        "*.capital.com": {
-          "ID": "*.capital.com",
-          "Type": "wildcard"
-        },
-        "*.itcapital.io": {
-          "ID": "*.itcapital.io",
-          "Type": "wildcard"
-        },
-        "aff.capital.com": {
-          "ID": "aff.capital.com",
-          "Type": "url"
-        },
-        "capital.com/*": {
-          "ID": "capital.com/*",
-          "Type": "wildcard"
-        },
-        "careers.capital.com": {
-          "ID": "careers.capital.com",
-          "Type": "url"
-        },
-        "com.capital.trading": {
-          "ID": "com.capital.trading",
-          "Type": "android"
-        },
-        "go.capital.com": {
-          "ID": "go.capital.com",
-          "Type": "url"
-        },
-        "open-api.capital.com": {
-          "ID": "open-api.capital.com",
-          "Type": "url"
-        },
-        "payment.backend-capital.com": {
-          "ID": "payment.backend-capital.com",
-          "Type": "url"
-        },
-        "register.capital.com": {
-          "ID": "register.capital.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*affiliates.backend-capital.com": {
-          "ID": "*affiliates.backend-capital.com",
-          "Type": "wildcard"
-        },
-        "*eduapp.backend-capital.com": {
-          "ID": "*eduapp.backend-capital.com",
-          "Type": "wildcard"
-        },
-        "*education.backend-capital.com": {
-          "ID": "*education.backend-capital.com",
-          "Type": "wildcard"
-        },
-        "3cxby.itcapital.io": {
-          "ID": "3cxby.itcapital.io",
-          "Type": "url"
-        },
-        "help.capital.com": {
-          "ID": "help.capital.com",
-          "Type": "url"
-        },
-        "relocate-with-us.capital.com": {
-          "ID": "relocate-with-us.capital.com",
-          "Type": "url"
-        },
-        "texis.itcapital.io": {
-          "ID": "texis.itcapital.io",
-          "Type": "url"
-        }
-      },
-      "Hash": "a6f918c7aae95605c669a607ea033c5de8a318ca0fa70a7a1daddd1fe9a337a2"
     },
     "in:4981522f-5675-4f46-b7b7-e065d30c8d79": {
       "Key": "4981522f-5675-4f46-b7b7-e065d30c8d79",
@@ -200514,128 +200432,6 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
