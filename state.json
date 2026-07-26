@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-26T18:38:41Z",
+  "captured_at": "2026-07-26T20:16:29Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23502,7 +23502,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "91f9da86cd393686a3553b2a956541f7c8bb39d153e9c556eef8d575d2a957ae"
+      "Hash": "74a54a71bcaaeac853a60d58c37c894c26dfba17fa7d2b149c07ba9751627d11"
     },
     "h1:aeromexico_vdp": {
       "Key": "aeromexico_vdp",
@@ -98998,7 +98998,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "45f5ba166ca1d1d441c95e25143ec71f133db9c26bc2c3bae817b1d4f4b9c717"
+      "Hash": "d132a6a7b73e271a5cf960534bc9b01f40f9797620e47e961843cf41b3749334"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -103454,7 +103454,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "201fde77657cc3ba1983830a4dd2d1984b16263084d7dc4d40551d4f47f3e630"
+      "Hash": "25a7fd96eb4cf93cac7ba1e3776fe53d378c12344d793051d118c791ce45be4a"
     },
     "h1:fertitta_entertainment": {
       "Key": "fertitta_entertainment",
@@ -149954,7 +149954,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "46a033845a341d9473064145536f0a202b35a06b34360c7261f488cd38d8dea2"
+      "Hash": "13448fa7544bf77b2dfb211a71b9ccfac7641fa2ff0ed2f9f06620c7cdeb5998"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -167706,7 +167706,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "696058888b51524c88328f8d11446aa7ed253f52b306678a9e3b7772082529cc"
+      "Hash": "d923b2f7ea5d5d6466a498514814e3d59473186b132dcea142e4d89a0713c9f3"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -192325,43 +192325,6 @@
         }
       },
       "Hash": "709f979bbf614e3d7c3c289f4725959e92c5eabc842ee9b5fb7845628b6253f1"
-    },
-    "h1:vodafone_oman": {
-      "Key": "vodafone_oman",
-      "Name": "Vodafone Oman",
-      "URL": "https://hackerone.com/vodafone_oman",
-      "InScope": {
-        "1589071345": {
-          "ID": "1589071345",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "apix.vodafone.om": {
-          "ID": "apix.vodafone.om",
-          "Type": "URL"
-        },
-        "om.vodafone.mva": {
-          "ID": "om.vodafone.mva",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "vfo01.vodafone.om": {
-          "ID": "vfo01.vodafone.om",
-          "Type": "URL"
-        },
-        "vfo02.vodafone.om": {
-          "ID": "vfo02.vodafone.om",
-          "Type": "URL"
-        },
-        "vfo03.vodafone.om": {
-          "ID": "vfo03.vodafone.om",
-          "Type": "URL"
-        },
-        "www.vodafone.om": {
-          "ID": "www.vodafone.om",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {},
-      "Hash": "6842a2538137a2eeed855623d235c1f1ebaabf83bed55bc6cf918d0b8bad62f0"
     },
     "h1:vueling_vdp": {
       "Key": "vueling_vdp",
