@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-27T08:05:05Z",
+  "captured_at": "2026-07-27T11:36:28Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -17992,7 +17992,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "89440779dc721550bb582b39c687030b7f43d3953e8b1f76fd92cd3d87455193"
+      "Hash": "2acb40373e984a47e01bf8c883811682cf9c97c965fb04968674e108f28464bd"
     },
     "h1:6sense-vdp": {
       "Key": "6sense-vdp",
@@ -22924,7 +22924,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7902fcdfd3ab41faa936326579640520a7ef79fd7b5b6f77505b3943a4081a13"
+      "Hash": "67bee24507cb697f2a81ecf1cbfa67a1e7819918dbbc0e28caf432f55eab293e"
     },
     "h1:abn_amro_vdp": {
       "Key": "abn_amro_vdp",
@@ -23115,7 +23115,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a89e65819c21e5734db0a496b0971adf489d047dda20500632607d7caa79bd5b"
+      "Hash": "127eec0db3a510736c9d6dea5add70c751f787d73ec8ce03d8a73e09a333ca1b"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -25910,7 +25910,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "9c96c1749e01ff48b38a42beb67f406cdc1b800ef8282a4bcf3713e2cb6bdab8"
+      "Hash": "d3fad61fbad77b0fdf1d4f72d65667ced611e3913696646f3d0dc35b22ccd13f"
     },
     "h1:amazonvrp-devices": {
       "Key": "amazonvrp-devices",
@@ -26064,7 +26064,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "1fc9a228a4ff933df2f444454255de085c456f8f57a5c3589551c95134c423a6"
+      "Hash": "06cae1d9d5b9d7d0eb2688a1a16e3f6e0dcbe32eecbdee7fbd1ad4d612559093"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -26176,7 +26176,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "811a2490c46074ab621d3a42cc0b3f2f0ad1b83d3141ff910638aed6848656de"
+      "Hash": "f1dc9a3da9c4058e7308a094d4ad303acb32a5728003c90ab86bdcb6d428e7f0"
     },
     "h1:anthropic-cyber-jailbreak": {
       "Key": "anthropic-cyber-jailbreak",
@@ -27438,7 +27438,7 @@
       "URL": "https://hackerone.com/arkadiyt-projects",
       "InScope": {},
       "OutScope": {},
-      "Hash": "e206f458d3753c7aed4a540e51ed685ffacf764470b3d7c1897f518fbd199792"
+      "Hash": "fa663ad39727a54f908297df4f5d78fe602bd90dfa05d07f71365d02705e0bf7"
     },
     "h1:arkose_labs": {
       "Key": "arkose_labs",
@@ -27594,7 +27594,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cc574734a9e4fc7fb0e08988b3ff5334fb4d634380b8456289febb37203478f1"
+      "Hash": "25ee3b98a26ea28a8db77217ff822f5f04e38bf8c69d87c6f2ea082a545c2470"
     },
     "h1:audible": {
       "Key": "audible",
@@ -27717,7 +27717,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1498bc7e6aab7664c5eb601d656779d21a3470d2176a39aab31d937568081156"
+      "Hash": "8ac76ca2607cd42636522ccc7bfd75bf230b2f60711438a1b12f89afb61c8286"
     },
     "h1:automattic": {
       "Key": "automattic",
@@ -27899,7 +27899,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a3a2e1a80e110d8560071b88bb8f2c5112950045f62e78cb0a37687763a3ea6e"
+      "Hash": "9e502e93784e29a79cf7d3193ffdf02df5ff734ae2567ad31049868da4106a31"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -27989,7 +27989,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b5d39259e7b66a81c6c0ca348746d81fd9d131dba3701e784d43a7e92b3a7382"
+      "Hash": "0428013b4779cf03de8773b002fbd20625c5d2e1a788a5b24801a12a7c907455"
     },
     "h1:aws_vdp": {
       "Key": "aws_vdp",
@@ -30714,7 +30714,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "101f4219398021aaace59d5ccc4675cd765e869bb0e33e92b989da3179b53752"
+      "Hash": "a43a2148c0419fb9753e07379c51d9a7cad621a99736f594be23c9a6b92d8e79"
     },
     "h1:bookingcom": {
       "Key": "bookingcom",
@@ -31467,7 +31467,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8fafbef1a43db7010fcfabc114382b8cb6dccd0c2d5103fa7d2c6273d787e24a"
+      "Hash": "ac1371345e8b78126c56c437ae09cbf360fc187d56afa7483f711dea1a645aef"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -31904,7 +31904,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7a8e8d1a581dae14d193984d3e240c3f55f5318cf5520dee04e3190ba7318c5f"
+      "Hash": "f004cd504bfe476e3ab95b3590c3b377da46f5f08d44f615bdc0850f575f0f1b"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -88125,7 +88125,7 @@
       "URL": "https://hackerone.com/coinmate",
       "InScope": {},
       "OutScope": {},
-      "Hash": "a36cebff1f2e2fab439f01d8849349922537876d343bf42161be737dae5f3e49"
+      "Hash": "d6c522f2755763ebd542343c8924df1124d5ba94f1fdb5fc41d7191e5e86d404"
     },
     "h1:coinspot": {
       "Key": "coinspot",
@@ -88777,7 +88777,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2ccf6910254540237af32fcf8f4ea7ed09a774b69a2125b914c903aba472018a"
+      "Hash": "bfc350c2119600cbf6c009e85dfd966a1938cc411ffd836e187260af7e10b359"
     },
     "h1:creditkarma": {
       "Key": "creditkarma",
@@ -89136,7 +89136,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "980417ea56d9844d984ee6867700b0a3467a6fa4058de912bbd09b359a985eeb"
+      "Hash": "cb9163bc7a0c41895f0a007d30233d11c7c2000cad9167800a45ab7c5069a171"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -95283,7 +95283,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6d6d174a63aca7b40054511e30d86aaf2935d5740dc978685779e3e449d2250d"
+      "Hash": "32d43e3de78ada1ee8429c9a2ab1293158657e65987f6823753f9b2d745cb946"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -95674,7 +95674,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c175808bcf02ce5c24fb3ea5f270b8a4bc9a1d2e5b7dae480668dee2678cdd72"
+      "Hash": "7e4c91bd4941ca585a59fd6e16248b0a20cfeadb0052677b43dd57db7a76dc3e"
     },
     "h1:dynatrace": {
       "Key": "dynatrace",
@@ -96150,7 +96150,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "14087eb74b061a1cf4a664ebf5d703bf04af60fdd35831eb9d073a36d472565a"
+      "Hash": "f6b7b32e28b8f2b1c9294c0bb21d8039ef83972a11565a07ce06ea417c54ddc5"
     },
     "h1:early_warning": {
       "Key": "early_warning",
@@ -96604,7 +96604,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ba2aa4ec52590cfb1e61fb86bc8cc508ad60a53ec9bfde2ca14d910275c6f317"
+      "Hash": "874daf5df62c0e872167d7a7f1e89885ddf2566edfe5e47f393cc924dd65b576"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -96699,7 +96699,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9b445b791fe424e0c7a4ad15a7f09c326f4567d7bef6847a8fb3520d4ad78c68"
+      "Hash": "4102327d82a9e4ba5261d0f705bc4e36d95ed5689e687fe50af9507189fe9e1f"
     },
     "h1:epicgames": {
       "Key": "epicgames",
@@ -98981,7 +98981,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "45f5ba166ca1d1d441c95e25143ec71f133db9c26bc2c3bae817b1d4f4b9c717"
+      "Hash": "81703b1552d60d96fdc8f724265d691ccc3b37de35e138597bd1f696c1066908"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -100874,7 +100874,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "eee7d841b6847f2b2307661a74de2a3004902dd96dad5d4e865f0cd30d5eb928"
+      "Hash": "a0fe8d3a8035f406f1458a7382c9c80d447ec16d2eaa9e793d565ba1fb9685f3"
     },
     "h1:eternal": {
       "Key": "eternal",
@@ -101080,7 +101080,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1ea302f08e294ac8b17873c74dbdd123bd79e8988724a8a926d304e9dec42b9f"
+      "Hash": "12462115705be3fc4ca5ee4216e777e5b3e7e12d16ee8272b3fc26a0b70a2fe2"
     },
     "h1:eufy_security": {
       "Key": "eufy_security",
@@ -101153,7 +101153,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "05ef9f294614a87ed09278af112977605e62eb224f90fe296518533e0157ce99"
+      "Hash": "16beeaaaea051a08f729c88e53e19fac92bdf9127df1f744a28d5c7c90afa6e3"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -101207,7 +101207,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "15a6b7db5c0cac24caaccb5f35dcee133cbfd7442c790f75df1a786a0c3e869c"
+      "Hash": "2d14dc22b8ca43b4c776c97df50e53ef019df4f4dadfa5327b7b0b0f10cd33f0"
     },
     "h1:exness": {
       "Key": "exness",
@@ -101379,7 +101379,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "ee2940e190306345472c2bd9800bac5e5b84ec67e50645c5d545187b3dfb85f4"
+      "Hash": "8a27f1940eb8e419e84aacbaacf6f6525e5e3114e59502ffa115462a05b80096"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -144115,7 +144115,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1a9bb0400c58474efca60c4105629da853d8c9ebd74454b2b7db2739b510d873"
+      "Hash": "bca54cf3c8605e6c42273b327c983a53eeb7ca65666c7321c84a3ef318c7d18f"
     },
     "h1:ford": {
       "Key": "ford",
@@ -144526,7 +144526,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b300532f8cd65c656b724e5e060a58620aef9a10e01430d3222441900366e833"
+      "Hash": "6c1b9a5432489a0089e3c1551c69db383a5e5304fabb77edaad0198d3a7209c0"
     },
     "h1:formassembly": {
       "Key": "formassembly",
@@ -144580,7 +144580,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "1c356330ca627bd8bc9157bd43b89d416e55a9ed07e1c17508418f4a73384761"
+      "Hash": "0579ffaca94dca36a1461e97f3e8024d93faf75a0dc14da1337229c7da7d1bfc"
     },
     "h1:fresenius": {
       "Key": "fresenius",
@@ -144588,7 +144588,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "8e0c9be7cab8984b709f76713e6281a414d0271298a69fe415aea95794d37fb3"
+      "Hash": "7edf96b7c193f4b339859e54eef547af95f280e812a256afd794255a8e3e99b9"
     },
     "h1:freshworks": {
       "Key": "freshworks",
@@ -144706,7 +144706,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "15f2bfe1796ce70f0be32698ba7d5ab34b68c7fe69f9a4cc8730636351d4b01c"
+      "Hash": "8f66c817a0d2d32babc89f77746ecbac12b97e9d0da9a357be72af3ee8c758ec"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -144761,7 +144761,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5eaba450a5c0e5b7e47f8d9a30254fc26071a27034f8a6c3bd2d456a2dca7e01"
+      "Hash": "be022ff8bdcb63b85a7d0e0feab215e3d44fb08d8dffed5f86d2b2094fd8ccf6"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -144798,7 +144798,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d034a7e25d006aefda02b30177f8a164ff47b97cce1e1a703c9164ed290a1327"
+      "Hash": "3a3a8048119ed031c65b371b374420dcbbfd7a25c8c3795ebb159f4e32c9ede7"
     },
     "h1:github": {
       "Key": "github",
@@ -145150,7 +145150,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9abc598ee631b69085d11b4e2828b7cca4f039e5c903a16894306bd5cc1d8435"
+      "Hash": "b17bca587e527a7227df067eabe72eb2f792b77a6df536c0cdb7264e9011332b"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -146118,7 +146118,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "577a956d28a58770e78a4becebfbb858650fc51824ae290c14dad5bfa16cdea2"
+      "Hash": "38b8c758125b0595de278da68603c54fa103ddab0bc70c649aadc08c38e5a651"
     },
     "h1:greenhouse": {
       "Key": "greenhouse",
@@ -146348,7 +146348,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6444e0d1ed6d5e086fb07a3f93fc8bac92d2f3b21ad13284893dae11407fcd91"
+      "Hash": "102d83c8a4bd73361ff9589d3908f63f71f068c92422a636fdc3354990b61bfb"
     },
     "h1:hack_the_box": {
       "Key": "hack_the_box",
@@ -146599,7 +146599,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "033a7ae2b72cad57dd434a46efaa4fe49f9c663e93338e2fc2a64b577dfc2662"
+      "Hash": "38f15a920d803918a29ed6da2a2657145d725e6e2b917201395cb700cebcefe8"
     },
     "h1:henkel_vdp": {
       "Key": "henkel_vdp",
@@ -147637,7 +147637,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a66f9379feb8d5fabfd58c067967d705076d72ef2a439a45d732e79f5ea6b550"
+      "Hash": "432f5c6bfba13583bb99023692c68cdc7a5e05036e2f8b41eea74d3196b40999"
     },
     "h1:hex": {
       "Key": "hex",
@@ -148861,7 +148861,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8c5f8c33838238b24535194e9c52dd2505ee61f35ef74bb3aae6b7a7c50abed5"
+      "Hash": "ed12aa0653266edfbbd20048f8d6c8c5f478b9790706c69d05c41767fb4333c4"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -149143,7 +149143,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "26c95d0676d1d13e33df2c462bc6f30e1a03d84b5e6e67e9a897effa16381756"
+      "Hash": "525d0c82f3e5dd352a0387c18e77ef526a639223de2256999912e7f21612f39f"
     },
     "h1:hyland_software": {
       "Key": "hyland_software",
@@ -165438,7 +165438,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "40ecfc72313b90bb2aea14b6cb0169cc7c48785e6bf1b0953a8c79adb1e8c4ff"
+      "Hash": "26f3fd8223372321af139da8e3d440f9063e409a5561d8d14445a47f62ff3f98"
     },
     "h1:kiwicom": {
       "Key": "kiwicom",
@@ -166383,7 +166383,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "511ddea610cccb912b7d6526d75a4b5722f6928616583bd2972b2d16a989d593"
+      "Hash": "4fd5724335eca673d46ebe8862b95578e41ecf50c7a3033d02acfe064f48bded"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -166815,7 +166815,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a9f44eb0d9e548728107a80201e6adc856cf218031b55b57f62d18d4599cc445"
+      "Hash": "cbcb16f61dc210b75992a1c5d56c9dbc730ab849f65638238d851f70e68693bc"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -167236,7 +167236,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "03b9f0d7753f3fdccf98211b0f7b0e769c18063fc682c293034d557603b1bc92"
+      "Hash": "f4e15a938084eb934557ff2a7dff5bf4018a011bd4ca78d75693a69dbb96584a"
     },
     "h1:lowes": {
       "Key": "lowes",
@@ -167689,7 +167689,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d923b2f7ea5d5d6466a498514814e3d59473186b132dcea142e4d89a0713c9f3"
+      "Hash": "dba857aa86d69ebe574064158be328885f99b449f9a024488069502e6c5a9ca1"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -168588,7 +168588,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5b007259af0c8c0f5973d9b42bb3f2a9352702f1301fa2d1a4f380912a355188"
+      "Hash": "22b9028560f5a305706d7fc51f7a7c6eb36ffb6b484f0b9c4ae4e36acfba2bf5"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -168829,7 +168829,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b8077d892702dcad1eeaf96fbd78d1d942ba4b064db023dc5a24ae819bf11c91"
+      "Hash": "36ed2253382ead3111dd2bd136daa7c9ab36d8d2cbecd24f120291927abb3982"
     },
     "h1:mendix": {
       "Key": "mendix",
@@ -169315,7 +169315,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9ac76fd44e7ee0a522f1174af6e756dd86f11affc20a820be346295e0b2493db"
+      "Hash": "72fadb1da7d95f5b57ed7c7087a02b4663f117912ba7098d7b231fc3991f4f48"
     },
     "h1:metamask": {
       "Key": "metamask",
@@ -169465,7 +169465,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ea2ec95048d3d54a067cab7d40abd16707bf7a779963b4e683f5f5196c0d5a0b"
+      "Hash": "faf7927a16522c00bc360bc7218c8235a6622af893893dc2c6a7504c8e5e2568"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -169578,7 +169578,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d96716015fa197f88631e8015f32e047799907826378341029572690c25b61ec"
+      "Hash": "01b1136c7d52f975f4eb41a444d96f7b758283ed7288b9837a8569f36153fd9c"
     },
     "h1:mod_supply_chain_vdp": {
       "Key": "mod_supply_chain_vdp",
@@ -170404,7 +170404,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e07c4ea2bf907b1bf81c889332a22deda19e4d445be891db401b254b89170db7"
+      "Hash": "dc628cb1096fe9127b25ce5ce9a7904685a7d3a66f600cf62da1089c29524ae0"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -170468,1396 +170468,6 @@
       },
       "OutScope": {},
       "Hash": "4d06bb0153dd704f4b0480299260db008a16bc03a31b6dfb34a82d1270949f93"
-    },
-    "h1:mondelez": {
-      "Key": "mondelez",
-      "Name": "Mondelēz International",
-      "URL": "https://hackerone.com/mondelez",
-      "InScope": {
-        "admit-it-win.cadbury.co.uk": {
-          "ID": "admit-it-win.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "admit-it.cadbury.co.uk": {
-          "ID": "admit-it.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "admit-it.cadbury.ie": {
-          "ID": "admit-it.cadbury.ie",
-          "Type": "URL"
-        },
-        "aida-mdlz.com": {
-          "ID": "aida-mdlz.com",
-          "Type": "URL"
-        },
-        "alpengold.me": {
-          "ID": "alpengold.me",
-          "Type": "URL"
-        },
-        "amikekszunkjatek.hu": {
-          "ID": "amikekszunkjatek.hu",
-          "Type": "URL"
-        },
-        "anniversariooro.orosaiwa.it": {
-          "ID": "anniversariooro.orosaiwa.it",
-          "Type": "URL"
-        },
-        "atistirmalikdunyasi.com": {
-          "ID": "atistirmalikdunyasi.com",
-          "Type": "URL"
-        },
-        "backtoschoolsnacks.com": {
-          "ID": "backtoschoolsnacks.com",
-          "Type": "URL"
-        },
-        "barni.org": {
-          "ID": "barni.org",
-          "Type": "URL"
-        },
-        "barniadventures.com": {
-          "ID": "barniadventures.com",
-          "Type": "URL"
-        },
-        "base-mondelez-ag.fr": {
-          "ID": "base-mondelez-ag.fr",
-          "Type": "URL"
-        },
-        "bassettsvitamins.co.uk": {
-          "ID": "bassettsvitamins.co.uk",
-          "Type": "URL"
-        },
-        "bee.harmony.info": {
-          "ID": "bee.harmony.info",
-          "Type": "URL"
-        },
-        "beldent.com.ar": {
-          "ID": "beldent.com.ar",
-          "Type": "URL"
-        },
-        "belvita.life": {
-          "ID": "belvita.life",
-          "Type": "URL"
-        },
-        "belvitaoffer.com": {
-          "ID": "belvitaoffer.com",
-          "Type": "URL"
-        },
-        "belvitasnacks.com": {
-          "ID": "belvitasnacks.com",
-          "Type": "URL"
-        },
-        "bigwinwin.cadbury.co.uk": {
-          "ID": "bigwinwin.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "bis.com.br": {
-          "ID": "bis.com.br",
-          "Type": "URL"
-        },
-        "bournvita.ng": {
-          "ID": "bournvita.ng",
-          "Type": "URL"
-        },
-        "br.oreobts.com": {
-          "ID": "br.oreobts.com",
-          "Type": "URL"
-        },
-        "breathewithtomtom.com": {
-          "ID": "breathewithtomtom.com",
-          "Type": "URL"
-        },
-        "brumikobjavitel.sk": {
-          "ID": "brumikobjavitel.sk",
-          "Type": "URL"
-        },
-        "brumikobjevitel.cz": {
-          "ID": "brumikobjevitel.cz",
-          "Type": "URL"
-        },
-        "bundakraft.com": {
-          "ID": "bundakraft.com",
-          "Type": "URL"
-        },
-        "ca.oreobts.com": {
-          "ID": "ca.oreobts.com",
-          "Type": "URL"
-        },
-        "cadbury.co.uk": {
-          "ID": "cadbury.co.uk",
-          "Type": "URL"
-        },
-        "cadbury.co.za": {
-          "ID": "cadbury.co.za",
-          "Type": "URL"
-        },
-        "cadbury.com.au": {
-          "ID": "cadbury.com.au",
-          "Type": "URL"
-        },
-        "cadbury.ie": {
-          "ID": "cadbury.ie",
-          "Type": "URL"
-        },
-        "cadburydessertscorner.com": {
-          "ID": "cadburydessertscorner.com",
-          "Type": "URL"
-        },
-        "cadburyfindtheticket.com.au": {
-          "ID": "cadburyfindtheticket.com.au",
-          "Type": "URL"
-        },
-        "cadburygems.in": {
-          "ID": "cadburygems.in",
-          "Type": "URL"
-        },
-        "cadburylollyrewards.com": {
-          "ID": "cadburylollyrewards.com",
-          "Type": "URL"
-        },
-        "cadburymonopoly.com": {
-          "ID": "cadburymonopoly.com",
-          "Type": "URL"
-        },
-        "cadburytrytime.co.nz": {
-          "ID": "cadburytrytime.co.nz",
-          "Type": "URL"
-        },
-        "cadburyworld.co.uk": {
-          "ID": "cadburyworld.co.uk",
-          "Type": "URL"
-        },
-        "canjeatupremiomdlz.com": {
-          "ID": "canjeatupremiomdlz.com",
-          "Type": "URL"
-        },
-        "catalogohellojoy.com": {
-          "ID": "catalogohellojoy.com",
-          "Type": "URL"
-        },
-        "chappies.co.za": {
-          "ID": "chappies.co.za",
-          "Type": "URL"
-        },
-        "clifbar.ca": {
-          "ID": "clifbar.ca",
-          "Type": "URL"
-        },
-        "clifbar.com": {
-          "ID": "clifbar.com",
-          "Type": "URL"
-        },
-        "clifbar.com.au": {
-          "ID": "clifbar.com.au",
-          "Type": "URL"
-        },
-        "clorets.jp": {
-          "ID": "clorets.jp",
-          "Type": "URL"
-        },
-        "clubsocial.com.br": {
-          "ID": "clubsocial.com.br",
-          "Type": "URL"
-        },
-        "cocoalife.org": {
-          "ID": "cocoalife.org",
-          "Type": "URL"
-        },
-        "cocoaprogram.info": {
-          "ID": "cocoaprogram.info",
-          "Type": "URL"
-        },
-        "coffeecallsforbelvita.com": {
-          "ID": "coffeecallsforbelvita.com",
-          "Type": "URL"
-        },
-        "concorsocoop.philadelphia.it": {
-          "ID": "concorsocoop.philadelphia.it",
-          "Type": "URL"
-        },
-        "concorsoesselunga.philadelphia.it": {
-          "ID": "concorsoesselunga.philadelphia.it",
-          "Type": "URL"
-        },
-        "concorsomikadosummernights.it": {
-          "ID": "concorsomikadosummernights.it",
-          "Type": "URL"
-        },
-        "contactus.mdlzapps.com": {
-          "ID": "contactus.mdlzapps.com",
-          "Type": "URL"
-        },
-        "cotedor.com": {
-          "ID": "cotedor.com",
-          "Type": "URL"
-        },
-        "croissantpromo.gr": {
-          "ID": "croissantpromo.gr",
-          "Type": "URL"
-        },
-        "culinaryinspoguide.com": {
-          "ID": "culinaryinspoguide.com",
-          "Type": "URL"
-        },
-        "dairylea.co.uk": {
-          "ID": "dairylea.co.uk",
-          "Type": "URL"
-        },
-        "desfrutacomphiladelphia.com": {
-          "ID": "desfrutacomphiladelphia.com",
-          "Type": "URL"
-        },
-        "destroyvalentinesday.com": {
-          "ID": "destroyvalentinesday.com",
-          "Type": "URL"
-        },
-        "disfrutaconphiladelphia.com": {
-          "ID": "disfrutaconphiladelphia.com",
-          "Type": "URL"
-        },
-        "dormifelfedez.hu": {
-          "ID": "dormifelfedez.hu",
-          "Type": "URL"
-        },
-        "egypt.oreostayplayful.com": {
-          "ID": "egypt.oreostayplayful.com",
-          "Type": "URL"
-        },
-        "ejackson.co.uk": {
-          "ID": "ejackson.co.uk",
-          "Type": "URL"
-        },
-        "enjoylifefoods.ca": {
-          "ID": "enjoylifefoods.ca",
-          "Type": "URL"
-        },
-        "enjoylifefoods.com": {
-          "ID": "enjoylifefoods.com",
-          "Type": "URL"
-        },
-        "epack.mondelezinternational.com": {
-          "ID": "epack.mondelezinternational.com",
-          "Type": "URL"
-        },
-        "estate2026.fonzies.it": {
-          "ID": "estate2026.fonzies.it",
-          "Type": "URL"
-        },
-        "eu.clifbar.com": {
-          "ID": "eu.clifbar.com",
-          "Type": "URL"
-        },
-        "extra.milka.de": {
-          "ID": "extra.milka.de",
-          "Type": "URL"
-        },
-        "familiaterrabusi.com.ar": {
-          "ID": "familiaterrabusi.com.ar",
-          "Type": "URL"
-        },
-        "fattorieosella.it": {
-          "ID": "fattorieosella.it",
-          "Type": "URL"
-        },
-        "favourites.milka.com": {
-          "ID": "favourites.milka.com",
-          "Type": "URL"
-        },
-        "favourites.milka.de": {
-          "ID": "favourites.milka.de",
-          "Type": "URL"
-        },
-        "fcmilka.de": {
-          "ID": "fcmilka.de",
-          "Type": "URL"
-        },
-        "fidorka.cz": {
-          "ID": "fidorka.cz",
-          "Type": "URL"
-        },
-        "figaro.cz": {
-          "ID": "figaro.cz",
-          "Type": "URL"
-        },
-        "figaro.sk": {
-          "ID": "figaro.sk",
-          "Type": "URL"
-        },
-        "fingerscrossed.cadbury.co.uk": {
-          "ID": "fingerscrossed.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "fingerscrossed.cadbury.ie": {
-          "ID": "fingerscrossed.cadbury.ie",
-          "Type": "URL"
-        },
-        "fonzies.it": {
-          "ID": "fonzies.it",
-          "Type": "URL"
-        },
-        "freia.no": {
-          "ID": "freia.no",
-          "Type": "URL"
-        },
-        "freiafotballtur.no": {
-          "ID": "freiafotballtur.no",
-          "Type": "URL"
-        },
-        "fruehling-knacken.milka.de": {
-          "ID": "fruehling-knacken.milka.de",
-          "Type": "URL"
-        },
-        "fun.cadbury.co.uk": {
-          "ID": "fun.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "fundraising.com.au": {
-          "ID": "fundraising.com.au",
-          "Type": "URL"
-        },
-        "ganaconmdlz.com": {
-          "ID": "ganaconmdlz.com",
-          "Type": "URL"
-        },
-        "ganapremiosmdlz.com": {
-          "ID": "ganapremiosmdlz.com",
-          "Type": "URL"
-        },
-        "gethalls.ca": {
-          "ID": "gethalls.ca",
-          "Type": "URL"
-        },
-        "gethalls.com": {
-          "ID": "gethalls.com",
-          "Type": "URL"
-        },
-        "gifting.twistandmake.com": {
-          "ID": "gifting.twistandmake.com",
-          "Type": "URL"
-        },
-        "gifts.tatesbakeshop.com": {
-          "ID": "gifts.tatesbakeshop.com",
-          "Type": "URL"
-        },
-        "give-a-little-thanks.cadbury.co.za": {
-          "ID": "give-a-little-thanks.cadbury.co.za",
-          "Type": "URL"
-        },
-        "giveawaygiveaway.cadbury.co.uk": {
-          "ID": "giveawaygiveaway.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "gol.oreo.mx": {
-          "ID": "gol.oreo.mx",
-          "Type": "URL"
-        },
-        "gourmetfood.com.au": {
-          "ID": "gourmetfood.com.au",
-          "Type": "URL"
-        },
-        "greeting.twistandmake.com": {
-          "ID": "greeting.twistandmake.com",
-          "Type": "URL"
-        },
-        "grenade.com": {
-          "ID": "grenade.com",
-          "Type": "URL"
-        },
-        "guiaclorets.mx": {
-          "ID": "guiaclorets.mx",
-          "Type": "URL"
-        },
-        "gustaredetop.ro": {
-          "ID": "gustaredetop.ro",
-          "Type": "URL"
-        },
-        "halls.jp": {
-          "ID": "halls.jp",
-          "Type": "URL"
-        },
-        "harmony.info": {
-          "ID": "harmony.info",
-          "Type": "URL"
-        },
-        "haztudiadelicioso.com": {
-          "ID": "haztudiadelicioso.com",
-          "Type": "URL"
-        },
-        "health-pro.snackmindful.com": {
-          "ID": "health-pro.snackmindful.com",
-          "Type": "URL"
-        },
-        "heritageadvertising.cadbury.co.uk": {
-          "ID": "heritageadvertising.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "heroes.cadbury.co.uk": {
-          "ID": "heroes.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "hourlyjobs-us.mondelezinternational.com": {
-          "ID": "hourlyjobs-us.mondelezinternational.com",
-          "Type": "URL"
-        },
-        "https://ligamaissabor.pt/": {
-          "ID": "https://ligamaissabor.pt/",
-          "Type": "URL"
-        },
-        "https://www.cadburygiftsdirect.co.uk": {
-          "ID": "https://www.cadburygiftsdirect.co.uk",
-          "Type": "URL"
-        },
-        "https://www.clifbar.com": {
-          "ID": "https://www.clifbar.com",
-          "Type": "URL"
-        },
-        "https://www.tatesbakeshop.com": {
-          "ID": "https://www.tatesbakeshop.com",
-          "Type": "URL"
-        },
-        "https://xn--90aiakgkqi1l.xn--p1ai/": {
-          "ID": "https://xn--90aiakgkqi1l.xn--p1ai/",
-          "Type": "URL"
-        },
-        "hukitchen.com": {
-          "ID": "hukitchen.com",
-          "Type": "URL"
-        },
-        "id.oreobts.com": {
-          "ID": "id.oreobts.com",
-          "Type": "URL"
-        },
-        "id.oreosea.com": {
-          "ID": "id.oreosea.com",
-          "Type": "URL"
-        },
-        "id.snacksandmeals.app": {
-          "ID": "id.snacksandmeals.app",
-          "Type": "URL"
-        },
-        "in.oreobts.com": {
-          "ID": "in.oreobts.com",
-          "Type": "URL"
-        },
-        "insights.mdlzawayfromhome.com": {
-          "ID": "insights.mdlzawayfromhome.com",
-          "Type": "URL"
-        },
-        "instoreeggucation.com": {
-          "ID": "instoreeggucation.com",
-          "Type": "URL"
-        },
-        "ir.mondelezinternational.com": {
-          "ID": "ir.mondelezinternational.com",
-          "Type": "URL"
-        },
-        "jocca.it": {
-          "ID": "jocca.it",
-          "Type": "URL"
-        },
-        "juegayganaconmdlz.com": {
-          "ID": "juegayganaconmdlz.com",
-          "Type": "URL"
-        },
-        "klubbkakan.marabou.se": {
-          "ID": "klubbkakan.marabou.se",
-          "Type": "URL"
-        },
-        "kr.oreobts.com": {
-          "ID": "kr.oreobts.com",
-          "Type": "URL"
-        },
-        "kvikklunsj.freia.no": {
-          "ID": "kvikklunsj.freia.no",
-          "Type": "URL"
-        },
-        "lacta.com.br": {
-          "ID": "lacta.com.br",
-          "Type": "URL"
-        },
-        "lacta.gr": {
-          "ID": "lacta.gr",
-          "Type": "URL"
-        },
-        "lajoieoreo.ca": {
-          "ID": "lajoieoreo.ca",
-          "Type": "URL"
-        },
-        "lajoieoreo.com": {
-          "ID": "lajoieoreo.com",
-          "Type": "URL"
-        },
-        "laligaconmassabor.es": {
-          "ID": "laligaconmassabor.es",
-          "Type": "URL"
-        },
-        "library.spotlightdam.com": {
-          "ID": "library.spotlightdam.com",
-          "Type": "URL"
-        },
-        "lidl.nyerjakedvenceiddel.hu": {
-          "ID": "lidl.nyerjakedvenceiddel.hu",
-          "Type": "URL"
-        },
-        "liga.nl": {
-          "ID": "liga.nl",
-          "Type": "URL"
-        },
-        "ljmondelez.com.br": {
-          "ID": "ljmondelez.com.br",
-          "Type": "URL"
-        },
-        "lojamondelez.com.br": {
-          "ID": "lojamondelez.com.br",
-          "Type": "URL"
-        },
-        "loteria7days.pl": {
-          "ID": "loteria7days.pl",
-          "Type": "URL"
-        },
-        "loteriamilka.pl": {
-          "ID": "loteriamilka.pl",
-          "Type": "URL"
-        },
-        "loteriaoreo.pl": {
-          "ID": "loteriaoreo.pl",
-          "Type": "URL"
-        },
-        "lubakery.co.uk": {
-          "ID": "lubakery.co.uk",
-          "Type": "URL"
-        },
-        "lubiscuits.eu": {
-          "ID": "lubiscuits.eu",
-          "Type": "URL"
-        },
-        "lumeabarni.ro": {
-          "ID": "lumeabarni.ro",
-          "Type": "URL"
-        },
-        "lusingingpacks.nl": {
-          "ID": "lusingingpacks.nl",
-          "Type": "URL"
-        },
-        "marabou.com": {
-          "ID": "marabou.com",
-          "Type": "URL"
-        },
-        "matt-pokora.milka.com": {
-          "ID": "matt-pokora.milka.com",
-          "Type": "URL"
-        },
-        "mdlzcollaboration.com": {
-          "ID": "mdlzcollaboration.com",
-          "Type": "URL"
-        },
-        "mdlzcusthelp.ca": {
-          "ID": "mdlzcusthelp.ca",
-          "Type": "URL"
-        },
-        "mdlzcusthelp.com": {
-          "ID": "mdlzcusthelp.com",
-          "Type": "URL"
-        },
-        "mdlznutritionscience.com": {
-          "ID": "mdlznutritionscience.com",
-          "Type": "URL"
-        },
-        "merendadanumeriuno.it": {
-          "ID": "merendadanumeriuno.it",
-          "Type": "URL"
-        },
-        "mezclaydisfruta.com.ar": {
-          "ID": "mezclaydisfruta.com.ar",
-          "Type": "URL"
-        },
-        "miamicfsweeps.com": {
-          "ID": "miamicfsweeps.com",
-          "Type": "URL"
-        },
-        "miamicfsweepstakes.com": {
-          "ID": "miamicfsweepstakes.com",
-          "Type": "URL"
-        },
-        "milka-pasakyklabas.lt": {
-          "ID": "milka-pasakyklabas.lt",
-          "Type": "URL"
-        },
-        "milka.cl": {
-          "ID": "milka.cl",
-          "Type": "URL"
-        },
-        "milka.com": {
-          "ID": "milka.com",
-          "Type": "URL"
-        },
-        "milka.ru": {
-          "ID": "milka.ru",
-          "Type": "URL"
-        },
-        "milkamozi.hu": {
-          "ID": "milkamozi.hu",
-          "Type": "URL"
-        },
-        "milkapromo.hu": {
-          "ID": "milkapromo.hu",
-          "Type": "URL"
-        },
-        "mirabilandia.orosaiwa.it": {
-          "ID": "mirabilandia.orosaiwa.it",
-          "Type": "URL"
-        },
-        "miracelwhip.de": {
-          "ID": "miracelwhip.de",
-          "Type": "URL"
-        },
-        "mitiendamondelez.com.ar": {
-          "ID": "mitiendamondelez.com.ar",
-          "Type": "URL"
-        },
-        "mmm.marabou.se": {
-          "ID": "mmm.marabou.se",
-          "Type": "URL"
-        },
-        "mmmax.milka.at": {
-          "ID": "mmmax.milka.at",
-          "Type": "URL"
-        },
-        "mmmax.milka.de": {
-          "ID": "mmmax.milka.de",
-          "Type": "URL"
-        },
-        "momentosnack.com": {
-          "ID": "momentosnack.com",
-          "Type": "URL"
-        },
-        "mondelez-afh.co.uk": {
-          "ID": "mondelez-afh.co.uk",
-          "Type": "URL"
-        },
-        "mondelez-professional.de": {
-          "ID": "mondelez-professional.de",
-          "Type": "URL"
-        },
-        "mondelezawayfromhome.com": {
-          "ID": "mondelezawayfromhome.com",
-          "Type": "URL"
-        },
-        "mondelezcanadafoodservice.ca": {
-          "ID": "mondelezcanadafoodservice.ca",
-          "Type": "URL"
-        },
-        "mondelezinternational.com": {
-          "ID": "mondelezinternational.com",
-          "Type": "URL"
-        },
-        "mondelezinternationalnutritionscience.com": {
-          "ID": "mondelezinternationalnutritionscience.com",
-          "Type": "URL"
-        },
-        "mondelezpromo.com": {
-          "ID": "mondelezpromo.com",
-          "Type": "URL"
-        },
-        "mondelezvending.com": {
-          "ID": "mondelezvending.com",
-          "Type": "URL"
-        },
-        "mwtr.com": {
-          "ID": "mwtr.com",
-          "Type": "URL"
-        },
-        "my.oreobts.com": {
-          "ID": "my.oreobts.com",
-          "Type": "URL"
-        },
-        "my.oreosea.com": {
-          "ID": "my.oreosea.com",
-          "Type": "URL"
-        },
-        "my.rssl.com": {
-          "ID": "my.rssl.com",
-          "Type": "URL"
-        },
-        "mysales.mdlz.com": {
-          "ID": "mysales.mdlz.com",
-          "Type": "URL"
-        },
-        "nillanummies.th12ty.com": {
-          "ID": "nillanummies.th12ty.com",
-          "Type": "URL"
-        },
-        "nyerjakedvenceiddel.hu": {
-          "ID": "nyerjakedvenceiddel.hu",
-          "Type": "URL"
-        },
-        "nyerjakekszekkel.hu": {
-          "ID": "nyerjakekszekkel.hu",
-          "Type": "URL"
-        },
-        "oboy.eu": {
-          "ID": "oboy.eu",
-          "Type": "URL"
-        },
-        "opavia.info": {
-          "ID": "opavia.info",
-          "Type": "URL"
-        },
-        "oplatky-kolonada.cz": {
-          "ID": "oplatky-kolonada.cz",
-          "Type": "URL"
-        },
-        "oreo-challenge.oreo.eu": {
-          "ID": "oreo-challenge.oreo.eu",
-          "Type": "URL"
-        },
-        "oreo-la.com": {
-          "ID": "oreo-la.com",
-          "Type": "URL"
-        },
-        "oreo-promo.ge": {
-          "ID": "oreo-promo.ge",
-          "Type": "URL"
-        },
-        "oreo-starwars.ca": {
-          "ID": "oreo-starwars.ca",
-          "Type": "URL"
-        },
-        "oreo.bg": {
-          "ID": "oreo.bg",
-          "Type": "URL"
-        },
-        "oreo.co.za": {
-          "ID": "oreo.co.za",
-          "Type": "URL"
-        },
-        "oreo.com": {
-          "ID": "oreo.com",
-          "Type": "URL"
-        },
-        "oreo.com.ar": {
-          "ID": "oreo.com.ar",
-          "Type": "URL"
-        },
-        "oreo.com.au": {
-          "ID": "oreo.com.au",
-          "Type": "URL"
-        },
-        "oreo.com.br": {
-          "ID": "oreo.com.br",
-          "Type": "URL"
-        },
-        "oreo.eu": {
-          "ID": "oreo.eu",
-          "Type": "URL"
-        },
-        "oreo.mx": {
-          "ID": "oreo.mx",
-          "Type": "URL"
-        },
-        "oreo.ru": {
-          "ID": "oreo.ru",
-          "Type": "URL"
-        },
-        "oreocookie.jp": {
-          "ID": "oreocookie.jp",
-          "Type": "URL"
-        },
-        "oreofun.dk": {
-          "ID": "oreofun.dk",
-          "Type": "URL"
-        },
-        "oreoplayful.ca": {
-          "ID": "oreoplayful.ca",
-          "Type": "URL"
-        },
-        "oreoplayful.com": {
-          "ID": "oreoplayful.com",
-          "Type": "URL"
-        },
-        "oreopromo.com": {
-          "ID": "oreopromo.com",
-          "Type": "URL"
-        },
-        "oreosocolapie.com": {
-          "ID": "oreosocolapie.com",
-          "Type": "URL"
-        },
-        "oreostayplayful.com": {
-          "ID": "oreostayplayful.com",
-          "Type": "URL"
-        },
-        "orosaiwa.it": {
-          "ID": "orosaiwa.it",
-          "Type": "URL"
-        },
-        "pascallpromo.co.nz": {
-          "ID": "pascallpromo.co.nz",
-          "Type": "URL"
-        },
-        "passatempo.royalcontigo.com": {
-          "ID": "passatempo.royalcontigo.com",
-          "Type": "URL"
-        },
-        "perfectsnacks.com": {
-          "ID": "perfectsnacks.com",
-          "Type": "URL"
-        },
-        "ph.oreobts.com": {
-          "ID": "ph.oreobts.com",
-          "Type": "URL"
-        },
-        "ph.oreosea.com": {
-          "ID": "ph.oreosea.com",
-          "Type": "URL"
-        },
-        "philadelphia-professional.de": {
-          "ID": "philadelphia-professional.de",
-          "Type": "URL"
-        },
-        "philadelphia-professional.it": {
-          "ID": "philadelphia-professional.it",
-          "Type": "URL"
-        },
-        "philadelphia.com.mx": {
-          "ID": "philadelphia.com.mx",
-          "Type": "URL"
-        },
-        "philadelphia.eu": {
-          "ID": "philadelphia.eu",
-          "Type": "URL"
-        },
-        "philadelphiagenuss.de": {
-          "ID": "philadelphiagenuss.de",
-          "Type": "URL"
-        },
-        "philly.com.au": {
-          "ID": "philly.com.au",
-          "Type": "URL"
-        },
-        "phonejeeto.com": {
-          "ID": "phonejeeto.com",
-          "Type": "URL"
-        },
-        "pranktheroutine.com": {
-          "ID": "pranktheroutine.com",
-          "Type": "URL"
-        },
-        "premiumcrackers.jp": {
-          "ID": "premiumcrackers.jp",
-          "Type": "URL"
-        },
-        "prepararoyal.com": {
-          "ID": "prepararoyal.com",
-          "Type": "URL"
-        },
-        "princepolo.pl": {
-          "ID": "princepolo.pl",
-          "Type": "URL"
-        },
-        "privacy.mondelezinternational.com": {
-          "ID": "privacy.mondelezinternational.com",
-          "Type": "URL"
-        },
-        "promo.7days.com": {
-          "ID": "promo.7days.com",
-          "Type": "URL"
-        },
-        "promo.milka.com": {
-          "ID": "promo.milka.com",
-          "Type": "URL"
-        },
-        "promo.royalcontigo.com": {
-          "ID": "promo.royalcontigo.com",
-          "Type": "URL"
-        },
-        "promocaoondadepremios.com.br": {
-          "ID": "promocaoondadepremios.com.br",
-          "Type": "URL"
-        },
-        "promocja7days.pl": {
-          "ID": "promocja7days.pl",
-          "Type": "URL"
-        },
-        "promocjamilka.pl": {
-          "ID": "promocjamilka.pl",
-          "Type": "URL"
-        },
-        "promocjaoreo.pl": {
-          "ID": "promocjaoreo.pl",
-          "Type": "URL"
-        },
-        "promofield.pe": {
-          "ID": "promofield.pe",
-          "Type": "URL"
-        },
-        "promoritz.com": {
-          "ID": "promoritz.com",
-          "Type": "URL"
-        },
-        "promotrident.com": {
-          "ID": "promotrident.com",
-          "Type": "URL"
-        },
-        "recaldent-gum.com": {
-          "ID": "recaldent-gum.com",
-          "Type": "URL"
-        },
-        "recept.marabou.se": {
-          "ID": "recept.marabou.se",
-          "Type": "URL"
-        },
-        "recruiting.mdlz.com": {
-          "ID": "recruiting.mdlz.com",
-          "Type": "URL"
-        },
-        "ritzcrackers.jp": {
-          "ID": "ritzcrackers.jp",
-          "Type": "URL"
-        },
-        "ritzshrimp.com": {
-          "ID": "ritzshrimp.com",
-          "Type": "URL"
-        },
-        "royalbakingpowder.co.za": {
-          "ID": "royalbakingpowder.co.za",
-          "Type": "URL"
-        },
-        "royalcontigo.com": {
-          "ID": "royalcontigo.com",
-          "Type": "URL"
-        },
-        "rssl.com": {
-          "ID": "rssl.com",
-          "Type": "URL"
-        },
-        "schokolade.at": {
-          "ID": "schokolade.at",
-          "Type": "URL"
-        },
-        "scoresnackgoals.com": {
-          "ID": "scoresnackgoals.com",
-          "Type": "URL"
-        },
-        "sea.oreobts.com": {
-          "ID": "sea.oreobts.com",
-          "Type": "URL"
-        },
-        "semester.marabou.se": {
-          "ID": "semester.marabou.se",
-          "Type": "URL"
-        },
-        "servicesalimentairesmondelezcanada.ca": {
-          "ID": "servicesalimentairesmondelezcanada.ca",
-          "Type": "URL"
-        },
-        "sg.oreobts.com": {
-          "ID": "sg.oreobts.com",
-          "Type": "URL"
-        },
-        "sg.oreosea.com": {
-          "ID": "sg.oreosea.com",
-          "Type": "URL"
-        },
-        "sharecadbury.ca": {
-          "ID": "sharecadbury.ca",
-          "Type": "URL"
-        },
-        "shop.oreo.com": {
-          "ID": "shop.oreo.com",
-          "Type": "URL"
-        },
-        "sjokoladehus.no": {
-          "ID": "sjokoladehus.no",
-          "Type": "URL"
-        },
-        "sklepoweszukajki.pl": {
-          "ID": "sklepoweszukajki.pl",
-          "Type": "URL"
-        },
-        "smagenafguld.marabou.dk": {
-          "ID": "smagenafguld.marabou.dk",
-          "Type": "URL"
-        },
-        "smartlabel.mondelez.info": {
-          "ID": "smartlabel.mondelez.info",
-          "Type": "URL"
-        },
-        "smukfest.marabou.dk": {
-          "ID": "smukfest.marabou.dk",
-          "Type": "URL"
-        },
-        "snackbites.in": {
-          "ID": "snackbites.in",
-          "Type": "URL"
-        },
-        "snackdisplay.co.uk": {
-          "ID": "snackdisplay.co.uk",
-          "Type": "URL"
-        },
-        "snackfest.ro": {
-          "ID": "snackfest.ro",
-          "Type": "URL"
-        },
-        "snackfutures.com": {
-          "ID": "snackfutures.com",
-          "Type": "URL"
-        },
-        "snackingright.com": {
-          "ID": "snackingright.com",
-          "Type": "URL"
-        },
-        "snackingright.com.au": {
-          "ID": "snackingright.com.au",
-          "Type": "URL"
-        },
-        "snackmindful.com": {
-          "ID": "snackmindful.com",
-          "Type": "URL"
-        },
-        "snackworks.ca": {
-          "ID": "snackworks.ca",
-          "Type": "URL"
-        },
-        "snackworks.com": {
-          "ID": "snackworks.com",
-          "Type": "URL"
-        },
-        "snackworks.th12ty.com": {
-          "ID": "snackworks.th12ty.com",
-          "Type": "URL"
-        },
-        "solucionesmondelez.com": {
-          "ID": "solucionesmondelez.com",
-          "Type": "URL"
-        },
-        "sottilette.it": {
-          "ID": "sottilette.it",
-          "Type": "URL"
-        },
-        "sourpatchkids.com.au": {
-          "ID": "sourpatchkids.com.au",
-          "Type": "URL"
-        },
-        "soutenezvotreassociation.be": {
-          "ID": "soutenezvotreassociation.be",
-          "Type": "URL"
-        },
-        "soutez-opavia.cz": {
-          "ID": "soutez-opavia.cz",
-          "Type": "URL"
-        },
-        "spar.nyerjakedvenceiddel.hu": {
-          "ID": "spar.nyerjakedvenceiddel.hu",
-          "Type": "URL"
-        },
-        "spkwatermelonslurpee.th12ty.com": {
-          "ID": "spkwatermelonslurpee.th12ty.com",
-          "Type": "URL"
-        },
-        "sportszelet.hu": {
-          "ID": "sportszelet.hu",
-          "Type": "URL"
-        },
-        "sportszeletjoenergiak.hu": {
-          "ID": "sportszeletjoenergiak.hu",
-          "Type": "URL"
-        },
-        "steunjouwvereniging.be": {
-          "ID": "steunjouwvereniging.be",
-          "Type": "URL"
-        },
-        "suchard.bg": {
-          "ID": "suchard.bg",
-          "Type": "URL"
-        },
-        "suchard.es": {
-          "ID": "suchard.es",
-          "Type": "URL"
-        },
-        "suporter-tuc.ro": {
-          "ID": "suporter-tuc.ro",
-          "Type": "URL"
-        },
-        "sutaz-opavia.sk": {
-          "ID": "sutaz-opavia.sk",
-          "Type": "URL"
-        },
-        "tayyarijeetki.in": {
-          "ID": "tayyarijeetki.in",
-          "Type": "URL"
-        },
-        "th.oreobts.com": {
-          "ID": "th.oreobts.com",
-          "Type": "URL"
-        },
-        "th.oreosea.com": {
-          "ID": "th.oreosea.com",
-          "Type": "URL"
-        },
-        "thebournvitaquiz.in": {
-          "ID": "thebournvitaquiz.in",
-          "Type": "URL"
-        },
-        "thelunchbarman.co.za": {
-          "ID": "thelunchbarman.co.za",
-          "Type": "URL"
-        },
-        "ticketing.cadburyfc.com": {
-          "ID": "ticketing.cadburyfc.com",
-          "Type": "URL"
-        },
-        "tiendamondelez.com.co": {
-          "ID": "tiendamondelez.com.co",
-          "Type": "URL"
-        },
-        "tiendamondelez.com.ec": {
-          "ID": "tiendamondelez.com.ec",
-          "Type": "URL"
-        },
-        "tiendamondelez.com.pe": {
-          "ID": "tiendamondelez.com.pe",
-          "Type": "URL"
-        },
-        "tiendamondelez.com.uy": {
-          "ID": "tiendamondelez.com.uy",
-          "Type": "URL"
-        },
-        "tiendamondelez.cr": {
-          "ID": "tiendamondelez.cr",
-          "Type": "URL"
-        },
-        "tiendamondelez.es": {
-          "ID": "tiendamondelez.es",
-          "Type": "URL"
-        },
-        "timeoutz4snacks.com": {
-          "ID": "timeoutz4snacks.com",
-          "Type": "URL"
-        },
-        "tncc.com.au": {
-          "ID": "tncc.com.au",
-          "Type": "URL"
-        },
-        "toblerone.ch": {
-          "ID": "toblerone.ch",
-          "Type": "URL"
-        },
-        "toblerone.com": {
-          "ID": "toblerone.com",
-          "Type": "URL"
-        },
-        "tobleronearabia.com": {
-          "ID": "tobleronearabia.com",
-          "Type": "URL"
-        },
-        "tridentbr.com.br": {
-          "ID": "tridentbr.com.br",
-          "Type": "URL"
-        },
-        "tuc.eu": {
-          "ID": "tuc.eu",
-          "Type": "URL"
-        },
-        "tuc.fun": {
-          "ID": "tuc.fun",
-          "Type": "URL"
-        },
-        "tucjuhla.fi": {
-          "ID": "tucjuhla.fi",
-          "Type": "URL"
-        },
-        "tuckesa.fi": {
-          "ID": "tuckesa.fi",
-          "Type": "URL"
-        },
-        "tuctime.it": {
-          "ID": "tuctime.it",
-          "Type": "URL"
-        },
-        "tw.oreobts.com": {
-          "ID": "tw.oreobts.com",
-          "Type": "URL"
-        },
-        "tw.oreosea.com": {
-          "ID": "tw.oreosea.com",
-          "Type": "URL"
-        },
-        "twistandmake.com": {
-          "ID": "twistandmake.com",
-          "Type": "URL"
-        },
-        "us.oreobts.com": {
-          "ID": "us.oreobts.com",
-          "Type": "URL"
-        },
-        "vincialexdelpiero.it": {
-          "ID": "vincialexdelpiero.it",
-          "Type": "URL"
-        },
-        "vincicoppaitalia.it": {
-          "ID": "vincicoppaitalia.it",
-          "Type": "URL"
-        },
-        "vincigrenade.it": {
-          "ID": "vincigrenade.it",
-          "Type": "URL"
-        },
-        "vincilight.philadelphia.it": {
-          "ID": "vincilight.philadelphia.it",
-          "Type": "URL"
-        },
-        "virtualhiringassistant.mondelezinternational.com": {
-          "ID": "virtualhiringassistant.mondelezinternational.com",
-          "Type": "URL"
-        },
-        "vn.oreobts.com": {
-          "ID": "vn.oreobts.com",
-          "Type": "URL"
-        },
-        "vn.oreosea.com": {
-          "ID": "vn.oreosea.com",
-          "Type": "URL"
-        },
-        "vyhrajschuti.cz": {
-          "ID": "vyhrajschuti.cz",
-          "Type": "URL"
-        },
-        "vyhrajschutou.sk": {
-          "ID": "vyhrajschutou.sk",
-          "Type": "URL"
-        },
-        "webform.philadelphia.com.mx": {
-          "ID": "webform.philadelphia.com.mx",
-          "Type": "URL"
-        },
-        "win-tuc.cz": {
-          "ID": "win-tuc.cz",
-          "Type": "URL"
-        },
-        "win-tuc.sk": {
-          "ID": "win-tuc.sk",
-          "Type": "URL"
-        },
-        "win.cadbury.co.uk": {
-          "ID": "win.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "winforyoursquad.cadbury.co.uk": {
-          "ID": "winforyoursquad.cadbury.co.uk",
-          "Type": "URL"
-        },
-        "winforyoursquad.cadbury.ie": {
-          "ID": "winforyoursquad.cadbury.ie",
-          "Type": "URL"
-        },
-        "winwithphilly.com": {
-          "ID": "winwithphilly.com",
-          "Type": "URL"
-        },
-        "winwithphilly.dk": {
-          "ID": "winwithphilly.dk",
-          "Type": "URL"
-        },
-        "winwithphilly.no": {
-          "ID": "winwithphilly.no",
-          "Type": "URL"
-        },
-        "www.cadbury.com.au": {
-          "ID": "www.cadbury.com.au",
-          "Type": "URL"
-        },
-        "www.clifbar.ca": {
-          "ID": "www.clifbar.ca",
-          "Type": "URL"
-        },
-        "www.clifbar.com.au": {
-          "ID": "www.clifbar.com.au",
-          "Type": "URL"
-        },
-        "www.enjoylifefoods.com": {
-          "ID": "www.enjoylifefoods.com",
-          "Type": "URL"
-        },
-        "www.lusingingpacks.be": {
-          "ID": "www.lusingingpacks.be",
-          "Type": "URL"
-        },
-        "www.milka-sakisveiks.lv": {
-          "ID": "www.milka-sakisveiks.lv",
-          "Type": "URL"
-        },
-        "www.oreo.com": {
-          "ID": "www.oreo.com",
-          "Type": "URL"
-        },
-        "www.oreofun.se": {
-          "ID": "www.oreofun.se",
-          "Type": "URL"
-        },
-        "www.promocaomisturaquecombina.com.br": {
-          "ID": "www.promocaomisturaquecombina.com.br",
-          "Type": "URL"
-        },
-        "www.saltinesoffer.com": {
-          "ID": "www.saltinesoffer.com",
-          "Type": "URL"
-        },
-        "www.snack7days.com": {
-          "ID": "www.snack7days.com",
-          "Type": "URL"
-        },
-        "www.snackmindful.com": {
-          "ID": "www.snackmindful.com",
-          "Type": "URL"
-        },
-        "www.winwithphilly.fi": {
-          "ID": "www.winwithphilly.fi",
-          "Type": "URL"
-        },
-        "www.winwithphilly.no": {
-          "ID": "www.winwithphilly.no",
-          "Type": "URL"
-        },
-        "www.winwithphilly.se": {
-          "ID": "www.winwithphilly.se",
-          "Type": "URL"
-        },
-        "xn--80abwto.xn--p1ai": {
-          "ID": "xn--80abwto.xn--p1ai",
-          "Type": "URL"
-        },
-        "xn--90aiefdldtba7bg.xn--p1ai": {
-          "ID": "xn--90aiefdldtba7bg.xn--p1ai",
-          "Type": "URL"
-        },
-        "xn--glcksrad-75a.milka.at": {
-          "ID": "xn--glcksrad-75a.milka.at",
-          "Type": "URL"
-        },
-        "ygeiaspavlides.gr": {
-          "ID": "ygeiaspavlides.gr",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {
-        "Leaked Credentials": {
-          "ID": "Leaked Credentials",
-          "Type": "OTHER"
-        },
-        "bot.cadburygifting.in": {
-          "ID": "bot.cadburygifting.in",
-          "Type": "URL"
-        },
-        "https://cadburygifting.in": {
-          "ID": "https://cadburygifting.in",
-          "Type": "URL"
-        },
-        "www.cadburygifting.in": {
-          "ID": "www.cadburygifting.in",
-          "Type": "URL"
-        }
-      },
-      "Hash": "f7d1a4fd6be22904cb7f1b451fd0ec7111ef7a507cd1b7e7bc6027173bf97b27"
     },
     "h1:monero": {
       "Key": "monero",
@@ -172150,7 +170760,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "422aa5da53a7d49654a8eb67e0ad5e438961a2e49ff83e099fd77c1088c0987d"
+      "Hash": "c6efa9c2006386af6fc189cd384cf6ab3606824f13ab897b59cf672f8e9c102b"
     },
     "h1:moov": {
       "Key": "moov",
@@ -172309,7 +170919,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cc3fd2b610217901c74cb3bef64fef16880359bb052eab81d8d12638c35b0a8a"
+      "Hash": "d1bd571cb3845a57d0402fba25bcd92cde072a577f5cc1a3bb80ceff0c7c19cd"
     },
     "h1:msci": {
       "Key": "msci",
@@ -177185,7 +175795,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0a93c67b960647f28e31ef2b92ed6ef2be7ef654e952677c5b0b1891c4416c8e"
+      "Hash": "4ee1d39f2940cde1f505751e843b52a09aa6752769c00486cfd2839bb3832a5b"
     },
     "h1:nintendo": {
       "Key": "nintendo",
@@ -177314,7 +175924,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f9d9d28f4522935385a5c810e50793267e1cf798a52db1bd235c4abd9d456870"
+      "Hash": "341ee3259205f8864cd59ad3d78dd92c54ab0fe5c15cf45c9e05e9809b730e40"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -177758,7 +176368,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "31cfa1816ef1489a28b6be5b38f2e1dfb3e3a8b72654680dde8d15563f25fecd"
+      "Hash": "a4d9532add0b5e1fb929c73a11aa6d7f76d5980b3a22356ede363fd00907135b"
     },
     "h1:openmage": {
       "Key": "openmage",
@@ -178800,7 +177410,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "14480c9bae8bb2fa882beeb890e8310a718e7e04c1c038295324ced15c1db528"
+      "Hash": "054a178605f6571e92a6a6013dc0dc01b877928a34788218547eae82d8468eb7"
     },
     "h1:owox": {
       "Key": "owox",
@@ -180764,7 +179374,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0ae302165b99686681544a84b31e6a8e355473efd3aaaf59d5f179447ca79abe"
+      "Hash": "f0dddf7ba089202734aa18aee891e9d26496d5e6a1742f46fdabc0ff968dc942"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -180821,7 +179431,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "92ee6004be66872f6b042c9b385206103935ab5dfb17791d91608a4a9d3012d9"
+      "Hash": "7da03e148a73aea689e913d6b8dab5b23c7e9900aa1766fc8a616d1760178398"
     },
     "h1:planet-labs": {
       "Key": "planet-labs",
@@ -181286,7 +179896,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "d8ccae9b0957c8ae12a86f7a4b645b90e0afaac2e136e2dc25d561995c299d6c"
+      "Hash": "528b776e2e21b7dbc4150d84bf05ce32e6def02f15601abefb22dce447e46aa4"
     },
     "h1:pornbox": {
       "Key": "pornbox",
@@ -181984,7 +180594,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d854fd8de34c82bd573586f907f249d7e457742aeb18399b3938511312e51b4b"
+      "Hash": "1fab8ad807fcb49c653b18e8fa79837faa3912c7a1989f2440356ec8d4b9ddcb"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -182180,7 +180790,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cd7e6db7780ca4bed5aebb833130d4c5df7a319d4cba6d17db5b96173eb71c36"
+      "Hash": "200d6e230e3e6957e3a9375c7902f20765500fb3fffa9ef3ea2499fda527199f"
     },
     "h1:redis-vdp": {
       "Key": "redis-vdp",
@@ -183270,7 +181880,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2b2e627d035206c6f0dbf440b24468f94c0e0d6cb74da3ecc28a8744c406ed97"
+      "Hash": "c8a284070a24dfafb0bc6419d45f9c714e3b53457d573a457295d4180488b969"
     },
     "h1:ring": {
       "Key": "ring",
@@ -183917,7 +182527,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f116ea41e87048ad7e7f4a088b9bcd11df459d0511811c33ac6ec547a0078f15"
+      "Hash": "8fff4dab1fe891ccbe1176e6c140c9d6c029f4d097934556011104aecf8d2a53"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -184219,7 +182829,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6790577171baa240100f5a758fe691eb1693f43f9ea281df5d5fffff15c498af"
+      "Hash": "c2c48ac5971f7a042fb0e5079a094abaffe10713706f4da2072c21a93000bc7a"
     },
     "h1:roblox": {
       "Key": "roblox",
@@ -184261,7 +182871,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d3eacdf2b6b2f3904b0e99a4b6a211dc0c3fe596cccb5105792d7975c5afd0c7"
+      "Hash": "753a3135b24148b1236af045f24cf50f56fbd025f2105c874be497aba2559bbc"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -184411,7 +183021,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "61545fd25f391c80429685eb524da716a96b28d500a29be237ab7e9ee9015855"
+      "Hash": "d37976bb0619e857b109190e61421ec8b4c698c76d35d6204c207dbd3a4142f1"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
@@ -184594,7 +183204,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2f14738ca4491c067e4aee447980c4f8357e4c16661ec31957270e81b0f8abda"
+      "Hash": "962f7854d2dd73227f742e059c8e87fe80c6e1a8d1c11f4d209f41e601381e5b"
     },
     "h1:sega": {
       "Key": "sega",
@@ -184764,7 +183374,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1a05eaf0890ca4fe46ee7ff542d6738efe01cddb8fdcc847c3a5b2941692d1f9"
+      "Hash": "4e2709ee7479b316ff0eaea2725eedbcd1d085c7f150545c14967627583a7bb7"
     },
     "h1:shein": {
       "Key": "shein",
@@ -184801,7 +183411,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b74d74f405dff443ad54325fbbad6d429f3c3e41b9c46858e0bb8cde2bbf5af0"
+      "Hash": "5b7a04fd3f658c13b3259aabb4670e21643831d2464642dbf56b778d8ba6192c"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -185093,7 +183703,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "b573fc2edb7461f806540178808ab19410d9a4552899b588f6dd0a21d9a9a657"
+      "Hash": "4a445bb90a9232cce730c677b604b172cf3561223cd0b6736c92c02c2f856527"
     },
     "h1:sidefx": {
       "Key": "sidefx",
@@ -185867,7 +184477,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "83f5b74137110e383e696cb4b05d75e572357ba416e0bab783d50c878d6b6664"
+      "Hash": "4808396dc123852df36d7d13142569b3dc355313cc4a17182df5a29a8c4493d3"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -186098,7 +184708,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2f5be02533ac546f431a4ca9439ba97ccf7c7708fe2dabf0145c445685176a63"
+      "Hash": "4f8ac3d8dcc3e5633ef484c95f3e1db4ed5bab84cb4ae1583e155d0964d1f02e"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -186384,7 +184994,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a909e31f30336d3d452ee6d879d741d92fac6e6ba8ed1fbce863be7839c4c55f"
+      "Hash": "2a34c81d91353a631dbc3cf65a06b58c592e63039731898e32070f430e2fb183"
     },
     "h1:stripe": {
       "Key": "stripe",
@@ -186614,7 +185224,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "95c3f1faee3f09d9ac633005a6f6cfb37393a5d065f34decbb96897db7fd8c87"
+      "Hash": "895888acb26586954443540e057e8b5b5329b8d3af5cd2de13e3308d9d16b172"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -186631,7 +185241,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b037b96c71a30dc6c583fc8d7f323c81a415cb44a34c26fe26e0be4c9f79b414"
+      "Hash": "324860b9eb929749fe9b9092d41b114cd03ad5bc8037077451693b817ebb0cdb"
     },
     "h1:supabase": {
       "Key": "supabase",
@@ -186713,7 +185323,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "058f3c43c01522ce587e3e2cae21b37054987825d75cdfbcf3b58ac134671ec6"
+      "Hash": "d82d8755ebf3f508d19d364aef4fce80f6b877edf14a7a87393c1ae8f1b86cb2"
     },
     "h1:superbet": {
       "Key": "superbet",
@@ -186891,7 +185501,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3e5d4d160669b46edf38877cbf810b91b574d79ad62a7828a397aae7f4f4fb40"
+      "Hash": "a836ef57c59c4cc6a711209662cf78cd64667803e8a53a7774c1e7ffe27238f5"
     },
     "h1:superhuman": {
       "Key": "superhuman",
@@ -187332,7 +185942,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9778b7897dd5ebe85c96a03eb0ac1f108a8ef6829bea3ad62d0d038d1ba2d718"
+      "Hash": "39ebc88fc9dc38b1ff3cfd95192fd017eae7a5f72e94db712433e3a3cd392cc1"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -188034,7 +186644,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7feae35be2cafcbd4c92a927a098a9632758583cc583fb8a0f04bf487edbf585"
+      "Hash": "783a89839d066dedd874a354c332a10698098f2c4e059f7d0367c04b3f213070"
     },
     "h1:top_echelon_software": {
       "Key": "top_echelon_software",
@@ -188783,7 +187393,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "29589ceb6246f568b04d2d6bf492216173b7c2c7d8f08a003151f64d40cd8d2f"
+      "Hash": "a657815e22b211f0638c0cf4849585dcc97558d234adf2f53ea82044166a6b9f"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -188869,7 +187479,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9906dd86458808f50e38664110798d0bc55d2a07ef1f649c8d558257d6deb0c5"
+      "Hash": "954532d86e34db3fa635dcebcb11504e611f1674d1395a078c0492928c0da1c8"
     },
     "h1:trip_com": {
       "Key": "trip_com",
@@ -188963,7 +187573,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "0a5dd623eca8d27e046a7e07fafaf6537cdc37c2c4e236414a6dae003ce97186"
+      "Hash": "4f3ccf9ce7ba67a0d5809d19917b3ec702e99066d067d01375d17f3540a5bd52"
     },
     "h1:tron_dao": {
       "Key": "tron_dao",
@@ -190222,7 +188832,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dc2a8df8d93d7e60045bbc53a989e62f88353bc3ff322423915960792ba20d09"
+      "Hash": "1ab8fc4ac96c71d12811906f5c6f9d850ff8614dc8f46c033ae37d09f202f7f4"
     },
     "h1:usps": {
       "Key": "usps",
@@ -191364,7 +189974,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1fa739a8e5d97b2b360d1cf13fc2c2ca17546de3eff5a3d2550a48c544a895a8"
+      "Hash": "7df3d53effb16797a63b14b66bd6ca43972e33fc8a48f8187ef709deda8cdb8b"
     },
     "h1:visa": {
       "Key": "visa",
@@ -192307,7 +190917,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "709f979bbf614e3d7c3c289f4725959e92c5eabc842ee9b5fb7845628b6253f1"
+      "Hash": "58081619e851ac9f6a1df2463eb31307e7c52ee80bfb79cdb2abc8dd46d64dce"
     },
     "h1:vueling_vdp": {
       "Key": "vueling_vdp",
@@ -192467,7 +191077,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0cd7faa8ffe5c15a7c4dbedb56e6854749d45ae7256ebe6c37b2af69e2a8531c"
+      "Hash": "324df5e0f052217f67be6c2b08c3c0fc010d6f831fbee762e5e35bcf24eaca36"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -192925,7 +191535,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8a4a0e9e7dec497bed8fb9ece0f2be4644a366d6c0801e7327f457e6f5aa6118"
+      "Hash": "a6b0220e1d5fb3d902f77a8693bdaadc02b725b9b28494f692e34638bb1e1fd7"
     },
     "h1:worklytics": {
       "Key": "worklytics",
@@ -193326,7 +191936,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "05b0bbef4bd54e19745a3f2f61f783ec5b776c4bff8926a5ac5bd45ed7fa4b31"
+      "Hash": "e54f1766540d488ac5e758f2c5ba3c3c4d695251596b574b192a278b836d1b9e"
     },
     "h1:xvideos": {
       "Key": "xvideos",
@@ -193529,7 +192139,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b61e840887b507ebf00166cfe14ea4b6a8f7367a5f6e4e918c1cf8faf3519a2b"
+      "Hash": "cee5ef6c294fe47cd51cfb89f38e19ff28794cc25e03331c39d463173fdab944"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -194025,7 +192635,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9f041c3d59060a8898e3807c1e904875b1b5caa09d754c84ab4691de903ee806"
+      "Hash": "aaef7a5d423440a36d7d4d84641fa5f04b783c4276eee8bd084244c14855de81"
     },
     "h1:zurich-insurance": {
       "Key": "zurich-insurance",
@@ -199585,6 +198195,19 @@
       "OutScope": {},
       "Hash": "dbdf70b0dfa7c30d9d6adca3258e54d6de84a21a51f5eab4c20cd6c315afc790"
     },
+    "in:a880a8c4-d7e7-4166-9c2b-5ae5925ee4d7": {
+      "Key": "a880a8c4-d7e7-4166-9c2b-5ae5925ee4d7",
+      "Name": "Challenge 0726",
+      "URL": "https://www.intigriti.com/programs/intigriti/challenge0726/detail",
+      "InScope": {
+        "https://challenge-0726.intigriti.io": {
+          "ID": "https://challenge-0726.intigriti.io",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "e935b614e9c46a458f5adf01b86ee1526aa67d1ef9b67712cb6a4090717a1c03"
+    },
     "in:ad2bd496-536c-4c24-b885-ce01d66966b9": {
       "Key": "ad2bd496-536c-4c24-b885-ce01d66966b9",
       "Name": "Marionnaud",
@@ -200958,6 +199581,91 @@
       "OutScope": {},
       "Hash": "d51e28caf92f8c6c953939c67294e1936e2bd977e27ea4a199455d913ed0ac4d"
     },
+    "in:d14eedce-607d-4233-995d-30dbc7de8f23": {
+      "Key": "d14eedce-607d-4233-995d-30dbc7de8f23",
+      "Name": "Delen Private Bank",
+      "URL": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+      "InScope": {
+        "api.digital.delen.be ": {
+          "ID": "api.digital.delen.be ",
+          "Type": "url"
+        },
+        "api.digital.delen.lu ": {
+          "ID": "api.digital.delen.lu ",
+          "Type": "url"
+        },
+        "app.delen.be ": {
+          "ID": "app.delen.be ",
+          "Type": "url"
+        },
+        "app.delen.ch ": {
+          "ID": "app.delen.ch ",
+          "Type": "url"
+        },
+        "app.delen.lu ": {
+          "ID": "app.delen.lu ",
+          "Type": "url"
+        },
+        "auth.digital.delen.be ": {
+          "ID": "auth.digital.delen.be ",
+          "Type": "url"
+        },
+        "auth.digital.delen.lu ": {
+          "ID": "auth.digital.delen.lu ",
+          "Type": "url"
+        },
+        "be.delen.digital": {
+          "ID": "be.delen.digital",
+          "Type": "android"
+        },
+        "delen/id1064839588": {
+          "ID": "delen/id1064839588",
+          "Type": "ios"
+        },
+        "login.delen.be ": {
+          "ID": "login.delen.be ",
+          "Type": "url"
+        },
+        "login.delen.ch ": {
+          "ID": "login.delen.ch ",
+          "Type": "url"
+        },
+        "login.delen.lu ": {
+          "ID": "login.delen.lu ",
+          "Type": "url"
+        },
+        "login.oyens.com": {
+          "ID": "login.oyens.com",
+          "Type": "url"
+        },
+        "status.delen.be ": {
+          "ID": "status.delen.be ",
+          "Type": "url"
+        },
+        "sts.delen.be ": {
+          "ID": "sts.delen.be ",
+          "Type": "url"
+        },
+        "www.cadelam.be ": {
+          "ID": "www.cadelam.be ",
+          "Type": "url"
+        },
+        "www.cadelux.lu/en ": {
+          "ID": "www.cadelux.lu/en ",
+          "Type": "url"
+        },
+        "www.delen.bank": {
+          "ID": "www.delen.bank",
+          "Type": "url"
+        },
+        "www.delen.be/en ": {
+          "ID": "www.delen.be/en ",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "154ce7ce544b3f1aec1c65b86b296e68552b0fa2f18107510971315829e075db"
+    },
     "in:d489d81f-6b42-4ef1-b7f8-f16d9b404621": {
       "Key": "d489d81f-6b42-4ef1-b7f8-f16d9b404621",
       "Name": "Nexuzhealth VDP",
@@ -201722,76 +200430,6 @@
         }
       },
       "Hash": "90f86e1b39cb5974d6aef87ba5f9638e571c0a6aa6a672c2d587164434c32449"
-    },
-    "in:ea1c246f-7818-4703-b208-9e86e1bd8554": {
-      "Key": "ea1c246f-7818-4703-b208-9e86e1bd8554",
-      "Name": "Wolt",
-      "URL": "https://www.intigriti.com/programs/wolt/wolt/detail",
-      "InScope": {
-        "*.wolt.com": {
-          "ID": "*.wolt.com",
-          "Type": "wildcard"
-        },
-        "Wolt Courier Partner": {
-          "ID": "Wolt Courier Partner",
-          "Type": "android"
-        },
-        "Wolt Delivery: Food and more": {
-          "ID": "Wolt Delivery: Food and more",
-          "Type": "android"
-        },
-        "authentication.wolt.com": {
-          "ID": "authentication.wolt.com",
-          "Type": "url"
-        },
-        "corporate.wolt.com": {
-          "ID": "corporate.wolt.com",
-          "Type": "url"
-        },
-        "drive.wolt.com": {
-          "ID": "drive.wolt.com",
-          "Type": "url"
-        },
-        "merchant.wolt.com": {
-          "ID": "merchant.wolt.com",
-          "Type": "url"
-        },
-        "ops.wolt.com": {
-          "ID": "ops.wolt.com",
-          "Type": "url"
-        },
-        "restaurant-api.wolt.com": {
-          "ID": "restaurant-api.wolt.com",
-          "Type": "url"
-        },
-        "wolt.com": {
-          "ID": "wolt.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "blog.wolt.com": {
-          "ID": "blog.wolt.com",
-          "Type": "url"
-        },
-        "gettest.wolt.com": {
-          "ID": "gettest.wolt.com",
-          "Type": "url"
-        },
-        "links.wolt.com": {
-          "ID": "links.wolt.com",
-          "Type": "url"
-        },
-        "press.wolt.com": {
-          "ID": "press.wolt.com",
-          "Type": "url"
-        },
-        "wolt.atlassian.net": {
-          "ID": "wolt.atlassian.net",
-          "Type": "url"
-        }
-      },
-      "Hash": "970842089e17e0d7c18ed44878c9db578dc50fe3ae8d5027f092406291a45b63"
     },
     "in:eb340a46-b5b8-4165-b8d8-bc032493e8a6": {
       "Key": "eb340a46-b5b8-4165-b8d8-bc032493e8a6",
