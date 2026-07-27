@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-27T16:32:00Z",
+  "captured_at": "2026-07-27T18:10:23Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -17676,7 +17676,7 @@
           "Type": "website"
         }
       },
-      "Hash": "0c149188cc3d30ba6f5996e5e4fc1ee99d07b7ebbddfaf34d09bd96d248f63ae"
+      "Hash": "f3378bc9bf938c7716a1fe4b89e3fe28447dd53933db3182b7d67675c167c77d"
     },
     "bc:oDesk ": {
       "Key": "oDesk ",
@@ -17836,7 +17836,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3c43a9f9190f5617a8b49a2b42b9a12c4f4a1a0487f9dd81156a13b436179c41"
+      "Hash": "2477ec53607a80479af41f8f625b78778f5a5372d9a3c54e8869f6f5556569a4"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -25464,7 +25464,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "029cab20fed1e57dbbb8fdaa34ad278f9892d290d3e83e7af62f4d7746ea4527"
+      "Hash": "aad5fd259a92c3500f870dcefaf47c8918950af695eee41f9cd0ca13193f3384"
     },
     "h1:amazonvrp": {
       "Key": "amazonvrp",
@@ -31120,6 +31120,35 @@
       },
       "OutScope": {},
       "Hash": "6b2067167e53c082dad1577da11a2f76338edd489a18742a5bcd82183e7c0913"
+    },
+    "h1:brave": {
+      "Key": "brave",
+      "Name": "Brave Software",
+      "URL": "https://hackerone.com/brave",
+      "InScope": {
+        "Brave Browser Desktop": {
+          "ID": "Brave Browser Desktop",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "Brave websites": {
+          "ID": "Brave websites",
+          "Type": "OTHER"
+        },
+        "com.brave.browser": {
+          "ID": "com.brave.browser",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.brave.ios.browser": {
+          "ID": "com.brave.ios.browser",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://github.com/brave/*, https://github.com/brave-intl/*": {
+          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {},
+      "Hash": "9126974fa179d2cc83be91a25ce3e9af92e301689820d5850dacf7ea33e4bb8e"
     },
     "h1:braze_inc": {
       "Key": "braze_inc",
@@ -95246,7 +95275,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1009cc11480570435c9b769024dafa98bafc410c2d2562815822392358c49560"
+      "Hash": "29c7251d3e169cfbcc3af82bd240160e6b0d9f36ea2d5a2e8c133dcfad170eba"
     },
     "h1:disney": {
       "Key": "disney",
@@ -144178,7 +144207,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0b3cdc63032df1fae4292c1afaab214164455468edd5cf93f2db085c0c21519e"
+      "Hash": "3e4f3dd82fc6ee85e06c3588254bf0e445e9c348bd97896d9c1d7e7ad014d605"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -147797,7 +147826,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "355515b91ea8ca203e62cc41ac9084ed3db3de183a50bb26f7b58011c25f4688"
+      "Hash": "5ebaee123420ff5f39fcb84694efffd2bcfb8aa35e06823447bb38de9d0c5dd6"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -148713,7 +148742,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "09a8498c2af209301af5306bbcc576ddbf8195bcc1211870dc9041d85ca4c80f"
+      "Hash": "bb24956cbf487490a9cfd1361251ef22d45c2b600fac4453156cb619b5448f73"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -150034,7 +150063,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "49e9acc10bc50b937bd44af1896b33447aae0fa1b7d8dcd93e92cccd11ba2a22"
+      "Hash": "addbaca15e1a95f9b06fc13f28a69d5af7845c298e6c85c0b22c0ff88cb6a126"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -166333,7 +166362,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "511ddea610cccb912b7d6526d75a4b5722f6928616583bd2972b2d16a989d593"
+      "Hash": "f8bc7aac79fb0f6b82c188072aa624d6a2a1651629f78cee24ffbaa7bae617fe"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -179017,7 +179046,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "094a92f265938cea34b0a23b6eb27bcd8beea055ebb290b85b548c821d001300"
+      "Hash": "17b46b41b99e774b86f2513288d469f211ff293950553e7424162c9b0087b68c"
     },
     "h1:phpbb": {
       "Key": "phpbb",
@@ -180851,7 +180880,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "714ed8359f70346bda3fcaa1ee6494eff2ef1b4d46c6f79cc4edd0decb489151"
+      "Hash": "020011f85ac3c65fb6bd82a0369d250bb040769f5344eefd33791b65292d304e"
     },
     "h1:regions_financial": {
       "Key": "regions_financial",
@@ -182477,7 +182506,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8fff4dab1fe891ccbe1176e6c140c9d6c029f4d097934556011104aecf8d2a53"
+      "Hash": "d4aff092bf0112abf503343a269d986029dc921116265a652b2a13210f676b8a"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -183666,7 +183695,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "34aee335346eb95f9789bf6b86f682e3cefcd08c25e80517d2c5328e75569989"
+      "Hash": "9d238dfd8b6bf093f767a9574b60ca13233f6b9c9bd4e29cea2a2c462f7509d3"
     },
     "h1:simple_poll": {
       "Key": "simple_poll",
@@ -184427,7 +184456,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "4808396dc123852df36d7d13142569b3dc355313cc4a17182df5a29a8c4493d3"
+      "Hash": "31f536ee30d52b48cfa11ce224c704bf2c2e5f45253b9b9d7f72e38c2570e671"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -184808,7 +184837,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dffd4ea3b05c4b0c12b126eeed7f05492063219da91eb06bfd3c2aff53a5471b"
+      "Hash": "3286e9aa6594f35c2849da6b7554370e47df7a60b4fd8a344e3ac4786559a110"
     },
     "h1:starling_bank": {
       "Key": "starling_bank",
@@ -186186,7 +186215,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8ab552f434105ea796b8922faad9905e63b50816ba5e9946d39f40f558a28d8b"
+      "Hash": "33177cf45b98d967210657b2d7c8d172d732bf372b7fc45f6d558813af763ab6"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -192002,7 +192031,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "44d7ea61b61db3abdb1412c8c3ce2336bac547cb403f545e1c6d1f990fc072ad"
+      "Hash": "67e29755b6d5455e8eeac7f00123f8fc89fd2b7c00e0191c85417cbe5d7b5bc5"
     },
     "h1:yelp": {
       "Key": "yelp",
@@ -192836,7 +192865,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2431023588a30f365850cc6a2ebb0b2ff549f2b300bf9e3a8fd26e990f726dab"
+      "Hash": "2d261c256554c8db94a3b1fd24e86a66fc750695129ed8b7358d3d62474ea41a"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -198984,6 +199013,92 @@
       },
       "Hash": "183338b8fbcc9f3a3f50168e4fd116be4fc950c440e43299862eb9abe7b730cb"
     },
+    "in:afc4415d-c004-4cf8-9a12-e0f18cde6db5": {
+      "Key": "afc4415d-c004-4cf8-9a12-e0f18cde6db5",
+      "Name": "WP Engine Bug Bounty",
+      "URL": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+      "InScope": {
+        "*. advancedcustomfields.com": {
+          "ID": "*. advancedcustomfields.com",
+          "Type": "wildcard"
+        },
+        "*. bettersearchreplace.com": {
+          "ID": "*. bettersearchreplace.com",
+          "Type": "wildcard"
+        },
+        "*.deliciousbrains.com": {
+          "ID": "*.deliciousbrains.com",
+          "Type": "wildcard"
+        },
+        "*.localwp.com": {
+          "ID": "*.localwp.com",
+          "Type": "wildcard"
+        },
+        "*.nitropack.io": {
+          "ID": "*.nitropack.io",
+          "Type": "wildcard"
+        },
+        "*.studiopress.com": {
+          "ID": "*.studiopress.com",
+          "Type": "wildcard"
+        },
+        "*.wpengine.io": {
+          "ID": "*.wpengine.io",
+          "Type": "wildcard"
+        },
+        "*.wpesvc.net": {
+          "ID": "*.wpesvc.net",
+          "Type": "wildcard"
+        },
+        "WP Engine-developed WordPress Plugins and Themes": {
+          "ID": "WP Engine-developed WordPress Plugins and Themes",
+          "Type": "other"
+        },
+        "https://app.getflywheel.com": {
+          "ID": "https://app.getflywheel.com",
+          "Type": "url"
+        },
+        "https://getflywheel.com": {
+          "ID": "https://getflywheel.com",
+          "Type": "url"
+        },
+        "https://makeshift.film": {
+          "ID": "https://makeshift.film",
+          "Type": "url"
+        },
+        "https://my.wpengine.com": {
+          "ID": "https://my.wpengine.com",
+          "Type": "url"
+        },
+        "https://payments.wpengine.com": {
+          "ID": "https://payments.wpengine.com",
+          "Type": "url"
+        },
+        "https://studiopress.blog": {
+          "ID": "https://studiopress.blog",
+          "Type": "url"
+        },
+        "https://torquemag.io": {
+          "ID": "https://torquemag.io",
+          "Type": "url"
+        },
+        "https://velocitize.com": {
+          "ID": "https://velocitize.com",
+          "Type": "url"
+        },
+        "https://wpengine.com": {
+          "ID": "https://wpengine.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "marketing.nitropack.io": {
+          "ID": "marketing.nitropack.io",
+          "Type": "url"
+        }
+      },
+      "Hash": "fbd90ea7a0d2644c6cfbda18d54e897fb647873775ed3badb7489bd6dddd2c93"
+    },
     "in:afeb2624-ac2e-46bc-b078-b0e018baeb62": {
       "Key": "afeb2624-ac2e-46bc-b078-b0e018baeb62",
       "Name": "Cloudways by DigitalOcean",
@@ -199464,6 +199579,128 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
+    },
+    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
+      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
+      "Name": "DataCamp",
+      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "InScope": {
+        "*.datacamp.com": {
+          "ID": "*.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/certification": {
+          "ID": "app.datacamp.com/certification",
+          "Type": "url"
+        },
+        "app.datacamp.com/groups": {
+          "ID": "app.datacamp.com/groups",
+          "Type": "url"
+        },
+        "app.datacamp.com/learn": {
+          "ID": "app.datacamp.com/learn",
+          "Type": "url"
+        },
+        "assessment-api.datacamp.com": {
+          "ID": "assessment-api.datacamp.com",
+          "Type": "url"
+        },
+        "assessment-v2.datacamp.com ": {
+          "ID": "assessment-v2.datacamp.com ",
+          "Type": "url"
+        },
+        "assessment.datacamp.com": {
+          "ID": "assessment.datacamp.com",
+          "Type": "url"
+        },
+        "campus.datacamp.com": {
+          "ID": "campus.datacamp.com",
+          "Type": "url"
+        },
+        "com.datacamp": {
+          "ID": "com.datacamp",
+          "Type": "android"
+        },
+        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
+          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+          "Type": "ios"
+        },
+        "practice.datacamp.com": {
+          "ID": "practice.datacamp.com",
+          "Type": "url"
+        },
+        "profiles-api.datacamp.com": {
+          "ID": "profiles-api.datacamp.com",
+          "Type": "url"
+        },
+        "projects.datacamp.com": {
+          "ID": "projects.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com": {
+          "ID": "www.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com/datalab": {
+          "ID": "www.datacamp.com/datalab",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.it.datacamp.com": {
+          "ID": "*.it.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/recruit": {
+          "ID": "app.datacamp.com/recruit",
+          "Type": "url"
+        },
+        "ast-viewer.datacamp.com": {
+          "ID": "ast-viewer.datacamp.com",
+          "Type": "url"
+        },
+        "confluence.datacamp.com": {
+          "ID": "confluence.datacamp.com",
+          "Type": "url"
+        },
+        "dccertified.datacamp.com": {
+          "ID": "dccertified.datacamp.com",
+          "Type": "url"
+        },
+        "intranet.datacamp.com": {
+          "ID": "intranet.datacamp.com",
+          "Type": "url"
+        },
+        "jira.datacamp.com": {
+          "ID": "jira.datacamp.com",
+          "Type": "url"
+        },
+        "links.datacamp.com": {
+          "ID": "links.datacamp.com",
+          "Type": "url"
+        },
+        "rdocumentation.datacamp.com": {
+          "ID": "rdocumentation.datacamp.com",
+          "Type": "url"
+        },
+        "signature.datacamp.com": {
+          "ID": "signature.datacamp.com",
+          "Type": "url"
+        },
+        "status.datacamp.com": {
+          "ID": "status.datacamp.com",
+          "Type": "url"
+        },
+        "support.datacamp.com": {
+          "ID": "support.datacamp.com",
+          "Type": "url"
+        },
+        "talent-jobs-api.datacamp.com": {
+          "ID": "talent-jobs-api.datacamp.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
