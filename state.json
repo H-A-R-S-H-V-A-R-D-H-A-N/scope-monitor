@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-27T20:07:59Z",
+  "captured_at": "2026-07-27T21:44:33Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -27903,7 +27903,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "732b9eb5f885b68cb9924ff0479bb236a8ed47cda65b5b4df8f9b56e58908ea2"
+      "Hash": "30077e7ce0d96b1e747a2a786799ae56ef1e3d7547de836e6c370359e2bd53ec"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -96600,7 +96600,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bdad9c8beba6f4155c51d808dc9e480e724270ec78b0808c01a2fadb058ea69c"
+      "Hash": "932e03449b07710661c8a8228d3cd1cf7d35426492a342c38c4e76c3de636dd6"
     },
     "h1:enjin": {
       "Key": "enjin",
@@ -166794,7 +166794,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a9f44eb0d9e548728107a80201e6adc856cf218031b55b57f62d18d4599cc445"
+      "Hash": "2774250d0c695933bcd5e9f68072093b64320507589ca55e6c1bb4b0bb9b3eca"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -176083,7 +176083,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7d7881804d1faa07a4bb5763a2a3fdedf9fa9135b31f9f801015c211483f8821"
+      "Hash": "253003a48dfc1d958c956854df120510420d173dbeb7a901170321c1c1014175"
     },
     "h1:oaknorth_bank": {
       "Key": "oaknorth_bank",
@@ -176306,7 +176306,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1d191018a81b4c5ed32c32e8e580cdc0c2b7d3d174c0539e79a79dfd03bce415"
+      "Hash": "f54858db9828c27e74529b708ac2db9c3f4053718d8fdaa259cc23f4e23889ad"
     },
     "h1:on": {
       "Key": "on",
@@ -179431,7 +179431,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e7860b591f449b89156ac7f1e0b9c865c6ead7ec4551c93cf638b609ee0b9cee"
+      "Hash": "7da03e148a73aea689e913d6b8dab5b23c7e9900aa1766fc8a616d1760178398"
     },
     "h1:planet-labs": {
       "Key": "planet-labs",
@@ -180901,7 +180901,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "020011f85ac3c65fb6bd82a0369d250bb040769f5344eefd33791b65292d304e"
+      "Hash": "286d94ca79e4429ba4278985acb3ec7c419665dcd1e31bd7ad2ac73506d62d07"
     },
     "h1:regions_financial": {
       "Key": "regions_financial",
@@ -192217,7 +192217,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cee5ef6c294fe47cd51cfb89f38e19ff28794cc25e03331c39d463173fdab944"
+      "Hash": "fdce9bd906f4fee5264e1ab795ab09de0c2d963a7d7605f8587897f3d46f38d1"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -197776,7 +197776,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ac64fe3ecedf228af6c9970548ed55f41c338e899f464cf23086b22699cca16f"
+      "Hash": "6c532f3ed656b4b34381d8a76906afbf041e345488a61ff05e6d4b9d27164251"
     },
     "in:933f224e-fbd3-4f08-a4fb-5038c2fa1a6e": {
       "Key": "933f224e-fbd3-4f08-a4fb-5038c2fa1a6e",
@@ -198612,19 +198612,6 @@
       },
       "OutScope": {},
       "Hash": "dbdf70b0dfa7c30d9d6adca3258e54d6de84a21a51f5eab4c20cd6c315afc790"
-    },
-    "in:a78e0210-4de1-4ced-8895-48ac98c3166d": {
-      "Key": "a78e0210-4de1-4ced-8895-48ac98c3166d",
-      "Name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-      "URL": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
-      "InScope": {
-        "https://www.kuleuven.be/sapredir/huisvesting": {
-          "ID": "https://www.kuleuven.be/sapredir/huisvesting",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "3e162d1cf3c14843e44299afed0c2c603bca0cdfe81e150590fa20999f690e79"
     },
     "in:a880a8c4-d7e7-4166-9c2b-5ae5925ee4d7": {
       "Key": "a880a8c4-d7e7-4166-9c2b-5ae5925ee4d7",
