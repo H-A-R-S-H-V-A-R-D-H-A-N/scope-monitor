@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-27T04:25:15Z",
+  "captured_at": "2026-07-27T08:05:05Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -17832,7 +17832,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b1171edf012df0134f16f1df607b9ebf7dde41d1069cf16133c693ad5e76f5c0"
+      "Hash": "3c43a9f9190f5617a8b49a2b42b9a12c4f4a1a0487f9dd81156a13b436179c41"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -18188,6 +18188,10 @@
           "ID": "8x8-work",
           "Type": "APPLE_STORE_APP_ID"
         },
+        "8x8.cloud": {
+          "ID": "8x8.cloud",
+          "Type": "URL"
+        },
         "8x8.my.site.com": {
           "ID": "8x8.my.site.com",
           "Type": "URL"
@@ -18355,6 +18359,10 @@
         "https://www.npmjs.com/package/@8x8/pui-partner-comm": {
           "ID": "https://www.npmjs.com/package/@8x8/pui-partner-comm",
           "Type": "OTHER"
+        },
+        "maestro.8x8.cloud": {
+          "ID": "maestro.8x8.cloud",
+          "Type": "URL"
         },
         "mcp.8x8.com": {
           "ID": "mcp.8x8.com",
@@ -18559,7 +18567,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c598d9ca707c0d5a6ef72ee098e591f2a48aed4029a66df579feaa39a0b4cd9d"
+      "Hash": "b7740c73d7999738cee77a1c67c4acac70b97eed762af89a215afa4e7bcf4763"
     },
     "h1:abb": {
       "Key": "abb",
@@ -23107,7 +23115,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5532496767683386788e6e3bd04cd634ab33e25d8fe81f0ae039be39a3c916ff"
+      "Hash": "a89e65819c21e5734db0a496b0971adf489d047dda20500632607d7caa79bd5b"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -30499,7 +30507,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "95a3ae16e91941d8b4a3952af59c654a5bc4935c142e7ff5b62f7d182a75e8e3"
+      "Hash": "a36e33f07010d7a552b0279b655e4b805af3b86fb942855ce3e2c9a125c8c5af"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31896,7 +31904,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3d6887f7bf058527f73392cb5f594d4471ff41bd0904e72a88f9f52fc4695789"
+      "Hash": "7a8e8d1a581dae14d193984d3e240c3f55f5318cf5520dee04e3190ba7318c5f"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -87350,7 +87358,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7a721eb71b1638d1e341e2942896c34f2fcff01de9e53b72137d861ab8acf0e3"
+      "Hash": "7fae80e5662647d2247733df6d039c9bd420ef4be4d69316a2cf8281ce6cff03"
     },
     "h1:clear": {
       "Key": "clear",
@@ -88110,31 +88118,6 @@
         }
       },
       "Hash": "ab86853a7b9e6fa88f1b0d9eb38460d94b5d56e59b1a0ac5c6e032ed21d3c26d"
-    },
-    "h1:coinhako": {
-      "Key": "coinhako",
-      "Name": "Coinhako",
-      "URL": "https://hackerone.com/coinhako",
-      "InScope": {
-        "com.coinhako": {
-          "ID": "com.coinhako",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.coinhako.app": {
-          "ID": "com.coinhako.app",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "help.coinhako.com": {
-          "ID": "help.coinhako.com",
-          "Type": "URL"
-        },
-        "www.coinhako.com": {
-          "ID": "www.coinhako.com",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {},
-      "Hash": "6565b2af208ff47bd4bcc6bb7083cf8205ad2a74b6e2b05e52c54b728903a617"
     },
     "h1:coinmate": {
       "Key": "coinmate",
@@ -90471,7 +90454,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f0275bc5eaef6ba9d28c7e767fec15a90e1e88dfc6fc6e6b91226e49f47c8d64"
+      "Hash": "c614acb6883ad74b949f44dd6f320e6924578a5b540beb37084a1a91bd7d07e2"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -95300,7 +95283,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3544bc564c15d76eaedfe895db2398370ca1087e17a8a23cc00ea3044815c5ac"
+      "Hash": "6d6d174a63aca7b40054511e30d86aaf2935d5740dc978685779e3e449d2250d"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -98998,7 +98981,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d132a6a7b73e271a5cf960534bc9b01f40f9797620e47e961843cf41b3749334"
+      "Hash": "45f5ba166ca1d1d441c95e25143ec71f133db9c26bc2c3bae817b1d4f4b9c717"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -104310,7 +104293,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fe2d90e5a548f8da4684c25a34740bc9a06521bc8486910f8ad0b6ac594a2d3f"
+      "Hash": "4db6e1e866a4155ff1f24c765cde1b6505cf1a9d47c6cb7a003b83b442ceadfb"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -143715,7 +143698,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f2ab0798f3a29aaf750583afdd928e65bbbe185f5e99d7840a3ce80d45eb4265"
+      "Hash": "537ce5dd80d91ab455251132d148d5772ba5ac299c8a926ef69fcec87c31c239"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -148878,7 +148861,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7f178cb06a2eaf07e20cf53563c9d71abc7e8cb9dca3abc9cd216a46185919ad"
+      "Hash": "8c5f8c33838238b24535194e9c52dd2505ee61f35ef74bb3aae6b7a7c50abed5"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -149840,7 +149823,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "30b5d3d16fc835206037bad8ac27e6a898b745ff3144b6ac0a635263604b07ed"
+      "Hash": "78802babedfe746359f10589b72bac2424e7e872f83bf9183e1067bb935bd8fb"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -156114,7 +156097,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2898041a03da7b85c296816325a722b5b2d80a83d6d7ad7ef8155e56bd1aeda3"
+      "Hash": "4152d24cbabb3e02bdcfa67341d884a9bd3557a79330f1a5aab30c7fbf239d2e"
     },
     "h1:ips": {
       "Key": "ips",
@@ -165633,7 +165616,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0c53a36237b404d2938c78d35740105481d424a9a959f9cf032f20bcafb3b5ee"
+      "Hash": "9dec2c1a8073c7fc5422881819a3702f6845bfdb816e4a11376618a28c61c90c"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -166400,7 +166383,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "be1617ccaf273c7bf2c73eb55aee44ba206fbe22d360f013795c19199875716f"
+      "Hash": "511ddea610cccb912b7d6526d75a4b5722f6928616583bd2972b2d16a989d593"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -166832,7 +166815,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cbcb16f61dc210b75992a1c5d56c9dbc730ab849f65638238d851f70e68693bc"
+      "Hash": "a9f44eb0d9e548728107a80201e6adc856cf218031b55b57f62d18d4599cc445"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -168846,7 +168829,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "24218ba2b31ea2e2adaba8ea66d945ac27caf7a8a68cf654b0e4219b60c8fa95"
+      "Hash": "b8077d892702dcad1eeaf96fbd78d1d942ba4b064db023dc5a24ae819bf11c91"
     },
     "h1:mendix": {
       "Key": "mendix",
@@ -172167,7 +172150,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "81f82a3c1f47451f3aefc21023e5372b1183678e13b1fcd45b7732efb3e1e7c8"
+      "Hash": "422aa5da53a7d49654a8eb67e0ad5e438961a2e49ff83e099fd77c1088c0987d"
     },
     "h1:moov": {
       "Key": "moov",
@@ -172369,7 +172352,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9a5bd933413883f0c25dfbeb13789543d15cdd7492a225d92814c79544a2d52c"
+      "Hash": "002a458023f76b62378450dee3c363d6e724b462e48105dc628db0f845c6e4d0"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -175017,7 +175000,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c9c4f7370909966deabd4cdb7601a7c72fd06e3df67690890e0e977c18257c72"
+      "Hash": "59172bcc13defd2fcff94499011e00f0a758043efad2017dd8f2a56c0d244faf"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -176734,7 +176717,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ef990fea067260ce35994513ec7319bd1da1e18f2c88f4575ad881cb56e68177"
+      "Hash": "d3eae690eb45515500f45ec07325a8904f88f27615fc5c5f282813245b204d52"
     },
     "h1:newegg": {
       "Key": "newegg",
@@ -179380,7 +179363,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "eb42b7296295f996821dd05ead5fd132f50dba3b6b5cdec25855dc92b7c77419"
+      "Hash": "3704657d464d8ea5b57de2d6fe61927335ad1ac821fbc5e809a493ec1de6f333"
     },
     "h1:peloton": {
       "Key": "peloton",
@@ -181723,7 +181706,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "39c4326e506b1e1e19708fc859ecef22d700ec12c9f72bc42a83e57343a70b51"
+      "Hash": "e9e0032f14e896fd9f191d1d1027c7470acafafa55caad63da5f4976675fff9d"
     },
     "h1:prudential-financial": {
       "Key": "prudential-financial",
@@ -181983,7 +181966,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "84f6b7597a2edc4bdd082d4d29c16586692aff61d02ffe29d9d5b64cfc5bb981"
+      "Hash": "e1bb8456d0033ce96243fccbc1452ceeb89f7bb1fac5b5becb02a1ae28b9d540"
     },
     "h1:rails": {
       "Key": "rails",
@@ -185905,7 +185888,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "17d28237f113ab1c72a12b2b60f654f2512357aca2cf45c90b3bbc0d98000f24"
+      "Hash": "447fd565855557e1756b44081c0ca753e0dc30ae170c8267c0d1e7d342f0e14c"
     },
     "h1:spotify": {
       "Key": "spotify",
@@ -189051,7 +189034,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cdc1e5199e7a7ed68d5a20234247cf6e4ce3beddd9574675fae2b48f03e27b22"
+      "Hash": "639ea62e8e0aead86e194d24581c2e9fae52676f513f8f4fef7a679c58405ce3"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -189535,7 +189518,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "250e4e113bf0de2de3f0bcdc938c6aefdfee41af264061857d5d76ec09adba21"
+      "Hash": "daa00efe5c3e75ad25ecac1a418e46ab7a1e206ab2aff26c8829560a45c45d58"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -192616,7 +192599,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "55fe4bf6ed47b24446b191325f3f3004232a8dea7d61a748380ba3e9dfd7957c"
+      "Hash": "e66d34747697f2ff5bfcbbb7b09d61f4e96ef2f9de9bc1969f3c0a5d4d6df040"
     },
     "h1:who-covid-19-mobile-app": {
       "Key": "who-covid-19-mobile-app",
@@ -196636,6 +196619,88 @@
       },
       "Hash": "e75f63ea23bd1bff84872e0ca095c636c1563c985a40811c2dba36220c141517"
     },
+    "in:48853273-690a-4555-8ac5-821a1c464312": {
+      "Key": "48853273-690a-4555-8ac5-821a1c464312",
+      "Name": "Capital.com",
+      "URL": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+      "InScope": {
+        "*.backend-capital.com": {
+          "ID": "*.backend-capital.com",
+          "Type": "wildcard"
+        },
+        "*.capital.com": {
+          "ID": "*.capital.com",
+          "Type": "wildcard"
+        },
+        "*.itcapital.io": {
+          "ID": "*.itcapital.io",
+          "Type": "wildcard"
+        },
+        "aff.capital.com": {
+          "ID": "aff.capital.com",
+          "Type": "url"
+        },
+        "capital.com/*": {
+          "ID": "capital.com/*",
+          "Type": "wildcard"
+        },
+        "careers.capital.com": {
+          "ID": "careers.capital.com",
+          "Type": "url"
+        },
+        "com.capital.trading": {
+          "ID": "com.capital.trading",
+          "Type": "android"
+        },
+        "go.capital.com": {
+          "ID": "go.capital.com",
+          "Type": "url"
+        },
+        "open-api.capital.com": {
+          "ID": "open-api.capital.com",
+          "Type": "url"
+        },
+        "payment.backend-capital.com": {
+          "ID": "payment.backend-capital.com",
+          "Type": "url"
+        },
+        "register.capital.com": {
+          "ID": "register.capital.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*affiliates.backend-capital.com": {
+          "ID": "*affiliates.backend-capital.com",
+          "Type": "wildcard"
+        },
+        "*eduapp.backend-capital.com": {
+          "ID": "*eduapp.backend-capital.com",
+          "Type": "wildcard"
+        },
+        "*education.backend-capital.com": {
+          "ID": "*education.backend-capital.com",
+          "Type": "wildcard"
+        },
+        "3cxby.itcapital.io": {
+          "ID": "3cxby.itcapital.io",
+          "Type": "url"
+        },
+        "help.capital.com": {
+          "ID": "help.capital.com",
+          "Type": "url"
+        },
+        "relocate-with-us.capital.com": {
+          "ID": "relocate-with-us.capital.com",
+          "Type": "url"
+        },
+        "texis.itcapital.io": {
+          "ID": "texis.itcapital.io",
+          "Type": "url"
+        }
+      },
+      "Hash": "a6f918c7aae95605c669a607ea033c5de8a318ca0fa70a7a1daddd1fe9a337a2"
+    },
     "in:4981522f-5675-4f46-b7b7-e065d30c8d79": {
       "Key": "4981522f-5675-4f46-b7b7-e065d30c8d79",
       "Name": "Cross Border Fines",
@@ -200395,6 +200460,128 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
+    },
+    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
+      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
+      "Name": "DataCamp",
+      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "InScope": {
+        "*.datacamp.com": {
+          "ID": "*.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/certification": {
+          "ID": "app.datacamp.com/certification",
+          "Type": "url"
+        },
+        "app.datacamp.com/groups": {
+          "ID": "app.datacamp.com/groups",
+          "Type": "url"
+        },
+        "app.datacamp.com/learn": {
+          "ID": "app.datacamp.com/learn",
+          "Type": "url"
+        },
+        "assessment-api.datacamp.com": {
+          "ID": "assessment-api.datacamp.com",
+          "Type": "url"
+        },
+        "assessment-v2.datacamp.com ": {
+          "ID": "assessment-v2.datacamp.com ",
+          "Type": "url"
+        },
+        "assessment.datacamp.com": {
+          "ID": "assessment.datacamp.com",
+          "Type": "url"
+        },
+        "campus.datacamp.com": {
+          "ID": "campus.datacamp.com",
+          "Type": "url"
+        },
+        "com.datacamp": {
+          "ID": "com.datacamp",
+          "Type": "android"
+        },
+        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
+          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+          "Type": "ios"
+        },
+        "practice.datacamp.com": {
+          "ID": "practice.datacamp.com",
+          "Type": "url"
+        },
+        "profiles-api.datacamp.com": {
+          "ID": "profiles-api.datacamp.com",
+          "Type": "url"
+        },
+        "projects.datacamp.com": {
+          "ID": "projects.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com": {
+          "ID": "www.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com/datalab": {
+          "ID": "www.datacamp.com/datalab",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.it.datacamp.com": {
+          "ID": "*.it.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/recruit": {
+          "ID": "app.datacamp.com/recruit",
+          "Type": "url"
+        },
+        "ast-viewer.datacamp.com": {
+          "ID": "ast-viewer.datacamp.com",
+          "Type": "url"
+        },
+        "confluence.datacamp.com": {
+          "ID": "confluence.datacamp.com",
+          "Type": "url"
+        },
+        "dccertified.datacamp.com": {
+          "ID": "dccertified.datacamp.com",
+          "Type": "url"
+        },
+        "intranet.datacamp.com": {
+          "ID": "intranet.datacamp.com",
+          "Type": "url"
+        },
+        "jira.datacamp.com": {
+          "ID": "jira.datacamp.com",
+          "Type": "url"
+        },
+        "links.datacamp.com": {
+          "ID": "links.datacamp.com",
+          "Type": "url"
+        },
+        "rdocumentation.datacamp.com": {
+          "ID": "rdocumentation.datacamp.com",
+          "Type": "url"
+        },
+        "signature.datacamp.com": {
+          "ID": "signature.datacamp.com",
+          "Type": "url"
+        },
+        "status.datacamp.com": {
+          "ID": "status.datacamp.com",
+          "Type": "url"
+        },
+        "support.datacamp.com": {
+          "ID": "support.datacamp.com",
+          "Type": "url"
+        },
+        "talent-jobs-api.datacamp.com": {
+          "ID": "talent-jobs-api.datacamp.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
