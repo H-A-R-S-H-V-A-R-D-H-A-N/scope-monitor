@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-28T18:39:27Z",
+  "captured_at": "2026-07-28T20:22:50Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -67265,7 +67265,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c4ac285d16fc39fd37969a399c5b7e1b12227c4f997f14198d589998435bc402"
+      "Hash": "3e44015bbea75aa6074f5f1aec45d68bfcccd277f215539c636996fd4059e811"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -90446,7 +90446,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "df930b211dd72019052b9385faf7e7a8b44d22959d8e3874c99e3459f793cc06"
+      "Hash": "c614acb6883ad74b949f44dd6f320e6924578a5b540beb37084a1a91bd7d07e2"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -101199,7 +101199,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2d14dc22b8ca43b4c776c97df50e53ef019df4f4dadfa5327b7b0b0f10cd33f0"
+      "Hash": "fa7067ed38583a745b05e99eb3c5c99f503ec619fe8b0632db2c46762e41621b"
     },
     "h1:exness": {
       "Key": "exness",
@@ -101820,7 +101820,7 @@
       "URL": "https://hackerone.com/expressionengine",
       "InScope": {},
       "OutScope": {},
-      "Hash": "275289a7642cdf9b4c55073b1162865e16fac3e620786af40dcaff51e282ed62"
+      "Hash": "73062cc3be2bc4a037dad15d2f56fe9101c9178be028861af0699afad8e4302b"
     },
     "h1:fanduel": {
       "Key": "fanduel",
@@ -102036,7 +102036,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "10e88923f67298fdf68c4fa8352f6d50251133e18ef6631bb6b4294ff02dca5b"
+      "Hash": "6e1b0288bbc570120a971af5e06eacae1c5ee4094ff3107233766bbdf9f0de6a"
     },
     "h1:ferrero": {
       "Key": "ferrero",
@@ -166391,7 +166391,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "f8bc7aac79fb0f6b82c188072aa624d6a2a1651629f78cee24ffbaa7bae617fe"
+      "Hash": "91123cc1db2f677d63aa136164d12f10993cc52717fda8be2943821b9adb6a31"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -167214,7 +167214,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "a3f5eee395e0a2281dacd85907a642971eda56bdba6fe58ec654807cd398413b"
+      "Hash": "59471e84ab0c15590db710ca591c5831ae81ea321e05fa78dfaec06f2b687b6f"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -179114,7 +179114,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "25b0a54ec1180d46b59b3a61451af75de224617f61180864a187e784642885a8"
+      "Hash": "6e53b839fdfb4ec2fa8220b9f43c8d8eeba1eb165884f9e31334e9ee292d68fc"
     },
     "h1:picsart": {
       "Key": "picsart",
@@ -179460,7 +179460,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7da03e148a73aea689e913d6b8dab5b23c7e9900aa1766fc8a616d1760178398"
+      "Hash": "92ee6004be66872f6b042c9b385206103935ab5dfb17791d91608a4a9d3012d9"
     },
     "h1:planet-labs": {
       "Key": "planet-labs",
@@ -185853,7 +185853,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7c5704ea68f9baae063304668c3bc49fd4c0886951d340856ae40d9e7082958e"
+      "Hash": "b0df86e6068ce2b0a55011f49083fe70833568c3ae9c8accdc69712a150e66bb"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -188861,7 +188861,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dd57b3b7107d79e7038ad62c072d895ad2085893751e2e7b6e45d8ebe0ff6ba6"
+      "Hash": "9a121212ec14e5729beb9c2478f379597e518d05d7a5402b2484e988f7951496"
     },
     "h1:usps": {
       "Key": "usps",
@@ -190003,7 +190003,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7df3d53effb16797a63b14b66bd6ca43972e33fc8a48f8187ef709deda8cdb8b"
+      "Hash": "ccca973699dbcdd0eb594d200e1afe71acc46258f6abd7e49503a440a0ddfbc8"
     },
     "h1:visa": {
       "Key": "visa",
@@ -191064,7 +191064,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e12cdc3cb6ba2ae195d8e2f032aa04d95ac3de69c3a18bf65ae02a9bd7389735"
+      "Hash": "97b51e8458176841369fe376a8a0ff34078f6455382ee293405c39e1d4a50992"
     },
     "h1:weblate": {
       "Key": "weblate",
@@ -200923,6 +200923,200 @@
       },
       "OutScope": {},
       "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
+    },
+    "in:ed04d1ef-1aa3-49dd-92f1-06f50f9756b9": {
+      "Key": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
+      "Name": "TrueLayer",
+      "URL": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "InScope": {
+        "*.truelayer.cloud": {
+          "ID": "*.truelayer.cloud",
+          "Type": "wildcard"
+        },
+        "*.truelayer.com": {
+          "ID": "*.truelayer.com",
+          "Type": "wildcard"
+        },
+        "*.truelayer.io": {
+          "ID": "*.truelayer.io",
+          "Type": "wildcard"
+        },
+        "C# SDK": {
+          "ID": "C# SDK",
+          "Type": "other"
+        },
+        "Java SDK": {
+          "ID": "Java SDK",
+          "Type": "other"
+        },
+        "PHP SDK": {
+          "ID": "PHP SDK",
+          "Type": "other"
+        },
+        "React Native SDK": {
+          "ID": "React Native SDK",
+          "Type": "other"
+        },
+        "Rust SDK": {
+          "ID": "Rust SDK",
+          "Type": "other"
+        },
+        "TrueLayer for Magento (Magento plugin)": {
+          "ID": "TrueLayer for Magento (Magento plugin)",
+          "Type": "other"
+        },
+        "TrueLayer for WooCommerce (WordPress plugin)": {
+          "ID": "TrueLayer for WooCommerce (WordPress plugin)",
+          "Type": "other"
+        },
+        "Web SDK": {
+          "ID": "Web SDK",
+          "Type": "other"
+        },
+        "api.mtls.truelayer[-sandbox].com": {
+          "ID": "api.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "api.truelayer[-sandbox].com": {
+          "ID": "api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "app.truelayer[-sandbox].com": {
+          "ID": "app.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.mtls.truelayer[-sandbox].com": {
+          "ID": "auth.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.truelayer[-sandbox].com": {
+          "ID": "auth.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console-backend.truelayer[-sandbox].com": {
+          "ID": "console-backend.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console.truelayer[-sandbox].com": {
+          "ID": "console.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "iOS SDK": {
+          "ID": "iOS SDK",
+          "Type": "other"
+        },
+        "login-api.truelayer[-sandbox].com": {
+          "ID": "login-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "login.truelayer[-sandbox].com": {
+          "ID": "login.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "onboarding-api.truelayer.com": {
+          "ID": "onboarding-api.truelayer.com",
+          "Type": "url"
+        },
+        "pay-api.truelayer[-sandbox].com": {
+          "ID": "pay-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "pay.truelayer[-sandbox].com": {
+          "ID": "pay.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "paydirect.truelayer[-sandbox].com": {
+          "ID": "paydirect.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payment.truelayer[-sandbox].com": {
+          "ID": "payment.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payments-experience-api.truelayer[-sandbox].com": {
+          "ID": "payments-experience-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "sftp.reports.truelayer.com": {
+          "ID": "sftp.reports.truelayer.com",
+          "Type": "url"
+        },
+        "shop-pay-app-api.truelayer.com": {
+          "ID": "shop-pay-app-api.truelayer.com",
+          "Type": "url"
+        },
+        "shopify-admin.truelayer.com": {
+          "ID": "shopify-admin.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer-signing": {
+          "ID": "truelayer-signing",
+          "Type": "other"
+        },
+        "user-authentication-api.truelayer[-sandbox].com": {
+          "ID": "user-authentication-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "users-api.truelayer.com": {
+          "ID": "users-api.truelayer.com",
+          "Type": "url"
+        },
+        "webhooks.truelayer[-sandbox].com": {
+          "ID": "webhooks.truelayer[-sandbox].com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "banks.truelayer.com": {
+          "ID": "banks.truelayer.com",
+          "Type": "url"
+        },
+        "careers.truelayer.com": {
+          "ID": "careers.truelayer.com",
+          "Type": "url"
+        },
+        "docs.houston.truelayer.com": {
+          "ID": "docs.houston.truelayer.com",
+          "Type": "url"
+        },
+        "docs.truelayer.com": {
+          "ID": "docs.truelayer.com",
+          "Type": "url"
+        },
+        "https://truelayer.com/contact/": {
+          "ID": "https://truelayer.com/contact/",
+          "Type": "url"
+        },
+        "index.truelayer.com": {
+          "ID": "index.truelayer.com",
+          "Type": "url"
+        },
+        "info.truelayer.com": {
+          "ID": "info.truelayer.com",
+          "Type": "url"
+        },
+        "signin.truelayer.com": {
+          "ID": "signin.truelayer.com",
+          "Type": "url"
+        },
+        "status.truelayer.com": {
+          "ID": "status.truelayer.com",
+          "Type": "url"
+        },
+        "support.truelayer.com": {
+          "ID": "support.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer.zendesk.com": {
+          "ID": "truelayer.zendesk.com",
+          "Type": "url"
+        },
+        "trust.truelayer.com": {
+          "ID": "trust.truelayer.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "7a2d0cc76bc6ebd6a98c958be9db862155e3f0590e73ca1efa314cee5b156d4d"
     },
     "in:ef919950-9ced-48c3-b1f4-2379c43c8ec5": {
       "Key": "ef919950-9ced-48c3-b1f4-2379c43c8ec5",
