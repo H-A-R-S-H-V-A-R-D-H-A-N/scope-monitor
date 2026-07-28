@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-28T15:03:18Z",
+  "captured_at": "2026-07-28T16:48:20Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -8010,6 +8010,19 @@
       },
       "OutScope": {},
       "Hash": "058f27ea19b9affd20a26a047a8711f47270303e21ba9082fffc1d201facd593"
+    },
+    "bc:MATLAB Online - Ongoing Bug Bounty Engagement": {
+      "Key": "MATLAB Online - Ongoing Bug Bounty Engagement",
+      "Name": "MATLAB Online - Ongoing Bug Bounty Engagement",
+      "URL": "https://bugcrowd.com/engagements/matlab-online",
+      "InScope": {
+        "https://matlab.mathworks.com/": {
+          "ID": "https://matlab.mathworks.com/",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "f9167c23179610aa7fad532c1740ca3b0e71e89e4a987097f200660c62dc67c7"
     },
     "bc:MGM China Holdings Limited Managed Bug Bounty Program": {
       "Key": "MGM China Holdings Limited Managed Bug Bounty Program",
@@ -30549,7 +30562,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "cd58fcfaf1e8538eab81c13b59d0ec770c879d04f4104d3579f38487b1f1f5aa"
+      "Hash": "d36b7723c4343fbf061c1d1967741e5e1ed8abca61a9489aa04fa8e515860b3a"
     },
     "h1:bill_vdp": {
       "Key": "bill_vdp",
@@ -31123,7 +31136,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6b2067167e53c082dad1577da11a2f76338edd489a18742a5bcd82183e7c0913"
+      "Hash": "cb0e26eb796ed2ba6bae83fa84de20eba770620c4defb2cc379ff76507007593"
     },
     "h1:brave": {
       "Key": "brave",
@@ -31941,7 +31954,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "764a495febbc09fe7f36ef7a203d29484cf238f275fdf15e1e99f46ac3ba34a8"
+      "Hash": "7e5d5e8eb2f7a25b0b66cf9d0b3b5673fcb695be9d695758bb08862e2a0c8ee0"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -144711,7 +144724,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a507ca4efa6b14a30a400555fdec5f217bbfddac92ec0064886effb624674840"
+      "Hash": "6fbd1fa41a1ecc95297d46b12e25da56f8a2c39bc76a0d734e07c211b3b851fa"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -146289,7 +146302,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "71f446e81a599d9d270b596dfbafcc29b4fcc6b06dde57eba924876d92dce8cf"
+      "Hash": "e7d0819dce9bc99b37527ff3224b07b3e5347ff4540ada8d0ef2227ee5461f12"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -150079,7 +150092,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "addbaca15e1a95f9b06fc13f28a69d5af7845c298e6c85c0b22c0ff88cb6a126"
+      "Hash": "49e9acc10bc50b937bd44af1896b33447aae0fa1b7d8dcd93e92cccd11ba2a22"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -158470,10 +158483,6 @@
           "ID": "cs.services.wirtgen-group.com",
           "Type": "URL"
         },
-        "csac-eia.elb.blueriver.com": {
-          "ID": "csac-eia.elb.blueriver.com",
-          "Type": "URL"
-        },
         "csexternal.johndeereandco.com": {
           "ID": "csexternal.johndeereandco.com",
           "Type": "URL"
@@ -164981,7 +164990,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c1a597e0b8c749eab13ddae8288c958ff1c1c888c181a88ee58346dd3fdbd96d"
+      "Hash": "29afa2bec348a9b7f5b1f87622372737d2ee4fd976e123b21fc8692fffc2f4e9"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -167235,7 +167244,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "74b1f3b548139eff7cb0c51b8fcce23d4193c01e872ade146f79bc5a02e1f981"
+      "Hash": "39e0a81c4eda5cb9d4c3d74b09de5f95ef463f9affc09edc7786a4bc2c77ab62"
     },
     "h1:lowes": {
       "Key": "lowes",
@@ -179018,7 +179027,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7320796db2892f752b39e3007c7dee830f972792579ab5bd15bd6b44cc6b9854"
+      "Hash": "1ef6530c2b58b6985cb7c792cbaea12735e351a627d236e28bc5f258af811871"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -183377,7 +183386,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "afa49c5032536af99ab619eebf1bc0e18c9f7eb34dbdbe2ac4bb84dc0061795d"
+      "Hash": "733795e83c850d3a4da7c067a4b0a4716baba3b2ad20869962db781bd39dc724"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -183561,7 +183570,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "76faeec88a6ba4dc910a462e1aa2170895f8c6e8e93d37cf67c690906dce3451"
+      "Hash": "45b44d730e0f52dca3b86b6a78a81f6de2f7bad5582fea9a0508b317948608a6"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -185244,7 +185253,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6cbfdfbec150a479caa1eb2cfa7fcec100c97a4b350531e31aaaffd7cd017d9f"
+      "Hash": "69ffed0df365ac44509db77c5a7ab6bcd868f2dc8647300b57c7a2f1047c7562"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -198637,6 +198646,19 @@
       "OutScope": {},
       "Hash": "dbdf70b0dfa7c30d9d6adca3258e54d6de84a21a51f5eab4c20cd6c315afc790"
     },
+    "in:a78e0210-4de1-4ced-8895-48ac98c3166d": {
+      "Key": "a78e0210-4de1-4ced-8895-48ac98c3166d",
+      "Name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+      "URL": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
+      "InScope": {
+        "https://www.kuleuven.be/sapredir/huisvesting": {
+          "ID": "https://www.kuleuven.be/sapredir/huisvesting",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "3e162d1cf3c14843e44299afed0c2c603bca0cdfe81e150590fa20999f690e79"
+    },
     "in:a880a8c4-d7e7-4166-9c2b-5ae5925ee4d7": {
       "Key": "a880a8c4-d7e7-4166-9c2b-5ae5925ee4d7",
       "Name": "Challenge 0726",
@@ -199611,6 +199633,128 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
+    },
+    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
+      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
+      "Name": "DataCamp",
+      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "InScope": {
+        "*.datacamp.com": {
+          "ID": "*.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/certification": {
+          "ID": "app.datacamp.com/certification",
+          "Type": "url"
+        },
+        "app.datacamp.com/groups": {
+          "ID": "app.datacamp.com/groups",
+          "Type": "url"
+        },
+        "app.datacamp.com/learn": {
+          "ID": "app.datacamp.com/learn",
+          "Type": "url"
+        },
+        "assessment-api.datacamp.com": {
+          "ID": "assessment-api.datacamp.com",
+          "Type": "url"
+        },
+        "assessment-v2.datacamp.com ": {
+          "ID": "assessment-v2.datacamp.com ",
+          "Type": "url"
+        },
+        "assessment.datacamp.com": {
+          "ID": "assessment.datacamp.com",
+          "Type": "url"
+        },
+        "campus.datacamp.com": {
+          "ID": "campus.datacamp.com",
+          "Type": "url"
+        },
+        "com.datacamp": {
+          "ID": "com.datacamp",
+          "Type": "android"
+        },
+        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
+          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+          "Type": "ios"
+        },
+        "practice.datacamp.com": {
+          "ID": "practice.datacamp.com",
+          "Type": "url"
+        },
+        "profiles-api.datacamp.com": {
+          "ID": "profiles-api.datacamp.com",
+          "Type": "url"
+        },
+        "projects.datacamp.com": {
+          "ID": "projects.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com": {
+          "ID": "www.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com/datalab": {
+          "ID": "www.datacamp.com/datalab",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.it.datacamp.com": {
+          "ID": "*.it.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/recruit": {
+          "ID": "app.datacamp.com/recruit",
+          "Type": "url"
+        },
+        "ast-viewer.datacamp.com": {
+          "ID": "ast-viewer.datacamp.com",
+          "Type": "url"
+        },
+        "confluence.datacamp.com": {
+          "ID": "confluence.datacamp.com",
+          "Type": "url"
+        },
+        "dccertified.datacamp.com": {
+          "ID": "dccertified.datacamp.com",
+          "Type": "url"
+        },
+        "intranet.datacamp.com": {
+          "ID": "intranet.datacamp.com",
+          "Type": "url"
+        },
+        "jira.datacamp.com": {
+          "ID": "jira.datacamp.com",
+          "Type": "url"
+        },
+        "links.datacamp.com": {
+          "ID": "links.datacamp.com",
+          "Type": "url"
+        },
+        "rdocumentation.datacamp.com": {
+          "ID": "rdocumentation.datacamp.com",
+          "Type": "url"
+        },
+        "signature.datacamp.com": {
+          "ID": "signature.datacamp.com",
+          "Type": "url"
+        },
+        "status.datacamp.com": {
+          "ID": "status.datacamp.com",
+          "Type": "url"
+        },
+        "support.datacamp.com": {
+          "ID": "support.datacamp.com",
+          "Type": "url"
+        },
+        "talent-jobs-api.datacamp.com": {
+          "ID": "talent-jobs-api.datacamp.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
