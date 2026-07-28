@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-28T20:22:50Z",
+  "captured_at": "2026-07-28T21:43:55Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -67015,7 +67015,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "ce5a97e7d054d93c5171b14266d5dd18768bf66eea1010b0a69441bc28081605"
+      "Hash": "832abdf82df8c1982f30023ad57f66b40db29bbdfaf10644eefe102c30ba278d"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -87502,7 +87502,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c01dc8f61bb185289004a929707fba4a3cd0d501803b27f98a24cadc345d2031"
+      "Hash": "e88296660527890262057705d1e17b4a10eff166017689d2354b28f35d5371c4"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -148771,7 +148771,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "09a8498c2af209301af5306bbcc576ddbf8195bcc1211870dc9041d85ca4c80f"
+      "Hash": "4f81d162c709be1d12b53aeec8be4622019f395869807087b60a7a88f36d7354"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -148865,7 +148865,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5cbae59542d93ba522e6107aee538424da875ac654c1c3008a66a399a26003e7"
+      "Hash": "b5500e128f7c5c425aa8cf47c99765b386d5d94eebf3381628f2d1daac468857"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -149994,7 +149994,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6f4734696563de9783525f50007b95a79b5f98412a5c4e4f38afa0b722dee046"
+      "Hash": "ed49577171d6452680aad3110a6cfbbda78a1440583d718051dd01c8ae9ac41e"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -176335,7 +176335,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3fe1330cc09312779e180e89117bdd1c190552aca4628a7b6ebee87b687e473d"
+      "Hash": "3c6e5e2ef18ef45a7f1eacb2ff4ea0801e6f8eba3d5f74376cb22f26b02fbad4"
     },
     "h1:on": {
       "Key": "on",
@@ -180930,7 +180930,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "286d94ca79e4429ba4278985acb3ec7c419665dcd1e31bd7ad2ac73506d62d07"
+      "Hash": "4edd74f0053e12baa9d365b7424741e1f23a68e4586f796024f21186be556840"
     },
     "h1:regions_financial": {
       "Key": "regions_financial",
@@ -184162,7 +184162,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5b060b3babd1c2e0e18bc87d916fdfb8a3dc27e939736d36e5e702c23f1fd5bd"
+      "Hash": "2bfd05b565a8dc96ec078aca67401cd8436cbb56568b00dbf0b7e931e5fd8fe4"
     },
     "h1:slack": {
       "Key": "slack",
@@ -186673,7 +186673,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3a775f9d0462a2e5b47e1959e0a9cbf00de81651aa28c5aaed584c238085199a"
+      "Hash": "6b54812635c0520fe5709634ec519d076cbe8e9189b239c52abd230719045674"
     },
     "h1:top_echelon_software": {
       "Key": "top_echelon_software",
@@ -188521,7 +188521,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "027cc2d930f0292053024a5645e3253fadb5894742a01b0b32e3bb0c5ccaca3b"
+      "Hash": "aa1672f2942b9386f4dca7a43f661ad6994bc155d02bccad857565183a0ee370"
     },
     "h1:unico_idtech": {
       "Key": "unico_idtech",
@@ -193913,6 +193913,10 @@
         }
       },
       "OutScope": {
+        "icarusadmin.ninjakiwi.com": {
+          "ID": "icarusadmin.ninjakiwi.com",
+          "Type": "url"
+        },
         "rancher.ninjakiwi.com": {
           "ID": "rancher.ninjakiwi.com",
           "Type": "url"
@@ -193930,7 +193934,7 @@
           "Type": "url"
         }
       },
-      "Hash": "e2caa48a44013d88a0e3ddc00fa9c02eb5734290e2a387fcf5571747e5fda98e"
+      "Hash": "81dc8548db8a520a1d4ff298cd873a5a6af3d9d18e4010f582a579872707d915"
     },
     "in:104ed53e-3c29-4d16-b89a-d322c9df5e9a": {
       "Key": "104ed53e-3c29-4d16-b89a-d322c9df5e9a",
