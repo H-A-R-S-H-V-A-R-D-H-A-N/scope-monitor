@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-29T10:15:30Z",
+  "captured_at": "2026-07-29T12:32:35Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -8111,6 +8111,123 @@
       "OutScope": {},
       "Hash": "b2395f50c837c6e013b1934fd907301dd85569594ab79f04eed7a637da28a9cf"
     },
+    "bc:Majid Al Futtaim Customer Solutions": {
+      "Key": "Majid Al Futtaim Customer Solutions",
+      "Name": "Majid Al Futtaim Customer Solutions",
+      "URL": "https://bugcrowd.com/engagements/majidalfuttaim-loyalty",
+      "InScope": {
+        "https://apps.apple.com/us/app/share-rewards/id1465450657": {
+          "ID": "https://apps.apple.com/us/app/share-rewards/id1465450657",
+          "Type": "ios"
+        },
+        "https://identity.majidalfuttaim.com": {
+          "ID": "https://identity.majidalfuttaim.com",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/0dfwUn870OFm3aebVTKv0xz1viKKyXlL": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/0dfwUn870OFm3aebVTKv0xz1viKKyXlL",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/8VdAQsuIqDPQhsNC1sNQtS2Jf7anninl": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/8VdAQsuIqDPQhsNC1sNQtS2Jf7anninl",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/9AHmz8YYRY6OVVTNHtLKjrFgwovO1eDE": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/9AHmz8YYRY6OVVTNHtLKjrFgwovO1eDE",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/9h0hkx6nBNSDuhTSFySzPgcFyXrHOVNI": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/9h0hkx6nBNSDuhTSFySzPgcFyXrHOVNI",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/C1o8u0aPez0Qs5W5TGa1Cbpxq8Ieb63G": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/C1o8u0aPez0Qs5W5TGa1Cbpxq8Ieb63G",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/I3ev7JpJpG4tmIKuXfQ5s29e1uUgtdaL": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/I3ev7JpJpG4tmIKuXfQ5s29e1uUgtdaL",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/VhYxO10cBfgbvQ1KzcO0XYIsz9kLahZ6": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/VhYxO10cBfgbvQ1KzcO0XYIsz9kLahZ6",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/abGQxSUDBML2iWEP9P1KWjxnUi7RwfT1": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/abGQxSUDBML2iWEP9P1KWjxnUi7RwfT1",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/bN1YiObxLzbCkU6z6lRdE8jpGgEM2bqG": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/bN1YiObxLzbCkU6z6lRdE8jpGgEM2bqG",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/gbYSXvAJqSRL0gb76oaWWBojroIDBJrb": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/gbYSXvAJqSRL0gb76oaWWBojroIDBJrb",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/gsUkX5A6BA7wJLQxEiIjdC8PDrNJ42Mo": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/gsUkX5A6BA7wJLQxEiIjdC8PDrNJ42Mo",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/hqrMBSRmjuH85ACKnBvUEvOoBJllGPWn": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/hqrMBSRmjuH85ACKnBvUEvOoBJllGPWn",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/kfwPMuCVbxNPvPpfDKiyvgVvHWmThXc8": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/kfwPMuCVbxNPvPpfDKiyvgVvHWmThXc8",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/mPbXCx7lA4dQNyEhhyCGMV6XKjuccbk8": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/mPbXCx7lA4dQNyEhhyCGMV6XKjuccbk8",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/p1Ji7cKQ7RG5KU3Jjuke5ZMG6vfWe0IV": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/p1Ji7cKQ7RG5KU3Jjuke5ZMG6vfWe0IV",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/v0uVcrcyayqiTSbRUJPAWz2YJNN1tHTy": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/v0uVcrcyayqiTSbRUJPAWz2YJNN1tHTy",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/xD3ktDwA9dnX1xNLig2S3oM8xvxXTnty": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/xD3ktDwA9dnX1xNLig2S3oM8xvxXTnty",
+          "Type": "website"
+        },
+        "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/zISrnnxfS19jUJTUAtnFaTUkAJ27r8mE": {
+          "ID": "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/zISrnnxfS19jUJTUAtnFaTUkAJ27r8mE",
+          "Type": "website"
+        },
+        "https://maf-holding-prod.apigee.net": {
+          "ID": "https://maf-holding-prod.apigee.net",
+          "Type": "api"
+        },
+        "https://play.google.com/store/apps/details?id=com.maf.share\u0026hl=en_US\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.maf.share\u0026hl=en_US\u0026gl=US",
+          "Type": "android"
+        },
+        "https://production.maf.auth0.com": {
+          "ID": "https://production.maf.auth0.com",
+          "Type": "api"
+        },
+        "https://production.maf.auth0.com/api/v2/": {
+          "ID": "https://production.maf.auth0.com/api/v2/",
+          "Type": "api"
+        },
+        "https://www.premogiftcards.com/": {
+          "ID": "https://www.premogiftcards.com/",
+          "Type": "website"
+        },
+        "https://www.sharerewards.com/": {
+          "ID": "https://www.sharerewards.com/",
+          "Type": "website"
+        },
+        "https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt": {
+          "ID": "https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt",
+          "Type": "api"
+        }
+      },
+      "OutScope": {},
+      "Hash": "d11f9faa8ac3ee7143ab494737e5b6f0e84f307d661b9bec4ed4850b93e21dba"
+    },
     "bc:Majid Al Futtaim Entertainment": {
       "Key": "Majid Al Futtaim Entertainment",
       "Name": "Majid Al Futtaim Entertainment",
@@ -8210,43 +8327,6 @@
         }
       },
       "Hash": "1b47fd6644cd0f51666188114a8793997e3b2fc3599dec4391adda1d9e44bffb"
-    },
-    "bc:Majid Al Futtaim Loyalty Program (Share Rewards)": {
-      "Key": "Majid Al Futtaim Loyalty Program (Share Rewards)",
-      "Name": "Majid Al Futtaim Loyalty Program (Share Rewards)",
-      "URL": "https://bugcrowd.com/engagements/majidalfuttaim-loyalty",
-      "InScope": {
-        "https://apps.apple.com/us/app/share-rewards/id1465450657": {
-          "ID": "https://apps.apple.com/us/app/share-rewards/id1465450657",
-          "Type": "ios"
-        },
-        "https://maf-holding-prod.apigee.net": {
-          "ID": "https://maf-holding-prod.apigee.net",
-          "Type": "api"
-        },
-        "https://play.google.com/store/apps/details?id=com.maf.share\u0026hl=en_US\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.maf.share\u0026hl=en_US\u0026gl=US",
-          "Type": "android"
-        },
-        "https://production.maf.auth0.com": {
-          "ID": "https://production.maf.auth0.com",
-          "Type": "api"
-        },
-        "https://production.maf.auth0.com/api/v2/": {
-          "ID": "https://production.maf.auth0.com/api/v2/",
-          "Type": "api"
-        },
-        "https://www.sharerewards.com/": {
-          "ID": "https://www.sharerewards.com/",
-          "Type": "website"
-        },
-        "https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt": {
-          "ID": "https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt",
-          "Type": "api"
-        }
-      },
-      "OutScope": {},
-      "Hash": "265908a2ff4a3d985f07ff5e1285976377bceb5a486cc9c191edcd8229481f4f"
     },
     "bc:Majid Al Futtaim Properties": {
       "Key": "Majid Al Futtaim Properties",
@@ -22941,7 +23021,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dc3db8956286cbd46c2a2d10edcc6e84f568d629d3ee8ecdbf116a7bba64e37b"
+      "Hash": "1ae44229230dfdbaed2c1c0286ca12e3676d51dbc88831e600e4dd169337a1dc"
     },
     "h1:abn_amro_vdp": {
       "Key": "abn_amro_vdp",
@@ -89128,7 +89208,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a73ae5fc755aa4c82fab2b78896b08c2a1bdada5110c7a7e5dc50452e2fe6253"
+      "Hash": "27bc8738002ba12e071111c4e6d017377d2a6cf4b8de349f2778fa30f5e0ed7a"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -95637,7 +95717,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "69dcd0a8795e7288607175199a78617dc7087b6f6e2cd426c8ede78e4ba5528b"
+      "Hash": "d80a73c6cf6665746b3f35de2298426a9ac9ca1e8df9595431c08e661fbd5902"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -101158,7 +101238,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "16beeaaaea051a08f729c88e53e19fac92bdf9127df1f744a28d5c7c90afa6e3"
+      "Hash": "e0c740c0168e0123802e5c683b167a84342b28b6f353be39d23ab7f2de753a4b"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -144981,7 +145061,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "71351f2f94dfab53c0982320f192f8213d0b032052a55582494b9598dc1e3162"
+      "Hash": "0324cfeb66b31ec09198b2d3c33f061ad7b09cd42dcd1d9634ff008cbd6205a2"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -165637,7 +165717,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9da46346776df91c4848d1b4376fbabd0973dfd80ed127fe32f3d8d08cbcad2c"
+      "Hash": "c7edb67706d86d3d48edf19c6c62c6c66bf5a43c31a1795439209688904c5521"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -170425,7 +170505,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d3d43ff021a487a03acf6a3cd33bcdabc7c739ca7951ee2e41d44a6b746fcc01"
+      "Hash": "22b2a0cc103810946d93147a90f8bf24d2ef5aaef8526c60a561f4674846c3e8"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -179872,7 +179952,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2b90f3aac035d47f6eadf71349227541759922a1a52ed36690b1d1db0f9da323"
+      "Hash": "8c4cdc73545c6c80ea6caa7a71b8a69a272ca6c5546c1439403b47464f4b2ecc"
     },
     "h1:polygon-technology": {
       "Key": "polygon-technology",
@@ -180596,7 +180676,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2b547e6fb4b717c9bc0392cef12c44a8c02401e049b5eaf23e21a0c1df491fa5"
+      "Hash": "732ae3363150ee58ac5606336f3d19821bb3c570f604a5b09b1ba6657e7f9f0d"
     },
     "h1:r3": {
       "Key": "r3",
@@ -184501,7 +184581,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a85b543f3c6f040309d1200183ad33be26819e96b0ca60ba680f7449e18597e8"
+      "Hash": "ad967d6f3549a73e20643e39a7bc4ecfb1bd89ca28b2e9a13f75a71f9e1208e2"
     },
     "h1:sony": {
       "Key": "sony",
@@ -185543,7 +185623,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e857e4bfed776677354191d6744ad2bd8484799bca2f7982a21852c0c5edd1c3"
+      "Hash": "84249c1d35a6beb10cc2a140962e746ef4d8598e114d8c83d5f7a2708793dcc2"
     },
     "h1:superhuman": {
       "Key": "superhuman",
@@ -187615,7 +187695,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "aa503ef1440004778c02d643504f1104e22329cc04026edfb66ee37f8bca2e98"
+      "Hash": "fa387aa27c8c217cbec64bbb2aa3d77e66f2a5f56d44538dbfa6eebde4a1cbeb"
     },
     "h1:tron_dao": {
       "Key": "tron_dao",
@@ -192056,7 +192136,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8da9f97ebdac2e9e2e56d812f5e88f4a0d59be3385d2f574db49dd471376af02"
+      "Hash": "feafc2d4dd1d64296d2f2ec720a53ec86d02434639297509dc4855b981c0cb58"
     },
     "h1:xvideos": {
       "Key": "xvideos",
