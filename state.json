@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-29T01:04:54Z",
+  "captured_at": "2026-07-29T04:27:39Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23531,7 +23531,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bd201c84e18899746a46f78630c9e730fb8a3e52014dd09f99d8c442857c3c82"
+      "Hash": "e3615ab1f57a11f0cbcd4f7ea2c7caecc8bce0abc4d14af209faed5d33696f9f"
     },
     "h1:aeromexico_vdp": {
       "Key": "aeromexico_vdp",
@@ -89128,7 +89128,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cb9163bc7a0c41895f0a007d30233d11c7c2000cad9167800a45ab7c5069a171"
+      "Hash": "a73ae5fc755aa4c82fab2b78896b08c2a1bdada5110c7a7e5dc50452e2fe6253"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -168596,7 +168596,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "22b9028560f5a305706d7fc51f7a7c6eb36ffb6b484f0b9c4ae4e36acfba2bf5"
+      "Hash": "554274b09c2f0727171f7d8aa84f46c14551bc8ef9d33c0359565411daea5e62"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -179590,7 +179590,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "820b9dceb3956fe08a4c73ace58452d201e662ec8b50faa6741ad36181dc2b5b"
+      "Hash": "a149338a3c3cc98869077e8d50e4f77c6f7267f07a018ca986b0ebb63cb6b010"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -182900,7 +182900,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d3e7122e4c875692457fe2c8a73b4c6b92c187def4b44643b723087db5cda5f6"
+      "Hash": "72424c7db63274abb05056a204ecbe6b9b8a6ef73e237ad1ea7df951b2d52c0a"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -192580,7 +192580,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "94ac5adc7f409087a9dffc4aea10848be885a720b2f9a827cc4eafb792c04ef6"
+      "Hash": "a6fa831b57a23e8e6affabdddce07b03c416e25d24a0c0d57e4cbfc482d38b8f"
     },
     "h1:zooplus": {
       "Key": "zooplus",
@@ -199880,91 +199880,6 @@
       },
       "OutScope": {},
       "Hash": "d51e28caf92f8c6c953939c67294e1936e2bd977e27ea4a199455d913ed0ac4d"
-    },
-    "in:d14eedce-607d-4233-995d-30dbc7de8f23": {
-      "Key": "d14eedce-607d-4233-995d-30dbc7de8f23",
-      "Name": "Delen Private Bank",
-      "URL": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
-      "InScope": {
-        "api.digital.delen.be ": {
-          "ID": "api.digital.delen.be ",
-          "Type": "url"
-        },
-        "api.digital.delen.lu ": {
-          "ID": "api.digital.delen.lu ",
-          "Type": "url"
-        },
-        "app.delen.be ": {
-          "ID": "app.delen.be ",
-          "Type": "url"
-        },
-        "app.delen.ch ": {
-          "ID": "app.delen.ch ",
-          "Type": "url"
-        },
-        "app.delen.lu ": {
-          "ID": "app.delen.lu ",
-          "Type": "url"
-        },
-        "auth.digital.delen.be ": {
-          "ID": "auth.digital.delen.be ",
-          "Type": "url"
-        },
-        "auth.digital.delen.lu ": {
-          "ID": "auth.digital.delen.lu ",
-          "Type": "url"
-        },
-        "be.delen.digital": {
-          "ID": "be.delen.digital",
-          "Type": "android"
-        },
-        "delen/id1064839588": {
-          "ID": "delen/id1064839588",
-          "Type": "ios"
-        },
-        "login.delen.be ": {
-          "ID": "login.delen.be ",
-          "Type": "url"
-        },
-        "login.delen.ch ": {
-          "ID": "login.delen.ch ",
-          "Type": "url"
-        },
-        "login.delen.lu ": {
-          "ID": "login.delen.lu ",
-          "Type": "url"
-        },
-        "login.oyens.com": {
-          "ID": "login.oyens.com",
-          "Type": "url"
-        },
-        "status.delen.be ": {
-          "ID": "status.delen.be ",
-          "Type": "url"
-        },
-        "sts.delen.be ": {
-          "ID": "sts.delen.be ",
-          "Type": "url"
-        },
-        "www.cadelam.be ": {
-          "ID": "www.cadelam.be ",
-          "Type": "url"
-        },
-        "www.cadelux.lu/en ": {
-          "ID": "www.cadelux.lu/en ",
-          "Type": "url"
-        },
-        "www.delen.bank": {
-          "ID": "www.delen.bank",
-          "Type": "url"
-        },
-        "www.delen.be/en ": {
-          "ID": "www.delen.be/en ",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "154ce7ce544b3f1aec1c65b86b296e68552b0fa2f18107510971315829e075db"
     },
     "in:d489d81f-6b42-4ef1-b7f8-f16d9b404621": {
       "Key": "d489d81f-6b42-4ef1-b7f8-f16d9b404621",
