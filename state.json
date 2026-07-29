@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-29T14:56:41Z",
+  "captured_at": "2026-07-29T16:37:26Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23021,7 +23021,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1ae44229230dfdbaed2c1c0286ca12e3676d51dbc88831e600e4dd169337a1dc"
+      "Hash": "213179ff4918e89626527756748a73164dbc91a85e0d780d40c51562b9ecaaa1"
     },
     "h1:abn_amro_vdp": {
       "Key": "abn_amro_vdp",
@@ -24729,7 +24729,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4946fe42d5ba184e198ed4754220a521ef29f5093627dd20e509747de7dad5cd"
+      "Hash": "ce3aa864f7e74cac7a3084ff3f2fc9846b81686217a015c46b72e34f0ded39fa"
     },
     "h1:alohi": {
       "Key": "alohi",
@@ -26372,7 +26372,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c998ad1e39263b6c464688fff8e89c88b7e97dbc7139f8bf8da6b1982641c063"
+      "Hash": "fb12cdd12b1c9f42ed7f7e7a6f55ee6bba1a65d56b8b493f7d672bf8d6817815"
     },
     "h1:aon": {
       "Key": "aon",
@@ -30384,7 +30384,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "501f2dc7a8219c602905de9ccdd50e8df088fe7c96ed32fce45018356e2d6876"
+      "Hash": "0bbaed8e265b9d254b1933a8c3090718d5c83382e21e981c2fb661aaf0595bf7"
     },
     "h1:bankunited": {
       "Key": "bankunited",
@@ -99066,7 +99066,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5561501cb9863449a7463e38a46e6593eba0f72b318874af15d0daf9faefe2b0"
+      "Hash": "81703b1552d60d96fdc8f724265d691ccc3b37de35e138597bd1f696c1066908"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -104312,7 +104312,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b8c7aa64fd342afb89daf492c7a381250a2dfb2ccc2035e60e6f3dd35ca2c8b5"
+      "Hash": "166ed421662d8d44308033461c2b83240709d56e98145f732cabb9bb1f4ab653"
     },
     "h1:files": {
       "Key": "files",
@@ -158788,6 +158788,10 @@
           "ID": "deere.co.in",
           "Type": "URL"
         },
+        "deeresight-backend.isg-et-tag-qual-floating.us.e01.c01.johndeerecloud.com": {
+          "ID": "deeresight-backend.isg-et-tag-qual-floating.us.e01.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
         "deploy.spark.ai": {
           "ID": "deploy.spark.ai",
           "Type": "URL"
@@ -161202,6 +161206,10 @@
         },
         "node.myvirtualsuper.com": {
           "ID": "node.myvirtualsuper.com",
+          "Type": "URL"
+        },
+        "non-raster-data.isg-et-tag-sandbox-standalone.us.e01.c01.johndeerecloud.com": {
+          "ID": "non-raster-data.isg-et-tag-sandbox-standalone.us.e01.c01.johndeerecloud.com",
           "Type": "URL"
         },
         "notifications.deere.com": {
@@ -165083,7 +165091,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "796bbc580ab06c7f663cbfd74b8cedb04100d9c0346bda56e6535960f330519d"
+      "Hash": "248a307ce3502556dcc1fe38e3e59d4fbf4f6a7725f8cc57256a7112bf1299ce"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -166916,7 +166924,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cb59ba8f12a7f871554783a2711e94f1571ce91004e0171f4755d9e5f3764a42"
+      "Hash": "727839ed0948cd2c89e4c135d0f7eacaae93d62fd55bc6a5b148657b8fc01228"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -168934,7 +168942,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "876102ec02f99678cffc2112691a737a30c6ce6e745b716564d0af319399f8da"
+      "Hash": "0d086640d358893fc888e76feef11393ce33a7dc326d7b45afdfaeba9f257489"
     },
     "h1:mendix": {
       "Key": "mendix",
@@ -170547,7 +170555,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4db6b33598bd3aa1fcd9c5f6bcace954bbbb91081e7fbe9c5c14add41e612b3a"
+      "Hash": "d079bf172ec03c0f648fc14c10fef7a870db0be312421b62b8a10463e450a1fd"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -170881,7 +170889,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2ce14a1cb42a2d3f216dc28f4122e490f7e2eabc0ea61ca985406d16c6b0dc39"
+      "Hash": "0c984c47ae59541e4fef66aad0f4f76f04976eaa5432b3453dc96dbb91fd7501"
     },
     "h1:moov": {
       "Key": "moov",
@@ -173883,6 +173891,42 @@
           "ID": "aguacaliente.gleague.nba.com",
           "Type": "URL"
         },
+        "ak-static-dev.nba.com": {
+          "ID": "ak-static-dev.nba.com",
+          "Type": "URL"
+        },
+        "ak-static.cms-dev.nba.com": {
+          "ID": "ak-static.cms-dev.nba.com",
+          "Type": "URL"
+        },
+        "ak-static.cms-qa.nba.com": {
+          "ID": "ak-static.cms-qa.nba.com",
+          "Type": "URL"
+        },
+        "ak-static.cms.nba.com": {
+          "ID": "ak-static.cms.nba.com",
+          "Type": "URL"
+        },
+        "allstar-dev.nba.com": {
+          "ID": "allstar-dev.nba.com",
+          "Type": "URL"
+        },
+        "amp-nba-dev.nba.com": {
+          "ID": "amp-nba-dev.nba.com",
+          "Type": "URL"
+        },
+        "amp-nba-stage.nba.com": {
+          "ID": "amp-nba-stage.nba.com",
+          "Type": "URL"
+        },
+        "amp-nba.nba.com": {
+          "ID": "amp-nba.nba.com",
+          "Type": "URL"
+        },
+        "api.nba.com": {
+          "ID": "api.nba.com",
+          "Type": "URL"
+        },
         "austin-dev.gleague.nba.com": {
           "ID": "austin-dev.gleague.nba.com",
           "Type": "URL"
@@ -173951,6 +173995,10 @@
           "ID": "bal.nba.com",
           "Type": "URL"
         },
+        "bealegend.nba.com": {
+          "ID": "bealegend.nba.com",
+          "Type": "URL"
+        },
         "birmingham-dev.gleague.nba.com": {
           "ID": "birmingham-dev.gleague.nba.com",
           "Type": "URL"
@@ -174011,12 +174059,44 @@
           "ID": "capitanes.gleague.nba.com",
           "Type": "URL"
         },
+        "cares-dev.nba.com": {
+          "ID": "cares-dev.nba.com",
+          "Type": "URL"
+        },
+        "cares-qa.nba.com": {
+          "ID": "cares-qa.nba.com",
+          "Type": "URL"
+        },
         "cares.nba.com": {
           "ID": "cares.nba.com",
           "Type": "URL"
         },
+        "cdn-bal-dev.nba.com": {
+          "ID": "cdn-bal-dev.nba.com",
+          "Type": "URL"
+        },
+        "cdn-bal-qa.nba.com": {
+          "ID": "cdn-bal-qa.nba.com",
+          "Type": "URL"
+        },
+        "cdn-bal-uat.nba.com": {
+          "ID": "cdn-bal-uat.nba.com",
+          "Type": "URL"
+        },
         "cdn-bal.nba.com": {
           "ID": "cdn-bal.nba.com",
+          "Type": "URL"
+        },
+        "cdn-dev.nba.com": {
+          "ID": "cdn-dev.nba.com",
+          "Type": "URL"
+        },
+        "cdn-gleague-dev.nba.com": {
+          "ID": "cdn-gleague-dev.nba.com",
+          "Type": "URL"
+        },
+        "cdn-gleague-qa.nba.com": {
+          "ID": "cdn-gleague-qa.nba.com",
           "Type": "URL"
         },
         "cdn-gleague.nba.com": {
@@ -174027,8 +174107,16 @@
           "ID": "cdn-qa.gleague.nba.com",
           "Type": "URL"
         },
+        "cdn-qa.nba.com": {
+          "ID": "cdn-qa.nba.com",
+          "Type": "URL"
+        },
         "cdn-uat.gleague.nba.com": {
           "ID": "cdn-uat.gleague.nba.com",
+          "Type": "URL"
+        },
+        "cdn-uat.nba.com": {
+          "ID": "cdn-uat.nba.com",
           "Type": "URL"
         },
         "cdn.gleague.nba.com": {
@@ -174037,6 +174125,10 @@
         },
         "cdn.nba.com": {
           "ID": "cdn.nba.com",
+          "Type": "URL"
+        },
+        "cl-qa.nba.com": {
+          "ID": "cl-qa.nba.com",
           "Type": "URL"
         },
         "cl.nba.com": {
@@ -174051,6 +174143,14 @@
           "ID": "cms.nba.com",
           "Type": "URL"
         },
+        "coalition-dev.nba.com": {
+          "ID": "coalition-dev.nba.com",
+          "Type": "URL"
+        },
+        "coalition-qa.nba.com": {
+          "ID": "coalition-qa.nba.com",
+          "Type": "URL"
+        },
         "com.nbaimd.gametime.nba2011": {
           "ID": "com.nbaimd.gametime.nba2011",
           "Type": "GOOGLE_PLAY_APP_ID"
@@ -174058,6 +174158,22 @@
         "com.nbaimd.gametime.universal": {
           "ID": "com.nbaimd.gametime.universal",
           "Type": "APPLE_STORE_APP_ID"
+        },
+        "communityassist.nba.com": {
+          "ID": "communityassist.nba.com",
+          "Type": "URL"
+        },
+        "contact-dev.nba.com": {
+          "ID": "contact-dev.nba.com",
+          "Type": "URL"
+        },
+        "contact-qa.nba.com": {
+          "ID": "contact-qa.nba.com",
+          "Type": "URL"
+        },
+        "contact.nba.com": {
+          "ID": "contact.nba.com",
+          "Type": "URL"
         },
         "content-api-dev.nba.com": {
           "ID": "content-api-dev.nba.com",
@@ -174147,8 +174263,20 @@
           "ID": "core-api.nba.com",
           "Type": "URL"
         },
+        "coronavirus.nba.com": {
+          "ID": "coronavirus.nba.com",
+          "Type": "URL"
+        },
         "corp-dev.nba.com": {
           "ID": "corp-dev.nba.com",
+          "Type": "URL"
+        },
+        "corp.nba.com": {
+          "ID": "corp.nba.com",
+          "Type": "URL"
+        },
+        "courtside.nba.com": {
+          "ID": "courtside.nba.com",
           "Type": "URL"
         },
         "cpskyhawks-dev.gleague.nba.com": {
@@ -174287,8 +174415,16 @@
           "ID": "detroit.gleague.nba.com",
           "Type": "URL"
         },
+        "dev.courtside.nba.com": {
+          "ID": "dev.courtside.nba.com",
+          "Type": "URL"
+        },
         "dev.stats.gleague.nba.com": {
           "ID": "dev.stats.gleague.nba.com",
+          "Type": "URL"
+        },
+        "dev.stats.nba.com": {
+          "ID": "dev.stats.nba.com",
           "Type": "URL"
         },
         "dream-dev.wnba.com": {
@@ -174305,6 +174441,14 @@
         },
         "dream.wnba.com": {
           "ID": "dream.wnba.com",
+          "Type": "URL"
+        },
+        "ec2-redirect-west.nba.com": {
+          "ID": "ec2-redirect-west.nba.com",
+          "Type": "URL"
+        },
+        "ec2redirect-west.nba.com": {
+          "ID": "ec2redirect-west.nba.com",
           "Type": "URL"
         },
         "elm.nba.com": {
@@ -174351,6 +174495,10 @@
           "ID": "fire.wnba.com",
           "Type": "URL"
         },
+        "fit.nba.com": {
+          "ID": "fit.nba.com",
+          "Type": "URL"
+        },
         "fortwayne-dev.gleague.nba.com": {
           "ID": "fortwayne-dev.gleague.nba.com",
           "Type": "URL"
@@ -174367,6 +174515,10 @@
           "ID": "gamenotes.nba.com",
           "Type": "URL"
         },
+        "gatoradetrainingcenter.nba.com": {
+          "ID": "gatoradetrainingcenter.nba.com",
+          "Type": "URL"
+        },
         "gleague-dev.nba.com": {
           "ID": "gleague-dev.nba.com",
           "Type": "URL"
@@ -174377,6 +174529,26 @@
         },
         "gleague.nba.com": {
           "ID": "gleague.nba.com",
+          "Type": "URL"
+        },
+        "globalstores-dev.nba.com": {
+          "ID": "globalstores-dev.nba.com",
+          "Type": "URL"
+        },
+        "globalstores-qa.nba.com": {
+          "ID": "globalstores-qa.nba.com",
+          "Type": "URL"
+        },
+        "globalstores.nba.com": {
+          "ID": "globalstores.nba.com",
+          "Type": "URL"
+        },
+        "gms-prev.nba.com": {
+          "ID": "gms-prev.nba.com",
+          "Type": "URL"
+        },
+        "gms.nba.com": {
+          "ID": "gms.nba.com",
           "Type": "URL"
         },
         "grae.nba.com": {
@@ -174395,6 +174567,10 @@
           "ID": "grandrapids.gleague.nba.com",
           "Type": "URL"
         },
+        "green.nba.com": {
+          "ID": "green.nba.com",
+          "Type": "URL"
+        },
         "greensboro-dev.gleague.nba.com": {
           "ID": "greensboro-dev.gleague.nba.com",
           "Type": "URL"
@@ -174405,6 +174581,14 @@
         },
         "greensboro.gleague.nba.com": {
           "ID": "greensboro.gleague.nba.com",
+          "Type": "URL"
+        },
+        "hoopsfortroops.nba.com": {
+          "ID": "hoopsfortroops.nba.com",
+          "Type": "URL"
+        },
+        "huddle.nba.com": {
+          "ID": "huddle.nba.com",
           "Type": "URL"
         },
         "id.nba.com": {
@@ -174479,6 +174663,22 @@
           "ID": "ignite.gleague.nba.com",
           "Type": "URL"
         },
+        "inclusion-dev.nba.com": {
+          "ID": "inclusion-dev.nba.com",
+          "Type": "URL"
+        },
+        "inclusion-qa.nba.com": {
+          "ID": "inclusion-qa.nba.com",
+          "Type": "URL"
+        },
+        "inclusion.nba.com": {
+          "ID": "inclusion.nba.com",
+          "Type": "URL"
+        },
+        "indiaontrack.nba.com": {
+          "ID": "indiaontrack.nba.com",
+          "Type": "URL"
+        },
         "iowa-dev.gleague.nba.com": {
           "ID": "iowa-dev.gleague.nba.com",
           "Type": "URL"
@@ -174489,6 +174689,18 @@
         },
         "iowa.gleague.nba.com": {
           "ID": "iowa.gleague.nba.com",
+          "Type": "URL"
+        },
+        "jrnbaworldchampionship-QA.nba.com": {
+          "ID": "jrnbaworldchampionship-QA.nba.com",
+          "Type": "URL"
+        },
+        "jrnbaworldchampionship-dev.nba.com": {
+          "ID": "jrnbaworldchampionship-dev.nba.com",
+          "Type": "URL"
+        },
+        "jrnbaworldchampionship.nba.com": {
+          "ID": "jrnbaworldchampionship.nba.com",
           "Type": "URL"
         },
         "lakeland-dev.gleague.nba.com": {
@@ -174521,6 +174733,10 @@
         },
         "lockervision.nba.com": {
           "ID": "lockervision.nba.com",
+          "Type": "URL"
+        },
+        "lockervisionteam.nba.com": {
+          "ID": "lockervisionteam.nba.com",
           "Type": "URL"
         },
         "login-dev.nba.com": {
@@ -174659,6 +174875,18 @@
           "ID": "mcdalerts.nba.com",
           "Type": "URL"
         },
+        "mediaavail.nba.com": {
+          "ID": "mediaavail.nba.com",
+          "Type": "URL"
+        },
+        "mediaday.nba.com": {
+          "ID": "mediaday.nba.com",
+          "Type": "URL"
+        },
+        "meetings.nba.com": {
+          "ID": "meetings.nba.com",
+          "Type": "URL"
+        },
         "memphis-dev.gleague.nba.com": {
           "ID": "memphis-dev.gleague.nba.com",
           "Type": "URL"
@@ -174687,6 +174915,10 @@
           "ID": "mercury.wnba.com",
           "Type": "URL"
         },
+        "mexicogames.nba.com": {
+          "ID": "mexicogames.nba.com",
+          "Type": "URL"
+        },
         "motorcity.gleague.nba.com": {
           "ID": "motorcity.gleague.nba.com",
           "Type": "URL"
@@ -174707,6 +174939,30 @@
           "ID": "mystics.wnba.com",
           "Type": "URL"
         },
+        "nba-ar-app.nba.com": {
+          "ID": "nba-ar-app.nba.com",
+          "Type": "URL"
+        },
+        "nba.com": {
+          "ID": "nba.com",
+          "Type": "URL"
+        },
+        "nbaacademy-dev.nba.com": {
+          "ID": "nbaacademy-dev.nba.com",
+          "Type": "URL"
+        },
+        "nbaacademy-qa.nba.com": {
+          "ID": "nbaacademy-qa.nba.com",
+          "Type": "URL"
+        },
+        "nbaacademy.nba.com": {
+          "ID": "nbaacademy.nba.com",
+          "Type": "URL"
+        },
+        "nbabroadcastmanuals.nba.com": {
+          "ID": "nbabroadcastmanuals.nba.com",
+          "Type": "URL"
+        },
         "nbafedsvc-dev.nba.com": {
           "ID": "nbafedsvc-dev.nba.com",
           "Type": "URL"
@@ -174719,6 +174975,26 @@
           "ID": "nbafedsvc.nba.com",
           "Type": "URL"
         },
+        "nbaholidaycard-dev.nba.com": {
+          "ID": "nbaholidaycard-dev.nba.com",
+          "Type": "URL"
+        },
+        "nbaholidaycard-qa.nba.com": {
+          "ID": "nbaholidaycard-qa.nba.com",
+          "Type": "URL"
+        },
+        "nbaholidaycard.nba.com": {
+          "ID": "nbaholidaycard.nba.com",
+          "Type": "URL"
+        },
+        "nbaintl.nba.com": {
+          "ID": "nbaintl.nba.com",
+          "Type": "URL"
+        },
+        "nbameeting.nba.com": {
+          "ID": "nbameeting.nba.com",
+          "Type": "URL"
+        },
         "northernarizona-dev.gleague.nba.com": {
           "ID": "northernarizona-dev.gleague.nba.com",
           "Type": "URL"
@@ -174729,6 +175005,10 @@
         },
         "northernarizona.gleague.nba.com": {
           "ID": "northernarizona.gleague.nba.com",
+          "Type": "URL"
+        },
+        "nycbasketball.nba.com": {
+          "ID": "nycbasketball.nba.com",
           "Type": "URL"
         },
         "oklahomacity-dev.gleague.nba.com": {
@@ -174747,6 +175027,18 @@
           "ID": "ontario.gleague.nba.com",
           "Type": "URL"
         },
+        "pdfroster-dev.nba.com": {
+          "ID": "pdfroster-dev.nba.com",
+          "Type": "URL"
+        },
+        "pdfroster-qa.nba.com": {
+          "ID": "pdfroster-qa.nba.com",
+          "Type": "URL"
+        },
+        "pdfroster.nba.com": {
+          "ID": "pdfroster.nba.com",
+          "Type": "URL"
+        },
         "portland-dev.wnba.com": {
           "ID": "portland-dev.wnba.com",
           "Type": "URL"
@@ -174757,6 +175049,10 @@
         },
         "portland.wnba.com": {
           "ID": "portland.wnba.com",
+          "Type": "URL"
+        },
+        "qa.stats.nba.com": {
+          "ID": "qa.stats.nba.com",
           "Type": "URL"
         },
         "raptors905-dev.gleague.nba.com": {
@@ -174895,8 +175191,16 @@
           "ID": "stats-dev.nba.com",
           "Type": "URL"
         },
+        "stats-qa.gleague.nba.com": {
+          "ID": "stats-qa.gleague.nba.com",
+          "Type": "URL"
+        },
         "stats-qa.nba.com": {
           "ID": "stats-qa.nba.com",
+          "Type": "URL"
+        },
+        "stats-querytoolapi.nba.com": {
+          "ID": "stats-querytoolapi.nba.com",
           "Type": "URL"
         },
         "stats-trafficcop-aws-dev.nba.com": {
@@ -174979,6 +175283,14 @@
           "ID": "sun.wnba.com",
           "Type": "URL"
         },
+        "syndication-dev.nba.com": {
+          "ID": "syndication-dev.nba.com",
+          "Type": "URL"
+        },
+        "syndication-qa.nba.com": {
+          "ID": "syndication-qa.nba.com",
+          "Type": "URL"
+        },
         "syndication.nba.com": {
           "ID": "syndication.nba.com",
           "Type": "URL"
@@ -175003,6 +175315,10 @@
           "ID": "tempo.wnba.com",
           "Type": "URL"
         },
+        "thisiswhyweplay.nba.com": {
+          "ID": "thisiswhyweplay.nba.com",
+          "Type": "URL"
+        },
         "valkyries-dev.wnba.com": {
           "ID": "valkyries-dev.wnba.com",
           "Type": "URL"
@@ -175015,12 +175331,36 @@
           "ID": "valkyries.wnba.com",
           "Type": "URL"
         },
+        "videorulebook-dev.nba.com": {
+          "ID": "videorulebook-dev.nba.com",
+          "Type": "URL"
+        },
+        "videorulebook-qa.nba.com": {
+          "ID": "videorulebook-qa.nba.com",
+          "Type": "URL"
+        },
+        "videorulebook.nba.com": {
+          "ID": "videorulebook.nba.com",
+          "Type": "URL"
+        },
+        "voices.nba.com": {
+          "ID": "voices.nba.com",
+          "Type": "URL"
+        },
         "vote.nba.com": {
           "ID": "vote.nba.com",
           "Type": "URL"
         },
         "vth.nba.com": {
           "ID": "vth.nba.com",
+          "Type": "URL"
+        },
+        "watch-ng.nba.com": {
+          "ID": "watch-ng.nba.com",
+          "Type": "URL"
+        },
+        "watch.global.nba.com": {
+          "ID": "watch.global.nba.com",
           "Type": "URL"
         },
         "wings-dev.wnba.com": {
@@ -175039,6 +175379,10 @@
           "ID": "wings.wnba.com",
           "Type": "URL"
         },
+        "www-all.nba.com": {
+          "ID": "www-all.nba.com",
+          "Type": "URL"
+        },
         "www-dev.nba.com": {
           "ID": "www-dev.nba.com",
           "Type": "URL"
@@ -175049,6 +175393,10 @@
         },
         "www-ng.nba.com": {
           "ID": "www-ng.nba.com",
+          "Type": "URL"
+        },
+        "www-prod.nba.com": {
+          "ID": "www-prod.nba.com",
           "Type": "URL"
         },
         "www-qa.nba.com": {
@@ -175142,7 +175490,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "daa1dc8c5ffdbfae110ccf4535d0de42f55790ddde5ddd373c3e2a97508c6d06"
+      "Hash": "68d0ad7562857dd758dc8fbaa71b581302d1aeb6f9f4b71a53ac8103ce076b46"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -175448,7 +175796,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d3eae690eb45515500f45ec07325a8904f88f27615fc5c5f282813245b204d52"
+      "Hash": "ef990fea067260ce35994513ec7319bd1da1e18f2c88f4575ad881cb56e68177"
     },
     "h1:newegg": {
       "Key": "newegg",
@@ -180458,7 +180806,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0181293d57ddeeafe482159666daf1ac5c436fd2fb3934beca43aec4900f5813"
+      "Hash": "97e1d0186f8bff9e3f37ec417df43b363bb3b5e0f1835a453015cd544528b262"
     },
     "h1:prudential-financial": {
       "Key": "prudential-financial",
@@ -180769,7 +181117,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bb2ff88d82e1d972c554daa09eff5cafccdba7dc0ec879414bf5d8eafbc84ac2"
+      "Hash": "edd5b3dc3ac17eeebe283dc9071d82fa019ff21d95fdb22bcfd33a5e3d530807"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -181227,7 +181575,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f5cdf56e1c7d0e354af138a82cbbf9094ad838f958a4e85f4b39182fc76639c2"
+      "Hash": "c0e143f2992cdf4e29a342a71557423ba20cd9e713490973ca7b358e2ec48b07"
     },
     "h1:rei_vdp": {
       "Key": "rei_vdp",
@@ -183553,7 +183901,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cf5a6ba896877f8a14c5c572ddb1a7f54b2bc724bbce47087284bc40a42b1790"
+      "Hash": "4dc2fa6135d36e523e44988240da1014a9a8d1bec3b7adb3216ea158ae4b938b"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -189176,9 +189524,21 @@
           "ID": "*.varonis.io",
           "Type": "WILDCARD"
         },
-        "*.varonis.net": {
-          "ID": "*.varonis.net",
-          "Type": "WILDCARD"
+        "downloads.varonis.com": {
+          "ID": "downloads.varonis.com",
+          "Type": "URL"
+        },
+        "licensemgmt.varonis.com": {
+          "ID": "licensemgmt.varonis.com",
+          "Type": "URL"
+        },
+        "my.varonis.com": {
+          "ID": "my.varonis.com",
+          "Type": "URL"
+        },
+        "support.varonis.com": {
+          "ID": "support.varonis.com",
+          "Type": "URL"
         }
       },
       "OutScope": {
@@ -189195,7 +189555,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "91d2ac4e49583726be03d0df7102aec4dcc504b20bf71fcfe2f28bb5e03bbb9c"
+      "Hash": "98e19cc67acd33eb7bb1cf23a5b9335edf81af303c0e1f0035413a016594d1ff"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
