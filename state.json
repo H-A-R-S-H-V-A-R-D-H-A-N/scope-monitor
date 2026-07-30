@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-30T17:07:40Z",
+  "captured_at": "2026-07-30T18:59:14Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26173,7 +26173,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "356132296ac0118c1eae2b4804eb52445fa9972d0cb3a1f024be2a1faccd87c6"
+      "Hash": "d32166107257a3f09501ac7a384dd63fa775b9bb2aca432239dab030581c3a78"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -67510,7 +67510,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "419e4c6c813f47705018cf51b215547c9a988fab31416df4aae139761234556e"
+      "Hash": "f7bc6d9b810e87965660760591499a4ffc66365a78e87ef778d9d15a2137b856"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -102198,7 +102198,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f66087b0d806313ffb054e726c915045b5086f35abe5e3eeaf5bd8cb0e9ee523"
+      "Hash": "a148512f57fbd5a210bfaf88b0f53b4be2e8c4d075a22d4ec4fe175d28cfa60e"
     },
     "h1:faraday_inc": {
       "Key": "faraday_inc",
@@ -144982,7 +144982,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3ca3baa5520d04a9c501739f62b59e8fb9a2b2a48a3895df16d2e23b2c7fe604"
+      "Hash": "aaafeb712ca80ef2295c882cc332dc66d634678bfa15a386aa291e5ca9d7f9ec"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -145816,7 +145816,7 @@
       "URL": "https://hackerone.com/godaddy-vdp",
       "InScope": {},
       "OutScope": {},
-      "Hash": "b8cb1b4559131ba017e36a10b091a971d30a3b3856416cd29ac34a2ff0696312"
+      "Hash": "2d8ee2ab855fd6fa6a81e6dcf691dd4212ba0be07ec4025c3b76a4ab94d80dbf"
     },
     "h1:gogo_vdp": {
       "Key": "gogo_vdp",
@@ -158033,6 +158033,10 @@
           "ID": "api.expertconnect.deere.com",
           "Type": "URL"
         },
+        "api.jd-exam.com": {
+          "ID": "api.jd-exam.com",
+          "Type": "URL"
+        },
         "api.mfg-manufacturing-center-prod-vpn.use1.e11.c01.johndeerecloud.com/": {
           "ID": "api.mfg-manufacturing-center-prod-vpn.use1.e11.c01.johndeerecloud.com/",
           "Type": "URL"
@@ -158071,6 +158075,10 @@
         },
         "apistaging2.sentera.com": {
           "ID": "apistaging2.sentera.com",
+          "Type": "URL"
+        },
+        "app-pulse.deere.com": {
+          "ID": "app-pulse.deere.com",
           "Type": "URL"
         },
         "app.agrisync.com": {
@@ -163417,6 +163425,10 @@
           "ID": "vistaar.tal.deere.com",
           "Type": "URL"
         },
+        "visualai.deere.com": {
+          "ID": "visualai.deere.com",
+          "Type": "URL"
+        },
         "visualai.ea-advtech-sandbox-vpn.us.e05.c01.johndeerecloud.com": {
           "ID": "visualai.ea-advtech-sandbox-vpn.us.e05.c01.johndeerecloud.com",
           "Type": "URL"
@@ -165260,7 +165272,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bf38503332c3226dce2b98172e498e83f7353c5ad328fc016f497e4f2489d432"
+      "Hash": "3155cddfc2d12236028ee8c87fb431e8799766a305ee8c1c1bba052035b621fc"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -189495,7 +189507,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "03e147eb4fd43e9cac8c0012754f62aa642f8b926249cc7c892a43b811c41892"
+      "Hash": "8910d0a1cf504d29578b049ce6aed66795d821dde683650c5503ac0b2a203e09"
     },
     "h1:usps": {
       "Key": "usps",
@@ -190363,7 +190375,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7192884860cc84e6c9366eb1b77b90e436ec225db53d22740b8f86c57d7816ac"
+      "Hash": "37388a6342a7cfb20248e0f7d12ceca24ab4df9af903bfaca123d89d4ab8c673"
     },
     "h1:vimeo": {
       "Key": "vimeo",
@@ -192797,7 +192809,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "df857ca1a9754a2b7ec95ed116c1ab5a0e6272551e3ad05408f31d62e8d5dec0"
+      "Hash": "bd4c53b25e34e676b043668c09ac1f4bdcc8cf50452828354ddb075163146f5e"
     },
     "h1:yoti": {
       "Key": "yoti",
