@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-30T15:34:35Z",
+  "captured_at": "2026-07-30T17:07:40Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -27604,6 +27604,10 @@
       "Name": "Assa Abloy Americas",
       "URL": "https://hackerone.com/assa_abloy_americas",
       "InScope": {
+        "adamsrite.com": {
+          "ID": "adamsrite.com",
+          "Type": "URL"
+        },
         "https://accentra.assaabloy.com": {
           "ID": "https://accentra.assaabloy.com",
           "Type": "URL"
@@ -27750,7 +27754,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "71623550433fd65fd35cfcd0889fdf1618126b035ae56be27a7d046ba47c7f6a"
+      "Hash": "a4baf93d64e95a4743d29a5c5989167e2e70b9a844de150d9afedf1fc1f075b7"
     },
     "h1:att": {
       "Key": "att",
@@ -30861,7 +30865,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "53e33db0df1e822881d4854b082b311de5c60a37fac7b736d93972a59102ee5c"
+      "Hash": "9ac4d78e13672b4f250a0e879b70626e88f11fec6199ba2b978ddaa28476a3c5"
     },
     "h1:bitwarden": {
       "Key": "bitwarden",
@@ -87649,7 +87653,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f7477a7e0b6186d10d3203e681324cc5730f299993865ec24cd7757421d51a87"
+      "Hash": "7fae80e5662647d2247733df6d039c9bd420ef4be4d69316a2cf8281ce6cff03"
     },
     "h1:clear": {
       "Key": "clear",
@@ -88441,7 +88445,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c3354eb6d118b08ae1fbd6da25d62f658aa7514fcd89c1cb1ee143ae81644f2d"
+      "Hash": "e6bb28547cf70f12757a83b1733f142bcc5b51ddacd1282c2b0316bedf18b906"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -88637,7 +88641,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "dd8b4236472913b6cc5c893fea0446bd456af61ad2caf62931bd83b3bb541c23"
+      "Hash": "7e4d5067fea7847dae283b428eca5efea724a313e6d08d0afee8493d74164833"
     },
     "h1:corebridge_financial": {
       "Key": "corebridge_financial",
@@ -101399,7 +101403,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "16beeaaaea051a08f729c88e53e19fac92bdf9127df1f744a28d5c7c90afa6e3"
+      "Hash": "642d9d67e4533ba47eed5d55981fa98c6284c29b76896a68ee6782ab498f7bde"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -101453,7 +101457,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8fa0e0b438aa5f54cb215d54fbb6061b8542b0e3f1a56a8d36348c27a7664db4"
+      "Hash": "a4b544e6717f6bcf52f09b111289d3a4b748b12f8c4579f02feafbd6bad7fbef"
     },
     "h1:exness": {
       "Key": "exness",
@@ -104539,7 +104543,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c44867e0dccfe9c962d852b55c1be0e8913a2426b3fa2526cdab055f56579cfd"
+      "Hash": "4db6e1e866a4155ff1f24c765cde1b6505cf1a9d47c6cb7a003b83b442ceadfb"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -157034,7 +157038,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2ae578a56dee853ee88b01425eae3e8e9e9c3860799e2150a411b1627c0ac289"
+      "Hash": "14ff6ab73b1938cb8946ac0b7486b2c4c17c19b5365a623ac1921b8a26be3800"
     },
     "h1:john-deere": {
       "Key": "john-deere",
@@ -166657,7 +166661,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "91123cc1db2f677d63aa136164d12f10993cc52717fda8be2943821b9adb6a31"
+      "Hash": "38dc32ffb4e790efcc5a42e9a0eb165998793e57a12f07d3c7759e701e4a4e4a"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -167089,7 +167093,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "71eed30b3a734eb170f184964b07e3bece4ea31c1cfd017c071515cb4bbd8db4"
+      "Hash": "fbca35a21d907a2dbffc717e15dc878a675d4dc3a8a521ffcadcd14f5f01bad1"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -167480,7 +167484,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "8f03e6083b182facc1c8c80476ba45839f17e01ce40b931f2d8720f1e8af573f"
+      "Hash": "79d2bf402061c7e9def5d23ca51c4d98265c61f6d1319d82b8a484180fdb074a"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -169225,7 +169229,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "22db378c9cb563e1204d8ad767eec9da69350e2503bde56d1eb99adc78b34b51"
+      "Hash": "ea85ef1606d707aa399fee808a24faf6392d5aab8e0cc9861de78b37b07e3bcc"
     },
     "h1:mercadolibre": {
       "Key": "mercadolibre",
@@ -176961,7 +176965,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "93ba4a79c5d862e6659b95b561cd18c571b64019cea1e8cecd2a93aa6186dd16"
+      "Hash": "fc476979e4ea8159ee12220546ffe67091e25adf4805397b48b0cdfd196571fe"
     },
     "h1:on": {
       "Key": "on",
@@ -179740,7 +179744,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5a64d6b9e045cc804829fcae9d6ef9799e501d53f27df44c86de79f8e8ec2d71"
+      "Hash": "ca57e741da18067a910cc7741c40c1686ff880ac0acaf92ff62874807acb8a00"
     },
     "h1:picsart": {
       "Key": "picsart",
@@ -180029,7 +180033,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7e94f6796a69dd826ba834cf550e5da007d89590651b70894a51d5c5fd72d68"
+      "Hash": "cda993d8541c7d0386af34ff42975094d850bc38cbfafd680b52b5f989d57c6e"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -183526,7 +183530,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d983f71b50179d071ba6702053659cab350400e46c60f16ffe326c80c32780de"
+      "Hash": "b35c531befff64440d7ef54f419eab3a58f638cc39da3a8ac5823e210c6c9cbc"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -186479,7 +186483,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b0df86e6068ce2b0a55011f49083fe70833568c3ae9c8accdc69712a150e66bb"
+      "Hash": "446b906d39878b9794a9a88a29b58f6e4053ce2b6cd9efddf5aedbc09f62774d"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -187753,6 +187757,10 @@
           "ID": "e1ch.neustar.biz",
           "Type": "URL"
         },
+        "empidwatch.sontiq.com": {
+          "ID": "empidwatch.sontiq.com",
+          "Type": "URL"
+        },
         "enrollment.monitormyidentity.com": {
           "ID": "enrollment.monitormyidentity.com",
           "Type": "URL"
@@ -188048,7 +188056,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2ef153f8946658893fdc20b117152f0a924ae6c1970a2d452d618b58be58956b"
+      "Hash": "4b63c7c7f0d1e91d4d9a36185b5cb4b7d1c71b7f836ba80a3108c6d778fb1994"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -188783,7 +188791,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "52dac3c22a51f62634fe412789aa317b4b2eef3ee1c3bf24ea78af0deb1684db"
+      "Hash": "82ace3593a5a1211ebdffc02234b806e857a51ac2609e63d4cf0978372993574"
     },
     "h1:udemy": {
       "Key": "udemy",
