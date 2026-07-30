@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-30T18:59:14Z",
+  "captured_at": "2026-07-30T20:22:52Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -4294,9 +4294,9 @@
       },
       "Hash": "c4cac0fcd77c4929820dacf8e3f8f018adbadd4faec9e1e86e93a6808ae50369"
     },
-    "bc:Code.org": {
-      "Key": "Code.org",
-      "Name": "Code.org",
+    "bc:CodeAI": {
+      "Key": "CodeAI",
+      "Name": "CodeAI",
       "URL": "https://bugcrowd.com/engagements/codeorg",
       "InScope": {
         "https://adhoc-bugcrowd-studio.cdn-code.org": {
@@ -4318,7 +4318,7 @@
           "Type": "website"
         }
       },
-      "Hash": "5cd4b636db00298a64b69300832c94fccaed100379cc346ff7a8676291856a61"
+      "Hash": "af75685612f467a02c87363db42bde6d8a970d45a243c12f8904d5622d48ad41"
     },
     "bc:CoinDesk Data - Data API ": {
       "Key": "CoinDesk Data - Data API ",
@@ -27539,7 +27539,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a381dce2233289461acd6032066af89cd719b751281b722da51667d9c8b23ae1"
+      "Hash": "edb64f91aa5c7ec776eb6e0597d3afe9cea50dd55723cd61cd9524b8e486585d"
     },
     "h1:arkadiyt-projects": {
       "Key": "arkadiyt-projects",
@@ -27597,7 +27597,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5c2821add62a85452b5ab86ed6ac772f752b5a77c63b6e01fa2a8ec5b3f72d4e"
+      "Hash": "d1075ce5b002d8a5e05722cb922bdd428012bace1bd1607a457631568232a54e"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -66964,7 +66964,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9db1a8e004a42a84b5e61d40a16533c0c80d5653feb51caf8353fd9c5d97a037"
+      "Hash": "362197fc6b6cfc77c839b2f07286abc6520e52620c2d920a098cbef4eda21b97"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -87653,7 +87653,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7fae80e5662647d2247733df6d039c9bd420ef4be4d69316a2cf8281ce6cff03"
+      "Hash": "f7477a7e0b6186d10d3203e681324cc5730f299993865ec24cd7757421d51a87"
     },
     "h1:clear": {
       "Key": "clear",
@@ -162301,6 +162301,10 @@
           "ID": "sbc2.kleemann.info",
           "Type": "URL"
         },
+        "scedevl.deere.com": {
+          "ID": "scedevl.deere.com",
+          "Type": "URL"
+        },
         "sdicert.deere.com": {
           "ID": "sdicert.deere.com",
           "Type": "URL"
@@ -165272,7 +165276,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3155cddfc2d12236028ee8c87fb431e8799766a305ee8c1c1bba052035b621fc"
+      "Hash": "02b9a61d82c2dedefb37f12075865ecfa6fb1ae1cf36d63f0c3fbe14a6c306fb"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -167760,7 +167764,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d40143a2dbf9249a59ea85ce16d34a687c96af1a22b317b64e13e9cc9888cee2"
+      "Hash": "9b1e897d97033184817632da5f8acd319f22f02c5c210bdacb9f48c30cdcb099"
     },
     "h1:malwarebytes": {
       "Key": "malwarebytes",
@@ -168989,7 +168993,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fede1ededf3675450145c277bd6a1223abc547bd7c943cb3429e45b4ee65a5a9"
+      "Hash": "9e436b4c745ec3c31b965f0e340b0809bca86613c4591ae559f592a5c8587b18"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -181225,7 +181229,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e1509b00b843e5da1cf096d52501037636b954c9f0321d56d018ae69a855867c"
+      "Hash": "c384d316565cbf554b2bec73dd5703080db042cd4fd369455f942c379608927c"
     },
     "h1:r3": {
       "Key": "r3",
@@ -182447,7 +182451,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "193370a7ce0057d1086484e31635b7f7baeb4ce80a53d6c36f74fa49f8a0044a"
+      "Hash": "edcba2e20171439c7eb7e1663f69572a491406083334e4e206038865bd5260e1"
     },
     "h1:revive_adserver": {
       "Key": "revive_adserver",
@@ -185895,7 +185899,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6f8f7c37ac29554708ce848ef6a50d74a77782e59b97de9aa49c5a200d362f3c"
+      "Hash": "d40cc81f6de5372c03eb5b8bbc1951c29ddf40fb9846bac3c4e71365f1c8e3a8"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -186302,7 +186306,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c13166e7d934c3bf782e8c939ed57a2eefecf11285e0a44b4698b46fa8fc7bc8"
+      "Hash": "e6d65c2b89f297aaf74aba9db57099ec02a8a5e98e8a48a89c197ec5dda73c76"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -191722,7 +191726,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fc9fd705d5d6b422f64c35de18ef6610d5c470486863d1ff0a9ab0c22e8f7254"
+      "Hash": "e22170d1a4d21eaa044c7a5d0bc2a968e509131f1d1862a11ab0db487f14d6c0"
     },
     "h1:weblate": {
       "Key": "weblate",
