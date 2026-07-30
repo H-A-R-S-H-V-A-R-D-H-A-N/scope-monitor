@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-30T13:11:52Z",
+  "captured_at": "2026-07-30T15:34:35Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23029,7 +23029,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e4d3353bd94557c86ab5b2ef4a13553a1af69bc0cfde2e68205ca2e53477270"
+      "Hash": "fab651de9a3e1456e206984153fd5e48c3e8397c39af62a2fb9b7b8699fdaaa6"
     },
     "h1:abn_amro_vdp": {
       "Key": "abn_amro_vdp",
@@ -23224,7 +23224,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f6d6d79bd2815e3dc4c1bf5ee4c1f05b99297d3c98ff202ab208a00844c82dd2"
+      "Hash": "0811f78ffe84a155f62d7bda6bfb41f4a21edd03ed7f218f23be22794947c0f5"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -27599,6 +27599,159 @@
       },
       "Hash": "5c2821add62a85452b5ab86ed6ac772f752b5a77c63b6e01fa2a8ec5b3f72d4e"
     },
+    "h1:assa_abloy_americas": {
+      "Key": "assa_abloy_americas",
+      "Name": "Assa Abloy Americas",
+      "URL": "https://hackerone.com/assa_abloy_americas",
+      "InScope": {
+        "https://accentra.assaabloy.com": {
+          "ID": "https://accentra.assaabloy.com",
+          "Type": "URL"
+        },
+        "https://apps.apple.com/cr/app/yale-connect/id1204336886": {
+          "ID": "https://apps.apple.com/cr/app/yale-connect/id1204336886",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/in/app/centrIosAppStore/id6449100322": {
+          "ID": "https://apps.apple.com/in/app/centrIosAppStore/id6449100322",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/us/app/kwikset/id1465996742?ls=1": {
+          "ID": "https://apps.apple.com/us/app/kwikset/id1465996742?ls=1",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/us/app/level-home/id1490027518": {
+          "ID": "https://apps.apple.com/us/app/level-home/id1490027518",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/us/app/luxer-one/id1440094075": {
+          "ID": "https://apps.apple.com/us/app/luxer-one/id1440094075",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/us/app/rhid/id1493410750": {
+          "ID": "https://apps.apple.com/us/app/rhid/id1493410750",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/us/app/yale-accentra-access/id1523678122": {
+          "ID": "https://apps.apple.com/us/app/yale-accentra-access/id1523678122",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://bittings.medeco.com": {
+          "ID": "https://bittings.medeco.com",
+          "Type": "URL"
+        },
+        "https://ca-roa.medeco.com": {
+          "ID": "https://ca-roa.medeco.com",
+          "Type": "URL"
+        },
+        "https://centriosappstore.com": {
+          "ID": "https://centriosappstore.com",
+          "Type": "URL"
+        },
+        "https://controlid.com.br": {
+          "ID": "https://controlid.com.br",
+          "Type": "URL"
+        },
+        "https://eacconfig.assaabloy.com": {
+          "ID": "https://eacconfig.assaabloy.com",
+          "Type": "URL"
+        },
+        "https://goconcourse.com": {
+          "ID": "https://goconcourse.com",
+          "Type": "URL"
+        },
+        "https://idsecure.com.br": {
+          "ID": "https://idsecure.com.br",
+          "Type": "URL"
+        },
+        "https://keycontrol.medeco.com": {
+          "ID": "https://keycontrol.medeco.com",
+          "Type": "URL"
+        },
+        "https://knowledge.openingsstudio.com": {
+          "ID": "https://knowledge.openingsstudio.com",
+          "Type": "URL"
+        },
+        "https://kwiksetunite.com": {
+          "ID": "https://kwiksetunite.com",
+          "Type": "URL"
+        },
+        "https://level.co": {
+          "ID": "https://level.co",
+          "Type": "URL"
+        },
+        "https://manage.openingsstudio.com": {
+          "ID": "https://manage.openingsstudio.com",
+          "Type": "URL"
+        },
+        "https://play.google.com/store/apps/details?id=br.com.controlid.rhid\u0026hl=en\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=br.com.controlid.rhid\u0026hl=en\u0026gl=US",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=co.level.app": {
+          "ID": "https://play.google.com/store/apps/details?id=co.level.app",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.assaabloy.accentra.access": {
+          "ID": "https://play.google.com/store/apps/details?id=com.assaabloy.accentra.access",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.assaabloy.centrIosAppStore": {
+          "ID": "https://play.google.com/store/apps/details?id=com.assaabloy.centrIosAppStore",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.assaabloy.yaleconnect": {
+          "ID": "https://play.google.com/store/apps/details?id=com.assaabloy.yaleconnect",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.kwikset.blewifi": {
+          "ID": "https://play.google.com/store/apps/details?id=com.kwikset.blewifi",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.luxerone.mobile.residentapp": {
+          "ID": "https://play.google.com/store/apps/details?id=com.luxerone.mobile.residentapp",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.yale.multifamconftool": {
+          "ID": "https://play.google.com/store/apps/details?id=com.yale.multifamconftool",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://roa.assaabloy.net": {
+          "ID": "https://roa.assaabloy.net",
+          "Type": "URL"
+        },
+        "https://roa.medeco.com": {
+          "ID": "https://roa.medeco.com",
+          "Type": "URL"
+        },
+        "https://test-bittings.medeco.com": {
+          "ID": "https://test-bittings.medeco.com",
+          "Type": "URL"
+        },
+        "https://test-keycontrol.medeco.com": {
+          "ID": "https://test-keycontrol.medeco.com",
+          "Type": "URL"
+        },
+        "https://test-roa.medeco.com": {
+          "ID": "https://test-roa.medeco.com",
+          "Type": "URL"
+        },
+        "https://yale.accentra.assaabloy.com": {
+          "ID": "https://yale.accentra.assaabloy.com",
+          "Type": "URL"
+        },
+        "https://yaleconnecthub.com": {
+          "ID": "https://yaleconnecthub.com",
+          "Type": "URL"
+        },
+        "https://yalelatinoamerica.com": {
+          "ID": "https://yalelatinoamerica.com",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {},
+      "Hash": "71623550433fd65fd35cfcd0889fdf1618126b035ae56be27a7d046ba47c7f6a"
+    },
     "h1:att": {
       "Key": "att",
       "Name": "AT\u0026T",
@@ -31133,7 +31286,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "325a4aab7f689faaa954560fc5565ad87b7ad4f5742cc5614194c9d021406503"
+      "Hash": "fd7605e0073996738dcf904e2123b19405f432beb6a529dd87166c763aca46af"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -66807,7 +66960,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "362197fc6b6cfc77c839b2f07286abc6520e52620c2d920a098cbef4eda21b97"
+      "Hash": "9db1a8e004a42a84b5e61d40a16533c0c80d5653feb51caf8353fd9c5d97a037"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -88955,7 +89108,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ded4a4b72a544a0e8d3bb7ab30c8b61d9f48c29f7a5454c510134b0eb8883ef2"
+      "Hash": "766b7925fae806a0a1ac46c63f740ab70a4ba6603efbefca3cdb664947cbced1"
     },
     "h1:crowdstrike": {
       "Key": "crowdstrike",
@@ -144825,7 +144978,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6fbd1fa41a1ecc95297d46b12e25da56f8a2c39bc76a0d734e07c211b3b851fa"
+      "Hash": "3ca3baa5520d04a9c501739f62b59e8fb9a2b2a48a3895df16d2e23b2c7fe604"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -162492,6 +162645,10 @@
           "ID": "smartfarmlatam.com",
           "Type": "URL"
         },
+        "smartglass.deere.com": {
+          "ID": "smartglass.deere.com",
+          "Type": "URL"
+        },
         "smartmediacreator.services.wirtgen-group.com": {
           "ID": "smartmediacreator.services.wirtgen-group.com",
           "Type": "URL"
@@ -165099,7 +165256,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c638ec2ea8bc0ec5d0d52ba4ceae6b2d67ee6fa0e7d87cbcfe9aa338c6e2dd43"
+      "Hash": "bf38503332c3226dce2b98172e498e83f7353c5ad328fc016f497e4f2489d432"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -167323,7 +167480,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "79d2bf402061c7e9def5d23ca51c4d98265c61f6d1319d82b8a484180fdb074a"
+      "Hash": "8f03e6083b182facc1c8c80476ba45839f17e01ce40b931f2d8720f1e8af573f"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -179565,7 +179722,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9b8f1622da44fd0e35a030d2c5a27cf24cd562be5d63e3df14d68e0595587574"
+      "Hash": "10a74109e63e53e63c73ecae66aaf65dfc7d08cf2332bc9ffd1457e66a2e459a"
     },
     "h1:phpbb": {
       "Key": "phpbb",
@@ -179872,7 +180029,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cda993d8541c7d0386af34ff42975094d850bc38cbfafd680b52b5f989d57c6e"
+      "Hash": "e7e94f6796a69dd826ba834cf550e5da007d89590651b70894a51d5c5fd72d68"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -184039,7 +184196,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "971a92d9355228d57afff565e6b7efeb7c241fa31bf832640b1691692d7da8ff"
+      "Hash": "45b44d730e0f52dca3b86b6a78a81f6de2f7bad5582fea9a0508b317948608a6"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -191682,7 +191839,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "52f4effdea80bb78b500d1e47f94c1411146ace4a412c748ed602c9b25f939eb"
+      "Hash": "8ed4de6a73249ced747f528dd4fae64a84d09cf9f0285ac22b0f7bf07911b558"
     },
     "h1:whatnot": {
       "Key": "whatnot",
@@ -196570,6 +196727,44 @@
       },
       "Hash": "051cd9a494d98b460583c5a013009d63f23e015460a96211fea0cda0c282b727"
     },
+    "in:5e9d5fc7-2cfe-4530-94de-c55f1d8d3a8e": {
+      "Key": "5e9d5fc7-2cfe-4530-94de-c55f1d8d3a8e",
+      "Name": "OURA Vulnerability Disclosure Program",
+      "URL": "https://www.intigriti.com/programs/ourahealthoy/ouravulnerabilitydisclosureprogram/detail",
+      "InScope": {
+        "*.ouraring.com": {
+          "ID": "*.ouraring.com",
+          "Type": "wildcard"
+        },
+        "Any Oura related domain": {
+          "ID": "Any Oura related domain",
+          "Type": "other"
+        },
+        "Official Oura Ring Accessories": {
+          "ID": "Official Oura Ring Accessories",
+          "Type": "other"
+        },
+        "Oura Android App": {
+          "ID": "Oura Android App",
+          "Type": "android"
+        },
+        "Oura Ring (Gen 3 to current)": {
+          "ID": "Oura Ring (Gen 3 to current)",
+          "Type": "device"
+        },
+        "Oura iOS App": {
+          "ID": "Oura iOS App",
+          "Type": "ios"
+        }
+      },
+      "OutScope": {
+        "Services not hosted/owned by Oura": {
+          "ID": "Services not hosted/owned by Oura",
+          "Type": "other"
+        }
+      },
+      "Hash": "40726b8134b49967eca41e1ada0016a9d11fc15acfe4e032cf00fdf71942e34b"
+    },
     "in:5f29e1eb-85e8-4d99-9b52-b809f06de633": {
       "Key": "5f29e1eb-85e8-4d99-9b52-b809f06de633",
       "Name": "Bpost",
@@ -197110,6 +197305,192 @@
       "OutScope": {},
       "Hash": "00832bc6234040eb8bfec9045ce74e0cfe4c25cfdaae004d6972024f3420a461"
     },
+    "in:6c8455c8-66b7-4360-bc6d-45b854c6fa85": {
+      "Key": "6c8455c8-66b7-4360-bc6d-45b854c6fa85",
+      "Name": "Posti Bug Bounty ",
+      "URL": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
+      "InScope": {
+        "410789057": {
+          "ID": "410789057",
+          "Type": "ios"
+        },
+        "api.posti.fi": {
+          "ID": "api.posti.fi",
+          "Type": "url"
+        },
+        "auth-service.posti.fi": {
+          "ID": "auth-service.posti.fi",
+          "Type": "url"
+        },
+        "cdn.posti.fi": {
+          "ID": "cdn.posti.fi",
+          "Type": "url"
+        },
+        "connect.posti.fi": {
+          "ID": "connect.posti.fi",
+          "Type": "url"
+        },
+        "console.posti.com": {
+          "ID": "console.posti.com",
+          "Type": "url"
+        },
+        "developer.posti.com": {
+          "ID": "developer.posti.com",
+          "Type": "url"
+        },
+        "elma.elma.fi": {
+          "ID": "elma.elma.fi",
+          "Type": "url"
+        },
+        "fi.itella.posti.android": {
+          "ID": "fi.itella.posti.android",
+          "Type": "android"
+        },
+        "gateway.posti.fi": {
+          "ID": "gateway.posti.fi",
+          "Type": "url"
+        },
+        "https://kontakti.posti.fi": {
+          "ID": "https://kontakti.posti.fi",
+          "Type": "url"
+        },
+        "https://my.account.posti.fi": {
+          "ID": "https://my.account.posti.fi",
+          "Type": "url"
+        },
+        "https://my.smartposti.ee/": {
+          "ID": "https://my.smartposti.ee/",
+          "Type": "url"
+        },
+        "https://my.smartposti.lt": {
+          "ID": "https://my.smartposti.lt",
+          "Type": "url"
+        },
+        "https://my.smartposti.lv": {
+          "ID": "https://my.smartposti.lv",
+          "Type": "url"
+        },
+        "https://oma.posti.fi/": {
+          "ID": "https://oma.posti.fi/",
+          "Type": "url"
+        },
+        "https://printerdriver.posti.com/": {
+          "ID": "https://printerdriver.posti.com/",
+          "Type": "url"
+        },
+        "https://pro.posti.fi": {
+          "ID": "https://pro.posti.fi",
+          "Type": "url"
+        },
+        "https://quicksight.aws.amazon.com": {
+          "ID": "https://quicksight.aws.amazon.com",
+          "Type": "url"
+        },
+        "https://shop.posti.fi": {
+          "ID": "https://shop.posti.fi",
+          "Type": "url"
+        },
+        "https://tuleasiakkaaksi.posti.fi": {
+          "ID": "https://tuleasiakkaaksi.posti.fi",
+          "Type": "url"
+        },
+        "https://www.posti.fi": {
+          "ID": "https://www.posti.fi",
+          "Type": "url"
+        },
+        "https://www.smartposti.ee": {
+          "ID": "https://www.smartposti.ee",
+          "Type": "url"
+        },
+        "https://www.smartposti.lt": {
+          "ID": "https://www.smartposti.lt",
+          "Type": "url"
+        },
+        "https://www.smartposti.lv": {
+          "ID": "https://www.smartposti.lv",
+          "Type": "url"
+        },
+        "https://www.webproteus.com/lpro-web/login": {
+          "ID": "https://www.webproteus.com/lpro-web/login",
+          "Type": "url"
+        },
+        "https://yrityksennoutopiste.posti.fi": {
+          "ID": "https://yrityksennoutopiste.posti.fi",
+          "Type": "url"
+        },
+        "id.posti.fi": {
+          "ID": "id.posti.fi",
+          "Type": "url"
+        },
+        "jakelu.posti.fi": {
+          "ID": "jakelu.posti.fi",
+          "Type": "url"
+        },
+        "logout.id.posti.fi": {
+          "ID": "logout.id.posti.fi",
+          "Type": "url"
+        },
+        "mfa.posti.fi": {
+          "ID": "mfa.posti.fi",
+          "Type": "url"
+        },
+        "netposti.fi": {
+          "ID": "netposti.fi",
+          "Type": "url"
+        },
+        "nextshipping.posti.fi": {
+          "ID": "nextshipping.posti.fi",
+          "Type": "url"
+        },
+        "orgadmin-ext.prd.account.posticloud.fi": {
+          "ID": "orgadmin-ext.prd.account.posticloud.fi",
+          "Type": "url"
+        },
+        "partnerselfservice.posti.fi": {
+          "ID": "partnerselfservice.posti.fi",
+          "Type": "url"
+        },
+        "picc.posti.fi": {
+          "ID": "picc.posti.fi",
+          "Type": "url"
+        },
+        "posti.com": {
+          "ID": "posti.com",
+          "Type": "url"
+        },
+        "postikuori.posti.fi": {
+          "ID": "postikuori.posti.fi",
+          "Type": "url"
+        },
+        "tnt.posti.com": {
+          "ID": "tnt.posti.com",
+          "Type": "url"
+        },
+        "todentaminen.posti.fi": {
+          "ID": "todentaminen.posti.fi",
+          "Type": "url"
+        },
+        "www.posti.se": {
+          "ID": "www.posti.se",
+          "Type": "url"
+        },
+        "yhteystietoni.posti.fi": {
+          "ID": "yhteystietoni.posti.fi",
+          "Type": "url"
+        },
+        "yritysmuutto.posti.fi": {
+          "ID": "yritysmuutto.posti.fi",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "www.posti.fi/henkiloasiakkaat/lomakkeet/tuotantohairiot.html": {
+          "ID": "www.posti.fi/henkiloasiakkaat/lomakkeet/tuotantohairiot.html",
+          "Type": "url"
+        }
+      },
+      "Hash": "51f4d73a3ed4daecd9c9b3cad5a219dc7e9897dbd643f5e45b8c80082fb72251"
+    },
     "in:6f24c2d0-b1f2-4c31-948d-eeba16e80099": {
       "Key": "6f24c2d0-b1f2-4c31-948d-eeba16e80099",
       "Name": "Attentia VDP",
@@ -197163,6 +197544,260 @@
       },
       "OutScope": {},
       "Hash": "53b2fab1df76425b23e61269aaf51227372c6c5c9fcefbca6afd092a2fa1fd62"
+    },
+    "in:768ad323-335b-4710-9370-6b81925c122f": {
+      "Key": "768ad323-335b-4710-9370-6b81925c122f",
+      "Name": "Kinepolis Group",
+      "URL": "https://www.intigriti.com/programs/kinepolis/website/detail",
+      "InScope": {
+        "*.kinepolis.be": {
+          "ID": "*.kinepolis.be",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.ch": {
+          "ID": "*.kinepolis.ch",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.com": {
+          "ID": "*.kinepolis.com",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.fr": {
+          "ID": "*.kinepolis.fr",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.lu": {
+          "ID": "*.kinepolis.lu",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.nl": {
+          "ID": "*.kinepolis.nl",
+          "Type": "wildcard"
+        },
+        "*.klubcinema.fr": {
+          "ID": "*.klubcinema.fr",
+          "Type": "wildcard"
+        },
+        "*.landmarkcinemas.com": {
+          "ID": "*.landmarkcinemas.com",
+          "Type": "wildcard"
+        },
+        "*.megatix.be  ": {
+          "ID": "*.megatix.be  ",
+          "Type": "wildcard"
+        },
+        "*.mjrtheatres.com": {
+          "ID": "*.mjrtheatres.com",
+          "Type": "wildcard"
+        },
+        "522089287": {
+          "ID": "522089287",
+          "Type": "ios"
+        },
+        "booking.mjrtheatres.com": {
+          "ID": "booking.mjrtheatres.com",
+          "Type": "url"
+        },
+        "business.kinepolis.be": {
+          "ID": "business.kinepolis.be",
+          "Type": "url"
+        },
+        "business.kinepolis.lu": {
+          "ID": "business.kinepolis.lu",
+          "Type": "url"
+        },
+        "business.kinepolis.nl": {
+          "ID": "business.kinepolis.nl",
+          "Type": "url"
+        },
+        "com.inthepocket.kinepolis": {
+          "ID": "com.inthepocket.kinepolis",
+          "Type": "android"
+        },
+        "egaming.kinepolis.es": {
+          "ID": "egaming.kinepolis.es",
+          "Type": "url"
+        },
+        "extras-acc.landmarkcinemas.com": {
+          "ID": "extras-acc.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "extras.landmarkcinemas.com": {
+          "ID": "extras.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "https://movieclub-int.kinepolis.com": {
+          "ID": "https://movieclub-int.kinepolis.com",
+          "Type": "url"
+        },
+        "https://movienow-int.kinepolis.be/admin": {
+          "ID": "https://movienow-int.kinepolis.be/admin",
+          "Type": "url"
+        },
+        "https://shop-acc.kinepolis.be/": {
+          "ID": "https://shop-acc.kinepolis.be/",
+          "Type": "url"
+        },
+        "identityserver-acc.landmarkcinemas.com": {
+          "ID": "identityserver-acc.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "identityserver.landmarkcinemas.com": {
+          "ID": "identityserver.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "kinepolis-studio.be": {
+          "ID": "kinepolis-studio.be",
+          "Type": "url"
+        },
+        "kinepolis.megatix.be": {
+          "ID": "kinepolis.megatix.be",
+          "Type": "url"
+        },
+        "kinepolis/id368204284": {
+          "ID": "kinepolis/id368204284",
+          "Type": "ios"
+        },
+        "luxfilmfestfilms.megatix.be": {
+          "ID": "luxfilmfestfilms.megatix.be",
+          "Type": "url"
+        },
+        "luxfilmfestproducts.megatix.be": {
+          "ID": "luxfilmfestproducts.megatix.be",
+          "Type": "url"
+        },
+        "luxfilmfesttickets.megatix.be": {
+          "ID": "luxfilmfesttickets.megatix.be",
+          "Type": "url"
+        },
+        "movieapi.kinepolis.megatix.be": {
+          "ID": "movieapi.kinepolis.megatix.be",
+          "Type": "url"
+        },
+        "nz.co.vista.android.movie.mjrtheatres": {
+          "ID": "nz.co.vista.android.movie.mjrtheatres",
+          "Type": "android"
+        },
+        "stage.landmarkcinemas.com": {
+          "ID": "stage.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "tickets.kinepolis.be": {
+          "ID": "tickets.kinepolis.be",
+          "Type": "url"
+        },
+        "tickets.kinepolis.ch": {
+          "ID": "tickets.kinepolis.ch",
+          "Type": "url"
+        },
+        "tickets.kinepolis.es": {
+          "ID": "tickets.kinepolis.es",
+          "Type": "url"
+        },
+        "tickets.kinepolis.fr": {
+          "ID": "tickets.kinepolis.fr",
+          "Type": "url"
+        },
+        "tickets.kinepolis.lu": {
+          "ID": "tickets.kinepolis.lu",
+          "Type": "url"
+        },
+        "tickets.kinepolis.nl": {
+          "ID": "tickets.kinepolis.nl",
+          "Type": "url"
+        },
+        "userprofile-acc.landmarkcinemas.com": {
+          "ID": "userprofile-acc.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "userprofile-ui.landmarkcinemas.com": {
+          "ID": "userprofile-ui.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "www.kinepolis.be ": {
+          "ID": "www.kinepolis.be ",
+          "Type": "url"
+        },
+        "www.kinepolis.biz": {
+          "ID": "www.kinepolis.biz",
+          "Type": "url"
+        },
+        "www.kinepolis.ch ": {
+          "ID": "www.kinepolis.ch ",
+          "Type": "url"
+        },
+        "www.kinepolis.com ": {
+          "ID": "www.kinepolis.com ",
+          "Type": "url"
+        },
+        "www.kinepolis.es ": {
+          "ID": "www.kinepolis.es ",
+          "Type": "url"
+        },
+        "www.kinepolis.fr ": {
+          "ID": "www.kinepolis.fr ",
+          "Type": "url"
+        },
+        "www.kinepolis.lu ": {
+          "ID": "www.kinepolis.lu ",
+          "Type": "url"
+        },
+        "www.kinepolis.nl ": {
+          "ID": "www.kinepolis.nl ",
+          "Type": "url"
+        },
+        "www.landmarkcinemas.com": {
+          "ID": "www.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "www.mjrtheatres.com": {
+          "ID": "www.mjrtheatres.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.cineramabios.nl": {
+          "ID": "*.cineramabios.nl",
+          "Type": "wildcard"
+        },
+        "dev.kinepolis.com": {
+          "ID": "dev.kinepolis.com",
+          "Type": "url"
+        },
+        "helpdesk.landmarkcinemas.com": {
+          "ID": "helpdesk.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "jobs.kinepolis.com": {
+          "ID": "jobs.kinepolis.com",
+          "Type": "url"
+        },
+        "l.kinepolis.com": {
+          "ID": "l.kinepolis.com",
+          "Type": "url"
+        },
+        "openx.kinepolis.com": {
+          "ID": "openx.kinepolis.com",
+          "Type": "url"
+        },
+        "shop.kinepolis.be ": {
+          "ID": "shop.kinepolis.be ",
+          "Type": "url"
+        },
+        "shop.kinepolis.es": {
+          "ID": "shop.kinepolis.es",
+          "Type": "url"
+        },
+        "shop.kinepolis.fr ": {
+          "ID": "shop.kinepolis.fr ",
+          "Type": "url"
+        },
+        "shop.kinepolis.lu": {
+          "ID": "shop.kinepolis.lu",
+          "Type": "url"
+        }
+      },
+      "Hash": "a7c2a49ea9d26ca6c2af09d4ed22aae3fadc5aae6aabaca8caf1244b61f50a0e"
     },
     "in:784ffbc6-daaa-4e7e-8eba-c38a101d7b12": {
       "Key": "784ffbc6-daaa-4e7e-8eba-c38a101d7b12",
