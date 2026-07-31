@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-31T05:05:50Z",
+  "captured_at": "2026-07-31T08:09:13Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -4757,6 +4757,23 @@
       },
       "Hash": "2f4a1b53cc919cf405fca2987033cab4f6cac1c739d559087b0db80680864d04"
     },
+    "bc:Demo-EU-admin-PublicMBB-1": {
+      "Key": "Demo-EU-admin-PublicMBB-1",
+      "Name": "Demo-EU-admin-PublicMBB-1",
+      "URL": "https://eu.bugcrowd.net/engagements/eu-public-1",
+      "InScope": {
+        "https://temp-target.ai": {
+          "ID": "https://temp-target.ai",
+          "Type": "api"
+        },
+        "https://tracker.eu.bugcrowd.net/": {
+          "ID": "https://tracker.eu.bugcrowd.net/",
+          "Type": "ip_address"
+        }
+      },
+      "OutScope": {},
+      "Hash": "31652e5ce7aeb13ea74db9a7a18f442178c2bf41f9da9b68cf95ff5eee482e8b"
+    },
     "bc:DevAcrobats": {
       "Key": "DevAcrobats",
       "Name": "DevAcrobats",
@@ -8327,6 +8344,91 @@
         }
       },
       "Hash": "1b47fd6644cd0f51666188114a8793997e3b2fc3599dec4391adda1d9e44bffb"
+    },
+    "bc:Majid Al Futtaim Properties": {
+      "Key": "Majid Al Futtaim Properties",
+      "Name": "Majid Al Futtaim Properties",
+      "URL": "https://bugcrowd.com/engagements/mallofemirates",
+      "InScope": {
+        "https://api.mafshoppingmalls.com": {
+          "ID": "https://api.mafshoppingmalls.com",
+          "Type": "api"
+        },
+        "https://api.mafshoppingmalls.com/": {
+          "ID": "https://api.mafshoppingmalls.com/",
+          "Type": "api"
+        },
+        "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693": {
+          "ID": "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/us/app/belong-by-maf/id6443736108": {
+          "ID": "https://apps.apple.com/us/app/belong-by-maf/id6443736108",
+          "Type": "ios"
+        },
+        "https://atjunction.com/": {
+          "ID": "https://atjunction.com/",
+          "Type": "website"
+        },
+        "https://citycentredeira.com/": {
+          "ID": "https://citycentredeira.com/",
+          "Type": "website"
+        },
+        "https://ecoupon.maf.ae/": {
+          "ID": "https://ecoupon.maf.ae/",
+          "Type": "website"
+        },
+        "https://maf-properties-prod.apigee.net": {
+          "ID": "https://maf-properties-prod.apigee.net",
+          "Type": "api"
+        },
+        "https://partnerconnect.maf.ae/": {
+          "ID": "https://partnerconnect.maf.ae/",
+          "Type": "website"
+        },
+        "https://play.google.com/store/apps/details?id=com.belongi.moe": {
+          "ID": "https://play.google.com/store/apps/details?id=com.belongi.moe",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.maf.communities\u0026hl=en-US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.maf.communities\u0026hl=en-US",
+          "Type": "android"
+        },
+        "https://smbu-api.maf.ae/": {
+          "ID": "https://smbu-api.maf.ae/",
+          "Type": "api"
+        },
+        "https://smbu.mafcms.com/Sitefinity/adminapp/renderer/dashboard": {
+          "ID": "https://smbu.mafcms.com/Sitefinity/adminapp/renderer/dashboard",
+          "Type": "website"
+        },
+        "https://www.citycentremalls.com/en": {
+          "ID": "https://www.citycentremalls.com/en",
+          "Type": "website"
+        },
+        "https://www.ghafwoods.com/en": {
+          "ID": "https://www.ghafwoods.com/en",
+          "Type": "website"
+        },
+        "https://www.majidalfuttaimproperties.com/en": {
+          "ID": "https://www.majidalfuttaimproperties.com/en",
+          "Type": "website"
+        },
+        "https://www.malloftheemirates.com": {
+          "ID": "https://www.malloftheemirates.com",
+          "Type": "website"
+        },
+        "https://www.mycitycentrealbarsha.com/": {
+          "ID": "https://www.mycitycentrealbarsha.com/",
+          "Type": "website"
+        },
+        "https://www.tilalalghaf.com/en": {
+          "ID": "https://www.tilalalghaf.com/en",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "7e9e7a352b3124c0d30e22ee170000b70112f56fd750386ca1b2b12799960bad"
     },
     "bc:Majid Al Futtaim Retail": {
       "Key": "Majid Al Futtaim Retail",
@@ -23191,7 +23293,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0811f78ffe84a155f62d7bda6bfb41f4a21edd03ed7f218f23be22794947c0f5"
+      "Hash": "ade0a95ea71fe49e474cd22cef6775a45117423a14aabd5c9b39fc9eec5f77a2"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -28132,7 +28234,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bfbfa76540707267a513acccd1ba08cbb7b6b511cf5ca104535cbe482dd89969"
+      "Hash": "d6f60d0fb2967829d632753e9e8ecb7dbdfdab8e3f6878c09b0ca0d23515c435"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -31774,7 +31876,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d20722490b1e11ff471c129a056c8b0fadd31f4551269ff2beac8184e2e6a695"
+      "Hash": "12faf3b22b165c249905c73b5664df67bbf14d5a9fa155f2649a7c37baa4aa4f"
     },
     "h1:bykea": {
       "Key": "bykea",
@@ -67227,7 +67329,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "1ee08ba5f09dc3fa12078f3637d666da9f31308452f29e48e0d4a650f74c5c3d"
+      "Hash": "5d59145f428a1c279bafb9daa2dd54bd43ea98f7e62c4289310c13466fa6fc59"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -88021,7 +88123,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cf0036b148a546dcf37a0e356b15f1232e4739552cb7ffb24169056a3d64579f"
+      "Hash": "104d4a362875904809617b6a0cd6152b02a8b6e3004a6c63765c1de536db026d"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -90713,7 +90815,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f7e6ef6663db97859492b588098cfc6e2944bb0c5810b5e6e78e827eea419174"
+      "Hash": "b9c67584fe1dfe5f10d973bde4969ba94cd42c1f218d4a65304e244c789ffec2"
     },
     "h1:deptofdefense": {
       "Key": "deptofdefense",
@@ -148996,7 +149098,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "09a8498c2af209301af5306bbcc576ddbf8195bcc1211870dc9041d85ca4c80f"
+      "Hash": "4f81d162c709be1d12b53aeec8be4622019f395869807087b60a7a88f36d7354"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -166196,7 +166298,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cc181400a2b03a96431b7d152ef144128ec53519b6827c36a8afef5b2b54a996"
+      "Hash": "952c56cbfcb4a209f3dd26d9d3bdf02ba59c1e7d29f47cc9eaefee334d4f3c4e"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -169730,7 +169832,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a72cb16748b339c00c3ceb03a52105171e8236ff9ed93133feae734432092c22"
+      "Hash": "f473d0b2f1fc1eba46be573d76e20ac7a5e2b4bef6a6c804b19834e3c31dafa4"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -178052,7 +178154,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "fed4aa92ce6fb73cc622ef349a9a15265ef649c7b95f63e62f276d8fffe40c11"
+      "Hash": "1fc7a58ba7da6c7b6fd8cbe435b11a8e99bba28d0b94d3fe5ce866a955b3f22a"
     },
     "h1:owox": {
       "Key": "owox",
@@ -181236,7 +181338,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "1d4baf164f9d083d2730ec5ba659c3e35de66aa76bb536a20b6bd32bba55a704"
+      "Hash": "8bc00143097c3acbdd98be07efe967d25b962fde11411dfb65af085f06a841d3"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -183704,7 +183806,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7350e6f2962b828d2e52b12f17ef6fe9ad335b8d54b989ce985cc48cf628f940"
+      "Hash": "27d18c9ba09a46cd605a6dd69d68ee7101c4fabc7d4ecb54f572d77b378d7028"
     },
     "h1:security": {
       "Key": "security",
@@ -184053,7 +184155,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4dc2fa6135d36e523e44988240da1014a9a8d1bec3b7adb3216ea158ae4b938b"
+      "Hash": "cf5a6ba896877f8a14c5c572ddb1a7f54b2bc724bbce47087284bc40a42b1790"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -187286,7 +187388,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6b54812635c0520fe5709634ec519d076cbe8e9189b239c52abd230719045674"
+      "Hash": "fd11a602d6d22822400f7b0b48d5a9e90f93d1ca4c048ff5005643abadd4a6d4"
     },
     "h1:top_echelon_software": {
       "Key": "top_echelon_software",
@@ -189711,7 +189813,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "98e19cc67acd33eb7bb1cf23a5b9335edf81af303c0e1f0035413a016594d1ff"
+      "Hash": "d48b5698605e273f7797eaca95b261c0f4a47a074af4b424471a07a2f64ca6a6"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -191575,7 +191677,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8a783f7e7991a920b5232f2d8781c24b3fb9b091882121193a41753361d9df89"
+      "Hash": "ae9e08ecbd7cf13bae237f03fd6fe523bea5ba9a4eac02af81d99fc058628c84"
     },
     "h1:vueling_vdp": {
       "Key": "vueling_vdp",
