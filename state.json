@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-31T21:17:22Z",
+  "captured_at": "2026-07-31T22:39:24Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23293,7 +23293,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a8487c7695f9c3befae95941195a25be39202585354b264a612d582583cbc3df"
+      "Hash": "ff5c8b834ad958dcb7d34e0062b1318569bf9b658c96636fce324bd43064c41a"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -30934,7 +30934,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c436d0691cdbaa75bf2d187b440763ade6534ebd0001e64b273e46c8925ffa25"
+      "Hash": "242ce122a66c0d5f5e61180bd3c4144a2e087effe9f504ddc79b9f96644f5b50"
     },
     "h1:bitwarden": {
       "Key": "bitwarden",
@@ -88157,7 +88157,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b35329f89c50e28a09a8c79cdfdc7a45c46b6cda968724322c7598907290033"
+      "Hash": "b7fd11c4583b468b506bd4cef697fd9487627df6585dfc1bf1bdbb9afe090881"
     },
     "h1:cognition": {
       "Key": "cognition",
@@ -95753,7 +95753,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5fe9da30cabb25380ae976ae4f5df66420dc128f489a1e0dd4f7a5c6c8eac92b"
+      "Hash": "f51207aa6291ce70ec6d70eb9786fe06c8b720d2627b586c787e5507bd738cac"
     },
     "h1:django": {
       "Key": "django",
@@ -149098,7 +149098,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4f81d162c709be1d12b53aeec8be4622019f395869807087b60a7a88f36d7354"
+      "Hash": "0ef890e6cec058968af3afb0509eaa381817feeb189d93936d5607fc38bb72ef"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -166827,7 +166827,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "de30336096fccf8c6615489c7713365b5b1a0c9625f3c4f7a924ed2794149668"
+      "Hash": "cfd8f55dae62eb21f5dd9de4ab9497cd507e86cbb665bd3704e01c2e4ee41d5f"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -170813,7 +170813,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "51ba10d658a7eb4a20764a115bada685ddf70d8f457da090fbb484438a171a6d"
+      "Hash": "3d34ad64a222775623f5a4758febc91795be3992e9b7931669627c671a07f6df"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -176033,7 +176033,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a09299c16c762195493d8b70cb8df1cfd4fcc0bcdb63cc1415c180fc86c3aea8"
+      "Hash": "fefaae1752c74e7c2a58643246e89082a394aad247195b78c9be0f16b60a2176"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -179762,7 +179762,7 @@
       "URL": "https://hackerone.com/phabricator",
       "InScope": {},
       "OutScope": {},
-      "Hash": "6e6e43cf1a0eae6ab77da4e7d5866739492b55d0afe82b9d83275f89d9becb51"
+      "Hash": "7f224a7b50366a5c182e5c8f966009039a214427b0b8f5fee13de6c4f892431b"
     },
     "h1:phonepe_vdp": {
       "Key": "phonepe_vdp",
@@ -180644,7 +180644,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "5d2eec2d0d481d8d80dc2eaa1a81a3d1d4438299eb4fb88b5f7edc45defd6ebf"
+      "Hash": "43c03ad303b6d14f37935890d2b5929093d85bbf00de28cfbfce7d9b4f4f6ba4"
     },
     "h1:pornbox": {
       "Key": "pornbox",
@@ -182628,7 +182628,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c8a284070a24dfafb0bc6419d45f9c714e3b53457d573a457295d4180488b969"
+      "Hash": "70e4ca1180d2e0e53fd51f3a2fd5e67f29d937691d21764dd4c98c4e068f9f95"
     },
     "h1:ring": {
       "Key": "ring",
@@ -183810,7 +183810,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8deca3e89f91a828f46a55cd7e4a4fb881793ac35c7bdf7922db510f6bbd4293"
+      "Hash": "6d898ac9fba3697f91087b751c9634c993d0faae96b67e8cb7dfd955b916c6b9"
     },
     "h1:security": {
       "Key": "security",
@@ -190031,7 +190031,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "47b0c368b81bd98f793ed52231e8b23df5fe8761ca5ba706a2782902a9055fac"
+      "Hash": "cf1aef5e035f6ab03d96a682e5b34f225280ebb4f8725434063b606c843ee3a1"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -199318,6 +199318,72 @@
       },
       "OutScope": {},
       "Hash": "e935b614e9c46a458f5adf01b86ee1526aa67d1ef9b67712cb6a4090717a1c03"
+    },
+    "in:acb142c1-ffeb-41c3-a9e7-1624054f42e4": {
+      "Key": "acb142c1-ffeb-41c3-a9e7-1624054f42e4",
+      "Name": "Veriff Bug Bounty",
+      "URL": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+      "InScope": {
+        "*.veriff.com": {
+          "ID": "*.veriff.com",
+          "Type": "wildcard"
+        },
+        "1467907532": {
+          "ID": "1467907532",
+          "Type": "ios"
+        },
+        "alchemy.veriff.com": {
+          "ID": "alchemy.veriff.com",
+          "Type": "url"
+        },
+        "api.flamingo-eu.veriff.com": {
+          "ID": "api.flamingo-eu.veriff.com",
+          "Type": "url"
+        },
+        "api.us.veriff.me": {
+          "ID": "api.us.veriff.me",
+          "Type": "url"
+        },
+        "api.veriff.me": {
+          "ID": "api.veriff.me",
+          "Type": "url"
+        },
+        "com.veriff.demo": {
+          "ID": "com.veriff.demo",
+          "Type": "android"
+        },
+        "developers.veriff.me": {
+          "ID": "developers.veriff.me",
+          "Type": "url"
+        },
+        "louvre.veriff.me": {
+          "ID": "louvre.veriff.me",
+          "Type": "url"
+        },
+        "magic.veriff.me": {
+          "ID": "magic.veriff.me",
+          "Type": "url"
+        },
+        "station.veriff.com": {
+          "ID": "station.veriff.com",
+          "Type": "url"
+        },
+        "stationapi.veriff.com": {
+          "ID": "stationapi.veriff.com",
+          "Type": "url"
+        },
+        "www.veriff.com": {
+          "ID": "www.veriff.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "https://station.veriff.com/config/": {
+          "ID": "https://station.veriff.com/config/",
+          "Type": "url"
+        }
+      },
+      "Hash": "5d0ec703112243836a3e9c9fe0f6c8c1d078dd96d358957b3f376d8cd1fbf277"
     },
     "in:ad2bd496-536c-4c24-b885-ce01d66966b9": {
       "Key": "ad2bd496-536c-4c24-b885-ce01d66966b9",
