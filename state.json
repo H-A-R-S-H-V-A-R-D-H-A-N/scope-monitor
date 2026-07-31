@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-31T19:47:57Z",
+  "captured_at": "2026-07-31T21:17:22Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24147,7 +24147,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ca87cbd61e59941d47999a962e466d599bcfb5be7a6ca302d296fbed693d33d1"
+      "Hash": "f39cadfc3475f7f2a100b76566e19fb7f8e8bcdac73c3783ff52240b4ab8761c"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -101698,7 +101698,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "80d47d2d605ccd4ed19b309e973ff15aa06c0d2efd2ebd84999848d9ddf83a00"
+      "Hash": "b59c6aadc2e5c835cc4504dd479cbf0f0c8e83d44230c6b64714d2de598bbfc2"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -145025,7 +145025,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "15f2bfe1796ce70f0be32698ba7d5ab34b68c7fe69f9a4cc8730636351d4b01c"
+      "Hash": "e4d7eaa469e24330dc2f19257d148f854384b5577a7badd362f7a9808c0d5084"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -145295,7 +145295,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "39a6af8e13aa88f5c1fb69321972c24a133de938a30c77befa93169954c4b7d7"
+      "Hash": "f6be1ea55db6b061973ecd34cf88f74ff110c090d9ef926c94290d26fe5685fb"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -159810,6 +159810,10 @@
           "ID": "freetrial.harvestprofit.com",
           "Type": "URL"
         },
+        "frontier-labs.deere.com": {
+          "ID": "frontier-labs.deere.com",
+          "Type": "URL"
+        },
         "ftp.bearflagrobotics.com": {
           "ID": "ftp.bearflagrobotics.com",
           "Type": "URL"
@@ -165345,7 +165349,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "18ad97e06df3e356ffda4129bff29832f4c7775b39a1ecb36bc58aff2a1ac9b0"
+      "Hash": "5fe0e5e4294985af759903414dda65083fdd0cdfdc17aea488a94ffc50a566be"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -165382,7 +165386,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "381e6b65feeb80dabb4a096d63220683418d3241675893d0eb5fb5360cf19b77"
+      "Hash": "be43cd226b598ab2653f313f23e6755f6944780151fe73ff41c95bf45b2b980d"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -168023,7 +168027,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dc502d8afd85b04289d47d0b36b0c1e4ecd6251f1ca08c46d3335bf3354f3be5"
+      "Hash": "ac34f5dd865e4d748a20acbfa8d96f351f3904d005e189937f80f06bbcba81b1"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -171143,7 +171147,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "edd6975fd57046f5cf22079b232dd26d7991fe59500519e9c3691676c15eb4f3"
+      "Hash": "8129e38d3b12b354ae30cd3d05d15ff46e1fe868e0ea8c10026a56ee3416a677"
     },
     "h1:moov": {
       "Key": "moov",
@@ -171345,7 +171349,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "de547d814f4fee6ee5b4687171b80f9ef3ccdd605e583afc757d1cefb6685b81"
+      "Hash": "f0a42353dca6d1568e84cc098648471a08402f5fb6c569b78f29adb9b84da198"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -190027,7 +190031,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cf1aef5e035f6ab03d96a682e5b34f225280ebb4f8725434063b606c843ee3a1"
+      "Hash": "47b0c368b81bd98f793ed52231e8b23df5fe8761ca5ba706a2782902a9055fac"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -191907,7 +191911,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4f34f11a2feb1c8269584516709e14002a576143ba633749f40d888e3abb098b"
+      "Hash": "139522afdb05eb5f12d416f1b4c70a6ef8c67224c95f6ddf5f3877491c927792"
     },
     "h1:who-covid-19-mobile-app": {
       "Key": "who-covid-19-mobile-app",
