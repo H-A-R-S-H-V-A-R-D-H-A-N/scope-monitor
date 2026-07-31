@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-31T01:09:35Z",
+  "captured_at": "2026-07-31T05:05:50Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -8327,39 +8327,6 @@
         }
       },
       "Hash": "1b47fd6644cd0f51666188114a8793997e3b2fc3599dec4391adda1d9e44bffb"
-    },
-    "bc:Majid Al Futtaim Properties": {
-      "Key": "Majid Al Futtaim Properties",
-      "Name": "Majid Al Futtaim Properties",
-      "URL": "https://bugcrowd.com/engagements/mallofemirates",
-      "InScope": {
-        "https://api.mafshoppingmalls.com/": {
-          "ID": "https://api.mafshoppingmalls.com/",
-          "Type": "api"
-        },
-        "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693": {
-          "ID": "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693",
-          "Type": "ios"
-        },
-        "https://ecoupon.maf.ae/": {
-          "ID": "https://ecoupon.maf.ae/",
-          "Type": "website"
-        },
-        "https://partnerconnect.maf.ae/": {
-          "ID": "https://partnerconnect.maf.ae/",
-          "Type": "website"
-        },
-        "https://play.google.com/store/apps/details?id=com.belongi.moe": {
-          "ID": "https://play.google.com/store/apps/details?id=com.belongi.moe",
-          "Type": "android"
-        },
-        "https://www.malloftheemirates.com": {
-          "ID": "https://www.malloftheemirates.com",
-          "Type": "website"
-        }
-      },
-      "OutScope": {},
-      "Hash": "b0f89b7b9591aa35434bf0a3dba66d1608654a0a188a9ab8d0ad91675dbc512c"
     },
     "bc:Majid Al Futtaim Retail": {
       "Key": "Majid Al Futtaim Retail",
@@ -23325,7 +23292,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5a3d08aba80183f0bd2a27a414971c282a0f8c3c3dc58a4e045290f70ffb229d"
+      "Hash": "65a07d13765aae6c727728317420f4b6dd527daeba034ebca88c13c6c9c6a233"
     },
     "h1:adobe": {
       "Key": "adobe",
@@ -27539,7 +27506,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "edb64f91aa5c7ec776eb6e0597d3afe9cea50dd55723cd61cd9524b8e486585d"
+      "Hash": "c7525646f0890819fdbc46be5ff3a5950b53c822cd2ecf9dd09f764d6bd5e72f"
     },
     "h1:arkadiyt-projects": {
       "Key": "arkadiyt-projects",
@@ -31290,7 +31257,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fd7605e0073996738dcf904e2123b19405f432beb6a529dd87166c763aca46af"
+      "Hash": "325a4aab7f689faaa954560fc5565ad87b7ad4f5742cc5614194c9d021406503"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -32199,7 +32166,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0e2531a6ab74838d112068ef6d7d9e7955997993b517794fbc78341803b8a3e1"
+      "Hash": "c451d4799e8f176de7cc0f65f87ffe2ab56d9ad3e4849384415f5948875ffa07"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -88054,7 +88021,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "104d4a362875904809617b6a0cd6152b02a8b6e3004a6c63765c1de536db026d"
+      "Hash": "cf0036b148a546dcf37a0e356b15f1232e4739552cb7ffb24169056a3d64579f"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -90816,7 +90783,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4453ddc71ff898ca00ea99123fc1218afed9a6511b76c0287ebebc230f86eac9"
+      "Hash": "956994aab0c20a43a70319b60995bd6a59585206e472d0d0ec4ea920d4941104"
     },
     "h1:deriv": {
       "Key": "deriv",
@@ -101403,7 +101370,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "642d9d67e4533ba47eed5d55981fa98c6284c29b76896a68ee6782ab498f7bde"
+      "Hash": "e0c740c0168e0123802e5c683b167a84342b28b6f353be39d23ab7f2de753a4b"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -168993,7 +168960,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9e436b4c745ec3c31b965f0e340b0809bca86613c4591ae559f592a5c8587b18"
+      "Hash": "fede1ededf3675450145c277bd6a1223abc547bd7c943cb3429e45b4ee65a5a9"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -171276,7 +171243,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d5f9d7d2555ff01e6e461b485877a3d18766f45f33afb3ca42f221d88b9dd835"
+      "Hash": "de547d814f4fee6ee5b4687171b80f9ef3ccdd605e583afc757d1cefb6685b81"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -176578,7 +176545,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6b48ceea942df150760c0699e432b6af7eb3aff2723446fb85c09e6bc482e6f2"
+      "Hash": "fcd27c4bb87c2e5e7b50256674a1e492aed23a40ab380ae7d0e1c50d08d026b0"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -180505,7 +180472,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8c4cdc73545c6c80ea6caa7a71b8a69a272ca6c5546c1439403b47464f4b2ecc"
+      "Hash": "2b90f3aac035d47f6eadf71349227541759922a1a52ed36690b1d1db0f9da323"
     },
     "h1:polygon-technology": {
       "Key": "polygon-technology",
@@ -181302,7 +181269,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c491bcb5bee70e69276662b2520f35fd060eb0b9e15b407c397fd80a8c08bf82"
+      "Hash": "2e53a8a58c9a7d1fccd05aa5ca5c101e9f974830fc5a1ae68997acadd4467d06"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -188905,7 +188872,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "66f655426cceea841fb7eeb4991643ee5a67ecda7acf7a4d3b3b6fe68a8b1584"
+      "Hash": "4097efc910c40a5040ce70e335057549fa6bd8c88c21e8862a06ab1a5a6af981"
     },
     "h1:ui": {
       "Key": "ui",
@@ -189368,7 +189335,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "07036198ef29fe06fe5b18f636c754e8eac121ab91fd9b52362ef8c7e1afe546"
+      "Hash": "c112d07977b9abfd09c5fa008efef28e8d966f4c6cb04b48f45b21bcd42ef935"
     },
     "h1:urbancompany": {
       "Key": "urbancompany",
@@ -189832,7 +189799,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "66a2e144da2fda2258957ded94727e178378587542db5b71fb880b2b9aa459e0"
+      "Hash": "7bcbe19496599e7b9132a7ecd4fa89ba55b67ed1af398d558be8cfa7ac370f87"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -189917,16 +189884,16 @@
       "Name": "Vercel Open Source",
       "URL": "https://hackerone.com/vercel-open-source",
       "InScope": {
-        "Tier 1": {
-          "ID": "Tier 1",
+        "Tier 1 OSS": {
+          "ID": "Tier 1 OSS",
           "Type": "OTHER"
         },
-        "Tier 2": {
-          "ID": "Tier 2",
+        "Tier 2 OSS": {
+          "ID": "Tier 2 OSS",
           "Type": "OTHER"
         },
-        "Tier 3": {
-          "ID": "Tier 3",
+        "Tier 3 OSS": {
+          "ID": "Tier 3 OSS",
           "Type": "OTHER"
         },
         "https://github.com/nitrojs/nitro": {
@@ -189987,7 +189954,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "45fa1d100456cce2d6cee31e451603584c047be1166bb497bd2b78b413e8b1db"
+      "Hash": "e4bb9d6a060376a2ff82fa8f66776d7577b37c711b6b470ac47d6136555db87f"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
