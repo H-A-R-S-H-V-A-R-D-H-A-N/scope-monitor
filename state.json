@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-02T16:10:26Z",
+  "captured_at": "2026-08-02T17:40:15Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -25638,7 +25638,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "766564d8ef31f26f09443562ee31fe7cd5e5cc0a11d037f62995d65e611889e8"
+      "Hash": "aad5fd259a92c3500f870dcefaf47c8918950af695eee41f9cd0ca13193f3384"
     },
     "h1:amazonvrp": {
       "Key": "amazonvrp",
@@ -67358,7 +67358,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fa7be2c8bf35d77114cb016a7a8b43377bf33a6f7acf14c85c3ecaaf695389a8"
+      "Hash": "3ccf07ef4f97b470116c34732a8fdab65a8921989293724a03535c4e9ea2c31e"
     },
     "h1:chia_network": {
       "Key": "chia_network",
@@ -67567,7 +67567,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c8e380bf04f643948b64d129525e6b449411d274a6f8966a457646130a0478d4"
+      "Hash": "b73868dce5e775a047358d9448610edc501249878c77582b2b450cd6a261c31a"
     },
     "h1:clarivate": {
       "Key": "clarivate",
@@ -101497,7 +101497,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5b8e09618d010d471919c9c1bb0b6a61f58c98c21037e882c8c77919e43b3d22"
+      "Hash": "3c98e3b4d2c641ec1ce3c21601028d0868108a4410cb800a85e316f038793545"
     },
     "h1:exness": {
       "Key": "exness",
@@ -102073,7 +102073,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2e005c19988ae31855b9e6b94f282dde904c0b9f7c0d4ae7b5623018f7fa7836"
+      "Hash": "04a5e98322ded13036dc5f839c56753fad59043ddece70a15a0555fbf67db6ea"
     },
     "h1:experian": {
       "Key": "experian",
@@ -144037,7 +144037,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "911f6cfc0ca2f7be803090a28f2b3e2fc537088429eb1fcc31c5f4d41d01ad0a"
+      "Hash": "25e4c9d2acd4809ef76edbfe91512d19311a2bf521824faf147a5b82224e74ec"
     },
     "h1:floqast": {
       "Key": "floqast",
@@ -156399,7 +156399,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "878fee3d777563d3f79df38a253b76f10245adbfbe93e6d55946e90167b5cfcb"
+      "Hash": "6ece8e9cfdd0ef91359e141ee4d1c2a62712764ce88d5fdc33cf5b3703688e60"
     },
     "h1:ips": {
       "Key": "ips",
@@ -181248,7 +181248,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "36e7820dced7156294e56bd393f12eaac2555f4a040a51473a972943c91de14a"
+      "Hash": "429dea04dfe832c8df825e6e1d067e7000b28aae2c99a092a5aab0a31e43dd45"
     },
     "h1:quora": {
       "Key": "quora",
@@ -181804,7 +181804,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ab531d556b129daeaa99addfef225e09543910996c6d398f163dd5a79afc7645"
+      "Hash": "c0e143f2992cdf4e29a342a71557423ba20cd9e713490973ca7b358e2ec48b07"
     },
     "h1:rei_vdp": {
       "Key": "rei_vdp",
@@ -189680,7 +189680,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "59f92946dd363cf61612a7ba26e90b335360dafd3b4d3aec5fe60115c04cf07a"
+      "Hash": "254e711ac24e47c4a6babeb524f241f28f4e1c72072931b06303125e40f10356"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -189726,7 +189726,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0e4cda5da856bb97f88e2e2d24f69aec765af76a836dbf36c434473eecfd2830"
+      "Hash": "0413264086b7857f0d22fb06a37409cf3a344400029557b070c842a2ef5e2095"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -194489,6 +194489,96 @@
       },
       "OutScope": {},
       "Hash": "03d386a01791de2b6af5ef416ee1106c7b610600bc467d07dc1425fa890ff330"
+    },
+    "in:0fd1d85b-2d33-4966-b5a0-caabfda5108e": {
+      "Key": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
+      "Name": "Ninja Kiwi Games Bug Bounty program",
+      "URL": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+      "InScope": {
+        "*.ninjakiwi.me": {
+          "ID": "*.ninjakiwi.me",
+          "Type": "wildcard"
+        },
+        "*.nkstatic.com": {
+          "ID": "*.nkstatic.com",
+          "Type": "wildcard"
+        },
+        "*.souparea.com": {
+          "ID": "*.souparea.com",
+          "Type": "wildcard"
+        },
+        "alerts.ninjakiwi.com": {
+          "ID": "alerts.ninjakiwi.com",
+          "Type": "url"
+        },
+        "analytics.ninjakiwi.com": {
+          "ID": "analytics.ninjakiwi.com",
+          "Type": "url"
+        },
+        "api.ninjakiwi.com": {
+          "ID": "api.ninjakiwi.com",
+          "Type": "url"
+        },
+        "battles.tv": {
+          "ID": "battles.tv",
+          "Type": "url"
+        },
+        "boomer2.ninjakiwi.com": {
+          "ID": "boomer2.ninjakiwi.com",
+          "Type": "url"
+        },
+        "ct.ninjakiwi.com": {
+          "ID": "ct.ninjakiwi.com",
+          "Type": "url"
+        },
+        "data.ninjakiwi.com": {
+          "ID": "data.ninjakiwi.com",
+          "Type": "url"
+        },
+        "guts.ninjakiwi.com": {
+          "ID": "guts.ninjakiwi.com",
+          "Type": "url"
+        },
+        "mynk-dash.ninjakiwi.com": {
+          "ID": "mynk-dash.ninjakiwi.com",
+          "Type": "url"
+        },
+        "mynk.ninjakiwi.com": {
+          "ID": "mynk.ninjakiwi.com",
+          "Type": "url"
+        },
+        "ninja.kiwi": {
+          "ID": "ninja.kiwi",
+          "Type": "url"
+        },
+        "ninjakiwi.com": {
+          "ID": "ninjakiwi.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "icarusadmin.ninjakiwi.com": {
+          "ID": "icarusadmin.ninjakiwi.com",
+          "Type": "url"
+        },
+        "rancher.ninjakiwi.com": {
+          "ID": "rancher.ninjakiwi.com",
+          "Type": "url"
+        },
+        "rancher.ninjakiwi.me": {
+          "ID": "rancher.ninjakiwi.me",
+          "Type": "url"
+        },
+        "store.ninjakiwi.com": {
+          "ID": "store.ninjakiwi.com",
+          "Type": "url"
+        },
+        "support.ninjakiwi.com": {
+          "ID": "support.ninjakiwi.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "81dc8548db8a520a1d4ff298cd873a5a6af3d9d18e4010f582a579872707d915"
     },
     "in:104ed53e-3c29-4d16-b89a-d322c9df5e9a": {
       "Key": "104ed53e-3c29-4d16-b89a-d322c9df5e9a",
