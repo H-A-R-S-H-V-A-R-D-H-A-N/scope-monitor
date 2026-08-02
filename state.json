@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-02T04:59:19Z",
+  "captured_at": "2026-08-02T07:39:33Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23915,7 +23915,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "643f5a0bfab55f90f726cc89ed164dc2b3f923da5769f2475830a7e1bda0f817"
+      "Hash": "8b74c8ca31dbbe6c20bb90d2757c1ed252fe701309b40394e2f13766318e6770"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -88282,7 +88282,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "23ad647453fda7f1024f6266267efe988a2c95545638b167b21b7a52abf5f3d1"
+      "Hash": "9f176646732efac4c340482a7132b2b78f454efa883843e526ba31a4c90ebc9a"
     },
     "h1:coinbase": {
       "Key": "coinbase",
@@ -88655,7 +88655,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e3dd88d627f5fc339ff5fc712896b2914290abc6e1030d586ac7728544b8ee53"
+      "Hash": "7f483cacf2d62ee2b9d4dba4e7130db616186f82c1dc16a4c7703821c308817e"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -104471,7 +104471,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0b9e4d0fc42a4243380f6e08bc33d36f3dd1498f2ba16c550229aece4510c2e5"
+      "Hash": "40a0ec762ae7ed839b9290ca4a15690fc51ecbec62bd8f75b5c5b986a21d9f9a"
     },
     "h1:figma": {
       "Key": "figma",
@@ -167124,7 +167124,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9db7e5c8ac7ffe7aaa6d58e34baa5ca3452384d3c8c21577ea8f36763a958006"
+      "Hash": "bb61cb42e53d6352080044fc949ee91e8caefa19681e587bde54543c3b25fe51"
     },
     "h1:linkedin": {
       "Key": "linkedin",
@@ -167544,7 +167544,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "79d2bf402061c7e9def5d23ca51c4d98265c61f6d1319d82b8a484180fdb074a"
+      "Hash": "8f03e6083b182facc1c8c80476ba45839f17e01ce40b931f2d8720f1e8af573f"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -169171,7 +169171,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4ba81764adf02e141a97f95bb226a72f9ecaf14c3b0889a35ef48e49a1ed7d3d"
+      "Hash": "d0b1f5e10dc408f5a4d91a0b8b17e18e3daac1f68bc08dcebd74d1c7fcf4d93d"
     },
     "h1:mendix": {
       "Key": "mendix",
@@ -170960,7 +170960,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bbc9deea135d1b19a8785e557ff6a4aedf9e3e6d5d54a799559518dbea57027f"
+      "Hash": "29fa62bd529bf2e59b2c9c3cdfe08fe46a6ba6d6471486d0df815af2cdae9433"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -171320,7 +171320,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7063b5285ae29c1ca233a89c78d98953b32e4f8c44d0c6f04bba20d6297d7827"
+      "Hash": "de547d814f4fee6ee5b4687171b80f9ef3ccdd605e583afc757d1cefb6685b81"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -179733,7 +179733,7 @@
       "URL": "https://hackerone.com/phabricator",
       "InScope": {},
       "OutScope": {},
-      "Hash": "7f224a7b50366a5c182e5c8f966009039a214427b0b8f5fee13de6c4f892431b"
+      "Hash": "1f2253b6026b3b24b809bcb5a9a99e899d3daddb59338d4edabeffc31d8ee0d4"
     },
     "h1:phonepe_vdp": {
       "Key": "phonepe_vdp",
@@ -184360,7 +184360,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "0b76dc54ded081613651fe796c9ce0181812d6be5d898b1ff2dc0526d649585c"
+      "Hash": "7a42812f25bfd14e1146e492ae99a15b1b48656be7085077b5eed9115578464e"
     },
     "h1:sidefx": {
       "Key": "sidefx",
@@ -189814,7 +189814,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "121d6b82593c2d3d6ae7a56f70875c58b13305cb19a8d98509ca280fc44c1235"
+      "Hash": "7ea4950846ea9b88a608aab29d5743c8e934d44206a7d69d321be6f4c727c178"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -194489,96 +194489,6 @@
       },
       "OutScope": {},
       "Hash": "03d386a01791de2b6af5ef416ee1106c7b610600bc467d07dc1425fa890ff330"
-    },
-    "in:0fd1d85b-2d33-4966-b5a0-caabfda5108e": {
-      "Key": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
-      "Name": "Ninja Kiwi Games Bug Bounty program",
-      "URL": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "InScope": {
-        "*.ninjakiwi.me": {
-          "ID": "*.ninjakiwi.me",
-          "Type": "wildcard"
-        },
-        "*.nkstatic.com": {
-          "ID": "*.nkstatic.com",
-          "Type": "wildcard"
-        },
-        "*.souparea.com": {
-          "ID": "*.souparea.com",
-          "Type": "wildcard"
-        },
-        "alerts.ninjakiwi.com": {
-          "ID": "alerts.ninjakiwi.com",
-          "Type": "url"
-        },
-        "analytics.ninjakiwi.com": {
-          "ID": "analytics.ninjakiwi.com",
-          "Type": "url"
-        },
-        "api.ninjakiwi.com": {
-          "ID": "api.ninjakiwi.com",
-          "Type": "url"
-        },
-        "battles.tv": {
-          "ID": "battles.tv",
-          "Type": "url"
-        },
-        "boomer2.ninjakiwi.com": {
-          "ID": "boomer2.ninjakiwi.com",
-          "Type": "url"
-        },
-        "ct.ninjakiwi.com": {
-          "ID": "ct.ninjakiwi.com",
-          "Type": "url"
-        },
-        "data.ninjakiwi.com": {
-          "ID": "data.ninjakiwi.com",
-          "Type": "url"
-        },
-        "guts.ninjakiwi.com": {
-          "ID": "guts.ninjakiwi.com",
-          "Type": "url"
-        },
-        "mynk-dash.ninjakiwi.com": {
-          "ID": "mynk-dash.ninjakiwi.com",
-          "Type": "url"
-        },
-        "mynk.ninjakiwi.com": {
-          "ID": "mynk.ninjakiwi.com",
-          "Type": "url"
-        },
-        "ninja.kiwi": {
-          "ID": "ninja.kiwi",
-          "Type": "url"
-        },
-        "ninjakiwi.com": {
-          "ID": "ninjakiwi.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "icarusadmin.ninjakiwi.com": {
-          "ID": "icarusadmin.ninjakiwi.com",
-          "Type": "url"
-        },
-        "rancher.ninjakiwi.com": {
-          "ID": "rancher.ninjakiwi.com",
-          "Type": "url"
-        },
-        "rancher.ninjakiwi.me": {
-          "ID": "rancher.ninjakiwi.me",
-          "Type": "url"
-        },
-        "store.ninjakiwi.com": {
-          "ID": "store.ninjakiwi.com",
-          "Type": "url"
-        },
-        "support.ninjakiwi.com": {
-          "ID": "support.ninjakiwi.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "81dc8548db8a520a1d4ff298cd873a5a6af3d9d18e4010f582a579872707d915"
     },
     "in:104ed53e-3c29-4d16-b89a-d322c9df5e9a": {
       "Key": "104ed53e-3c29-4d16-b89a-d322c9df5e9a",
