@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-02T21:31:08Z",
+  "captured_at": "2026-08-02T22:33:30Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -173976,7 +173976,7 @@
       "URL": "https://hackerone.com/mueller_water_products_vdp",
       "InScope": {},
       "OutScope": {},
-      "Hash": "5eb1fc519710f4ae9878836a477dc61e47ec6da8a53b2d5838f55daedec3b858"
+      "Hash": "0d1ad7fc1ba01ec87a354ce2deeb8c14a3e5ad84de4c783b78920c8c76c4bca6"
     },
     "h1:mufg-vdp": {
       "Key": "mufg-vdp",
@@ -183590,7 +183590,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d983f71b50179d071ba6702053659cab350400e46c60f16ffe326c80c32780de"
+      "Hash": "b35c531befff64440d7ef54f419eab3a58f638cc39da3a8ac5823e210c6c9cbc"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
