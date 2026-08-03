@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-03T20:46:15Z",
+  "captured_at": "2026-08-03T22:15:13Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23118,7 +23118,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d1e491655d0949b82931adb960c533d7017ef6dcda677ddd68f1005a4747ea87"
+      "Hash": "753a641758f8d383ec1463a78d2eb2567e57dfbba5efc59ee692216bdff34df1"
     },
     "h1:abn_amro_vdp": {
       "Key": "abn_amro_vdp",
@@ -23935,7 +23935,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3812153a701d060e22860afd3e0fa643aa150944cae0b01dd76a7f03ecf03a7f"
+      "Hash": "04c273388abad90ea814690b9adb200da8b644872851ccbf87d0f6d64c09bb9f"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -27636,7 +27636,7 @@
       "URL": "https://hackerone.com/arkadiyt-projects",
       "InScope": {},
       "OutScope": {},
-      "Hash": "fa663ad39727a54f908297df4f5d78fe602bd90dfa05d07f71365d02705e0bf7"
+      "Hash": "c88672f85f45a2d53b8fb14f11dd20bb100afa9d0032a6c88b260245fc221d44"
     },
     "h1:arkose_labs": {
       "Key": "arkose_labs",
@@ -45001,6 +45001,22 @@
         },
         "httpbin.gcsonp.cbre.com": {
           "ID": "httpbin.gcsonp.cbre.com",
+          "Type": "URL"
+        },
+        "https://api.cbre.com/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/data": {
+          "ID": "https://api.cbre.com/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/data",
+          "Type": "URL"
+        },
+        "https://api.cbre.com/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/file/0d748a6e-eacf-4830-b7bb-2760cdbd0e1b": {
+          "ID": "https://api.cbre.com/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/file/0d748a6e-eacf-4830-b7bb-2760cdbd0e1b",
+          "Type": "URL"
+        },
+        "https://api.cbre.com:443/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/entities/": {
+          "ID": "https://api.cbre.com:443/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/entities/",
+          "Type": "URL"
+        },
+        "https://api.cbre.com:443/token?grant_type=client_credentials\u0026client_id=consumer_key\u0026client_secret=consumer_secret": {
+          "ID": "https://api.cbre.com:443/token?grant_type=client_credentials\u0026client_id=consumer_key\u0026client_secret=consumer_secret",
           "Type": "URL"
         },
         "hu-qa.nonprod.cbre.com": {
@@ -67053,7 +67069,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b3f95fea44a9cf41ffbd4d8032809a28535828b8d423395527a4abe1876e3a5b"
+      "Hash": "96697cecfe27608dbfb412fffcb3d26942b27bb9dd724dc2432b2802d8702fd8"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -95794,7 +95810,7 @@
       "URL": "https://hackerone.com/django",
       "InScope": {},
       "OutScope": {},
-      "Hash": "c8299e6a1ded8085537e99405f701a10d5650dbc13dc32bd8dd961816d3202bc"
+      "Hash": "87e2bf9ff70416b80d72ff5d988106805e95b929b0aab7c6105384b623bb9898"
     },
     "h1:docusign": {
       "Key": "docusign",
@@ -145036,7 +145052,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "0d380f19628af328b655476c14915af0a0f4eae7ce68cdf122fd321bccc8383d"
+      "Hash": "cf79ac0109c7f3cf4812505ff59e004cdf3f3c6893f9835e7252f98bb07bc33e"
     },
     "h1:freshworks": {
       "Key": "freshworks",
@@ -145180,7 +145196,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aaafeb712ca80ef2295c882cc332dc66d634678bfa15a386aa291e5ca9d7f9ec"
+      "Hash": "6fbd1fa41a1ecc95297d46b12e25da56f8a2c39bc76a0d734e07c211b3b851fa"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -167319,7 +167335,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fb90048436df3cb12032fa56d246296f9198bac178f2f69782e728c8794cd99d"
+      "Hash": "9a07d61c3862347dad901a9769dc8522a5afdb8c6044f0f6e7b1da75c78486fd"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -176241,7 +176257,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "363a6a30da9dc326bcd1e8ba51c9a4c1ff6b33e14238ba5b8589339feb22a3be"
+      "Hash": "f7d21ed7f530f9af23872716addee63957fef39d24e2500637ae5492a4ef8750"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -188216,7 +188232,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "70b1b67d622bd954eeb12400750887720f5e8e2122cea1df746ac6fc4347cfeb"
+      "Hash": "3635222ed95e8c8daf10e0cdceffc416f6f9e0282a85055085f78989b733d98c"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -189976,7 +189992,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "b249076441a75d20df869e57dde7b2c2c4b519d507b66dbdc6305b03f9845099"
+      "Hash": "bbc7e5097fed304f0f2c4ead51e4900a2cf472c562bbdb71cbcc1bbe2702e82f"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -193556,7 +193572,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b12d7f731a43d6a305b36e88587436e475591a0671075890bf560f22e8289f68"
+      "Hash": "e1558062d8d6aae4c24078c1a552eb7eac081371a100dd6b816be2dd418f4d8a"
     },
     "h1:zurich-insurance": {
       "Key": "zurich-insurance",
