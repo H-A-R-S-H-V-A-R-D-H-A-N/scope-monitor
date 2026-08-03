@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-03T19:09:15Z",
+  "captured_at": "2026-08-03T20:46:15Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23804,7 +23804,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "3c3dfbd801c100bf14f784c947e3ddedd847f4c7ffdb56c46cecad2956cf6ba2"
+      "Hash": "fef84f42866787f6d95cc71052d092dcd6282b944b7ef0ec25641e9e47a9224f"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -24288,7 +24288,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "080bf818cf5d5c2304cbfe5e7c90b0918d897eacbb6030ae3db925435b2af39d"
+      "Hash": "7f644aeac946a64e87c3b72b541cee4b041240eebb531b8722befdda788cf49c"
     },
     "h1:allegion": {
       "Key": "allegion",
@@ -67218,7 +67218,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "439126e06feb4e2728723d0221509694e5d64569f0e52d045ff5905e1d9cf4a2"
+      "Hash": "29b074980abb7e4579c9d4d1fa58482d09a5fc0e84d77034ebebc970ffae5d02"
     },
     "h1:central-security-project": {
       "Key": "central-security-project",
@@ -99325,7 +99325,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5561501cb9863449a7463e38a46e6593eba0f72b318874af15d0daf9faefe2b0"
+      "Hash": "81703b1552d60d96fdc8f724265d691ccc3b37de35e138597bd1f696c1066908"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -101644,17 +101644,65 @@
           "ID": "Passkey Wallet",
           "Type": "OTHER"
         },
+        "api-p.xoswap.com": {
+          "ID": "api-p.xoswap.com",
+          "Type": "URL"
+        },
         "api.passkeys.network": {
           "ID": "api.passkeys.network",
+          "Type": "URL"
+        },
+        "api.xoswap.com": {
+          "ID": "api.xoswap.com",
+          "Type": "URL"
+        },
+        "ctr.a.exodus.io": {
+          "ID": "ctr.a.exodus.io",
+          "Type": "URL"
+        },
+        "dashboard-p.xoswap.com": {
+          "ID": "dashboard-p.xoswap.com",
+          "Type": "URL"
+        },
+        "dashboard.xoswap.com": {
+          "ID": "dashboard.xoswap.com",
           "Type": "URL"
         },
         "embedded.passkeys.foundation": {
           "ID": "embedded.passkeys.foundation",
           "Type": "URL"
         },
+        "exchange-p.exodus.io": {
+          "ID": "exchange-p.exodus.io",
+          "Type": "URL"
+        },
+        "exchange-server-p.exodus.io": {
+          "ID": "exchange-server-p.exodus.io",
+          "Type": "URL"
+        },
+        "exchange-server.exodus.io": {
+          "ID": "exchange-server.exodus.io",
+          "Type": "URL"
+        },
         "exodus-movement.exodus": {
           "ID": "exodus-movement.exodus",
           "Type": "APPLE_STORE_APP_ID"
+        },
+        "fiat-p.a.exodus.io": {
+          "ID": "fiat-p.a.exodus.io",
+          "Type": "URL"
+        },
+        "fiat-prod-fallback.a.exodus.io": {
+          "ID": "fiat-prod-fallback.a.exodus.io",
+          "Type": "URL"
+        },
+        "fiat.a.exodus.io": {
+          "ID": "fiat.a.exodus.io",
+          "Type": "URL"
+        },
+        "http://exchange-server.exodus.io": {
+          "ID": "http://exchange-server.exodus.io",
+          "Type": "URL"
         },
         "https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820": {
           "ID": "https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820",
@@ -101672,12 +101720,24 @@
           "ID": "https://play.google.com/store/apps/details?id=exodusmovement.exodus\u0026hl=en_IN",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
+        "kyc.a.exodus.io": {
+          "ID": "kyc.a.exodus.io",
+          "Type": "URL"
+        },
         "login.exodus.com": {
           "ID": "login.exodus.com",
           "Type": "URL"
         },
         "my.passkeys.network": {
           "ID": "my.passkeys.network",
+          "Type": "URL"
+        },
+        "nexotrack-p.exodus.io": {
+          "ID": "nexotrack-p.exodus.io",
+          "Type": "URL"
+        },
+        "nexotrack.exodus.io": {
+          "ID": "nexotrack.exodus.io",
           "Type": "URL"
         },
         "passkeys.foundation": {
@@ -101702,6 +101762,14 @@
         },
         "wallet.passkeys.foundation": {
           "ID": "wallet.passkeys.foundation",
+          "Type": "URL"
+        },
+        "xoswap-graphql-p.a.exodus.io": {
+          "ID": "xoswap-graphql-p.a.exodus.io",
+          "Type": "URL"
+        },
+        "xoswap-graphql.a.exodus.io": {
+          "ID": "xoswap-graphql.a.exodus.io",
           "Type": "URL"
         }
       },
@@ -101759,7 +101827,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c957f3d2edc2b31a4d78b88a02244cae68663c8d730a2b9aaf0b4ec99328d86c"
+      "Hash": "05a5b11578555c525f6f6698cb4537f01776dfcc778372e36e9f66c12d729513"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -102424,7 +102492,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5d48739dabbb3d9102354b06453c9b0310763b76983c7b5598cc67be7dce558b"
+      "Hash": "99af2443e334246ca76b3734a5051cfa49aca4e1b5bda4aee659da0f0f79c6b7"
     },
     "h1:ferrero": {
       "Key": "ferrero",
@@ -104607,7 +104675,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d66e26bd59b9ea2d858a0aa1ce1f1aff664443df6d3fdd8b36e839b5fd438d3e"
+      "Hash": "27bc4930e2353366a2e410d93e1a151aa00a5759ce5af137c5aa8aa8ac478105"
     },
     "h1:files": {
       "Key": "files",
@@ -144968,7 +145036,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "a363edc2780844e5d363332c833ff651fda31338a00e00967ebf689e3be41aeb"
+      "Hash": "0d380f19628af328b655476c14915af0a0f4eae7ce68cdf122fd321bccc8383d"
     },
     "h1:freshworks": {
       "Key": "freshworks",
@@ -167251,7 +167319,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b2db8d4b646311cfc7398681c2df4a82031ce65ea5ea233347da5b76943c745a"
+      "Hash": "fb90048436df3cb12032fa56d246296f9198bac178f2f69782e728c8794cd99d"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -169905,7 +169973,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "58d9a91913296bf2f3cf6ac863fc240dbcdbbe48e32a892b82d572606170ef9f"
+      "Hash": "052c5c5e8407f29c5cc3d57bfec38d32998a5c23f5fd085eab41360d7f3fb69e"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -176102,7 +176170,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fefaae1752c74e7c2a58643246e89082a394aad247195b78c9be0f16b60a2176"
+      "Hash": "b43031a7a4719939a07f416ccf38b095829e41cb7d4ffffcbd115d02543bd061"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -177185,7 +177253,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d45130a00e7ccb7f1d5f97d3f044a27aa8ea47778bbd9da54aa26bc144484c7a"
+      "Hash": "7046b9e4aa176b074efb7c8b96759a534a79cc77d009494d1a6bcf3c2aeadc4b"
     },
     "h1:openmage": {
       "Key": "openmage",
@@ -186386,7 +186454,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "762db2770106ff797f140e93fcd38fa57fc58f4bb454b459ece49c72a627a326"
+      "Hash": "939dc5076c0f223dd1d130dd0ac0740ac859641430a01b2eaf13f46b3038ca9f"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -186991,7 +187059,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bbfaa7a5ad2412e0cca2753d79b428ef887453e46c97c1e8b534b570a2276381"
+      "Hash": "c4903bbc9fc7f3648e228408dc5c090090185ae75444a11d26d9a0ac3141ab4f"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -187243,7 +187311,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8ba59621af7ed6fd09b0a53dff31f943f34075cff68e62ac81b9eda7a753405f"
+      "Hash": "80f5b052782456e2ecd21e42f31beb0fa6cbb8eda5a40e9a02a7deeea2bef6ea"
     },
     "h1:tines_automation_vdp": {
       "Key": "tines_automation_vdp",
@@ -190033,6 +190101,14 @@
           "ID": "https://github.com/vercel/async-sema",
           "Type": "SOURCE_CODE"
         },
+        "https://github.com/vercel/chat": {
+          "ID": "https://github.com/vercel/chat",
+          "Type": "SOURCE_CODE"
+        },
+        "https://github.com/vercel/eve": {
+          "ID": "https://github.com/vercel/eve",
+          "Type": "SOURCE_CODE"
+        },
         "https://github.com/vercel/flags": {
           "ID": "https://github.com/vercel/flags",
           "Type": "SOURCE_CODE"
@@ -190063,7 +190139,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e4bb9d6a060376a2ff82fa8f66776d7577b37c711b6b470ac47d6136555db87f"
+      "Hash": "e3fcbe0a42b664920af251ce038b44fd99df7752ee515064620a2b1e15aef803"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
