@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-03T05:08:35Z",
+  "captured_at": "2026-08-03T08:50:28Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23048,7 +23048,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "82cbb9aea3875ddbad8c1a0cc9743f10587aa0ed94e2929b8c8cbaedb902d12d"
+      "Hash": "bf2aeba0754094df017cc6dcea38ac16eb96fe069b5053d27c3d67f596770524"
     },
     "h1:abercrombie_fitch_bbp": {
       "Key": "abercrombie_fitch_bbp",
@@ -23293,7 +23293,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0994e02459aee797a5e5974adf8ec62a8fcee5e7be4066347eac2c9b580315bd"
+      "Hash": "cd72f998574c3908fc74454f17104adc0a4a41e22f385ab74d537d2f194b5088"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -28234,7 +28234,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d6f60d0fb2967829d632753e9e8ecb7dbdfdab8e3f6878c09b0ca0d23515c435"
+      "Hash": "1fc9e8c00ef4dafdff30ebdd8f931767e31c13129a463fcd721e852492c5f55c"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -31049,7 +31049,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5445d4f9876114aa5879d7eec910fc0c20c0611c9c153b1c5f87c0d820126ecb"
+      "Hash": "b9e9cd4532feab3861cb35d78486728361a87177494853955a4936205cf4b755"
     },
     "h1:bookingcom": {
       "Key": "bookingcom",
@@ -31359,7 +31359,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c26eba6c55884e16913f208417acdac514f19ca5275352f4a08bcecefc28e0be"
+      "Hash": "cf186a330f0be0ba8d720360d513fd1113f7bed99f3d00c739982ee30e80d8d4"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -87787,7 +87787,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0313a3bec77abb341cdd5d710c3c0ba924897977882d11f51b2ac43598233a96"
+      "Hash": "78836c3111f9689399094e0afb15e46ea451d71a5002f0c3492203fa2d47437a"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -88169,7 +88169,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "560dc4f95dca08ff8942575d64d6ce764bc69a0b53eeff0764d45ddeabed1f0f"
+      "Hash": "ee93f585dbb10e28366ab9bee26a0a114d5c087e1de0068041d18eeff08db85a"
     },
     "h1:cognizant": {
       "Key": "cognizant",
@@ -89557,6 +89557,19 @@
       },
       "Hash": "041e625a3564d44855bf139126b8c36ae44d211d3e2bc7d7913ba25b87052d3c"
     },
+    "h1:curl": {
+      "Key": "curl",
+      "Name": "curl",
+      "URL": "https://hackerone.com/curl",
+      "InScope": {
+        "https://github.com/curl/curl": {
+          "ID": "https://github.com/curl/curl",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {},
+      "Hash": "555e7279f50a67e218dc0bd6e069857bc6185943edd7540a89a3d4b368e4d66c"
+    },
     "h1:dailypay_vdp": {
       "Key": "dailypay_vdp",
       "Name": "DailyPay VDP",
@@ -90731,7 +90744,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0958b003cba0924c0483b02bb142b48d99b5051805bf8dc66dcb8151628ceea8"
+      "Hash": "9ff3ff617848c07f16b27c2bca5e209f9b031a3c5af380a30023d042e40a5eda"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -96038,7 +96051,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "243a82824fda2c1541df53c9f5ff822c78a4994c00103e03300c67560748a1d6"
+      "Hash": "687cb3374b315f5b14de90515290f08c56d3e37af4bb6aca85b1491837ab28b9"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -96926,16 +96939,8 @@
           "ID": "*.enjinusercontent.com",
           "Type": "WILDCARD"
         },
-        "Enjin - Ethereum ERC-1155 Contract": {
-          "ID": "Enjin - Ethereum ERC-1155 Contract",
-          "Type": "OTHER"
-        },
         "Enjin Blockchain": {
           "ID": "Enjin Blockchain",
-          "Type": "OTHER"
-        },
-        "Enjin Coin - Ethereum ERC-20 Contract": {
-          "ID": "Enjin Coin - Ethereum ERC-20 Contract",
           "Type": "OTHER"
         },
         "com.enjin.mobile.wallet": {
@@ -96989,7 +96994,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d8c0a157073451a00d9fb229bd2ffcafe83bce8e38d49dd4553ad39a65d5b1dd"
+      "Hash": "b36dbe677a42031322f8f2a41b13ddd804928aca70b51524f005de8001268fa6"
     },
     "h1:epicgames": {
       "Key": "epicgames",
@@ -101421,10 +101426,6 @@
           "ID": "eufyMake E1",
           "Type": "HARDWARE"
         },
-        "eufyMake Studio software": {
-          "ID": "eufyMake Studio software",
-          "Type": "DOWNLOADABLE_EXECUTABLES"
-        },
         "https://us.eufy.com/products/e8213181": {
           "ID": "https://us.eufy.com/products/e8213181",
           "Type": "HARDWARE"
@@ -101443,7 +101444,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "45962b20df671570e11c6db514ccee39152cd2072defa50ca15d8f24e56daa44"
+      "Hash": "1ef5edc3c884286c7b2654fc30517e4850189d8cfbc3db758a0fe86c61328a3a"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -144897,10 +144898,6 @@
           "ID": "Freshdesk-iOS-App",
           "Type": "APPLE_STORE_APP_ID"
         },
-        "Freshservice Discovery Agent and Probe": {
-          "ID": "Freshservice Discovery Agent and Probe",
-          "Type": "OTHER"
-        },
         "Freshservice-Intune-iOS-App": {
           "ID": "Freshservice-Intune-iOS-App",
           "Type": "APPLE_STORE_APP_ID"
@@ -144959,6 +144956,10 @@
           "ID": "Freshsales-iOS-App",
           "Type": "APPLE_STORE_APP_ID"
         },
+        "Marketplace Apps": {
+          "ID": "Marketplace Apps",
+          "Type": "OTHER"
+        },
         "com.freshdesk.freshsales.mobile": {
           "ID": "com.freshdesk.freshsales.mobile",
           "Type": "GOOGLE_PLAY_APP_ID"
@@ -144996,7 +144997,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2de4f2aad9e4b712bdc0fff712d8a84108982886060ab8f9b140852eaebd3f1c"
+      "Hash": "a8ae54e3bf740ec6537fc94eaad6e00e4bb6011dee534d8fb87003559c37872a"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -145051,7 +145052,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "df7bbbf52ad19ee26b60d01f7c801d026fae4a42d25e7e0e07411bd273e07f2b"
+      "Hash": "556cbd25aba1e9a45e01f8fd48df6a910ecfbc44139ad28ae82be9cc4f2f6e39"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -147973,7 +147974,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9a6d3098f3a7bf3628af9169b70c43c42af2f2b8ad6efc13a6dee12e8d893fcd"
+      "Hash": "059ae2285fd340a685776f4cb81675edc9205fea9fcd63636c7271c176e8332b"
     },
     "h1:hilton": {
       "Key": "hilton",
@@ -148153,7 +148154,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "5ebaee123420ff5f39fcb84694efffd2bcfb8aa35e06823447bb38de9d0c5dd6"
+      "Hash": "e9717f094acea5f88c305cb376de91c34424ade40df2ceb4bf298276c678fa2c"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -166798,7 +166799,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "de30336096fccf8c6615489c7713365b5b1a0c9625f3c4f7a924ed2794149668"
+      "Hash": "cfd8f55dae62eb21f5dd9de4ab9497cd507e86cbb665bd3704e01c2e4ee41d5f"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -167998,7 +167999,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3ec391e2df0391b3f291536558c7f57fb29055739d65fb304b52a42ca1ba43f6"
+      "Hash": "e44c14ea9fb6f8f5726ff5c34943574b17569f7775a28f0b62b314eb8e6db8cb"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -170784,7 +170785,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b11e15add46ecc0f6fafd5078a3d26a078c25d539af7f0300c09e7d7e6955fd1"
+      "Hash": "73b379cddf2513d2f7fd4c852d55c3ac57018df06a51f39fcd91e6357e3fdf80"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -175740,7 +175741,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "483b354df17110730e19f8efb8165b3b63653d97f9389febf9ab8a300b46a0e1"
+      "Hash": "a1d34cfd56eb92bf4083768ab16bfb55226bb3e6af2b148c0d5b31693d145ddd"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -181550,7 +181551,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4ac67f6217ca2c91eb88351365ccf882b9b328f03d54ea7a478df29cc069cb6e"
+      "Hash": "fd987e99dab4662e9b551b1172b52d18ad9c71fdbc30f96d175b10d982c4bef1"
     },
     "h1:redox_bbp": {
       "Key": "redox_bbp",
@@ -184790,7 +184791,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5b39746b2c56ab3784cb3de6924644808327a588288cd074c0262fa2c38c3812"
+      "Hash": "2bfd05b565a8dc96ec078aca67401cd8436cbb56568b00dbf0b7e931e5fd8fe4"
     },
     "h1:slack": {
       "Key": "slack",
@@ -185365,7 +185366,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "06cb48f515fb3ec0251571679cea94aa6588439a8375bde58df85aba2b1e7c61"
+      "Hash": "5a64fe8e7d27bef9f1bd30ecbc162f0f13dee281915f99b74597e56c21062635"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -185980,7 +185981,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "28137e93f94e05b0e71219b1a485b403abef465c286baa66cb77aa616af96d58"
+      "Hash": "f95c4868e979607bb6c8859e989565c594085163633877781e966e666eb884e2"
     },
     "h1:superbet": {
       "Key": "superbet",
@@ -191708,7 +191709,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "557a0cbfe8bf5b486e37e699895d8ee7f6f5f58c9678b5215a020551620d61e2"
+      "Hash": "e67961c64bb2b99d40332504f2702d80193f58103a6ba59093f4980a24d2892e"
     },
     "h1:weblate": {
       "Key": "weblate",
