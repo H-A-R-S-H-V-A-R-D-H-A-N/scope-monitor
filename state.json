@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-03T15:30:02Z",
+  "captured_at": "2026-08-03T17:27:18Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18026,7 +18026,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3c43a9f9190f5617a8b49a2b42b9a12c4f4a1a0487f9dd81156a13b436179c41"
+      "Hash": "2477ec53607a80479af41f8f625b78778f5a5372d9a3c54e8869f6f5556569a4"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -30558,7 +30558,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "25f0a066694097c28c669cbff303e208f01cf23a84e150a30ef4914104992902"
+      "Hash": "c1763913692fae24e937d02d40349e268b4da2bd28a68f311dfb3a96741eb557"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31470,7 +31470,36 @@
         }
       },
       "OutScope": {},
-      "Hash": "12b736d7622255e0c2293ba07f71efeeeaea73bba237e3731387c91917864344"
+      "Hash": "e4193cb1cb9f73cc8964b67b288c91c0fa20b1774e0e3046b83683934470821c"
+    },
+    "h1:brave": {
+      "Key": "brave",
+      "Name": "Brave Software",
+      "URL": "https://hackerone.com/brave",
+      "InScope": {
+        "Brave Browser Desktop": {
+          "ID": "Brave Browser Desktop",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "Brave websites": {
+          "ID": "Brave websites",
+          "Type": "OTHER"
+        },
+        "com.brave.browser": {
+          "ID": "com.brave.browser",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.brave.ios.browser": {
+          "ID": "com.brave.ios.browser",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://github.com/brave/*, https://github.com/brave-intl/*": {
+          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {},
+      "Hash": "3d2b2c189d3fe3ca078c752e000b793db59de183fb4ca35db802c99cfe7b6238"
     },
     "h1:braze_inc": {
       "Key": "braze_inc",
@@ -31579,7 +31608,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "61f89167e57b52c76ce5e52ed61a6eb471cfde54f1e494d4d2bc3d683a76db9f"
+      "Hash": "cb759162ce35fe3e239a8d44310624f4385ace51aab0f8b7723bf4af33c416f4"
     },
     "h1:bumba_bbp": {
       "Key": "bumba_bbp",
@@ -88675,7 +88704,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7f483cacf2d62ee2b9d4dba4e7130db616186f82c1dc16a4c7703821c308817e"
+      "Hash": "e3dd88d627f5fc339ff5fc712896b2914290abc6e1030d586ac7728544b8ee53"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -102313,7 +102342,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "74a1e42f93839a92ee79963583e059791ffeff3b1cd2578c1257f2afd55b3e50"
+      "Hash": "34deed5f3fbdfb60cd43e8d54cf97069f0e897e8a68eeeef571b5e20c30dc79d"
     },
     "h1:fastly-vdp": {
       "Key": "fastly-vdp",
@@ -104608,7 +104637,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d5505eb5ca79f13d73807f1520b2f1e9b50b62bacc21efe8795b67371061ada4"
+      "Hash": "f76c25d2d665734834deaf4559a8e3407fac0cb71307e599b7edfac39165d545"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -145076,7 +145105,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "556cbd25aba1e9a45e01f8fd48df6a910ecfbc44139ad28ae82be9cc4f2f6e39"
+      "Hash": "69affc799f362dfd556fdc0ff2ed5bb63376ac74c96fb5128042dc7c9d6a7bbc"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -157103,7 +157132,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "14ff6ab73b1938cb8946ac0b7486b2c4c17c19b5365a623ac1921b8a26be3800"
+      "Hash": "b51b54c7a0761fbefc62e81b903d6efd68a2ece44678c038ca09fb13777ee8d0"
     },
     "h1:john-deere": {
       "Key": "john-deere",
@@ -168955,7 +168984,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b20c390f09609113878b2d51897376b7fbb9c4c1b7c518e014d162fce15bc552"
+      "Hash": "ab7e4e56e1984a00515fab152577bfbe12f6949e981a5b64c38f2cd233976359"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -171345,7 +171374,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "de547d814f4fee6ee5b4687171b80f9ef3ccdd605e583afc757d1cefb6685b81"
+      "Hash": "457f0f00437ff2169ef001ffb8093e880b31917742e40cc4932689e8e8793474"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -175765,7 +175794,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "483b354df17110730e19f8efb8165b3b63653d97f9389febf9ab8a300b46a0e1"
+      "Hash": "a1d34cfd56eb92bf4083768ab16bfb55226bb3e6af2b148c0d5b31693d145ddd"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -181719,7 +181748,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b3b8c5b0f967247113248fc7509b5e4fe285c9d55a16afca62ae1768560d74c7"
+      "Hash": "f9f9aa698f26229fefcb94fcbd13e09dc0a1f351623146763fcf8527aeaf0c42"
     },
     "h1:rei_bbp": {
       "Key": "rei_bbp",
@@ -186313,7 +186342,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "79bbdd94121fde8f1c01a9d2cb8a55f972d834abfb06ea7374f6876b735b3b14"
+      "Hash": "939dc5076c0f223dd1d130dd0ac0740ac859641430a01b2eaf13f46b3038ca9f"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -187071,10 +187100,6 @@
           "ID": "*tiktokv.us",
           "Type": "WILDCARD"
         },
-        "*us.tiktok.com": {
-          "ID": "*us.tiktok.com",
-          "Type": "WILDCARD"
-        },
         "*us.tiktokv.com": {
           "ID": "*us.tiktokv.com",
           "Type": "WILDCARD"
@@ -187112,7 +187137,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3e7e7dc6d339a7f9013d20f4a579b6ea81f9790bfcc0cb0fad63f39480038436"
+      "Hash": "35f8ac378eeb854e8e14640cbdc4ace7bf48e4620bf7124f5351ae86143ff848"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -187326,7 +187351,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ffdc8c01ea4fc8cc27211055e9630c0a9b11e6044b11325ffcc7c29e1e017e88"
+      "Hash": "3a9621d50a925bb60145cf8c7e92be6e95975fb0e2aaf55a808a88d94fe624cb"
     },
     "h1:top_echelon_software": {
       "Key": "top_echelon_software",
@@ -200692,128 +200717,6 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
