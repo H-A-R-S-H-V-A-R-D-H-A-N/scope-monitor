@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-03T17:27:18Z",
+  "captured_at": "2026-08-03T19:09:15Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18026,7 +18026,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2477ec53607a80479af41f8f625b78778f5a5372d9a3c54e8869f6f5556569a4"
+      "Hash": "b1171edf012df0134f16f1df607b9ebf7dde41d1069cf16133c693ad5e76f5c0"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -23935,7 +23935,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "950054b1d5083c204bb014dcb13110a9cc1fd918fe065e5c8d78b306f0292276"
+      "Hash": "3812153a701d060e22860afd3e0fa643aa150944cae0b01dd76a7f03ecf03a7f"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -24288,7 +24288,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "28f9a3d88dc433b0c9860ce2b43b6ef4fa00e4e407af5b301a297b8e1ed3e076"
+      "Hash": "080bf818cf5d5c2304cbfe5e7c90b0918d897eacbb6030ae3db925435b2af39d"
     },
     "h1:allegion": {
       "Key": "allegion",
@@ -26262,7 +26262,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "69dbd566c0e3bbd0885bba5c3492f9aaf970a1dc67fb58e364378feaab43c611"
+      "Hash": "8290872498680503ab634f7ab30fc94af4192bfbb4508a31e4d5fb1d9f0461ec"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -26374,7 +26374,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "767fcef6b0fbe1d9e0eb68c7a118c2c1715f30f2684c86ca2c17cb48ca17fb5a"
+      "Hash": "068436edc2b6238ef5f81e54d737bc9677aafaa9f0e424e4ceac49ab1538aff1"
     },
     "h1:anthropic-cyber-jailbreak": {
       "Key": "anthropic-cyber-jailbreak",
@@ -31470,7 +31470,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e4193cb1cb9f73cc8964b67b288c91c0fa20b1774e0e3046b83683934470821c"
+      "Hash": "12b736d7622255e0c2293ba07f71efeeeaea73bba237e3731387c91917864344"
     },
     "h1:brave": {
       "Key": "brave",
@@ -67218,7 +67218,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "459c1689597aef2160b2d6cba96e2b721e55f9f7b2c3b7ca12d0039aec00a060"
+      "Hash": "439126e06feb4e2728723d0221509694e5d64569f0e52d045ff5905e1d9cf4a2"
     },
     "h1:central-security-project": {
       "Key": "central-security-project",
@@ -88331,7 +88331,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "df9ea240deb3585c22274895b09d291fa04ac549b89418564384d8baab1324fc"
+      "Hash": "9ba665909e4556c5873d8e448b709f05dee3da0ba06f9346df114073c79513c8"
     },
     "h1:coinbase": {
       "Key": "coinbase",
@@ -95635,7 +95635,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3544bc564c15d76eaedfe895db2398370ca1087e17a8a23cc00ea3044815c5ac"
+      "Hash": "32d43e3de78ada1ee8429c9a2ab1293158657e65987f6823753f9b2d745cb946"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -101547,7 +101547,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5b8e09618d010d471919c9c1bb0b6a61f58c98c21037e882c8c77919e43b3d22"
+      "Hash": "0bf536a04b90b1bd06c07b4b6e17a02c1fe42494bf739c141b602bf842af3bea"
     },
     "h1:exness": {
       "Key": "exness",
@@ -101644,6 +101644,14 @@
           "ID": "Passkey Wallet",
           "Type": "OTHER"
         },
+        "api.passkeys.network": {
+          "ID": "api.passkeys.network",
+          "Type": "URL"
+        },
+        "embedded.passkeys.foundation": {
+          "ID": "embedded.passkeys.foundation",
+          "Type": "URL"
+        },
         "exodus-movement.exodus": {
           "ID": "exodus-movement.exodus",
           "Type": "APPLE_STORE_APP_ID"
@@ -101664,8 +101672,36 @@
           "ID": "https://play.google.com/store/apps/details?id=exodusmovement.exodus\u0026hl=en_IN",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
+        "login.exodus.com": {
+          "ID": "login.exodus.com",
+          "Type": "URL"
+        },
+        "my.passkeys.network": {
+          "ID": "my.passkeys.network",
+          "Type": "URL"
+        },
+        "passkeys.foundation": {
+          "ID": "passkeys.foundation",
+          "Type": "URL"
+        },
+        "pay-admin.exodus.io": {
+          "ID": "pay-admin.exodus.io",
+          "Type": "URL"
+        },
         "pay.exodus.io": {
           "ID": "pay.exodus.io",
+          "Type": "URL"
+        },
+        "relay.passkeys.foundation": {
+          "ID": "relay.passkeys.foundation",
+          "Type": "URL"
+        },
+        "turing.exodus.io": {
+          "ID": "turing.exodus.io",
+          "Type": "URL"
+        },
+        "wallet.passkeys.foundation": {
+          "ID": "wallet.passkeys.foundation",
           "Type": "URL"
         }
       },
@@ -101723,7 +101759,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "ece8384d5a10a3a6211bab0ca31e8433760ac6fec9826423b0ca967c29e40cf2"
+      "Hash": "c957f3d2edc2b31a4d78b88a02244cae68663c8d730a2b9aaf0b4ec99328d86c"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -145320,7 +145356,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7c257ffb75f00efa152b770a2b2853a7e6d18d31a1d17da1a32a0452488d1edb"
+      "Hash": "ca0b9debf985963b041f4b2e08166193b7c4c59c459cc4f29afc5fde8a2cb48e"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -146654,7 +146690,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "af0f002581ff4a1f022a6a25a2a2bdb06707c8bdf76aaa03b09e500a9828cb43"
+      "Hash": "cc8cd694e5640e9d82648b9d49bc15c66b5cc4abf16f4f08217c95f914413e76"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -160411,6 +160447,10 @@
           "ID": "jdf-adv-eng.deere.com",
           "Type": "URL"
         },
+        "jdf-calculator-devl.deere.com": {
+          "ID": "jdf-calculator-devl.deere.com",
+          "Type": "URL"
+        },
         "jdf-credit-delivery-integrator-api-devl.deere.com": {
           "ID": "jdf-credit-delivery-integrator-api-devl.deere.com",
           "Type": "URL"
@@ -162329,6 +162369,10 @@
         },
         "safesite.bhp.myvirtualsuper.com": {
           "ID": "safesite.bhp.myvirtualsuper.com",
+          "Type": "URL"
+        },
+        "safetymetrics.deere.com": {
+          "ID": "safetymetrics.deere.com",
           "Type": "URL"
         },
         "salescenter.deere.com": {
@@ -165374,7 +165418,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "12bcf454d49a37f2dc9554de7c25eaf7f1cfd4c6279af7619213a2fb8667b115"
+      "Hash": "e290bf83f4a2ebbff57f341d16c3a47d7c8ddaf6e09bb9f21546e20ca179dd6f"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -166775,7 +166819,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "5aa98b854bfb1f3401c21ff4087fc27ad9a39be57be6348df38cd422602cc527"
+      "Hash": "8fb62567f63bd650b20fcf0434b1b34d9a92521a6ed1fb39674b7393e025d335"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -168052,7 +168096,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e44c14ea9fb6f8f5726ff5c34943574b17569f7775a28f0b62b314eb8e6db8cb"
+      "Hash": "3ec391e2df0391b3f291536558c7f57fb29055739d65fb304b52a42ca1ba43f6"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -171226,7 +171270,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e3d45cdf4b26b3df024790bf33a4abe810597467ed25ffcc3812da7e729d7054"
+      "Hash": "25078df7319d27d54c40fb137031f9801829d7a9651a9ef4bebd72f1bbe65d47"
     },
     "h1:mozilla": {
       "Key": "mozilla",
@@ -176856,7 +176900,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b3c2ffaec179d26147aef5be0ebf898a75d1da06e4f2b8c7e5fff8fbcbd65408"
+      "Hash": "d68aa6450ae5d1127d9ee154c73b6b92e1c3f79ed254d161dcadcdb5ce5e60d0"
     },
     "h1:oaknorth_bank": {
       "Key": "oaknorth_bank",
@@ -181748,7 +181792,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f9f9aa698f26229fefcb94fcbd13e09dc0a1f351623146763fcf8527aeaf0c42"
+      "Hash": "7b0c697605514f96c74417339d9c03320904dc0c385442b0de9bf86a9db79f4e"
     },
     "h1:rei_bbp": {
       "Key": "rei_bbp",
@@ -184554,7 +184598,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8f2d327243484d92b7563adeb79a0876e9764c30cd7c1770494645899f7b725f"
+      "Hash": "295da268b1007dc26087cac29c841d0259a31a050e807182a37b2c2ddbdb0ea8"
     },
     "h1:six-group": {
       "Key": "six-group",
@@ -184844,7 +184888,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2bfd05b565a8dc96ec078aca67401cd8436cbb56568b00dbf0b7e931e5fd8fe4"
+      "Hash": "5b39746b2c56ab3784cb3de6924644808327a588288cd074c0262fa2c38c3812"
     },
     "h1:slack": {
       "Key": "slack",
@@ -186342,7 +186386,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "939dc5076c0f223dd1d130dd0ac0740ac859641430a01b2eaf13f46b3038ca9f"
+      "Hash": "762db2770106ff797f140e93fcd38fa57fc58f4bb454b459ece49c72a627a326"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -189730,7 +189774,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "254e711ac24e47c4a6babeb524f241f28f4e1c72072931b06303125e40f10356"
+      "Hash": "59f92946dd363cf61612a7ba26e90b335360dafd3b4d3aec5fe60115c04cf07a"
     },
     "h1:varonis": {
       "Key": "varonis",
