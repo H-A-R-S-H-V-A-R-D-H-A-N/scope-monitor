@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-03T23:42:34Z",
+  "captured_at": "2026-08-04T03:32:06Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -27686,7 +27686,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "695368ad966c34bb287838c507a04c538c8c4770f4149f9f2b7aed285840eaec"
+      "Hash": "382cd1697279aab8ad38ea3678270202a745d124954be85a1f79f5ea05d31c99"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -28254,7 +28254,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1fc9e8c00ef4dafdff30ebdd8f931767e31c13129a463fcd721e852492c5f55c"
+      "Hash": "f7e6de588aaac355bc58f96b06459f34f1269bade184762094af6de2b662c085"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -30558,7 +30558,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "c1763913692fae24e937d02d40349e268b4da2bd28a68f311dfb3a96741eb557"
+      "Hash": "25f0a066694097c28c669cbff303e208f01cf23a84e150a30ef4914104992902"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31851,7 +31851,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9f348fa55e3a53fa202e726158d64b60da8ec9084b64a6eceed333df8f18845c"
+      "Hash": "05a1ccd0d260537888d5507356e3e099766e68acab1a6500b7329db94a508ddb"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -95802,7 +95802,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0930d11fa541ecf33efa96f7a90957aff3c1559b3fce1e851b762c846c81fee7"
+      "Hash": "826ae946ba4015fc84e756b1a7084d4ce321cf0bde90d5bd0f53d7fe41b4e808"
     },
     "h1:django": {
       "Key": "django",
@@ -101491,6 +101491,10 @@
           "ID": "eufyMake E1",
           "Type": "HARDWARE"
         },
+        "eufyMake Studio(2D UV)": {
+          "ID": "eufyMake Studio(2D UV)",
+          "Type": "OTHER"
+        },
         "https://us.eufy.com/products/e8213181": {
           "ID": "https://us.eufy.com/products/e8213181",
           "Type": "HARDWARE"
@@ -101509,7 +101513,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "18a3dd0c2052c18255938a8252715c2a738ca7f718cffbc5853941b9155c97fa"
+      "Hash": "89ed5673e1b18a17c122b987e513a220eccfdf785057ea90de494a9c21c03432"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -150560,7 +150564,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ea27d866a520719907669683684bd2bf6e5468b40cce86b2fa44f6d8fe67f479"
+      "Hash": "568ce64cd220cfe3b694842345c3dba678268efc3ab2b0ecf462677e7d7383b8"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -167331,7 +167335,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9a07d61c3862347dad901a9769dc8522a5afdb8c6044f0f6e7b1da75c78486fd"
+      "Hash": "fb90048436df3cb12032fa56d246296f9198bac178f2f69782e728c8794cd99d"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -170962,7 +170966,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "73b379cddf2513d2f7fd4c852d55c3ac57018df06a51f39fcd91e6357e3fdf80"
+      "Hash": "278a549d80925b242515b107435df1c59c7f4e86c1c48797fe305bc42e0495e9"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -171455,7 +171459,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "589332f2942eb80bc85e4ad491f8eeda18dcdc820955ab96a9030a22cedeb3ba"
+      "Hash": "d9d14f917b02a9b92e3226585e244f5420feea40241915e843dd8717967598db"
     },
     "h1:msci": {
       "Key": "msci",
@@ -174146,7 +174150,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "81f03edf660d73706f952cb6c1352cfa48b8b409d2aa76c5ef9bff5200140a42"
+      "Hash": "a3a2b6c36049e334306ab9f70c4d691a708d079b9608f0a387ed4d740e760fb0"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -176084,7 +176088,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f5cfa903d1f2ea5dd6f3adf332e28dc9b4dbbe42ab05f083c3af59d6a03f38e2"
+      "Hash": "1dee0a770d0e42012934a9047dbecf3e5d7cda7e59fcbc390d0c6e4b06c6252e"
     },
     "h1:netlify": {
       "Key": "netlify",
@@ -178307,7 +178311,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "9231f66611d57535cd98b6d36faaf6845416f2a014f88db6b86e665622b288d5"
+      "Hash": "06b690dda5641995b15bdaf455177c8650f8d4a67ce540bb3a540ad9e31ab927"
     },
     "h1:owox": {
       "Key": "owox",
@@ -182919,7 +182923,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "5e5de8f63a1d4050e90ef92f0ae1072bda23bb657d606993ab39711f9eadce1d"
+      "Hash": "54430ce1b9a623c5642eaabec76bed7df4ecf39bce681ab822c36b3a36418cbb"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -183424,7 +183428,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "85af978b4cdb95474c1601e8c6067cc190ffc310fa8a974be5e6b6e6bd922df9"
+      "Hash": "f89474591b53d97de1aa12944090182922cc77f963034534d5bf58bf92b52cdf"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -183959,7 +183963,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "165153a43b433be8c6e553acb8978b29d4f93851b9e4977c8f449449d2cae400"
+      "Hash": "4cfa59b34775d1f2e91d639a6285fd9df9fb46d5bf84217d4136dd9e7fb50bad"
     },
     "h1:security": {
       "Key": "security",
@@ -185333,7 +185337,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "54817671302c6056e7abedd5a7da74155eefc4fb28e7736812fae50d23d43582"
+      "Hash": "f8133431802b969663ba07bf0534b76d49e7a8b1b1fcb47262acdcadf22f163b"
     },
     "h1:spotify": {
       "Key": "spotify",
@@ -186336,7 +186340,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3c0ea8e9021311be30aa66a505b5853f07bcf3c0e9a1639b7d55d11bece51e5e"
+      "Hash": "81e7fa51a7448367fe189306877cd33d0d7b91a545c32749626e162717366804"
     },
     "h1:superhuman": {
       "Key": "superhuman",
@@ -192268,7 +192272,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3866241fbfcbb481a41b459bb2760665b59725d2b5093c28e8256909dcbb48b4"
+      "Hash": "936c4cce066c217a50381bb5ca79ddffb65073f75bb4d4eb2c3313212a338939"
     },
     "h1:wolt": {
       "Key": "wolt",
@@ -192596,7 +192600,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e95784d932aeaff0ecb235fbf58a6b17622598df02789f5e25d72d13e0e6f10f"
+      "Hash": "f18836d59c12b2a68c977156ac56522aa557eb189f79a36d928b50c4d0fb45f6"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
@@ -199874,19 +199878,6 @@
       },
       "OutScope": {},
       "Hash": "3e162d1cf3c14843e44299afed0c2c603bca0cdfe81e150590fa20999f690e79"
-    },
-    "in:a880a8c4-d7e7-4166-9c2b-5ae5925ee4d7": {
-      "Key": "a880a8c4-d7e7-4166-9c2b-5ae5925ee4d7",
-      "Name": "Challenge 0726",
-      "URL": "https://www.intigriti.com/programs/intigriti/challenge0726/detail",
-      "InScope": {
-        "https://challenge-0726.intigriti.io": {
-          "ID": "https://challenge-0726.intigriti.io",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "e935b614e9c46a458f5adf01b86ee1526aa67d1ef9b67712cb6a4090717a1c03"
     },
     "in:ad2bd496-536c-4c24-b885-ce01d66966b9": {
       "Key": "ad2bd496-536c-4c24-b885-ce01d66966b9",
