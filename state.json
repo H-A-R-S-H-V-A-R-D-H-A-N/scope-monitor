@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-04T14:36:04Z",
+  "captured_at": "2026-08-04T16:30:08Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23778,7 +23778,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "446e3968b9442e9f104041af686134678ea28b0dca73b295e137a6bd4be9616e"
+      "Hash": "b7459535f1de0f6c639d2aa3f30958a57d5ae700220c92dc361b936e147c34d8"
     },
     "h1:affirm": {
       "Key": "affirm",
@@ -23804,7 +23804,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "a5a5409f974179c027e26ac697e3c7c945a5b03e5555f212e90d97f8d48a1d52"
+      "Hash": "82677deafd2a88266182eb3bba11d853df8456fd59807f9597602b7fe7366ecc"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -23935,7 +23935,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "625f420f2fff5c2e399d6bf0acefb9d82c0444a8317bd0e252b974851dcd893b"
+      "Hash": "9cc8d58940ffc75290fdc5f5e10ffcd04b525a59454a763099ffe32b02d586f5"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -30562,7 +30562,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "25f0a066694097c28c669cbff303e208f01cf23a84e150a30ef4914104992902"
+      "Hash": "78fabec289e0a2d70b4388d255f2792cf386851b697441c51fd8d87ad8609011"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31475,6 +31475,67 @@
       },
       "OutScope": {},
       "Hash": "c5009846d61f450a03a45fbc388fa2a2b5b5b409053ad76c2dd1d565e14417fa"
+    },
+    "h1:box_private": {
+      "Key": "box_private",
+      "Name": "Box BB",
+      "URL": "https://hackerone.com/box_private",
+      "InScope": {
+        "Android Box Mobile App": {
+          "ID": "Android Box Mobile App",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "Box Drive": {
+          "ID": "Box Drive",
+          "Type": "OTHER"
+        },
+        "account.box.com": {
+          "ID": "account.box.com",
+          "Type": "URL"
+        },
+        "api.box.com": {
+          "ID": "api.box.com",
+          "Type": "URL"
+        },
+        "app.box.com": {
+          "ID": "app.box.com",
+          "Type": "URL"
+        },
+        "cloud.app.box.com": {
+          "ID": "cloud.app.box.com",
+          "Type": "URL"
+        },
+        "dl.boxcloud.com": {
+          "ID": "dl.boxcloud.com",
+          "Type": "URL"
+        },
+        "iOS Box Mobile App": {
+          "ID": "iOS Box Mobile App",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "m.box.com": {
+          "ID": "m.box.com",
+          "Type": "URL"
+        },
+        "notes.services.box.com": {
+          "ID": "notes.services.box.com",
+          "Type": "URL"
+        },
+        "signrequest.com": {
+          "ID": "signrequest.com",
+          "Type": "URL"
+        },
+        "sr-staging-1.com": {
+          "ID": "sr-staging-1.com",
+          "Type": "URL"
+        },
+        "upload.box.com": {
+          "ID": "upload.box.com",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {},
+      "Hash": "4ea1f1209a1f4f959420e88634e3ac63757d284a30061579ccaccb849e721601"
     },
     "h1:brave": {
       "Key": "brave",
@@ -88724,7 +88785,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "96a37f31d5ef0a0fd4a3b84ca218c05ffe33582b458402b1a55db0f9ebeb5ade"
+      "Hash": "5bf17d0f5c79641e0af3dd877e6b51b8101350b342c8da472b64b63bd071d180"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -96029,7 +96090,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dd65c7df8a742dfbb0904a4dd7e4679c851159f9bb3a76c8d5df48b946e66efe"
+      "Hash": "d609062b35ae8a01438e82560f5ded044d37eddc42d4c4ef8b7db4a05ef4adc6"
     },
     "h1:dust": {
       "Key": "dust",
@@ -96976,7 +97037,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d35bfe7f7d8d226555d8d776a3e3c1e958fab5b69f47cd29c029b9820260017e"
+      "Hash": "efc54938b6477224c23da6afa807f2d8c8b332674e49c7e638c84afc0597e4d5"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -101517,7 +101578,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9f075593b7deb3d6072ba9e0ecf753f3ee682c0c6e30cca10b7d3b11d572f230"
+      "Hash": "ea923c47cbe2c41115f4807841043baac00acfb8564afa548c2113da81705065"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -167343,7 +167404,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "06f62cbed0273e84174c0adcc0973498423ce17732f3353cac6fbe08b84867b9"
+      "Hash": "aa2ce001e273d22dfef5361472b8cc4e59c87a3aad379e1ee158cf62b2d26887"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -175876,6 +175937,10 @@
           "ID": "leaguepass.wnba.com",
           "Type": "URL"
         },
+        "mediacentral.nba.com": {
+          "ID": "mediacentral.nba.com",
+          "Type": "URL"
+        },
         "mindhealth.nba.com": {
           "ID": "mindhealth.nba.com",
           "Type": "URL"
@@ -175909,7 +175974,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aaac64ab4f324cd3191a98e94a75bbaa5c06d964417926b917ac746fb6da6e04"
+      "Hash": "598767ef76d00a5489281ae8b0f6e1a8becb1a6544fc934ee50e467e43474bf7"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -181279,7 +181344,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e571696431b3749cf1419f09c6169b1bc26400ca9e6a94faaa7fda4868c6ef5"
+      "Hash": "270a191654f49a2a4ac06c8119946614009eae42fce18fbaef4930b76df6b344"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -182789,7 +182854,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "91c664084aa9a617f4b992e84686ff6c31dde5c64b50eded63da2f34600c5f07"
+      "Hash": "6fa14b2b1a23142a7093e67faff2c91369ebad3f8d9577f18c2c1352ecffba07"
     },
     "h1:ring": {
       "Key": "ring",
@@ -185555,7 +185620,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "56d76423200cfc10008f54c98cf4b19fb5913e72c3afb8603105eec2fc1d39e6"
+      "Hash": "1f77d077afaf63f81b5e50a107716b7fc7f0b9b2530940d32b4ef9f945897936"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -186569,7 +186634,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dd4e10acf74a50afb625c40ca762fcb7042693f48478e3d09e36b2e495089bc6"
+      "Hash": "a5ee1f2311bc5de03a4ffaa9c6b08d2273e666ac144b6e21b01565e0c3969f52"
     },
     "h1:tbs-sct": {
       "Key": "tbs-sct",
@@ -186768,7 +186833,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8a92f2b1e7f514fc7b7aa400414c2c8dc4b7203d0b341a5305e2930d8ed6c875"
+      "Hash": "bdd402e746bc225a9c597e6060bf9659b064eb05b2c3ad24c22d47f48cef4db9"
     },
     "h1:temu": {
       "Key": "temu",
@@ -188281,7 +188346,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d2f85b2a4c83565104c861c7ab3ec1a3f85e969a8953577334cd4b3fd769d702"
+      "Hash": "f8ef9a35ccbe43687d41118f6c68b7fc259acc4e7a50e3f66baaf959809d1363"
     },
     "h1:trendyol": {
       "Key": "trendyol",
@@ -201960,6 +202025,152 @@
       },
       "OutScope": {},
       "Hash": "65497127c541d4ec978bd59a2de527546309014a75b5ff510089a6e5c2c0b98d"
+    },
+    "in:e540980d-b56e-4956-afff-f914653a4f6e": {
+      "Key": "e540980d-b56e-4956-afff-f914653a4f6e",
+      "Name": "Dropbox Bug Bounty",
+      "URL": "https://www.intigriti.com/programs/dropbox/dropbox/detail",
+      "InScope": {
+        "*.dash.ai": {
+          "ID": "*.dash.ai",
+          "Type": "wildcard"
+        },
+        "*.docsend.com": {
+          "ID": "*.docsend.com",
+          "Type": "wildcard"
+        },
+        "*.dropbox.com": {
+          "ID": "*.dropbox.com",
+          "Type": "wildcard"
+        },
+        "*.dropboxer.net": {
+          "ID": "*.dropboxer.net",
+          "Type": "wildcard"
+        },
+        "*.dropboxforum.com": {
+          "ID": "*.dropboxforum.com",
+          "Type": "wildcard"
+        },
+        "*.dropboxpartners.com": {
+          "ID": "*.dropboxpartners.com",
+          "Type": "wildcard"
+        },
+        "*.hellofax.com": {
+          "ID": "*.hellofax.com",
+          "Type": "wildcard"
+        },
+        "*.hellosign.com": {
+          "ID": "*.hellosign.com",
+          "Type": "wildcard"
+        },
+        "*.helloworks.com": {
+          "ID": "*.helloworks.com",
+          "Type": "wildcard"
+        },
+        "*.reclaim.ai": {
+          "ID": "*.reclaim.ai",
+          "Type": "wildcard"
+        },
+        "1080074001": {
+          "ID": "1080074001",
+          "Type": "ios"
+        },
+        "327630330": {
+          "ID": "327630330",
+          "Type": "ios"
+        },
+        "6450553960": {
+          "ID": "6450553960",
+          "Type": "ios"
+        },
+        "Dropbox Desktop Application": {
+          "ID": "Dropbox Desktop Application",
+          "Type": "other"
+        },
+        "Dropbox.com": {
+          "ID": "Dropbox.com",
+          "Type": "url"
+        },
+        "HelloFax.com": {
+          "ID": "HelloFax.com",
+          "Type": "url"
+        },
+        "HelloSign.com": {
+          "ID": "HelloSign.com",
+          "Type": "url"
+        },
+        "api.dropbox.com": {
+          "ID": "api.dropbox.com",
+          "Type": "url"
+        },
+        "app.Reclaim.ai": {
+          "ID": "app.Reclaim.ai",
+          "Type": "url"
+        },
+        "com.dropbox.android": {
+          "ID": "com.dropbox.android",
+          "Type": "android"
+        },
+        "com.dropbox.dash": {
+          "ID": "com.dropbox.dash",
+          "Type": "android"
+        },
+        "dash.ai": {
+          "ID": "dash.ai",
+          "Type": "url"
+        },
+        "dash.dropbox.com": {
+          "ID": "dash.dropbox.com",
+          "Type": "other"
+        },
+        "docsend.com": {
+          "ID": "docsend.com",
+          "Type": "url"
+        },
+        "dropbox.com/paper": {
+          "ID": "dropbox.com/paper",
+          "Type": "url"
+        },
+        "sign.dropbox.com": {
+          "ID": "sign.dropbox.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "1126623662": {
+          "ID": "1126623662",
+          "Type": "ios"
+        },
+        "Boxcryptor": {
+          "ID": "Boxcryptor",
+          "Type": "other"
+        },
+        "Dropbox Capture Windows Desktop App": {
+          "ID": "Dropbox Capture Windows Desktop App",
+          "Type": "other"
+        },
+        "Dropbox Capture macOS Desktop App": {
+          "ID": "Dropbox Capture macOS Desktop App",
+          "Type": "other"
+        },
+        "Dropbox Passwords": {
+          "ID": "Dropbox Passwords",
+          "Type": "other"
+        },
+        "Formswift": {
+          "ID": "Formswift",
+          "Type": "other"
+        },
+        "com.dropbox.paper": {
+          "ID": "com.dropbox.paper",
+          "Type": "android"
+        },
+        "replay.dropbox.com": {
+          "ID": "replay.dropbox.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "a797146e221080d7cc530536855037d62696759f4dfad59d35cef0054ceb4b39"
     },
     "in:e6386eb8-ce59-43b5-98b6-f1590cafdceb": {
       "Key": "e6386eb8-ce59-43b5-98b6-f1590cafdceb",
