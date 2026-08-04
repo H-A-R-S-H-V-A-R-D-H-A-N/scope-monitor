@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-04T11:47:52Z",
+  "captured_at": "2026-08-04T14:36:04Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18026,7 +18026,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b1171edf012df0134f16f1df607b9ebf7dde41d1069cf16133c693ad5e76f5c0"
+      "Hash": "2477ec53607a80479af41f8f625b78778f5a5372d9a3c54e8869f6f5556569a4"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -23804,7 +23804,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "fef84f42866787f6d95cc71052d092dcd6282b944b7ef0ec25641e9e47a9224f"
+      "Hash": "a5a5409f974179c027e26ac697e3c7c945a5b03e5555f212e90d97f8d48a1d52"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -88521,7 +88521,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8c13bc30976733a899a380f343354bf25ffb4c72e80d59a9c823ccf25d07b2ce"
+      "Hash": "4fc803bc6650a34349e2c57b06d9ecca9745f231f3efaa956676cd0b577fd7ff"
     },
     "h1:coinmate": {
       "Key": "coinmate",
@@ -88554,7 +88554,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5ad0695b1d3a3a31fac6689c45626db4992b2bdc3423958f6309767fa93deb8c"
+      "Hash": "d9b639cd16ebce7a2bd8ac46c999470a1e3b648c9ab4f2833284f8ab9591e2ca"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -88724,7 +88724,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5bf17d0f5c79641e0af3dd877e6b51b8101350b342c8da472b64b63bd071d180"
+      "Hash": "96a37f31d5ef0a0fd4a3b84ca218c05ffe33582b458402b1a55db0f9ebeb5ade"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -101517,7 +101517,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ad55b499af70042fb33ad6f0256b04b78cc6a3007ec4fc6e01fa9dff8a30626f"
+      "Hash": "9f075593b7deb3d6072ba9e0ecf753f3ee682c0c6e30cca10b7d3b11d572f230"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -144998,7 +144998,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a92d0eb719980b1cb1287623da458a9e12cfe87f65c45fcf8e2de89c21cbf114"
+      "Hash": "7389de8ef0d2750431b7539c135945422e2d430255802078dca82612fa3909cb"
     },
     "h1:formassembly": {
       "Key": "formassembly",
@@ -163283,6 +163283,10 @@
           "ID": "support.bluerivertechnology.com",
           "Type": "URL"
         },
+        "support.johndeerevls.com": {
+          "ID": "support.johndeerevls.com",
+          "Type": "URL"
+        },
         "support.myvirtualsuper.com": {
           "ID": "support.myvirtualsuper.com",
           "Type": "URL"
@@ -165506,7 +165510,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "845ef4ba0e518b2f3215c48746a7c9f8c7e2635922cb0a5705da386a5a65c69e"
+      "Hash": "46b0c09dac55957e679bbfed1a294ebe1429fd1a35a3baeb487f0e05514d77ca"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -166459,7 +166463,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3df45b604bab0a4eea4a35aecd2cccf645ccf69d2423e2ad3b2bd799585ef710"
+      "Hash": "66e00458a049406ef43016d75d5da05785d3bdaeaad35aa0fd76c86d40cfd1aa"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -170932,7 +170936,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1aa89d1c982e37bf02404297368e8ee9e7eac930c40fc119641b9ef9f50d48fe"
+      "Hash": "e14f1216393b6327af0f2765cd35ce239631cefe698991d01e2a4acd52c4c345"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -179990,7 +179994,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ab1b91c6436cd9f493eb402b139a8863755b0f773f39c83678470f147d1da00f"
+      "Hash": "11a6be12192efc827f4c598de5891f71cdd17c21e15a37ae453c43fdc58642f6"
     },
     "h1:picsart": {
       "Key": "picsart",
@@ -183926,7 +183930,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1108f054dda3b059c1aa7d161f5c5ca7014513bf8a65b1a65bdf65869f7fb394"
+      "Hash": "8135d2b39404ccb5a63ab0ac7c006654417ed105d6bd49cac68fbe60c40ab9b9"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
@@ -188979,7 +188983,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e77dd64422ccbf87973d8779921d46d1f5ace55501a9afd090a710a61d8c40e8"
+      "Hash": "92f05546c2253c1d94923407f1ab37a250858ea082199bb10ec6c82c7fb4d0fc"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -192484,7 +192488,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "366f55ab26226e235b4f5328bccbcd6c640692f2205c692adad52bebb6303a62"
+      "Hash": "75741a9d71daf2dfa26b68ebb0a2819386bcd8a63c47dfe40181c47db05765fc"
     },
     "h1:worklytics": {
       "Key": "worklytics",
@@ -194833,13 +194837,17 @@
           "ID": "blog.cybersecuritycoalition.be",
           "Type": "url"
         },
+        "https://surfenzonderzorgen.safeonweb.be": {
+          "ID": "https://surfenzonderzorgen.safeonweb.be",
+          "Type": "url"
+        },
         "www.cybersecuritycoalition.be": {
           "ID": "www.cybersecuritycoalition.be",
           "Type": "url"
         }
       },
       "OutScope": {},
-      "Hash": "eb97051808a6d4007e5d1dabdb9e672c33642e9bd985ff03d5df963c227fd0b0"
+      "Hash": "fb9d2d834eb7def80bc82433dadec3aace7eaefccae6598bbc559cf847f31b15"
     },
     "in:13e4f5c9-5d05-4b55-b957-b036854c6ec6": {
       "Key": "13e4f5c9-5d05-4b55-b957-b036854c6ec6",
@@ -200860,6 +200868,128 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
+    },
+    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
+      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
+      "Name": "DataCamp",
+      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "InScope": {
+        "*.datacamp.com": {
+          "ID": "*.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/certification": {
+          "ID": "app.datacamp.com/certification",
+          "Type": "url"
+        },
+        "app.datacamp.com/groups": {
+          "ID": "app.datacamp.com/groups",
+          "Type": "url"
+        },
+        "app.datacamp.com/learn": {
+          "ID": "app.datacamp.com/learn",
+          "Type": "url"
+        },
+        "assessment-api.datacamp.com": {
+          "ID": "assessment-api.datacamp.com",
+          "Type": "url"
+        },
+        "assessment-v2.datacamp.com ": {
+          "ID": "assessment-v2.datacamp.com ",
+          "Type": "url"
+        },
+        "assessment.datacamp.com": {
+          "ID": "assessment.datacamp.com",
+          "Type": "url"
+        },
+        "campus.datacamp.com": {
+          "ID": "campus.datacamp.com",
+          "Type": "url"
+        },
+        "com.datacamp": {
+          "ID": "com.datacamp",
+          "Type": "android"
+        },
+        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
+          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+          "Type": "ios"
+        },
+        "practice.datacamp.com": {
+          "ID": "practice.datacamp.com",
+          "Type": "url"
+        },
+        "profiles-api.datacamp.com": {
+          "ID": "profiles-api.datacamp.com",
+          "Type": "url"
+        },
+        "projects.datacamp.com": {
+          "ID": "projects.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com": {
+          "ID": "www.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com/datalab": {
+          "ID": "www.datacamp.com/datalab",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.it.datacamp.com": {
+          "ID": "*.it.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/recruit": {
+          "ID": "app.datacamp.com/recruit",
+          "Type": "url"
+        },
+        "ast-viewer.datacamp.com": {
+          "ID": "ast-viewer.datacamp.com",
+          "Type": "url"
+        },
+        "confluence.datacamp.com": {
+          "ID": "confluence.datacamp.com",
+          "Type": "url"
+        },
+        "dccertified.datacamp.com": {
+          "ID": "dccertified.datacamp.com",
+          "Type": "url"
+        },
+        "intranet.datacamp.com": {
+          "ID": "intranet.datacamp.com",
+          "Type": "url"
+        },
+        "jira.datacamp.com": {
+          "ID": "jira.datacamp.com",
+          "Type": "url"
+        },
+        "links.datacamp.com": {
+          "ID": "links.datacamp.com",
+          "Type": "url"
+        },
+        "rdocumentation.datacamp.com": {
+          "ID": "rdocumentation.datacamp.com",
+          "Type": "url"
+        },
+        "signature.datacamp.com": {
+          "ID": "signature.datacamp.com",
+          "Type": "url"
+        },
+        "status.datacamp.com": {
+          "ID": "status.datacamp.com",
+          "Type": "url"
+        },
+        "support.datacamp.com": {
+          "ID": "support.datacamp.com",
+          "Type": "url"
+        },
+        "talent-jobs-api.datacamp.com": {
+          "ID": "talent-jobs-api.datacamp.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
