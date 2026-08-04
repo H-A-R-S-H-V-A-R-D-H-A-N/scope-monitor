@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-04T16:30:08Z",
+  "captured_at": "2026-08-04T18:16:00Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23313,7 +23313,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1dd29f9e0e9eb2a61e807833d3a462f90f357ed05c04753536bc6b8e67682de6"
+      "Hash": "beffe1063710bed26b8501ef7902c3d9f087868ca53d8e85564d1cb2a1c98ff9"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -30900,7 +30900,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "3e377294577b981a219ae8e84191b62338ac1d7ae4c2f5af1bb811f3c7b50155"
+      "Hash": "cd58fcfaf1e8538eab81c13b59d0ec770c879d04f4104d3579f38487b1f1f5aa"
     },
     "h1:bill_vdp": {
       "Key": "bill_vdp",
@@ -31535,7 +31535,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4ea1f1209a1f4f959420e88634e3ac63757d284a30061579ccaccb849e721601"
+      "Hash": "5ae988878f2723c356fb3ec83828cd4a2dba6791c766a293da7b6c6f05d8724c"
     },
     "h1:brave": {
       "Key": "brave",
@@ -87917,7 +87917,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "78836c3111f9689399094e0afb15e46ea451d71a5002f0c3492203fa2d47437a"
+      "Hash": "648792ea4b70d852be7267d1632adc4e452d4176039304d9b1f9bcc66c22a2a7"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -97037,7 +97037,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "efc54938b6477224c23da6afa807f2d8c8b332674e49c7e638c84afc0597e4d5"
+      "Hash": "d35bfe7f7d8d226555d8d776a3e3c1e958fab5b69f47cd29c029b9820260017e"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -101632,7 +101632,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0bf536a04b90b1bd06c07b4b6e17a02c1fe42494bf739c141b602bf842af3bea"
+      "Hash": "c721beb0dc3328d11f55d1b1cf2016d0893e43c8a87ef3533616a516abf940a9"
     },
     "h1:exness": {
       "Key": "exness",
@@ -145239,7 +145239,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2cf7ac0e8cb54b3b35fa3a39e1e0771d1aa70297ea846e2ab65db9cf5874cd85"
+      "Hash": "1720690cdbea0890c9e5e20c35ead960165db8cae18be7007b93f55a4e8d6b31"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -145509,7 +145509,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e320de657be33eac176f513fd1c2a87bd082093fd1e9b8d2b1cad3b481ad4285"
+      "Hash": "d313b8025fcb257e4c255b003bebf5631d91025d842c5ebb7595903a03b0e85b"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -162216,6 +162216,10 @@
           "ID": "produktkonfigurator1.kemper-stadtlohn.de",
           "Type": "URL"
         },
+        "profileservicep.deere.com": {
+          "ID": "profileservicep.deere.com",
+          "Type": "URL"
+        },
         "prolaborate.services.wirtgen-group.com": {
           "ID": "prolaborate.services.wirtgen-group.com",
           "Type": "URL"
@@ -165571,7 +165575,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "46b0c09dac55957e679bbfed1a294ebe1429fd1a35a3baeb487f0e05514d77ca"
+      "Hash": "028a440ac67e414d5fb322d86dfbc8414ba56b30d945e4abd49ed80ee4414c07"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -168249,7 +168253,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ba643b0c9125579ea6e1894a807c4440c4d74a1f15d7810502c929a3ba3e59c9"
+      "Hash": "b551cdce9262f0432b0c212d05dd9801adcdea6bc906a3d112efc13c1aaf1b5a"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -171093,7 +171097,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8283f971f29e9ff0d4e21f447e9e6afd364fd6665de38c41b87567956f297249"
+      "Hash": "902aedb622e09c4591dae95b64ceabdb89f58119a39785e0894f0c4dcbe75402"
     },
     "h1:mongodb": {
       "Key": "mongodb",
@@ -175933,6 +175937,10 @@
           "ID": "evergent.com",
           "Type": "URL"
         },
+        "jr.nba.com": {
+          "ID": "jr.nba.com",
+          "Type": "URL"
+        },
         "leaguepass.wnba.com": {
           "ID": "leaguepass.wnba.com",
           "Type": "URL"
@@ -175974,7 +175982,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "598767ef76d00a5489281ae8b0f6e1a8becb1a6544fc934ee50e467e43474bf7"
+      "Hash": "356d68cc35845813d0f6a8a5e0d695aded41f713b1f1dd2a3fab8e34e9db9082"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -176330,7 +176338,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f7d21ed7f530f9af23872716addee63957fef39d24e2500637ae5492a4ef8750"
+      "Hash": "a170f6fa3e8e85d490d1fca5e07ffac266f622a8138434364187912ee23a61d7"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -178384,7 +178392,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "9231f66611d57535cd98b6d36faaf6845416f2a014f88db6b86e665622b288d5"
+      "Hash": "06b690dda5641995b15bdaf455177c8650f8d4a67ce540bb3a540ad9e31ab927"
     },
     "h1:owox": {
       "Key": "owox",
@@ -178947,7 +178955,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3704657d464d8ea5b57de2d6fe61927335ad1ac821fbc5e809a493ec1de6f333"
+      "Hash": "5bca1505f7f9518a86589abadc38f540399275db57ddf6db5dd620511398ac08"
     },
     "h1:peloton": {
       "Key": "peloton",
@@ -185835,7 +185843,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "b19dc04f476883f773a575c91b88538c6fc42b66aac367a5fbff6502aab25d24"
+      "Hash": "a3a31788446eee3255025c111efc0d8490404adc1b5bcc124eaf315ebc9c8477"
     },
     "h1:streak_com": {
       "Key": "streak_com",
@@ -187598,7 +187606,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f3dbb0597eb9c4fe84abbd04d56d6d14f2f1779c0d2a5db1edf3c29d68f845b0"
+      "Hash": "ccf8e72288e38a386cc405f3fa3a44ff8db95668a7396b6457d87524504ca425"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -190073,7 +190081,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "bbc7e5097fed304f0f2c4ead51e4900a2cf472c562bbdb71cbcc1bbe2702e82f"
+      "Hash": "2b05ad948340cdae165ccdc4bdc4f0b78380545414a2677375c8e740765b3e5d"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -190628,7 +190636,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "babb86c9183b555a1fe89b734104c78e06a8dbb2f186c62646582198190d8671"
+      "Hash": "f11baa0b9942f0497e50d95773923735e32da818a59a02eb97967493cf84ecef"
     },
     "h1:vimeo": {
       "Key": "vimeo",
@@ -191857,7 +191865,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "11af6b6fda76021b97f181b6641155dcced89fec76f1c5716c096b914cdcae77"
+      "Hash": "ca5ef219549ac2419443a28e9b64f641a41efa5e7117f3e7d277da11448621e7"
     },
     "h1:vueling_vdp": {
       "Key": "vueling_vdp",
@@ -193062,7 +193070,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b56951664e87f770dc91c77176cbf00ae5da1c86ff493292054d5777787f6baa"
+      "Hash": "be2b3a5f579701af734983d3da74b09a3a55068beae054ab1c04f076f54ae0fe"
     },
     "h1:yoti": {
       "Key": "yoti",
