@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-05T04:23:38Z",
+  "captured_at": "2026-08-05T07:21:00Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23027,7 +23027,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "790516bec7545552ec00b03917bc52ce9bfb5af826955044a2aac210a7df3691"
+      "Hash": "0d1692ad38e4be196ee5ac42b44ff6e67099aaed8892d52ec1d6ac6a7269f783"
     },
     "h1:abercrombie_fitch": {
       "Key": "abercrombie_fitch",
@@ -23313,7 +23313,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "beffe1063710bed26b8501ef7902c3d9f087868ca53d8e85564d1cb2a1c98ff9"
+      "Hash": "82be8ad369649f1e373c46d609c068c854c530423d29ba40538ad1d83676418b"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -32353,7 +32353,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6cc89d4d16ab0ba67fb97d0c85879122ca378bbfb19aeaccbf360248c84ffe15"
+      "Hash": "a7551fec67ffc0679e9c88e9b1d10f36f9647b4d8cdde35d3f65d9d06e9dcaed"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -88179,6 +88179,10 @@
           "ID": "files.plugins.realtime.cloudflare.com",
           "Type": "URL"
         },
+        "https://github.com/cloudflare/computer": {
+          "ID": "https://github.com/cloudflare/computer",
+          "Type": "SOURCE_CODE"
+        },
         "https://github.com/cloudflare/moq-rs": {
           "ID": "https://github.com/cloudflare/moq-rs",
           "Type": "SOURCE_CODE"
@@ -88224,7 +88228,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cf0036b148a546dcf37a0e356b15f1232e4739552cb7ffb24169056a3d64579f"
+      "Hash": "0a7e4beae4fa91b85830ec54a7e3d2ae35a47b4187f8b51e9f23bb74873567fc"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -88412,7 +88416,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9ba665909e4556c5873d8e448b709f05dee3da0ba06f9346df114073c79513c8"
+      "Hash": "df9ea240deb3585c22274895b09d291fa04ac549b89418564384d8baab1324fc"
     },
     "h1:coinbase": {
       "Key": "coinbase",
@@ -104760,7 +104764,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b8dbe130052aca0138e2b892989f1e5269b82f404b628bf40ee0680987a9fe83"
+      "Hash": "0696b34bdafbfcef1439e36b54c0595d89263dedcbb0e8f76f00db2f9da6673f"
     },
     "h1:files": {
       "Key": "files",
@@ -150339,7 +150343,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2cded3aa22799f193f324f16121d961a8a46aff587480f47494dd4e85577e396"
+      "Hash": "c868be8dd3947507708648d21da1be0a56694c4e7f39f5519583a236eeafce38"
     },
     "h1:informatica": {
       "Key": "informatica",
@@ -150482,7 +150486,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "46a033845a341d9473064145536f0a202b35a06b34360c7261f488cd38d8dea2"
+      "Hash": "13448fa7544bf77b2dfb211a71b9ccfac7641fa2ff0ed2f9f06620c7cdeb5998"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -166984,7 +166988,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "0d4357b1613400e36ce0129d970574fccbe10d615be22f181b90004829dde093"
+      "Hash": "a7cd15b31f9e950a782c07aa42f10245d6b08ae1e173aa8c466b736b17e91e2d"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -169193,7 +169197,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0f91463435ce8f51c0a3b8a660fce82d7121fdec28db02c4d650b9001dafba3e"
+      "Hash": "0d559e40341f61442c67ebbc0227575c19f32b6c3814e9e80ad6b86cfe79fcb0"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -176011,7 +176015,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "496df9aa8dff6395ea1583850ff17d0b4957720c38c028c1e0e5c3f298026de9"
+      "Hash": "b45eaa9b0a642e88876be236bd6204dc8cec6b8fd9cb1acbf9735dd7dae84859"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -183517,7 +183521,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ec044f7cd8fc2eb7d43a75358aca8f3f98255785658854d7a5f3934d077575a2"
+      "Hash": "7718eceacb9b3ab82449f97cc470376fc1b0f57262cd0df5d9258437213a214d"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -184631,7 +184635,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "7a42812f25bfd14e1146e492ae99a15b1b48656be7085077b5eed9115578464e"
+      "Hash": "9ba4b78708282888c31cec00cc8980dd8c34808f286fdf0f31ab3aa94b96b9a4"
     },
     "h1:sidefx": {
       "Key": "sidefx",
