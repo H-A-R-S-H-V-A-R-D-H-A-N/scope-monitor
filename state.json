@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-05T00:59:49Z",
+  "captured_at": "2026-08-05T04:23:38Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -31535,7 +31535,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cd8c956b2b95b8553dd4bef884746356bc5c46ec8697cce3bc0e2e965cb65581"
+      "Hash": "b903c03f7b0e96ff9bbdb53803882a7043cafe0a21fcb38dd6716dd0000df505"
     },
     "h1:brave": {
       "Key": "brave",
@@ -31686,7 +31686,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b61722c85e8b5692176bd62056b0632e398791018fc171763ee5befdd56e99ae"
+      "Hash": "9dd160d5eea234eba3ca63df66b7d9a35f071da2f98a46a31b124b0a8af8aeba"
     },
     "h1:bumble": {
       "Key": "bumble",
@@ -31961,7 +31961,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "26f779a223c9144daec0b43d738da41019f43b2a6e0a901a022c61e256f6d927"
+      "Hash": "55c405d28b63adca785ad780cb4bfa05e0dfbd5757554f40360c0a648e567da1"
     },
     "h1:bykea": {
       "Key": "bykea",
@@ -67134,7 +67134,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "caeb1713750b79cfc47e8540b22b75421936e90c290ca78e1509ac25b3d31d9b"
+      "Hash": "96697cecfe27608dbfb412fffcb3d26942b27bb9dd724dc2432b2802d8702fd8"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -96007,7 +96007,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7ba0cc515212a7e02404481a29e3fc7965a510ab49a788f5f0244ab8679793d"
+      "Hash": "f0a4a71e0c9ede41e77960be3e0f2311bff801e216ccf83e6bb273134d164091"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -101578,7 +101578,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ea923c47cbe2c41115f4807841043baac00acfb8564afa548c2113da81705065"
+      "Hash": "9f075593b7deb3d6072ba9e0ecf753f3ee682c0c6e30cca10b7d3b11d572f230"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -166536,7 +166536,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "66e00458a049406ef43016d75d5da05785d3bdaeaad35aa0fd76c86d40cfd1aa"
+      "Hash": "3df45b604bab0a4eea4a35aecd2cccf645ccf69d2423e2ad3b2bd799585ef710"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -177384,7 +177384,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5f1219cb68ed6403753ed59a87f89474802c51e999e0372e635b5ba3749773d9"
+      "Hash": "30222ac3de9d09bbcdb87176e93629258a254e95ee60c57ef9ab345868863d6f"
     },
     "h1:oportun_vdp": {
       "Key": "oportun_vdp",
@@ -178898,7 +178898,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9f20261e7d21a4e83d85eab7763300a95b5295f27e3226df4438f7b8661ac9a3"
+      "Hash": "c01b0c72772b8e15f35b7a9829e2d55f2234f16e90a624e927b1510570ffda95"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -181584,7 +181584,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "01f692dbd652087cb9e016742779fd8514f812b995b2e75e28ef1fb80af76541"
+      "Hash": "e03e5e6ac6deb8fe930e0ef3abfd3d4b9809c1f70bb00419d00a4a0c692490ca"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -183931,7 +183931,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7d62e9e579c4269288a9197b0eb464783006c9f61b3340534bfae8ae90e2477b"
+      "Hash": "6f1cdbb77d82b8c85fb04690e57f76d2de6385f757628c58cf40f3bfbe07b82e"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -184011,7 +184011,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8135d2b39404ccb5a63ab0ac7c006654417ed105d6bd49cac68fbe60c40ab9b9"
+      "Hash": "6e6cc7300cb426a36efbb79cc5855e3670d9543be8506b2fd1b3878feebb0131"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
@@ -186618,7 +186618,8 @@
       "Key": "taxwell-vdp",
       "Name": "Taxwell VDP",
       "URL": "https://hackerone.com/taxwell-vdp",
-      "InScope": {
+      "InScope": {},
+      "OutScope": {
         "1040.com": {
           "ID": "1040.com",
           "Type": "URL"
@@ -186634,9 +186635,7 @@
         "taxact.com": {
           "ID": "taxact.com",
           "Type": "URL"
-        }
-      },
-      "OutScope": {
+        },
         "taxactonline.com": {
           "ID": "taxactonline.com",
           "Type": "URL"
@@ -186650,7 +186649,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a5ee1f2311bc5de03a4ffaa9c6b08d2273e666ac144b6e21b01565e0c3969f52"
+      "Hash": "ef3c5d10aded7d6288b478bfe543a7873687eca1a9d30b7d70fee419cc78f390"
     },
     "h1:tbs-sct": {
       "Key": "tbs-sct",
@@ -189768,7 +189767,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7a7966553f51a4061fddeececa11a36dedad07d234a35e6ff092f4404ca4ce24"
+      "Hash": "c5fcd250782f7164fd607a943bef9e7f9d9027e0d55144ff1a0c5124b366058d"
     },
     "h1:usps": {
       "Key": "usps",
@@ -190001,7 +190000,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7788cda9e095abffbaa2fef66486a66c63db40435f3b465b06d33966585370da"
+      "Hash": "4ba4a3ea4f4dfaaf4ea9899ebc83cab2053a36c888ea297bccd9c5a1d80f7532"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
