@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-04T23:15:53Z",
+  "captured_at": "2026-08-05T00:59:49Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23313,7 +23313,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1dd29f9e0e9eb2a61e807833d3a462f90f357ed05c04753536bc6b8e67682de6"
+      "Hash": "beffe1063710bed26b8501ef7902c3d9f087868ca53d8e85564d1cb2a1c98ff9"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -31535,7 +31535,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7b16df3cba9e99d5015ac2ba3114696727b01c0ee36b9c5804aceddaff201e0d"
+      "Hash": "cd8c956b2b95b8553dd4bef884746356bc5c46ec8697cce3bc0e2e965cb65581"
     },
     "h1:brave": {
       "Key": "brave",
@@ -97037,7 +97037,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d35bfe7f7d8d226555d8d776a3e3c1e958fab5b69f47cd29c029b9820260017e"
+      "Hash": "efc54938b6477224c23da6afa807f2d8c8b332674e49c7e638c84afc0597e4d5"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -195635,184 +195635,6 @@
       },
       "Hash": "9471b8400c01c79cd2bd4945d687ab6176815d95b1585d81085d87d15cbed56b"
     },
-    "in:2cf03670-6a2d-4ac7-8b1e-2e0d84338204": {
-      "Key": "2cf03670-6a2d-4ac7-8b1e-2e0d84338204",
-      "Name": "UZ Leuven",
-      "URL": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-      "InScope": {
-        "*.contactallerg(y|ie).uzleuven.be": {
-          "ID": "*.contactallerg(y|ie).uzleuven.be",
-          "Type": "wildcard"
-        },
-        "*.kwsdose.be": {
-          "ID": "*.kwsdose.be",
-          "Type": "wildcard"
-        },
-        "*.mir.uzleuven.be": {
-          "ID": "*.mir.uzleuven.be",
-          "Type": "wildcard"
-        },
-        "*.playuzleuven.be": {
-          "ID": "*.playuzleuven.be",
-          "Type": "wildcard"
-        },
-        "*.uzleuven.*": {
-          "ID": "*.uzleuven.*",
-          "Type": "wildcard"
-        },
-        "*dev.uzleuven.be": {
-          "ID": "*dev.uzleuven.be",
-          "Type": "wildcard"
-        },
-        "*idp*.uzleuven.be": {
-          "ID": "*idp*.uzleuven.be",
-          "Type": "wildcard"
-        },
-        "*stag*.uzleuven.be": {
-          "ID": "*stag*.uzleuven.be",
-          "Type": "wildcard"
-        },
-        "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111": {
-          "ID": "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
-          "Type": "iprange"
-        },
-        "autodiscover.uzleuven.be": {
-          "ID": "autodiscover.uzleuven.be",
-          "Type": "url"
-        },
-        "cardsonline.azdiest.be": {
-          "ID": "cardsonline.azdiest.be",
-          "Type": "url"
-        },
-        "cardsonlinetst.azdiest.be": {
-          "ID": "cardsonlinetst.azdiest.be",
-          "Type": "url"
-        },
-        "ecrf.uzleuven.be": {
-          "ID": "ecrf.uzleuven.be",
-          "Type": "url"
-        },
-        "extranet-asa.uzleuven.be": {
-          "ID": "extranet-asa.uzleuven.be",
-          "Type": "url"
-        },
-        "extranet.uzleuven.be": {
-          "ID": "extranet.uzleuven.be",
-          "Type": "url"
-        },
-        "files.uzleuven.be": {
-          "ID": "files.uzleuven.be",
-          "Type": "url"
-        },
-        "kumulus.uzleuven.be": {
-          "ID": "kumulus.uzleuven.be",
-          "Type": "url"
-        },
-        "liquidfiles.uzleuven.be": {
-          "ID": "liquidfiles.uzleuven.be",
-          "Type": "url"
-        },
-        "liquidfilestest.uzleuven.be": {
-          "ID": "liquidfilestest.uzleuven.be",
-          "Type": "url"
-        },
-        "mijnacc.uzleuven.be": {
-          "ID": "mijnacc.uzleuven.be",
-          "Type": "url"
-        },
-        "mirc.uzleuven.be": {
-          "ID": "mirc.uzleuven.be",
-          "Type": "url"
-        },
-        "mx1.uzleuven.be": {
-          "ID": "mx1.uzleuven.be",
-          "Type": "url"
-        },
-        "mx2.uzleuven.be": {
-          "ID": "mx2.uzleuven.be",
-          "Type": "url"
-        },
-        "pcrstudioruzb.uzleuven.be": {
-          "ID": "pcrstudioruzb.uzleuven.be",
-          "Type": "url"
-        },
-        "prddnighting01.uzleuven.be": {
-          "ID": "prddnighting01.uzleuven.be",
-          "Type": "url"
-        },
-        "prddsplunkhf.uzleuven.be": {
-          "ID": "prddsplunkhf.uzleuven.be",
-          "Type": "url"
-        },
-        "random.uzleuven.be/random/": {
-          "ID": "random.uzleuven.be/random/",
-          "Type": "url"
-        },
-        "sts.uzleuven.be": {
-          "ID": "sts.uzleuven.be",
-          "Type": "url"
-        },
-        "teststs.uzleuven.be": {
-          "ID": "teststs.uzleuven.be",
-          "Type": "url"
-        },
-        "w1.uzleuven.be": {
-          "ID": "w1.uzleuven.be",
-          "Type": "url"
-        },
-        "w1.uzleuven.be/random": {
-          "ID": "w1.uzleuven.be/random",
-          "Type": "url"
-        },
-        "wp5-truststroke.uzleuven.be": {
-          "ID": "wp5-truststroke.uzleuven.be",
-          "Type": "url"
-        },
-        "www.uzleuven.be": {
-          "ID": "www.uzleuven.be",
-          "Type": "url"
-        },
-        "ziekenhuisschool.be": {
-          "ID": "ziekenhuisschool.be",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "boekentoy.firebaseio.com": {
-          "ID": "boekentoy.firebaseio.com",
-          "Type": "url"
-        },
-        "boekentoy.uzleuven.be": {
-          "ID": "boekentoy.uzleuven.be",
-          "Type": "url"
-        },
-        "jobs.uzleuven.be": {
-          "ID": "jobs.uzleuven.be",
-          "Type": "url"
-        },
-        "laboboeken.uzleuven.be": {
-          "ID": "laboboeken.uzleuven.be",
-          "Type": "url"
-        },
-        "uz-laboboeken.firebaseio.com": {
-          "ID": "uz-laboboeken.firebaseio.com",
-          "Type": "url"
-        },
-        "uz-laboboeken.web.app": {
-          "ID": "uz-laboboeken.web.app",
-          "Type": "url"
-        },
-        "uzleuven.atlassian.net": {
-          "ID": "uzleuven.atlassian.net",
-          "Type": "url"
-        },
-        "vacatures.uzleuven.be": {
-          "ID": "vacatures.uzleuven.be",
-          "Type": "url"
-        }
-      },
-      "Hash": "553bcda14b932cb8623bbd9f4d524e48a91197f2521a7b05789d6f21d4e2aa7a"
-    },
     "in:2de0c513-e7e8-4e4f-b0d9-885e45c1f767": {
       "Key": "2de0c513-e7e8-4e4f-b0d9-885e45c1f767",
       "Name": "Bitvavo VDP",
@@ -200949,6 +200771,128 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
+    },
+    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
+      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
+      "Name": "DataCamp",
+      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "InScope": {
+        "*.datacamp.com": {
+          "ID": "*.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/certification": {
+          "ID": "app.datacamp.com/certification",
+          "Type": "url"
+        },
+        "app.datacamp.com/groups": {
+          "ID": "app.datacamp.com/groups",
+          "Type": "url"
+        },
+        "app.datacamp.com/learn": {
+          "ID": "app.datacamp.com/learn",
+          "Type": "url"
+        },
+        "assessment-api.datacamp.com": {
+          "ID": "assessment-api.datacamp.com",
+          "Type": "url"
+        },
+        "assessment-v2.datacamp.com ": {
+          "ID": "assessment-v2.datacamp.com ",
+          "Type": "url"
+        },
+        "assessment.datacamp.com": {
+          "ID": "assessment.datacamp.com",
+          "Type": "url"
+        },
+        "campus.datacamp.com": {
+          "ID": "campus.datacamp.com",
+          "Type": "url"
+        },
+        "com.datacamp": {
+          "ID": "com.datacamp",
+          "Type": "android"
+        },
+        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
+          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+          "Type": "ios"
+        },
+        "practice.datacamp.com": {
+          "ID": "practice.datacamp.com",
+          "Type": "url"
+        },
+        "profiles-api.datacamp.com": {
+          "ID": "profiles-api.datacamp.com",
+          "Type": "url"
+        },
+        "projects.datacamp.com": {
+          "ID": "projects.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com": {
+          "ID": "www.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com/datalab": {
+          "ID": "www.datacamp.com/datalab",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.it.datacamp.com": {
+          "ID": "*.it.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/recruit": {
+          "ID": "app.datacamp.com/recruit",
+          "Type": "url"
+        },
+        "ast-viewer.datacamp.com": {
+          "ID": "ast-viewer.datacamp.com",
+          "Type": "url"
+        },
+        "confluence.datacamp.com": {
+          "ID": "confluence.datacamp.com",
+          "Type": "url"
+        },
+        "dccertified.datacamp.com": {
+          "ID": "dccertified.datacamp.com",
+          "Type": "url"
+        },
+        "intranet.datacamp.com": {
+          "ID": "intranet.datacamp.com",
+          "Type": "url"
+        },
+        "jira.datacamp.com": {
+          "ID": "jira.datacamp.com",
+          "Type": "url"
+        },
+        "links.datacamp.com": {
+          "ID": "links.datacamp.com",
+          "Type": "url"
+        },
+        "rdocumentation.datacamp.com": {
+          "ID": "rdocumentation.datacamp.com",
+          "Type": "url"
+        },
+        "signature.datacamp.com": {
+          "ID": "signature.datacamp.com",
+          "Type": "url"
+        },
+        "status.datacamp.com": {
+          "ID": "status.datacamp.com",
+          "Type": "url"
+        },
+        "support.datacamp.com": {
+          "ID": "support.datacamp.com",
+          "Type": "url"
+        },
+        "talent-jobs-api.datacamp.com": {
+          "ID": "talent-jobs-api.datacamp.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
