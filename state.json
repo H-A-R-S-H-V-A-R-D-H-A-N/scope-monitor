@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-05T20:37:52Z",
+  "captured_at": "2026-08-05T22:18:10Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23808,7 +23808,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "b94d93c95858e0c9f4b9b7d980701f03852bbb8ee4b4648a497725108f8e29e5"
+      "Hash": "fa90b2478b88097112fdb225e0337e2efe512162dd0b10f33029a044f5004474"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -27518,7 +27518,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d33a255c4845bcc39abf211f88f37f9a02e09ee53e498e5ec133c17804fddd2b"
+      "Hash": "b01c113755afd356ac57f0b852d426504379d73f3f52461f7b1042fc1521ef16"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -31539,7 +31539,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "aad931d99818edf42bea2a777b38048e39f25ae967a77d56e5aef791943e4eeb"
+      "Hash": "4ebbc249db8e53386b3db0dcf0a96535a7e0f585a7c91958e1e1f64dd9884433"
     },
     "h1:brave": {
       "Key": "brave",
@@ -89555,7 +89555,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "041c468911c546bc02d540d870a3933fd5d079ca5ff2bd5345bcbced15d1777a"
+      "Hash": "6a47142f02528d9d822d1c2101f56c2fdc8d3282b6cbd1be8a9a7cfe0fcaf7b1"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -97049,7 +97049,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "110f42ee163758fcbb0c0a28d622f1e5ea3bee8d2d82cf3f555bd8f825888f70"
+      "Hash": "1e4134439d12a7fbef8b2b7e53f9a2b1a8d22952511d6016f8c4cbd30b6cb054"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -101590,7 +101590,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9f075593b7deb3d6072ba9e0ecf753f3ee682c0c6e30cca10b7d3b11d572f230"
+      "Hash": "ad55b499af70042fb33ad6f0256b04b78cc6a3007ec4fc6e01fa9dff8a30626f"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -101864,14 +101864,6 @@
         "wallet.passkeys.foundation": {
           "ID": "wallet.passkeys.foundation",
           "Type": "URL"
-        },
-        "xoswap-graphql-p.a.exodus.io": {
-          "ID": "xoswap-graphql-p.a.exodus.io",
-          "Type": "URL"
-        },
-        "xoswap-graphql.a.exodus.io": {
-          "ID": "xoswap-graphql.a.exodus.io",
-          "Type": "URL"
         }
       },
       "OutScope": {
@@ -101958,9 +101950,17 @@
         "www.exodus.com/job-application/*": {
           "ID": "www.exodus.com/job-application/*",
           "Type": "WILDCARD"
+        },
+        "xoswap-graphql-p.a.exodus.io": {
+          "ID": "xoswap-graphql-p.a.exodus.io",
+          "Type": "URL"
+        },
+        "xoswap-graphql.a.exodus.io": {
+          "ID": "xoswap-graphql.a.exodus.io",
+          "Type": "URL"
         }
       },
-      "Hash": "08a265f582443ce901ec89df0d376945799bbfede061a0b9b23dc77899ae4461"
+      "Hash": "ab43ed53e74f4940cdfb6ef9331c465a4b8041ef26a4f3a60c1fdf7a898bcf86"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -165830,7 +165830,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "e793ef09afa4cfe7400234c79ed7210484bc9fc83150dba054e4b6de0cc86e5d"
+      "Hash": "1ead0d3a64dcdaa93417909c0849ef9a043a972970de8b766d77a4135759e121"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -166584,7 +166584,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "934ec81c933b88a90a3edf1296c9232d64718e7ce21f479fabdd4b13a224cf04"
+      "Hash": "638932e3a172774d9868ff90772735f8c5f535932cb836a6d5b1a229220d8f6a"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -170231,7 +170231,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "53929cb4859b1180c9420f1fdc78ff84fa9988cfd01d533685b1cf27c04dcc28"
+      "Hash": "a7434c9fd0b222bb66a9fd30c53004b6ae2a95da7736050598221fdff3bc402e"
     },
     "h1:mod_supply_chain_vdp": {
       "Key": "mod_supply_chain_vdp",
@@ -180412,7 +180412,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7e94f6796a69dd826ba834cf550e5da007d89590651b70894a51d5c5fd72d68"
+      "Hash": "cda993d8541c7d0386af34ff42975094d850bc38cbfafd680b52b5f989d57c6e"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -181592,7 +181592,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "32f77409b3a411b0c8f0cbb630fb62a2a5278e5b76984853bc8c51e818f43ae5"
+      "Hash": "155355b0cbdf71fc5d757a35c8f689f14858bda7ee01525e0b8af89d7df7543c"
     },
     "h1:r3": {
       "Key": "r3",
@@ -188627,7 +188627,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f899e6402f533dc76f8d955dde56ebc348bc847c193b350f49f6cb5533afb1b9"
+      "Hash": "dac87353ca009682844ba7dc4f4aff1342fa1d1d65afc49f869e8fbf88da3862"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -189209,7 +189209,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bbff15135cabc4ca188eb36246262ea77aa20166f0ed881d6ea48f676e17e3d4"
+      "Hash": "d077f5ae036f686f70ef01b1525916558aaba64a3e930741be7508d0b9f4e00d"
     },
     "h1:ui": {
       "Key": "ui",
@@ -193017,7 +193017,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "213974b56de44686e533dbfe1b63702965bb8770d29cbc31ed7c19fcea3f04d3"
+      "Hash": "04a21e60b2881adc0398649719b1f52b500b4b10493fdc599f9fc1e70b699d45"
     },
     "h1:xvideos": {
       "Key": "xvideos",
@@ -193125,7 +193125,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8af1c3469442e2874a4252f76a4fa4f403bb5d566d28cdf98ae7a2e60db001eb"
+      "Hash": "b40d2014684b5ef6961cbb9bbd1bc8f9a4c9541e954466d3ca5005e3827d3ea0"
     },
     "h1:yoti": {
       "Key": "yoti",
@@ -193716,7 +193716,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d78bc509cffb947ac310dae6eb78688c08907d2d5c7e57161c1ff8f09f809f02"
+      "Hash": "f79ca082dfcd5d270f144ddc49f203b80be61315539c56a00c2198cc01c11e0b"
     },
     "h1:zurich-insurance": {
       "Key": "zurich-insurance",
