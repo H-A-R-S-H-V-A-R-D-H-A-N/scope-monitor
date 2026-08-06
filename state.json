@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-06T12:28:49Z",
+  "captured_at": "2026-08-06T14:58:26Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18201,10 +18201,6 @@
           "ID": "Security vulnerabilities that are identified in 6sense products or in website domains owned, operated, or controlled by 6sense are in scope",
           "Type": "OTHER"
         },
-        "https://6sense.com/platform/sales/signup": {
-          "ID": "https://6sense.com/platform/sales/signup",
-          "Type": "URL"
-        },
         "https://api.6sense.com/docs/#introduction": {
           "ID": "https://api.6sense.com/docs/#introduction",
           "Type": "API"
@@ -18215,7 +18211,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "af20a15fbadf6b7e95180b59d762d8eb357c06a6af386cd8199b1bc0c3158bbc"
+      "Hash": "880e050a4d688c643a3d00ba1059bd90c1f0017e84906c2f30e22ebbe20ff84d"
     },
     "h1:8x8-bounty": {
       "Key": "8x8-bounty",
@@ -24171,7 +24167,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6393ade87913ea09bf1abfd13cb31c00c145fb6545a394b9e9f84390678dde0f"
+      "Hash": "3aa620e0b0e7ad8e2181de6b17aa819c4aa4594c9280f22916c988c37edabd3c"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -26477,7 +26473,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "74c3dc9cf92e73d71f6a6ba2ee19a9ae3b9b705dae8815baa3394519b38027bb"
+      "Hash": "024723ffc4dc21b66e0c2a884e9281370531bb7222bf24c93339503fcc9b92b0"
     },
     "h1:aon": {
       "Key": "aon",
@@ -30870,7 +30866,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "aba5431f130e63f34fbdbd931b51af87651cc5264ffb7b1a50716efc0c1c1dd4"
+      "Hash": "4fce11ac5b92a80cf77a1d5e04c194ff09f5efaa87c19ce637d72c6e14bbbe10"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31539,7 +31535,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b43939f2fec3c50bc1f5b9b5b1b9cda4f79fccd546712e6ae1cf0143d1e2c6ef"
+      "Hash": "f5e548fa83b77b7c7d61accce1544c3bf318500616ad6d047442fa14ea2e99f1"
     },
     "h1:brave": {
       "Key": "brave",
@@ -67434,7 +67430,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "d66d1c644243b1ba978a98321c59670d68bda825fcc77351048eb98cec118323"
+      "Hash": "c78a4329ce91231551ee2d6bd92320ea2cfed2ffbca8885d7a101c91cbee8afe"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -88424,7 +88420,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "52369e77d17d17f2d3c3a1217615ec00b5dafc86d163fa114291b1c390807e45"
+      "Hash": "816efbf2d77974442d6679cfb874279f0d61deaa049b07c0a8da66695665d5a3"
     },
     "h1:coinbase": {
       "Key": "coinbase",
@@ -90928,7 +90924,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "e20652ed6c87bf96af125f7abf5b544b59532a44a5dfa805c4b75890168b284a"
+      "Hash": "364993d600d1589348d1b56a638d623a137e7cd66aa73edcaeb11b3318119482"
     },
     "h1:defectdojo": {
       "Key": "defectdojo",
@@ -95745,7 +95741,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "791cf345d7f615750a52c12736e70612024082b81fcba1c7b46c490ac3aa64ff"
+      "Hash": "9a8d4b0881eee9032f3062eae666b8e6b92fd7b609a85dfbd5ed5619461a7b83"
     },
     "h1:disney": {
       "Key": "disney",
@@ -101714,7 +101710,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e17909e21f6294ac407116fb8d9598331e14191d16af86fc24961afaec725c8c"
+      "Hash": "485404229198ecbd986ea09e33f64fdd52e9ee8cb6ac1367b11e953ae0ca0dbb"
     },
     "h1:exodus": {
       "Key": "exodus",
@@ -102364,7 +102360,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6cca759a7f934933aaf8e106d7fb1f35a80e8ff8b78070733de1c4f88414e4cd"
+      "Hash": "557490679a44a388f6f8963856c9d2092fd85ad106928f0d0f05212fa2fad9d2"
     },
     "h1:experian": {
       "Key": "experian",
@@ -104874,7 +104870,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b5ca916f936bdb63a40d10427f3d4c27eb4fa7b4ab4025eefc76eb63c3664955"
+      "Hash": "b92fb5e2ada0bb8501c67907b8a0ea5a7d53704f6d8f53da0bb81a61d18a14ba"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -145169,7 +145165,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "83b81af5765cfb58b5f00bde25cfd160d145046de4d8999ca68042817523ee64"
+      "Hash": "446c1957bdd6e29866ba7270d275571afdee0e114599e4e68dec1d0cef049cf6"
     },
     "h1:freshworks": {
       "Key": "freshworks",
@@ -145287,7 +145283,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1720690cdbea0890c9e5e20c35ead960165db8cae18be7007b93f55a4e8d6b31"
+      "Hash": "2cf7ac0e8cb54b3b35fa3a39e1e0771d1aa70297ea846e2ab65db9cf5874cd85"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -145313,7 +145309,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "62b6d80f5463a960aa031bf534f09e1dc93d59922a31008ee88d2134fb3e2110"
+      "Hash": "30c0092092ee35a01b1ff02ba0a2e9c781ca8ccf2f386b2c68442b43b3cb852b"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -145557,7 +145553,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c47ff15d584a9549c5675d85c3831f87b416ef27916ee9381ddf95ce3d5a5629"
+      "Hash": "faf9a50071f461153803a6a7a7be72bcdfed00d78b947746c1ec86752273ea3a"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -167307,7 +167303,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "04001dec357e7ad69beb35806fe93e9af80b9d62e373c3d3d08b43704a35e627"
+      "Hash": "555da375fb556a58a6c1172f521706ddc4b9bb2ecfcbecac2a69d19e1a31a7da"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -167855,7 +167851,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "1c53d98887c8853322d7d6911aa2f59004b6a833ec28699433eaecb5d06cc8d3"
+      "Hash": "13be65ea8173a4e55e3719569c28b2272551507d8c6a32bdd48bcc5034d034f2"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -177121,7 +177117,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0cadea0700cf776c5b0b2170dde8fbe7cbd47e091dcc3ec38c032cdf899b7ffb"
+      "Hash": "a66d01f6febd90c3b005acb14f4bc2ea7f97b8a6cb12b950447e4feea4f0132d"
     },
     "h1:oaknorth_bank": {
       "Key": "oaknorth_bank",
@@ -179119,7 +179115,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c0a53090dee983de6f1a3fb4b1b2d9b819c057a25d48f05b48956ba1a4890734"
+      "Hash": "e0bf941f0b2b85fe736be9ac42f3e884cfaa829868270d69e0f63c828d67e2c1"
     },
     "h1:pepsico_vdp": {
       "Key": "pepsico_vdp",
@@ -185474,7 +185470,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5de4c2c08bda761f833cd5ade2b3f0bc54f655607414f788c603fee475d2b0bc"
+      "Hash": "08cfbb52143a0cc9ccebc54c8aeefe56829238eacddcc65113e00db6bb7cad31"
     },
     "h1:spotify": {
       "Key": "spotify",
@@ -189111,7 +189107,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "67f998dc5f93a880ba11c6137154ed2a307c1575e7ab4923705b80d95e6b857e"
+      "Hash": "2dcffdd264bcbcd7fffedb772020c635365c5a8f5f9505ffa4a865f69a82d752"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -190048,7 +190044,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7788cda9e095abffbaa2fef66486a66c63db40435f3b465b06d33966585370da"
+      "Hash": "7c59272539fde8d26af0706e7a0a02efcdff4e500fab3a464c0f416a109d1d5c"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -193125,7 +193121,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b25ed09ae053f205a16213392983782598c0d4642d25a89747b7ec6cc388fc9e"
+      "Hash": "81aa7bf9e9f8a1df2e06f55ddf1514573b925bafeabfa23807eb3660f0cf737d"
     },
     "h1:yoti": {
       "Key": "yoti",
@@ -195648,9 +195644,13 @@
         "pro.nexuzhealth.hn": {
           "ID": "pro.nexuzhealth.hn",
           "Type": "android"
+        },
+        "static.nexuzhealth.com": {
+          "ID": "static.nexuzhealth.com",
+          "Type": "url"
         }
       },
-      "Hash": "9e52fca8d4a9b50e082baf74441644b754e0760d42259b7ee8cb9d7a553b0154"
+      "Hash": "6a2833765673e3dc29a0f4ab3e8ad17ea92ad2917b4245d965081b8aeedca7a3"
     },
     "in:2b664acb-80d4-4edb-9fcc-bcc562987f92": {
       "Key": "2b664acb-80d4-4edb-9fcc-bcc562987f92",
@@ -201426,8 +201426,13 @@
           "Type": "url"
         }
       },
-      "OutScope": {},
-      "Hash": "298029a4a7de25bf9473bbb7fd25fc5cf67fd1736aa8912131d7ddd6ccf0bbfc"
+      "OutScope": {
+        "static.nexuzhealth.com": {
+          "ID": "static.nexuzhealth.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "4c44fbf41a35249084d4731193d4de3f235fe9d68eca7b1f6798dd72f8d529ba"
     },
     "in:d5c4e966-a80a-44f5-91c9-2bb9487b8762": {
       "Key": "d5c4e966-a80a-44f5-91c9-2bb9487b8762",
