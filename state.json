@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-06T10:15:57Z",
+  "captured_at": "2026-08-06T12:28:49Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23072,7 +23072,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bf2aeba0754094df017cc6dcea38ac16eb96fe069b5053d27c3d67f596770524"
+      "Hash": "56ce9ae0c516bd452a40d5baa8ad5c13e052196e092ee14420f6e3abca11b86e"
     },
     "h1:abercrombie_fitch_bbp": {
       "Key": "abercrombie_fitch_bbp",
@@ -31478,7 +31478,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fd2a9b8e660aa78d3c9cdd17875feb0ff38628f6d6a7effef47a604d92273b38"
+      "Hash": "80ea915cc75044caef293154eea4c5d0438bdd45f624e29f54e95975c3e7245b"
     },
     "h1:box_private": {
       "Key": "box_private",
@@ -31965,7 +31965,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5d0c409559863030c52f749c8e7815ba2bc54f6c0e098539ba4309cfe956934e"
+      "Hash": "f8c7dd714f61760ae0f209fadf90016cc7e40cd73108d2d21fe70842a0ba4fcd"
     },
     "h1:bykea": {
       "Key": "bykea",
@@ -88236,7 +88236,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "057fec99771ce0e7a0cf3f60f6e7ee2ca6abb423f5a3f3c7bb5d355e19e20d81"
+      "Hash": "5d1b9d5300cb71a949da1b897c711f183292241c61d8f15a0cba3a5b5ec8c91d"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -101960,7 +101960,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8cff7a6216439a7fd1749e862a126c6140a1384d41ec9df977edba2b3852af8b"
+      "Hash": "9e6af6859e37fec14fd9236ff2a8dd55435baf3adfe6821329aa443cf2189cca"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -102579,7 +102579,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "34deed5f3fbdfb60cd43e8d54cf97069f0e897e8a68eeeef571b5e20c30dc79d"
+      "Hash": "74a1e42f93839a92ee79963583e059791ffeff3b1cd2578c1257f2afd55b3e50"
     },
     "h1:fastly-vdp": {
       "Key": "fastly-vdp",
@@ -167464,7 +167464,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "48179b876675c2398487b561ca6db921d283e21a7694c984f89d352e32fbacdf"
+      "Hash": "8906e993ee5b22df8c3a829e5cfcf87894926d167ee6676ed2039830ba91a3d0"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -168309,7 +168309,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e9df3908da50d00162878f2e839c444129d52feae5c5a2129831495f155ae40e"
+      "Hash": "3280a57868c5921425023a3c673e2f8bc91c28b907ee93a76870df923faef20c"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -174287,7 +174287,7 @@
       "URL": "https://hackerone.com/mueller_water_products_vdp",
       "InScope": {},
       "OutScope": {},
-      "Hash": "0d1ad7fc1ba01ec87a354ce2deeb8c14a3e5ad84de4c783b78920c8c76c4bca6"
+      "Hash": "eff817e0ea2915c743005e3611d184af040db405a5d161dc3d12f7f2d71bbcec"
     },
     "h1:mufg-vdp": {
       "Key": "mufg-vdp",
@@ -181567,7 +181567,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "005e9f93e4df1f6a3055ef2d750f830289803bd4ba6c2c5709cb24622bde5c9b"
+      "Hash": "cf20fcaecf50cc30107317ab73c50a96495912a6d50ad11b18b0045f798e2dd0"
     },
     "h1:quora": {
       "Key": "quora",
@@ -181869,7 +181869,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "959b60b1915789590577f16572650b0537dd275e2e986dc957516b525a9f8cb9"
+      "Hash": "fd3bfe4c9b3e7ed9889b9651e5221551011ff32d572e58e12b6a2b77aaf5af33"
     },
     "h1:redox_bbp": {
       "Key": "redox_bbp",
@@ -184312,7 +184312,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "29ad7479c03a28b5914e9117c37e29a3b0808eb7f902450e25ec2a7b00ebd5a4"
+      "Hash": "23ac717d2667743a9dfa1390151992865ff7375b4d21ee4709058b57d38dac81"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -185109,7 +185109,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2bfd05b565a8dc96ec078aca67401cd8436cbb56568b00dbf0b7e931e5fd8fe4"
+      "Hash": "89ec887acaa96cd1a3c47a0feb680eb9a371ac8c12409c5a45040e0a1f3d67df"
     },
     "h1:slack": {
       "Key": "slack",
@@ -186225,7 +186225,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b6f95b926d8508cefb940342f232ab2f5683a13c7f0e0dbf02fc5b1c54c383ff"
+      "Hash": "aa64481a330c2bda602241ec6cbb6c32e1ef36fd11d0de8b8c1898f9a6a7a6b7"
     },
     "h1:supabase": {
       "Key": "supabase",
@@ -186925,7 +186925,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ccbc9c1f4a9d084b85234869debe237b79d3950072539a381ff162c50e49e6b6"
+      "Hash": "3eb84b853724beada7baccd21bedcbfcd22294753b52b53bd2d785388b5f0011"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -187409,7 +187409,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3f60fd9e729c20d0e960e0625de8dda44aa2c6028fe69e7f14fbe1d2efa306c5"
+      "Hash": "a82b7f2738b4af91e7a635c757e5d7ec012ce6271490bd0de983c4a6f0e1e51c"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -189009,7 +189009,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9fd72b8bf98dcc572bb85e99374f03ec5e183228203a89c41fa36eacd01b57b2"
+      "Hash": "22d6d139eb7f534aa48da1a9342cd531cee6aa7fce32780e93a59d13509868a5"
     },
     "h1:uber": {
       "Key": "uber",
@@ -194818,7 +194818,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "03d386a01791de2b6af5ef416ee1106c7b610600bc467d07dc1425fa890ff330"
+      "Hash": "8645e5085ec4180a32a0f936c0065c4e45920b3cef14ab499de1a342950d52c6"
     },
     "in:0fd1d85b-2d33-4966-b5a0-caabfda5108e": {
       "Key": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
