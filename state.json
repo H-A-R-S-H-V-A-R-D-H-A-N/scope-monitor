@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-07T18:00:01Z",
+  "captured_at": "2026-08-07T19:10:57Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24167,7 +24167,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3aa620e0b0e7ad8e2181de6b17aa819c4aa4594c9280f22916c988c37edabd3c"
+      "Hash": "fd1c4af2a491344d6e8f8d7732e6b2921cff317e979046a0123a175194eaa341"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -31391,7 +31391,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "57cff0d6ddaf27a34b5b45c1952a22ba50903dba2916bee4d28daedf479ea86a"
+      "Hash": "77f95b617b65f157b70037f3285b9323b055441e8670f316157acf251505c599"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -31543,7 +31543,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "23d24ce5db4c5d10aec12918c7c895f2e2137bcfd1e72b08ffb866d5fdc51f04"
+      "Hash": "7f752d28dafb2bdd8f49465465c415c8fe20a2d8eb080032d904b88234926455"
     },
     "h1:brave": {
       "Key": "brave",
@@ -88435,6 +88435,10 @@
       "Name": "Coinbase",
       "URL": "https://hackerone.com/coinbase",
       "InScope": {
+        "*.base.app": {
+          "ID": "*.base.app",
+          "Type": "WILDCARD"
+        },
         "*.base.org": {
           "ID": "*.base.org",
           "Type": "OTHER"
@@ -88455,65 +88459,29 @@
           "ID": "54.175.255.192/27",
           "Type": "CIDR"
         },
-        "Coinbase WaaS (Wallet as a Service)": {
-          "ID": "Coinbase WaaS (Wallet as a Service)",
-          "Type": "OTHER"
-        },
         "Other": {
           "ID": "Other",
           "Type": "OTHER"
         },
-        "Web3 Smart Contracts": {
-          "ID": "Web3 Smart Contracts",
-          "Type": "OTHER"
-        },
-        "api.coinbase.com": {
-          "ID": "api.coinbase.com",
-          "Type": "URL"
-        },
-        "api.custody.coinbase.com": {
-          "ID": "api.custody.coinbase.com",
-          "Type": "URL"
-        },
-        "cloud.coinbase.com": {
-          "ID": "cloud.coinbase.com",
-          "Type": "URL"
-        },
-        "coinbase.com": {
-          "ID": "coinbase.com",
-          "Type": "URL"
-        },
         "com.coinbase.android": {
           "ID": "com.coinbase.android",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.coinbase.wallite": {
-          "ID": "com.coinbase.wallite",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
         "com.vilcsak.bitcoin2": {
           "ID": "com.vilcsak.bitcoin2",
           "Type": "APPLE_STORE_APP_ID"
         },
-        "commerce.coinbase.com": {
-          "ID": "commerce.coinbase.com",
-          "Type": "URL"
-        },
-        "custody.coinbase.com": {
-          "ID": "custody.coinbase.com",
-          "Type": "URL"
-        },
-        "http://coinbase.com": {
-          "ID": "http://coinbase.com",
-          "Type": "URL"
-        },
-        "https://base.org": {
-          "ID": "https://base.org",
-          "Type": "SMART_CONTRACT"
-        },
         "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad": {
           "ID": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad",
           "Type": "OTHER"
+        },
+        "https://github.com/base/*": {
+          "ID": "https://github.com/base/*",
+          "Type": "SOURCE_CODE"
+        },
+        "https://github.com/coinbase/*": {
+          "ID": "https://github.com/coinbase/*",
+          "Type": "SOURCE_CODE"
         },
         "https://github.com/coinbase/cb-mpc": {
           "ID": "https://github.com/coinbase/cb-mpc",
@@ -88523,18 +88491,6 @@
           "ID": "https://github.com/coinbase/cb-mpc-go",
           "Type": "SOURCE_CODE"
         },
-        "institutional.coinbase.com": {
-          "ID": "institutional.coinbase.com",
-          "Type": "URL"
-        },
-        "international.coinbase.com": {
-          "ID": "international.coinbase.com",
-          "Type": "URL"
-        },
-        "nft.coinbase.com": {
-          "ID": "nft.coinbase.com",
-          "Type": "URL"
-        },
         "org.toshi": {
           "ID": "org.toshi",
           "Type": "GOOGLE_PLAY_APP_ID"
@@ -88542,63 +88498,23 @@
         "org.toshi.distribution": {
           "ID": "org.toshi.distribution",
           "Type": "APPLE_STORE_APP_ID"
-        },
-        "prime.coinbase.com": {
-          "ID": "prime.coinbase.com",
-          "Type": "URL"
-        },
-        "pro.coinbase.com": {
-          "ID": "pro.coinbase.com",
-          "Type": "URL"
         }
       },
       "OutScope": {
-        "*.blockspring.com": {
-          "ID": "*.blockspring.com",
-          "Type": "URL"
-        },
         "N/A - Not Coinbase owned or operated": {
           "ID": "N/A - Not Coinbase owned or operated",
           "Type": "OTHER"
         },
-        "blog.coinbase.com": {
-          "ID": "blog.coinbase.com",
-          "Type": "URL"
-        },
-        "com.coinbase.pro": {
-          "ID": "com.coinbase.pro",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "developers.coinbase.com": {
-          "ID": "developers.coinbase.com",
-          "Type": "URL"
-        },
-        "engineering.coinbase.com": {
-          "ID": "engineering.coinbase.com",
-          "Type": "URL"
-        },
-        "paradex.io": {
-          "ID": "paradex.io",
-          "Type": "URL"
+        "status.*.coinbase.com": {
+          "ID": "status.*.coinbase.com",
+          "Type": "WILDCARD"
         },
         "status.coinbase.com": {
           "ID": "status.coinbase.com",
           "Type": "URL"
-        },
-        "support.coinbase.com": {
-          "ID": "support.coinbase.com",
-          "Type": "URL"
-        },
-        "support.pro.coinbase.com": {
-          "ID": "support.pro.coinbase.com",
-          "Type": "URL"
-        },
-        "tagomi.com": {
-          "ID": "tagomi.com",
-          "Type": "URL"
         }
       },
-      "Hash": "fc52c3155b26c6171a5223f77a5a5a783792e36489e6fee6f886fbc3dd9e1c24"
+      "Hash": "8d15db4b2219f6b53524c43a44dd7a899805db0508b1d28375897a0af5c4e011"
     },
     "h1:coinmate": {
       "Key": "coinmate",
@@ -96747,7 +96663,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "9e95d5accaff1a0ba017ccf3bdd7bd5580b2df0d0a8b11751c3274c962e299a5"
+      "Hash": "07a8deb119c2abd26e69f24d7f3d005ef4fed43f22d763bd412b9c1c5fd8ce1e"
     },
     "h1:elastic": {
       "Key": "elastic",
@@ -146883,7 +146799,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7b8ba5c0d55af3cb6794ae274ad15c65ae4f94349dbe9f14f88b5627b873de69"
+      "Hash": "76d0393d2e5d3e70bfa0205f0e0ffefc032141e18ce437bcde6687d73afb9c5f"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -148436,7 +148352,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "ba818194b6409d131b0cf0d5b51fc651d1274d45bb7f9ba362fcfea0e94f212a"
+      "Hash": "074de2ae591d0ce74fe46f110801bd94b41656b1965aa1ee9578b747c458485e"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -166261,7 +166177,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "240c02d4e89f2d92572c27820a741fe2e199050331a052aabbeafdf8aeae51c3"
+      "Hash": "a5cef0c901ed4137047df39630631075cbb152641bf6a5209290f34c8e52d313"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -169171,7 +169087,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "62f1a1150080e6aeb9302afe638fdf51fa34ca2598efe6adbc8f181a1380df4b"
+      "Hash": "b53e1f337a826b91713834afdd1e7192c9e349052f436af152c1854338545cae"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -174209,7 +174125,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "31eb513c5a75ddb74fac18419e8b9212cfc536b10962cd0a955932a011466c02"
+      "Hash": "cd2366a1e185c054ef20c052dac32ac02c62d67d8a77c80c0bff293548250371"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -175968,7 +175884,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "62fba918ef1111284d7b81251d4e43cb6e395f7dce5391cb6e55e04d494bf45d"
+      "Hash": "5e98236f879b2b5785de050043ae0f444a0e600b9d8e079f94d8adeb527069b3"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -183839,7 +183755,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "b4602fd29c174d2cb90efd4ecd2080251d44c38b214007f130a320b5494c6e05"
+      "Hash": "94cf566ddf9122a9bc4646a3c2b4e352785410b9901ee8b75f700029cd51533e"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -184609,7 +184525,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "2702e5b53fce29fb25b085126c36acd2f14acefb8e4873c88f5a2d02043a17b0"
+      "Hash": "7a42812f25bfd14e1146e492ae99a15b1b48656be7085077b5eed9115578464e"
     },
     "h1:sidefx": {
       "Key": "sidefx",
@@ -184622,7 +184538,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "91cfca82177c34aeb7e0501c8e82bde395a05807a5626acc4584c5f618cdaa6e"
+      "Hash": "933f109a8612e4993504ad19709213e228c504e9dcd7de01c424e0274582c0e0"
     },
     "h1:simple_poll": {
       "Key": "simple_poll",
@@ -191524,7 +191440,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4220301d9d25ab64a164f0cd4543299cee96e324332c03d620c869023c9b2bb1"
+      "Hash": "614d68774750b58946031f8c876d21e41946246d8ebbcc9a833dfd463ebdda2f"
     },
     "h1:vodafone": {
       "Key": "vodafone",
