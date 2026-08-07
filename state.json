@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-07T22:09:47Z",
+  "captured_at": "2026-08-07T23:11:44Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -31544,35 +31544,6 @@
       },
       "OutScope": {},
       "Hash": "7f752d28dafb2bdd8f49465465c415c8fe20a2d8eb080032d904b88234926455"
-    },
-    "h1:brave": {
-      "Key": "brave",
-      "Name": "Brave Software",
-      "URL": "https://hackerone.com/brave",
-      "InScope": {
-        "Brave Browser Desktop": {
-          "ID": "Brave Browser Desktop",
-          "Type": "DOWNLOADABLE_EXECUTABLES"
-        },
-        "Brave websites": {
-          "ID": "Brave websites",
-          "Type": "OTHER"
-        },
-        "com.brave.browser": {
-          "ID": "com.brave.browser",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.brave.ios.browser": {
-          "ID": "com.brave.ios.browser",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "https://github.com/brave/*, https://github.com/brave-intl/*": {
-          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
-          "Type": "SOURCE_CODE"
-        }
-      },
-      "OutScope": {},
-      "Hash": "afe87e69afbeb4dcd19afa03e25269a77efb1824f1c04ef6f1968e11c3ee358e"
     },
     "h1:braze_inc": {
       "Key": "braze_inc",
@@ -97052,7 +97023,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "275d489a1a971be68bfd1419d90e8c6acc08f6d0840351ac9b5b333c2b18ceba"
+      "Hash": "eff7d99de663c01488eda143a24cc2fffc64c4d7c4c2e80ea854d0eafaf45ddc"
     },
     "h1:epicgames": {
       "Key": "epicgames",
@@ -184196,7 +184167,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "51bb192fe3a70b4f1922cc816c09126e4b3135831d428f25829a67cc14264a73"
+      "Hash": "5e492a69dbdc3cd575b9a42b20ef95d2a6945b21ecbd74b10a0f2a6b440634ad"
     },
     "h1:shein": {
       "Key": "shein",
@@ -191892,7 +191863,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7bf79d5ea6fed5ed3e01a59e4b5a21bc0a4c94bf8704afac37cb51c3a350ea2"
+      "Hash": "69b058a2f836b6ab667303094098f84b8a92aa3f9e46063fd552b569577ce2fa"
     },
     "h1:weblate": {
       "Key": "weblate",
