@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-07T11:27:49Z",
+  "captured_at": "2026-08-07T12:25:53Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26266,7 +26266,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7cd151fe45bd44707973fba8d834f1bed82920e96d227bc36cce90de25e0cc30"
+      "Hash": "68289fc3aab02e9704cc7d1a8437717b7ae5a3fcaf75a23db9dd3992dfa47087"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -28258,7 +28258,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a7f5023a71462ffd6861ee8f885ae93e348e1325a7cabad1469973adff80ec25"
+      "Hash": "fed36f346af5727b19757d9631dafa261562c34745c02493b80ecd25e4931e84"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -88420,7 +88420,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "18468aafa2f0211e5795d4ae468fc1aaa02d5377345d56d65e62205d6cfaac43"
+      "Hash": "d923c0fdd84e9feff8d513633cbe832a4e70138660f174152452ca1b9878e0e9"
     },
     "h1:coinbase": {
       "Key": "coinbase",
@@ -102398,14 +102398,6 @@
         }
       },
       "Hash": "430da9a2bdaa355afe9e35a878f64d30449be66519bca4d09e40420e61788aa2"
-    },
-    "h1:expressionengine": {
-      "Key": "expressionengine",
-      "Name": "ExpressionEngine",
-      "URL": "https://hackerone.com/expressionengine",
-      "InScope": {},
-      "OutScope": {},
-      "Hash": "f652001bb0a0f9197996402035a5316a4b7f66b81954cbe4659591a3e2fbfa0a"
     },
     "h1:fanduel": {
       "Key": "fanduel",
@@ -167789,7 +167781,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "450a06ecbed7ec269a801b407099104eb282dcf57d3888dea952a460c8004aa2"
+      "Hash": "68a5dcc5358f8c71452dec33891411307c1a2c3045a85931455d92e58f5ca72e"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -181599,7 +181591,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7b704de5ddeb76218859edb632b7b20f3e3e9b82038ac8fd4c82a00eb436493d"
+      "Hash": "8fa1738b939e5b72f8a82802e1ee2ba8f5bce312ab28f8dcd128898ad0fe9a83"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -184451,7 +184443,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "b0966ac27d8036aae67bf9758f2d01d8f9144c6906028b20f5611a0d1448ad7a"
+      "Hash": "adac753ca5948e3f383decc97dc01765d669a49425be99b9bd907de9e53f0237"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
