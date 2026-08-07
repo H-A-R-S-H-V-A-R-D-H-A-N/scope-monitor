@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-07T13:55:54Z",
+  "captured_at": "2026-08-07T15:06:05Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23313,7 +23313,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b2f2f71932f369498f71a1de2fde38dd995bd4f518ea6ed1bf4baeb63ed3635"
+      "Hash": "3ae69e372e2ec992a9c97341ff4983db78fbf1c5a7140a7f338536eb5ae97f2e"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -26266,7 +26266,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "68289fc3aab02e9704cc7d1a8437717b7ae5a3fcaf75a23db9dd3992dfa47087"
+      "Hash": "7cd151fe45bd44707973fba8d834f1bed82920e96d227bc36cce90de25e0cc30"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -30511,6 +30511,10 @@
           "ID": "https://github.com/amazonlinux/amazon-linux-2023",
           "Type": "SOURCE_CODE"
         },
+        "https://github.com/aws-actions/*": {
+          "ID": "https://github.com/aws-actions/*",
+          "Type": "SOURCE_CODE"
+        },
         "https://github.com/aws-samples": {
           "ID": "https://github.com/aws-samples",
           "Type": "URL"
@@ -30562,7 +30566,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "2eb61456554892e4fecc5951718f20769b17728597ae1997f659f925e989d742"
+      "Hash": "a9d421cce7c87d79c5374bb5d220b8d0e43f7ed4f62a1aa34d1fbd198d2cf1b9"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -96130,10 +96134,6 @@
           "ID": "*.sprint.dynatracelabs.com",
           "Type": "WILDCARD"
         },
-        "All other Assets": {
-          "ID": "All other Assets",
-          "Type": "OTHER"
-        },
         "Core Assets": {
           "ID": "Core Assets",
           "Type": "OTHER"
@@ -96189,7 +96189,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "673c928deae4b202f61ec10b7e236b03b820baa767967b6660434b58de08db5b"
+      "Hash": "df60a4783f00178c3a08440ac0dde7dd8251c4f37dd499392b7bcbd501d2c9ae"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -99414,7 +99414,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5f7c2afc667c829d9d2e78d2f5d107845b23d819deaba8c7a2c626a2da46fec7"
+      "Hash": "7a93e12d38629459d4ef508be68739d28ec548965a171dcfd07a71a3f1b800c0"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -102118,7 +102118,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "e9ad6804ba9c44e06989cebc2bbbae204c41885b9702190c29d56310766a2887"
+      "Hash": "4bbc98dc4bd12c8046d8769ef14d21b94755b204f6f38ae4395df3a1faaf0f0a"
     },
     "h1:expediagroup_bbp": {
       "Key": "expediagroup_bbp",
@@ -167024,7 +167024,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "fd04be53d1220e66992c0dd625925fcae256d7ed02546188c17df31fc40ac224"
+      "Hash": "e1d6fe60162219f921fe10b892adf8954eb9b5139a12207afbb3cb6901a0eb3a"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -174205,7 +174205,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5a9e7be0109f540352769cd55094622b2ed6747dbc11ef89bd44d2811b8bf0cc"
+      "Hash": "cd2366a1e185c054ef20c052dac32ac02c62d67d8a77c80c0bff293548250371"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -179962,7 +179962,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c4e7bd141e126abaab6c955b880a1e5a15c7719ced2a5f9624999af92a283ecd"
+      "Hash": "0eccaacccce1e8ad813202ea5f3c44a4fae9cc522903df1ef9ce06ad6669f9ca"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -186502,6 +186502,14 @@
           "ID": "com.grammarly.keyboard",
           "Type": "APPLE_STORE_APP_ID"
         },
+        "com.superhuman.mail": {
+          "ID": "com.superhuman.mail",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.superhuman.mail ": {
+          "ID": "com.superhuman.mail ",
+          "Type": "APPLE_STORE_APP_ID"
+        },
         "gateway.superhuman.com": {
           "ID": "gateway.superhuman.com",
           "Type": "URL"
@@ -186541,7 +186549,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "75687b1b8bed02457773637b1faa6dd7889880e93ba7bb4be281e1fe64753f14"
+      "Hash": "66a2304853c41fb84c3d87782eaa1809391d35e9714dac1e2e8ce9af2e382231"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -186822,7 +186830,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f09767a3c3404babb9844bcdc5e215ff7a0465e2856ca931164f62d1acc4ea73"
+      "Hash": "c4f5624723fda4ad4d145455e311ba30d0d5945a358d1120796917e5c62a2aa9"
     },
     "h1:temu": {
       "Key": "temu",
@@ -189577,7 +189585,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f01150da846a28740110f386bb486d9e559330e3f8128ca3ded20267615111dd"
+      "Hash": "f30503e62457446f9ef70c9b6adb28496d7ab7a1e6a8d202d2beaa0727515477"
     },
     "h1:ups": {
       "Key": "ups",
@@ -192342,7 +192350,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a18995f7e315727203a1c5b53e9e046e947bdba22f08ca98b822312fa7100ffd"
+      "Hash": "89e82e774f18f8ae22eaa4d9ff8629f96dae44820ce8ca80bfa99a17c159bfc3"
     },
     "h1:wolt": {
       "Key": "wolt",
