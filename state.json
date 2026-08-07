@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-07T17:06:11Z",
+  "captured_at": "2026-08-07T18:00:01Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -27916,6 +27916,10 @@
           "ID": "c2m-projectone.att.com",
           "Type": "URL"
         },
+        "http://dna-uat.az.cloud.att.com/": {
+          "ID": "http://dna-uat.az.cloud.att.com/",
+          "Type": "URL"
+        },
         "https://40.233.66.139": {
           "ID": "https://40.233.66.139",
           "Type": "URL"
@@ -27953,7 +27957,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e249a3ec0cc5eead1cfde9f09a5d2b9dc5fb6d8de5994dbc10f2aa3e7260d7ca"
+      "Hash": "958a1a8b5cd3a22363588da0b65e0ca1206f75c990f9b272a396273e10e8d9f9"
     },
     "h1:audible": {
       "Key": "audible",
@@ -31387,7 +31391,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "77f95b617b65f157b70037f3285b9323b055441e8670f316157acf251505c599"
+      "Hash": "57cff0d6ddaf27a34b5b45c1952a22ba50903dba2916bee4d28daedf479ea86a"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -167390,7 +167394,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "48179b876675c2398487b561ca6db921d283e21a7694c984f89d352e32fbacdf"
+      "Hash": "e0ef7b760a1a8d53091814bd294fe344c8df587363a8f21ae864352aebe19df4"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -174205,7 +174209,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cd2366a1e185c054ef20c052dac32ac02c62d67d8a77c80c0bff293548250371"
+      "Hash": "31eb513c5a75ddb74fac18419e8b9212cfc536b10962cd0a955932a011466c02"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -184443,7 +184447,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "b0966ac27d8036aae67bf9758f2d01d8f9144c6906028b20f5611a0d1448ad7a"
+      "Hash": "adac753ca5948e3f383decc97dc01765d669a49425be99b9bd907de9e53f0237"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -185610,7 +185614,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "601f500daa5d742d4e76ed45147223fcc5ecefb402ce8499b75d2c4d051b36de"
+      "Hash": "a99d02557a3d95f91711ac240b7070d17fb0d1024f639ee6e303725e2d2c37f4"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
