@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-08T15:40:39Z",
+  "captured_at": "2026-08-08T16:48:56Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -149333,7 +149333,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d1042be82c0a2ac5ec1154c09a12f30bf5c1c3dcc201b6be132050a2c46cc1dc"
+      "Hash": "489aec388f510832349194ab685f4094b338faf764c69d5f99fb8d2e967fdb9f"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -176211,7 +176211,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e0656fbc6ed6bc09225b268680bb54e2979557113470c63bf8072ddead1ea5c"
+      "Hash": "677893ef13dee444070e9b60f607dfd56f7960d1606711c1bcb9e9f59fb02250"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -178565,7 +178565,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f315d72dd9b8688bae1b631dc85c5ae72ddecb13cae4475c38a5a5f89fdcddfe"
+      "Hash": "5852ebd7678829718be9b7eb548537cf58806ff486981a9ed13a43e5a892d168"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -202024,95 +202024,6 @@
         }
       },
       "Hash": "8e440d689cf78ad7b669e19120568dda0435e31f01d370260865c6400f3020ce"
-    },
-    "in:efd8bd86-a986-4b4a-9eda-c9a6a1a6b540": {
-      "Key": "efd8bd86-a986-4b4a-9eda-c9a6a1a6b540",
-      "Name": "CM.com",
-      "URL": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
-      "InScope": {
-        "*.appmiral.com": {
-          "ID": "*.appmiral.com",
-          "Type": "wildcard"
-        },
-        "*.cm.com": {
-          "ID": "*.cm.com",
-          "Type": "wildcard"
-        },
-        "*.cmtelecom.com": {
-          "ID": "*.cmtelecom.com",
-          "Type": "wildcard"
-        },
-        "*.ticketing.cm.com": {
-          "ID": "*.ticketing.cm.com",
-          "Type": "wildcard"
-        },
-        "1199521324": {
-          "ID": "1199521324",
-          "Type": "ios"
-        },
-        "1579530451": {
-          "ID": "1579530451",
-          "Type": "ios"
-        },
-        "api.cm.com": {
-          "ID": "api.cm.com",
-          "Type": "url"
-        },
-        "api.cmtelecom.com": {
-          "ID": "api.cmtelecom.com",
-          "Type": "url"
-        },
-        "appmiral.com": {
-          "ID": "appmiral.com",
-          "Type": "url"
-        },
-        "building-blocks.com": {
-          "ID": "building-blocks.com",
-          "Type": "url"
-        },
-        "cm.com/[locale]/app/*": {
-          "ID": "cm.com/[locale]/app/*",
-          "Type": "wildcard"
-        },
-        "cm.com/[locale]/register": {
-          "ID": "cm.com/[locale]/register",
-          "Type": "url"
-        },
-        "cm.com/app/messagingtrial/": {
-          "ID": "cm.com/app/messagingtrial/",
-          "Type": "url"
-        },
-        "cmcom.atlassian.net": {
-          "ID": "cmcom.atlassian.net",
-          "Type": "url"
-        },
-        "com.cm.cashregister": {
-          "ID": "com.cm.cashregister",
-          "Type": "android"
-        },
-        "com.ticketflow.ticketscanner": {
-          "ID": "com.ticketflow.ticketscanner",
-          "Type": "android"
-        },
-        "demo.globalticket.com/*": {
-          "ID": "demo.globalticket.com/*",
-          "Type": "wildcard"
-        },
-        "https://github.com/cmdotcom": {
-          "ID": "https://github.com/cmdotcom",
-          "Type": "other"
-        },
-        "login.cm.com": {
-          "ID": "login.cm.com",
-          "Type": "url"
-        },
-        "www.cm.com": {
-          "ID": "www.cm.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "786e002bd6d5b82fab0eeb9f785b1c9142a226c9bc71a3b9ffbcb1bad59453cb"
     },
     "in:f2a437ca-68cb-455c-81ba-3b8cd1b21cb2": {
       "Key": "f2a437ca-68cb-455c-81ba-3b8cd1b21cb2",
