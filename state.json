@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-09T18:56:20Z",
+  "captured_at": "2026-08-09T19:45:01Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23211,7 +23211,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "90add3507c36f92516b477bdfd16421f5574b819707310088741f8ca17a4b352"
+      "Hash": "6fe4d249e98555331713c316b4e0b4daa2b98159c2c0d21d438b67eb825364f5"
     },
     "h1:acronis": {
       "Key": "acronis",
@@ -183730,7 +183730,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "b4602fd29c174d2cb90efd4ecd2080251d44c38b214007f130a320b5494c6e05"
+      "Hash": "94cf566ddf9122a9bc4646a3c2b4e352785410b9901ee8b75f700029cd51533e"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -185720,7 +185720,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "a4f11e861393cb05d68ed9bbffe1394d0bff953e9f3a6237d75bc18439a57bb2"
+      "Hash": "a4b81082f0fe695a146066959c11acf265e7437523737685af28984d7982b154"
     },
     "h1:streak_com": {
       "Key": "streak_com",
