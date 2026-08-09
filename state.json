@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-09T16:49:51Z",
+  "captured_at": "2026-08-09T17:43:03Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26473,7 +26473,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "395ad1fa80f5dfb8e0de00e83ab8bf80d785d333ee7a572974ba4c5e7648c254"
+      "Hash": "e151ee84ff2f673ab9000ba2ba36828f2200176ac12635bfe99da5dec2cc66bb"
     },
     "h1:aon": {
       "Key": "aon",
@@ -178269,7 +178269,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "eed5f171eab24da278c465bad42b74bf5f718e0d60cbba0435afbdbf5de76e66"
+      "Hash": "8af571dcdf72e9bf28d8763ef991003589485326ef800c05cb910da2d110d665"
     },
     "h1:owox": {
       "Key": "owox",
@@ -181649,7 +181649,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b66f83a9135ae2ea8496fead05b6faff21390ff5ccc31cc1f895b0ae09be0a44"
+      "Hash": "9c125032c576691cc3095a724206e61c875f9701909369c6a9a388414a49ab9d"
     },
     "h1:redis-vdp": {
       "Key": "redis-vdp",
@@ -192573,7 +192573,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d386f43d9624ee900d5fb0484f9c78567e0fef1768857ae579b1764c1318eff6"
+      "Hash": "344dcc662af4927b9825d9925b830b1fcb22827969c9f8da428698344fdb41e4"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
@@ -195194,68 +195194,6 @@
         }
       },
       "Hash": "b210cb95a2d4981998d0275ce0f07742017afd48528fd4738734d4e18ab85160"
-    },
-    "in:23f5d877-7948-4740-830c-393e66753fc4": {
-      "Key": "23f5d877-7948-4740-830c-393e66753fc4",
-      "Name": "Monzo Public Bug Bounty Program",
-      "URL": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
-      "InScope": {
-        "*.monzo.com": {
-          "ID": "*.monzo.com",
-          "Type": "wildcard"
-        },
-        "*.prod-ffs.io": {
-          "ID": "*.prod-ffs.io",
-          "Type": "wildcard"
-        },
-        "1052238659": {
-          "ID": "1052238659",
-          "Type": "ios"
-        },
-        "co.uk.getmondo": {
-          "ID": "co.uk.getmondo",
-          "Type": "android"
-        },
-        "monzo.com": {
-          "ID": "monzo.com",
-          "Type": "url"
-        },
-        "www.monzo.com": {
-          "ID": "www.monzo.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.monzo.me": {
-          "ID": "*.monzo.me",
-          "Type": "wildcard"
-        },
-        "*/contact-discovery/*": {
-          "ID": "*/contact-discovery/*",
-          "Type": "wildcard"
-        },
-        "*/inbound-p2p/*": {
-          "ID": "*/inbound-p2p/*",
-          "Type": "wildcard"
-        },
-        "*/p2p/*": {
-          "ID": "*/p2p/*",
-          "Type": "wildcard"
-        },
-        "community.monzo.com": {
-          "ID": "community.monzo.com",
-          "Type": "url"
-        },
-        "login.internal.monzo.com": {
-          "ID": "login.internal.monzo.com",
-          "Type": "url"
-        },
-        "monzo.me": {
-          "ID": "monzo.me",
-          "Type": "url"
-        }
-      },
-      "Hash": "34f3e04d7057420a1711930d503132702f0a587251f682bbd014c16923083459"
     },
     "in:28e0de63-e932-43cf-8a23-5ea24dabd48f": {
       "Key": "28e0de63-e932-43cf-8a23-5ea24dabd48f",
