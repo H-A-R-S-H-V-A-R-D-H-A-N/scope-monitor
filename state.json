@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-09T10:48:42Z",
+  "captured_at": "2026-08-09T11:39:37Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -67467,7 +67467,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "502946e4118c841427b30b9f9cea1a4065dd5b61b2ddce90bcad483a8c1d6e18"
+      "Hash": "fa7be2c8bf35d77114cb016a7a8b43377bf33a6f7acf14c85c3ecaaf695389a8"
     },
     "h1:chia_network": {
       "Key": "chia_network",
@@ -147278,6 +147278,10 @@
           "ID": "*.henkel.com",
           "Type": "WILDCARD"
         },
+        "*.henkeldx.com": {
+          "ID": "*.henkeldx.com",
+          "Type": "WILDCARD"
+        },
         "*.henkelgroup.cloud": {
           "ID": "*.henkelgroup.cloud",
           "Type": "WILDCARD"
@@ -148092,7 +148096,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e5a54f02627eef92722c4f9844d6b9e47e9d254ca718ff0654c21f1d7d385e9f"
+      "Hash": "4524f07255d72f81dad2917c5a41a5aa13e4551096f6f3429ea4726dee233741"
     },
     "h1:hertz": {
       "Key": "hertz",
@@ -167281,7 +167285,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "709c6993d5ad332d64b6e937100b1f47ce27730211e17971acb37c8dc7f71cdb"
+      "Hash": "05f96f2f4704c44eb40f6979dc9fe63e27089d83f09897143496f3e7e63ed2bd"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -171088,7 +171092,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7d61c807c170f581e6c1a6ca7f2e71e58ba28249e4a28e158b3bd215204e3a68"
+      "Hash": "897790c98bc395f1ae7634ff6eb018d2ac50dd1c7369b4d101a381f65a6c8fcc"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -190124,7 +190128,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "708d0b2b5e6714e2f61288a27560b260ad040c939214eb515b821e14fadd0c59"
+      "Hash": "83cd5e5c2264e9a6013413ee8a17bd706fbf47f6fb8bd945e39fb7b7171271ac"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
