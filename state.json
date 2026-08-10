@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-10T08:00:02Z",
+  "captured_at": "2026-08-10T09:44:21Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -11776,14 +11776,6 @@
           "ID": "https://api-portal.originzero.com.au",
           "Type": "api"
         },
-        "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql": {
-          "ID": "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql",
-          "Type": "api"
-        },
-        "https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql": {
-          "ID": "https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql",
-          "Type": "api"
-        },
         "https://api.rx.originenergy.com.au/v1/lpg/graphql": {
           "ID": "https://api.rx.originenergy.com.au/v1/lpg/graphql",
           "Type": "api"
@@ -11858,6 +11850,10 @@
           "ID": "https://agent.compareandconnect.com.au/",
           "Type": "website"
         },
+        "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql": {
+          "ID": "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql",
+          "Type": "other"
+        },
         "https://auth.api.originenergy.com.au/**": {
           "ID": "https://auth.api.originenergy.com.au/**",
           "Type": "website"
@@ -11915,7 +11911,7 @@
           "Type": "website"
         }
       },
-      "Hash": "af78ac3701d621ee54b38a9d432398a72da45fa924f9582cc5d97ba0ae1363fc"
+      "Hash": "fd690bd4772c94768dd1f858d77ade3bd29b0ec46781b8bacc78187822426395"
     },
     "bc:PNI Media - Bug Bounty": {
       "Key": "PNI Media - Bug Bounty",
@@ -23313,7 +23309,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c9ce5dcf3278d422abb06a84bd60b488773afd58613bb3cd3c96d22af1dae136"
+      "Hash": "09615a7d0392a997998d0cc3c1a70c2718f044aadbcf7f3d095aae9b4f516c36"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -23414,7 +23410,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bfd7d34c50d8b452724e3ce4c56dd540323c795b04e4b0ec9279ba9e42dc8b59"
+      "Hash": "5b88686e3cc9de29f4823a01c822974a77463d870d8344316bec0b4497db79d5"
     },
     "h1:adobe": {
       "Key": "adobe",
@@ -26266,7 +26262,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "aa1c48f3bd1b4dc1da9f15ecdd8a2ea4ee33de9db5bda4b51cb6cead6ca08c3b"
+      "Hash": "63d8ca7ea1c9d3ac864647ce1ada8d0550a9632a32c95ef295b524ad33fab42f"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -30874,7 +30870,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9c478630e2144312809d570f69ad2285deb397cdc2e0291b20ea7927f2bb523e"
+      "Hash": "779726dcaf9391d098c1c9f4c4428b7f5f6b441eb18ec1c09d5558285d75d67f"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -30908,7 +30904,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "d355d7e584685dfb87278f46d84db502003c0e7ba51b4605b6d149eb3c28b3f4"
+      "Hash": "bb8b880161be79ba8d4d9a704412e348854cf95e418c4eead0652261a8bd30a3"
     },
     "h1:bill_vdp": {
       "Key": "bill_vdp",
@@ -31665,7 +31661,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c93f8b2d9ced4103790ab040f2a1e43fea8c13bac5aff9229d3bd0c6d4c34407"
+      "Hash": "b22f5bd6a9598ecc6886688db5b4a0696e444a49511a628e3839d13d15ae3bfb"
     },
     "h1:bumble": {
       "Key": "bumble",
@@ -32332,7 +32328,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6b9a6cb0017187be769cb5672a11382d325628a28d84165552bf5190c19280c0"
+      "Hash": "f1d2f9f5873eb133116d20812e336b77c2224fec90cf8f866e11d75485f8a826"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -67409,7 +67405,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "a4f2b3b7f3577da979badc66f2ceaf201309f070e5220053e6fec1315d43b1ea"
+      "Hash": "e29879bb89aa66f67aaf6c959413ee20ac6a6a1f4f6cc724c56cf0cf93afd2df"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -88518,7 +88514,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8f77728dd6f24e1941d8e895c66853c77a7d2989edbdef8a20751f06ae4ad793"
+      "Hash": "87994a1a412b9456b4850c3df83618763af23a0e5b5c79da3c13719d62d5d60a"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -95619,7 +95615,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d95228ec84eb1fb1f3e77cea003e55dd4ff338bbc4ff1ebf01fb71d50e4b2d27"
+      "Hash": "a9f9fe84ac93bf50e4d2c1179964d9a1845565a9f0c250a9703ada2a9ae0c9cf"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -95968,7 +95964,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5899ba61ffe9c624b8cc098d712869108b993b383a90da4b6e343fddaac72ecd"
+      "Hash": "5751294ed8fdc3c09bfc6ae328983b13db4df9d99f3cb9305b49736f3f47cbfa"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -96080,7 +96076,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "790dba954ed7700bbd1e25bf94dedd4d3201d6559e370e57fa891b47d6d5f9fe"
+      "Hash": "c48cfb39ea3117c88d95480d39751f5986488be0faf53ab683f929e107d1c623"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -99305,7 +99301,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7a93e12d38629459d4ef508be68739d28ec548965a171dcfd07a71a3f1b800c0"
+      "Hash": "5f7c2afc667c829d9d2e78d2f5d107845b23d819deaba8c7a2c626a2da46fec7"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -101531,7 +101527,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "79ecd70f2ec9f53c47383c0fbcc3c144543fac47ddf4a1779bed45bda034d662"
+      "Hash": "276338ddcb4fb5b07a9ee9e4a47854ea2574e3e74046f2b80b12e0d9765b970f"
     },
     "h1:exness": {
       "Key": "exness",
@@ -101624,10 +101620,6 @@
           "ID": "Exodus Desktop Wallet",
           "Type": "DOWNLOADABLE_EXECUTABLES"
         },
-        "Passkey Wallet": {
-          "ID": "Passkey Wallet",
-          "Type": "OTHER"
-        },
         "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd": {
           "ID": "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd",
           "Type": "OTHER"
@@ -101636,16 +101628,8 @@
           "ID": "Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
           "Type": "OTHER"
         },
-        "api.passkeys.network": {
-          "ID": "api.passkeys.network",
-          "Type": "URL"
-        },
         "ctr.a.exodus.io": {
           "ID": "ctr.a.exodus.io",
-          "Type": "URL"
-        },
-        "embedded.passkeys.foundation": {
-          "ID": "embedded.passkeys.foundation",
           "Type": "URL"
         },
         "exodus-movement.exodus": {
@@ -101716,20 +101700,12 @@
           "ID": "login.exodus.com",
           "Type": "URL"
         },
-        "my.passkeys.network": {
-          "ID": "my.passkeys.network",
-          "Type": "URL"
-        },
         "nexotrack-p.exodus.io": {
           "ID": "nexotrack-p.exodus.io",
           "Type": "URL"
         },
         "nexotrack.exodus.io": {
           "ID": "nexotrack.exodus.io",
-          "Type": "URL"
-        },
-        "passkeys.foundation": {
-          "ID": "passkeys.foundation",
           "Type": "URL"
         },
         "pay-admin.exodus.io": {
@@ -101740,16 +101716,8 @@
           "ID": "pay.exodus.io",
           "Type": "URL"
         },
-        "relay.passkeys.foundation": {
-          "ID": "relay.passkeys.foundation",
-          "Type": "URL"
-        },
         "turing.exodus.io": {
           "ID": "turing.exodus.io",
-          "Type": "URL"
-        },
-        "wallet.passkeys.foundation": {
-          "ID": "wallet.passkeys.foundation",
           "Type": "URL"
         }
       },
@@ -101762,8 +101730,16 @@
           "ID": "Exodus Browser Extension",
           "Type": "DOWNLOADABLE_EXECUTABLES"
         },
+        "Passkey Wallet": {
+          "ID": "Passkey Wallet",
+          "Type": "OTHER"
+        },
         "api-p.xoswap.com": {
           "ID": "api-p.xoswap.com",
+          "Type": "URL"
+        },
+        "api.passkeys.network": {
+          "ID": "api.passkeys.network",
           "Type": "URL"
         },
         "api.xoswap.com": {
@@ -101776,6 +101752,10 @@
         },
         "dashboard.xoswap.com": {
           "ID": "dashboard.xoswap.com",
+          "Type": "URL"
+        },
+        "embedded.passkeys.foundation": {
+          "ID": "embedded.passkeys.foundation",
           "Type": "URL"
         },
         "exchange-p.exodus.io": {
@@ -101818,6 +101798,18 @@
           "ID": "https://exodus.atlassian.net",
           "Type": "URL"
         },
+        "my.passkeys.network": {
+          "ID": "my.passkeys.network",
+          "Type": "URL"
+        },
+        "passkeys.foundation": {
+          "ID": "passkeys.foundation",
+          "Type": "URL"
+        },
+        "relay.passkeys.foundation": {
+          "ID": "relay.passkeys.foundation",
+          "Type": "URL"
+        },
         "safeguard.a.exodus.io": {
           "ID": "safeguard.a.exodus.io",
           "Type": "URL"
@@ -101834,6 +101826,10 @@
           "ID": "support.exodus.com",
           "Type": "URL"
         },
+        "wallet.passkeys.foundation": {
+          "ID": "wallet.passkeys.foundation",
+          "Type": "URL"
+        },
         "www.exodus.com/job-application/*": {
           "ID": "www.exodus.com/job-application/*",
           "Type": "WILDCARD"
@@ -101847,7 +101843,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bb05d7bc7008ff57511ca3c61ef92f5ca3a3573de9b85c28dc58535cec0a5773"
+      "Hash": "961e38889d9686616acbbcf7d6fa9e2579da9dee322e91d72bcb73ff29846c7e"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -102251,7 +102247,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "67b34b945ad8767d0db42f1041828f465becfcab948be07339f532f34b5fa699"
+      "Hash": "6cca759a7f934933aaf8e106d7fb1f35a80e8ff8b78070733de1c4f88414e4cd"
     },
     "h1:experian": {
       "Key": "experian",
@@ -145436,7 +145432,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d14d72d0b2321cd0a2acdf9f986f9f6a72760c9297d8be702fe7009cd9705ef5"
+      "Hash": "3a6b56bd986a8c1c33e9f54caece8a7eccacf16296f4cee4c59d92864cb819c8"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -166919,7 +166915,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "e1d6fe60162219f921fe10b892adf8954eb9b5139a12207afbb3cb6901a0eb3a"
+      "Hash": "118e58ce6b5d135b031153161b14034e80258b008028993eca4a0f924a634a4a"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -167706,7 +167702,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "40b38e73f67805ac32ac07f0b0efec3b2a0a39202b6b512a024442d7c81f4349"
+      "Hash": "855ff34e0fc46cbc4a072e1d7f845a87cf68cae72ff7c27337e3c04579e2003b"
     },
     "h1:lowes": {
       "Key": "lowes",
@@ -169062,7 +169058,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "05e9a572aee1276dc0730279b82a4cb645b7459afc0ef4940c6576917b7857f7"
+      "Hash": "9890ac8521786b8e2a0c0b7b4bd12c8e617c8d82249ff904ddab5e114cc35779"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -175880,7 +175876,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b45eaa9b0a642e88876be236bd6204dc8cec6b8fd9cb1acbf9735dd7dae84859"
+      "Hash": "bc22e689aff62c825571b15f2840454512687ec593c7d2eab66178cc37fc5689"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -178832,7 +178828,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "937e72f03f3d74ee8090f11d003e8c2f06fd51547ae46916dba5f528a5fe77f4"
+      "Hash": "ebd14efd9e150fae38745d75e500347a4652f49bf1441cf9482095ea1439e7bf"
     },
     "h1:peloton": {
       "Key": "peloton",
@@ -184640,7 +184636,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "295da268b1007dc26087cac29c841d0259a31a050e807182a37b2c2ddbdb0ea8"
+      "Hash": "a7811d163c9f87fa38d1ec0d4f6e5b76d88556c4c9615ec8dceb5a9324de3023"
     },
     "h1:six-group": {
       "Key": "six-group",
@@ -185274,7 +185270,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "91b681f65e2384e8628ba41fd3467b5d57385e048e874c6d3b6c3bef5935dcb0"
+      "Hash": "5fb62f21eb8dcfb4d017ac37844992969d30f64bab104bcd006e4eedaed446a3"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -186029,7 +186025,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "38fc286487c390b7df7c5d12b2cfac74197641ba8f8700b2162839c71661c638"
+      "Hash": "396adc173e8b1da25cae84eafb6bffe629791ea397b7fa94b02d28c71a7e7b50"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -189644,7 +189640,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a0cc5eb3333abac302d21e91c9a96320acdeb1cd45144b0a529ee03c485c19a0"
+      "Hash": "15e3b9a54326b6b75d1c3105b186a7c3e017d6fa1f5a86894eb254a0e953c70e"
     },
     "h1:usps": {
       "Key": "usps",
@@ -191415,7 +191411,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ae1698a22e833d60ad3993a497caf49f25914a925c6be704cdd1ae79992e70b8"
+      "Hash": "68d28b7fde9a0baf65f7b0c55542b93c16408d701cd7125b351711beb77ee78b"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -191749,7 +191745,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5e6ec2576e788838781e486385986f90ff1c6caeb9785faa755c507b2e1649f0"
+      "Hash": "57fe36d16ac19dc293877e6106c0f8bf350467e5bea09cb0dc97efe379ea9068"
     },
     "h1:vueling_vdp": {
       "Key": "vueling_vdp",
@@ -194593,6 +194589,10 @@
           "ID": "admin.stage.vismaonline.com",
           "Type": "url"
         },
+        "ai-testing.maventa.com": {
+          "ID": "ai-testing.maventa.com",
+          "Type": "url"
+        },
         "aiassistant.stage.vismaonline.com": {
           "ID": "aiassistant.stage.vismaonline.com",
           "Type": "url"
@@ -194607,6 +194607,14 @@
         },
         "authz.workbox.dk": {
           "ID": "authz.workbox.dk",
+          "Type": "url"
+        },
+        "autointerface.stag.visma.net": {
+          "ID": "autointerface.stag.visma.net",
+          "Type": "url"
+        },
+        "ax-stage.maventa.com": {
+          "ID": "ax-stage.maventa.com",
           "Type": "url"
         },
         "com.visma.blue": {
@@ -194644,10 +194652,14 @@
         "photoservice.stage.vismaonline.com": {
           "ID": "photoservice.stage.vismaonline.com",
           "Type": "url"
+        },
+        "testing.maventa.com": {
+          "ID": "testing.maventa.com",
+          "Type": "url"
         }
       },
       "OutScope": {},
-      "Hash": "8645e5085ec4180a32a0f936c0065c4e45920b3cef14ab499de1a342950d52c6"
+      "Hash": "216b47d1074068f2a12f862fa08bc5718d1955f08803ceda6d284ed7224ed81f"
     },
     "in:0fd1d85b-2d33-4966-b5a0-caabfda5108e": {
       "Key": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
@@ -197648,12 +197660,16 @@
         }
       },
       "OutScope": {
+        "https://developer.posti.com/support-request": {
+          "ID": "https://developer.posti.com/support-request",
+          "Type": "url"
+        },
         "www.posti.fi/henkiloasiakkaat/lomakkeet/tuotantohairiot.html": {
           "ID": "www.posti.fi/henkiloasiakkaat/lomakkeet/tuotantohairiot.html",
           "Type": "url"
         }
       },
-      "Hash": "51f4d73a3ed4daecd9c9b3cad5a219dc7e9897dbd643f5e45b8c80082fb72251"
+      "Hash": "d80a38d19b4639e6b06aa3628f4993b062075296a0b6b7973d5b8d39ae2db763"
     },
     "in:6f24c2d0-b1f2-4c31-948d-eeba16e80099": {
       "Key": "6f24c2d0-b1f2-4c31-948d-eeba16e80099",
@@ -202023,6 +202039,95 @@
         }
       },
       "Hash": "8e440d689cf78ad7b669e19120568dda0435e31f01d370260865c6400f3020ce"
+    },
+    "in:efd8bd86-a986-4b4a-9eda-c9a6a1a6b540": {
+      "Key": "efd8bd86-a986-4b4a-9eda-c9a6a1a6b540",
+      "Name": "CM.com",
+      "URL": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
+      "InScope": {
+        "*.appmiral.com": {
+          "ID": "*.appmiral.com",
+          "Type": "wildcard"
+        },
+        "*.cm.com": {
+          "ID": "*.cm.com",
+          "Type": "wildcard"
+        },
+        "*.cmtelecom.com": {
+          "ID": "*.cmtelecom.com",
+          "Type": "wildcard"
+        },
+        "*.ticketing.cm.com": {
+          "ID": "*.ticketing.cm.com",
+          "Type": "wildcard"
+        },
+        "1199521324": {
+          "ID": "1199521324",
+          "Type": "ios"
+        },
+        "1579530451": {
+          "ID": "1579530451",
+          "Type": "ios"
+        },
+        "api.cm.com": {
+          "ID": "api.cm.com",
+          "Type": "url"
+        },
+        "api.cmtelecom.com": {
+          "ID": "api.cmtelecom.com",
+          "Type": "url"
+        },
+        "appmiral.com": {
+          "ID": "appmiral.com",
+          "Type": "url"
+        },
+        "building-blocks.com": {
+          "ID": "building-blocks.com",
+          "Type": "url"
+        },
+        "cm.com/[locale]/app/*": {
+          "ID": "cm.com/[locale]/app/*",
+          "Type": "wildcard"
+        },
+        "cm.com/[locale]/register": {
+          "ID": "cm.com/[locale]/register",
+          "Type": "url"
+        },
+        "cm.com/app/messagingtrial/": {
+          "ID": "cm.com/app/messagingtrial/",
+          "Type": "url"
+        },
+        "cmcom.atlassian.net": {
+          "ID": "cmcom.atlassian.net",
+          "Type": "url"
+        },
+        "com.cm.cashregister": {
+          "ID": "com.cm.cashregister",
+          "Type": "android"
+        },
+        "com.ticketflow.ticketscanner": {
+          "ID": "com.ticketflow.ticketscanner",
+          "Type": "android"
+        },
+        "demo.globalticket.com/*": {
+          "ID": "demo.globalticket.com/*",
+          "Type": "wildcard"
+        },
+        "https://github.com/cmdotcom": {
+          "ID": "https://github.com/cmdotcom",
+          "Type": "other"
+        },
+        "login.cm.com": {
+          "ID": "login.cm.com",
+          "Type": "url"
+        },
+        "www.cm.com": {
+          "ID": "www.cm.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "786e002bd6d5b82fab0eeb9f785b1c9142a226c9bc71a3b9ffbcb1bad59453cb"
     },
     "in:f2a437ca-68cb-455c-81ba-3b8cd1b21cb2": {
       "Key": "f2a437ca-68cb-455c-81ba-3b8cd1b21cb2",
