@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-10T14:02:06Z",
+  "captured_at": "2026-08-10T15:12:14Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -31387,7 +31387,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d77754de22c32f759c466796a45ae83e2bbde9982c921ba4b8eb766c506386fe"
+      "Hash": "0589d77fb07c22cc77ccee186282acca6514dc6403bad923c0b091c17152ef14"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -88489,7 +88489,7 @@
       "URL": "https://hackerone.com/coinmate",
       "InScope": {},
       "OutScope": {},
-      "Hash": "1c62eb3fa035bc19d109567f97912e2e985c8e0bad6a93af7aa3b5ea8e1fcb7d"
+      "Hash": "20ea2610590ac6507d7fd8a7c0cfbaad277862c1921e6744653dda4de92ef081"
     },
     "h1:coinspot": {
       "Key": "coinspot",
@@ -95632,7 +95632,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b2aca01bcb19d0504cdbf41a27d4bbd77ae1c3b5c815d9afd249cf6c801302ae"
+      "Hash": "15d25fd129a4e238961b624d17effe6dce4ccb1e53a44986bc369c351f269d09"
     },
     "h1:disney": {
       "Key": "disney",
@@ -96076,7 +96076,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c48cfb39ea3117c88d95480d39751f5986488be0faf53ab683f929e107d1c623"
+      "Hash": "661435c80939817e507b9dc864b612e7707348961d47bd8fab5ad6a738711291"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -99301,7 +99301,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7a93e12d38629459d4ef508be68739d28ec548965a171dcfd07a71a3f1b800c0"
+      "Hash": "7c6c62f110bd12ead459d52b0f87b0ba4867f4299ffd5ba726849ffe0aaa179a"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -101652,10 +101652,6 @@
           "ID": "https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820",
           "Type": "APPLE_STORE_APP_ID"
         },
-        "https://apps.apple.com/us/app/grateful-by-exodus/id6754093889": {
-          "ID": "https://apps.apple.com/us/app/grateful-by-exodus/id6754093889",
-          "Type": "APPLE_STORE_APP_ID"
-        },
         "https://github.com/ExodusOSS/bytes": {
           "ID": "https://github.com/ExodusOSS/bytes",
           "Type": "SOURCE_CODE"
@@ -101667,10 +101663,6 @@
         "https://github.com/ExodusOSS/hydra": {
           "ID": "https://github.com/ExodusOSS/hydra",
           "Type": "SOURCE_CODE"
-        },
-        "https://play.google.com/store/apps/details?id=com.exodus.grateful": {
-          "ID": "https://play.google.com/store/apps/details?id=com.exodus.grateful",
-          "Type": "GOOGLE_PLAY_APP_ID"
         },
         "https://play.google.com/store/apps/details?id=exodusmovement.exodus\u0026hl=en_IN": {
           "ID": "https://play.google.com/store/apps/details?id=exodusmovement.exodus\u0026hl=en_IN",
@@ -101724,6 +101716,10 @@
       "OutScope": {
         "*.atp-exodus.com": {
           "ID": "*.atp-exodus.com",
+          "Type": "WILDCARD"
+        },
+        "*.grateful.me": {
+          "ID": "*.grateful.me",
           "Type": "WILDCARD"
         },
         "Exodus Browser Extension": {
@@ -101794,9 +101790,17 @@
           "ID": "http://www.exodus.com/contact-support",
           "Type": "URL"
         },
+        "https://apps.apple.com/us/app/grateful-by-exodus/id6754093889": {
+          "ID": "https://apps.apple.com/us/app/grateful-by-exodus/id6754093889",
+          "Type": "APPLE_STORE_APP_ID"
+        },
         "https://exodus.atlassian.net": {
           "ID": "https://exodus.atlassian.net",
           "Type": "URL"
+        },
+        "https://play.google.com/store/apps/details?id=com.exodus.grateful": {
+          "ID": "https://play.google.com/store/apps/details?id=com.exodus.grateful",
+          "Type": "GOOGLE_PLAY_APP_ID"
         },
         "my.passkeys.network": {
           "ID": "my.passkeys.network",
@@ -101843,7 +101847,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9f66ae9d91c17513e9e2e832b92379d014e1cc817bd16682f1c8796a02c15e54"
+      "Hash": "084186affe9342a1c5a3c767606bf37fc10b2f833bc1d5f8fd181731e7f14b63"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -104683,7 +104687,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a0702ce1d47abd17f349954ef0d759f25e3d0118335b750d1c30397d1a877aab"
+      "Hash": "c9037a44094503ab85ff2360f558eb2c3a2631244acb3df56dbad4b1707618b3"
     },
     "h1:files": {
       "Key": "files",
@@ -104793,7 +104797,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "badf7f49a7e9d882de047a8967b90c5fb11ca4ebf416da19333adbf1723d42f0"
+      "Hash": "1ffacf5416f02fd3fe5dacd1aed62b8e66df722c14dcee4cd242ad652f317f25"
     },
     "h1:fiserv": {
       "Key": "fiserv",
@@ -144039,7 +144043,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b12b1e258cf4e6bc69d3ca1807c221fca01042d644e4017091fc235a38512647"
+      "Hash": "898baf007e99122c4cfe54df6f594ef68d377b85e7006402b72ae90bd3e01fb6"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -144245,7 +144249,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0a646b1ad5032345d43f2cc9a5cb25d85eea5ab12127caf32c1844d950d8fd83"
+      "Hash": "bb13854696c1ffa34c3140eae1bc4399767655ffc89b4e92d1a7e44fc47191e7"
     },
     "h1:flutteruki": {
       "Key": "flutteruki",
@@ -145044,7 +145048,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "7b36fe7127e7e0f1a2525e445e908c1e367b9a12761fe3b1e546284dc954b857"
+      "Hash": "bff3d854870cb62c50cfd1fa0b3f4931b1d0d844a25ec92ffaf50e8a93d89c25"
     },
     "h1:freshworks": {
       "Key": "freshworks",
@@ -146843,7 +146847,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "36c6fd3c31b3f40cf944fa9b8bd36404c96ab1a1189afc81358904ea423a9361"
+      "Hash": "12a80f5ddc3a7b73c4fc2fee240128776ccaaa27a0dca2a9d5193c6ddd9d78fe"
     },
     "h1:hcl_software": {
       "Key": "hcl_software",
@@ -148305,7 +148309,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c0e4eb1a87e3e3da4f9f0244def73a82da22c15ca4ec1c05f35a4264b1c8266b"
+      "Hash": "9b0eae4e9c771d48415dba0a1484f33f5d500a54008b87f351d8d13fef819d5f"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -149221,7 +149225,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "82ba2c258a7878e195ac81101bc101f14ff5cf8d1c48261fe2a86ecb7e66bc34"
+      "Hash": "32fb95f5b5fa0c8e787b80ec31be68e92c2fb054fbdf1f7130c0071afa232457"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -149315,7 +149319,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "489aec388f510832349194ab685f4094b338faf764c69d5f99fb8d2e967fdb9f"
+      "Hash": "2e498aec576ecc15b7677bb8c18ff6c0025bb816cebfb363797b6d818307515c"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -167172,7 +167176,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "771008d0ea5b5c5afdd721e0b3ea416b5abb77ff234e639b19974fdbe0f17d9e"
+      "Hash": "2f5c486ef6cafbeccf646ef5e29a254c5dc524fc6869a34ea12cb9feed532251"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -167654,7 +167658,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "547680009242819b1ef700521245e5da9b4ef5fcc1e7e8169d65fde4852be6e4"
+      "Hash": "2c88f2ad7e12ce735e365e4186fd091490218fe48adc2b50b0192ee889425401"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -171492,7 +171496,7 @@
           "Type": "GOOGLE_PLAY_APP_ID"
         }
       },
-      "Hash": "e73771bb7e4ce7c2db963ff0f4b97a9511f9f4ea55a5673583978aa7d230ce1a"
+      "Hash": "c9886967a445c4e4d7738e12ef1f7e3aa77539fb01c034fa3b15a9548ccf999b"
     },
     "h1:mtn_group": {
       "Key": "mtn_group",
@@ -187216,7 +187220,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8a05e17d8d5eb63b1954edffc6ec7ebb1c6b00197dc2bf29f8f080e5967f92d1"
+      "Hash": "4e1d218a83944b8b4a29b40f091f10a440ff8819160ada2d977bf6d81b7d5a44"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -189809,7 +189813,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "95f14e863d468e750c1835afe110575416033805b18c894f6427668193cdfa6f"
+      "Hash": "6bf84091c39f19a4c5cf4d979f178dc25faff1d323100356fcc21516a348978e"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -192828,7 +192832,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1fb4dc55d129b19a550056734bc762ced07662c2e989cafb8e8b839a8433af62"
+      "Hash": "c2e59fe2bdcb4e7b690164acfbb8b6c3a5516611129a0b0aae4988ee1f6455da"
     },
     "h1:xvideos": {
       "Key": "xvideos",
