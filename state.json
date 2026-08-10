@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-10T12:28:17Z",
+  "captured_at": "2026-08-10T14:02:06Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -67109,7 +67109,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1c6c545c97bf198203c4eba2e76a635bac3c046cd34ff0f4d71f40af8d459b35"
+      "Hash": "c6c6e7ebc4f4dc42c3e788601d5bdfdba4d8203d8be552c555b95e75cd83038d"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -87798,7 +87798,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "30e24efc8807d82d8a0ab2d9ca2cb50fe53342266fc2b4c5692c0a0ec98ab26a"
+      "Hash": "ad1061bbff35a34b82608ead01f3ec16fdd9ad3b569c6b8fe86ec9e02fdba61f"
     },
     "h1:clear": {
       "Key": "clear",
@@ -88481,7 +88481,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "745f6f02500898ff13a52aa53cc3335fd48e922e873ee78021dbc21ee2b13da5"
+      "Hash": "f47fa65fde91c2c290f953c8e236ff98f09f833f50f9db6198826ada12bb4c5f"
     },
     "h1:coinmate": {
       "Key": "coinmate",
@@ -88514,7 +88514,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "406d8fb7656504f37d41b02b108f197c9c2098689ff355dc9bb43fad5550a7be"
+      "Hash": "5d5bf7e99e76f6480bd0e8d023a430e93092c0f728377c530dc5608ea831dafb"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -101473,7 +101473,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "63fd2b208b68a7c0eef1d12819e84d3b280790904fb93688917400f0918547b5"
+      "Hash": "5add050f30b9e04eb13bb3798d7a7f8bc7ec336744877cf2cecfbf2e59f5b0be"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -145432,7 +145432,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d14d72d0b2321cd0a2acdf9f986f9f6a72760c9297d8be702fe7009cd9705ef5"
+      "Hash": "3a6b56bd986a8c1c33e9f54caece8a7eccacf16296f4cee4c59d92864cb819c8"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -145997,24 +145997,6 @@
         }
       },
       "Hash": "271fd4c8625ae378349a58c310f4bf512508beebb932d263349882f6e1c38534"
-    },
-    "h1:gocd": {
-      "Key": "gocd",
-      "Name": "GoCD",
-      "URL": "https://hackerone.com/gocd",
-      "InScope": {
-        "GoCD (https://www.gocd.org/download)": {
-          "ID": "GoCD (https://www.gocd.org/download)",
-          "Type": "DOWNLOADABLE_EXECUTABLES"
-        }
-      },
-      "OutScope": {
-        "*.gocd.org": {
-          "ID": "*.gocd.org",
-          "Type": "WILDCARD"
-        }
-      },
-      "Hash": "4963925e5b2d1d24466fc7c07f9a1ce7a064f6d85dbe46296e0f12cbe02c33f7"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -149333,7 +149315,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2e498aec576ecc15b7677bb8c18ff6c0025bb816cebfb363797b6d818307515c"
+      "Hash": "489aec388f510832349194ab685f4094b338faf764c69d5f99fb8d2e967fdb9f"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -149743,7 +149725,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "87eaa23cd6a6149ab60b979415b33f4b984f981a36d7cf9c001318a6e8c9113a"
+      "Hash": "dd4802cb641d33e3acca6dc262cb6a23fb56e9092a7b584b45881d7d3731f59f"
     },
     "h1:inditex": {
       "Key": "inditex",
@@ -168155,7 +168137,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ca088dddaf3aa4b96a3a0b1f9439819281a6a40b3e7f4ccb335f4ab2c7d31058"
+      "Hash": "76ac8b3b12149d8657d8120bd3f9a2ac7b08263fd47af747f13776905ea63de9"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -176140,7 +176122,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "552c403dda521c8e6d0b3d8795a1d35e01debf8c6c9b589a35746bd8129688a5"
+      "Hash": "132baf57dc17625a3f0cf3cdf0c607097fcc610a5a44f188d44ad779ef979e8f"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -177223,7 +177205,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1e099bb760359247c32c1a434ab06720ebc1d93266a01ea18bc1345be125c863"
+      "Hash": "c5d65804b116c9cca5e614d9c1e6e9c3706200bcea74d07e422e41f043a2ed39"
     },
     "h1:openmage": {
       "Key": "openmage",
@@ -181225,7 +181207,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c66b3e34b1871a402c2688825e0b8a2c9de11ab910117b85ad6a8347cd7db19a"
+      "Hash": "3ab58c8405d31088727da21e2eb5c441ab4c2c602dddf0f564abb57e3413d361"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -183382,7 +183364,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "70474d0814509262bb73eb16a8f6a67771854df1574e88eeb7d871a05bdf686c"
+      "Hash": "8e979336c0092c150147e0b4a7e3077fc07f58c136cbd1ee54437ce3c2949b4b"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -184204,7 +184186,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ee2131b6591ea3055796ee8811fb9a68f0d9d6b89276f3ad3b684f8222456a8b"
+      "Hash": "cf050ffece751804110acab92630c60f43cbdd0d2fb689c67d8198f52c5586ca"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -185062,7 +185044,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "91c00ab2f85f7d3e145a4d3862048c1f910bb554b8c7f915c65a1502394577d4"
+      "Hash": "d522d436bd53f03dd532c2c384fc28a7440219edb0432a2fa8b289bf7dfeea6c"
     },
     "h1:snapchat": {
       "Key": "snapchat",
@@ -185291,7 +185273,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d2d62b783fc300f5a4c790b0be587e9f6f75ee73e27e30f2b3e2ea7e55a24f30"
+      "Hash": "687a95da461b8bac813a9c25060b31a105a97ad1fa530661b0d648a77edd2c55"
     },
     "h1:spotify": {
       "Key": "spotify",
@@ -187234,7 +187216,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4e1d218a83944b8b4a29b40f091f10a440ff8819160ada2d977bf6d81b7d5a44"
+      "Hash": "8a05e17d8d5eb63b1954edffc6ec7ebb1c6b00197dc2bf29f8f080e5967f92d1"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -189934,6 +189916,10 @@
           "ID": "*.kasten.io",
           "Type": "URL"
         },
+        "*.securiti.ai": {
+          "ID": "*.securiti.ai",
+          "Type": "WILDCARD"
+        },
         "*.veeam.com": {
           "ID": "*.veeam.com",
           "Type": "URL"
@@ -189961,7 +189947,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7a79aba8ecbe7d6ac92f888790db30c00b932858c570390cab6c2f7d67f1b531"
+      "Hash": "46874043c9f2805bbc1a8d6acdfa16cf270e50cad44b5583a8a2daef6e0f70f7"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -192950,7 +192936,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b994213f847aa9fb3daa8ec802f38e4f68cf790a2af3bec7c3e0a5033dd26943"
+      "Hash": "2af16a8893f8fa3dca92b3ad69bbd166f17f61d2a593c46467ad0b93a18744b8"
     },
     "h1:yoti": {
       "Key": "yoti",
@@ -193714,7 +193700,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "45fac5478a15c198cc56f82d0c8d65d8ee20b23623fa01d3d3e04063fe293ffa"
+      "Hash": "a952ecd5b7f0a738e9b935e6ae701f25ab875afd390004db71db79882fa882e0"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -202248,7 +202234,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "786e002bd6d5b82fab0eeb9f785b1c9142a226c9bc71a3b9ffbcb1bad59453cb"
+      "Hash": "af77feff96854b2e4c0011a481eb7217dac3de90ee2d96845ed940122e658864"
     },
     "in:f2a437ca-68cb-455c-81ba-3b8cd1b21cb2": {
       "Key": "f2a437ca-68cb-455c-81ba-3b8cd1b21cb2",
