@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-10T17:31:53Z",
+  "captured_at": "2026-08-10T18:29:01Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -67405,7 +67405,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "61f21fb579973bf1a8e520fcd0510da972ad2e079154577b098d63b2a3a15c15"
+      "Hash": "a4f2b3b7f3577da979badc66f2ceaf201309f070e5220053e6fec1315d43b1ea"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -95632,7 +95632,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "15d25fd129a4e238961b624d17effe6dce4ccb1e53a44986bc369c351f269d09"
+      "Hash": "b2aca01bcb19d0504cdbf41a27d4bbd77ae1c3b5c815d9afd249cf6c801302ae"
     },
     "h1:disney": {
       "Key": "disney",
@@ -96630,7 +96630,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "5da87a1899016ae21411947456f66266862eba9687e0bf64739c3fb9d465009a"
+      "Hash": "b160a1be2d63b1db19205de43525195636e9a63b05378585db1795b324b4d347"
     },
     "h1:elastic": {
       "Key": "elastic",
@@ -145048,7 +145048,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "954ca69d451624e01ae3cf1f8e63182da0525595f9f33cf9825fc13d7a99d918"
+      "Hash": "292089f3e1fa2f790d918c02e555d6e30940e07f4ed10e1898c992b67799b46f"
     },
     "h1:freshworks": {
       "Key": "freshworks",
@@ -146752,7 +146752,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2a788cd10e60b240d7e37952e696b28191efb777a57b3dabfec4d1284113e4f9"
+      "Hash": "19c437f987c619b2555935a0c83e33718d013080cf5e6af7280e065ff7d86887"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -174133,7 +174133,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "09b605fc6dd72b87bb86222195e5d4f628186f1c84fa99fb8625947d0d31c35c"
+      "Hash": "8e15b3472b49f1f71b37328793c508707f6b4a8a247e88e76135926fe06801f5"
     },
     "h1:navient_solutions": {
       "Key": "navient_solutions",
@@ -185702,7 +185702,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "47af44ee0bd862320aff51f3da6427effbaa6cdbd55db94abe7a2f040e253f32"
+      "Hash": "5cd24ec98ebff62060a2721bf1568b43fbecaae15e4418c95ec036a19ec5d7e3"
     },
     "h1:streak_com": {
       "Key": "streak_com",
@@ -187948,6 +187948,10 @@
           "ID": "fraudscout.com",
           "Type": "URL"
         },
+        "ftp.reallybigbank.com": {
+          "ID": "ftp.reallybigbank.com",
+          "Type": "URL"
+        },
         "goezshield.com": {
           "ID": "goezshield.com",
           "Type": "URL"
@@ -188195,7 +188199,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e8309562c3f85bc81babb5b7cb9f885b3d4388a9f990d07ae718d2e590d7b61"
+      "Hash": "452488c1b0f16b25851dc3c205776b02aa85ff5cef6199f07e1d0a7f5809c689"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -188930,7 +188934,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fbc6a1d7ad0157c5d42344c1feedd6da8eb761c22a4c8f0ff39a4bcad4156afa"
+      "Hash": "aac0183198ddba3b819608684be9906874e7b46cb788594ac7b283a1c9cc1635"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -192308,12 +192312,20 @@
           "ID": "gettest.wolt.com",
           "Type": "URL"
         },
+        "https://merchant-onboarding-service.wolt.com/merchant-admin/inbound-merchant": {
+          "ID": "https://merchant-onboarding-service.wolt.com/merchant-admin/inbound-merchant",
+          "Type": "URL"
+        },
         "https://merchant.wolt.com/api/merchant-onboarding/merchant-admin/inbound-merchant": {
           "ID": "https://merchant.wolt.com/api/merchant-onboarding/merchant-admin/inbound-merchant",
           "Type": "URL"
         },
         "https://restaurant-api.wolt.com/v1/waw-api/corporate-leads": {
           "ID": "https://restaurant-api.wolt.com/v1/waw-api/corporate-leads",
+          "Type": "URL"
+        },
+        "https://wolt.com/en/wolt-for-work-contact-request": {
+          "ID": "https://wolt.com/en/wolt-for-work-contact-request",
           "Type": "URL"
         },
         "links.wolt.com": {
@@ -192329,7 +192341,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8ecfd9cc551e76d3333b82bf7859bc33f9ff060ce06760158eae89ad5f4be42b"
+      "Hash": "79d4caedc98114689b1f4b71e2de334eba42336f3a6e20cae4a8b1f16282e69c"
     },
     "h1:wordpress": {
       "Key": "wordpress",
