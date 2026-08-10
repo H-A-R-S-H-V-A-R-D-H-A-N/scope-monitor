@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-10T11:17:52Z",
+  "captured_at": "2026-08-10T12:28:17Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -176140,7 +176140,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "132baf57dc17625a3f0cf3cdf0c607097fcc610a5a44f188d44ad779ef979e8f"
+      "Hash": "552c403dda521c8e6d0b3d8795a1d35e01debf8c6c9b589a35746bd8129688a5"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -177223,7 +177223,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "748e5cc7ba39b3c743c4691257a9d96000da1e65f5314ec4f4b531b90e581d3c"
+      "Hash": "1e099bb760359247c32c1a434ab06720ebc1d93266a01ea18bc1345be125c863"
     },
     "h1:openmage": {
       "Key": "openmage",
@@ -187486,7 +187486,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "880fb72c5a4afcf3b0be636570374c6be11374ec6baf5cf2c7d2f58eed6d42a5"
+      "Hash": "3cf77d733b4168d2e44d02d23ab7f2762e5564e340da0c528ff89cee04fa5530"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -195264,6 +195264,68 @@
       },
       "Hash": "b210cb95a2d4981998d0275ce0f07742017afd48528fd4738734d4e18ab85160"
     },
+    "in:23f5d877-7948-4740-830c-393e66753fc4": {
+      "Key": "23f5d877-7948-4740-830c-393e66753fc4",
+      "Name": "Monzo Public Bug Bounty Program",
+      "URL": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
+      "InScope": {
+        "*.monzo.com": {
+          "ID": "*.monzo.com",
+          "Type": "wildcard"
+        },
+        "*.prod-ffs.io": {
+          "ID": "*.prod-ffs.io",
+          "Type": "wildcard"
+        },
+        "1052238659": {
+          "ID": "1052238659",
+          "Type": "ios"
+        },
+        "co.uk.getmondo": {
+          "ID": "co.uk.getmondo",
+          "Type": "android"
+        },
+        "monzo.com": {
+          "ID": "monzo.com",
+          "Type": "url"
+        },
+        "www.monzo.com": {
+          "ID": "www.monzo.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.monzo.me": {
+          "ID": "*.monzo.me",
+          "Type": "wildcard"
+        },
+        "*/contact-discovery/*": {
+          "ID": "*/contact-discovery/*",
+          "Type": "wildcard"
+        },
+        "*/inbound-p2p/*": {
+          "ID": "*/inbound-p2p/*",
+          "Type": "wildcard"
+        },
+        "*/p2p/*": {
+          "ID": "*/p2p/*",
+          "Type": "wildcard"
+        },
+        "community.monzo.com": {
+          "ID": "community.monzo.com",
+          "Type": "url"
+        },
+        "login.internal.monzo.com": {
+          "ID": "login.internal.monzo.com",
+          "Type": "url"
+        },
+        "monzo.me": {
+          "ID": "monzo.me",
+          "Type": "url"
+        }
+      },
+      "Hash": "34f3e04d7057420a1711930d503132702f0a587251f682bbd014c16923083459"
+    },
     "in:28e0de63-e932-43cf-8a23-5ea24dabd48f": {
       "Key": "28e0de63-e932-43cf-8a23-5ea24dabd48f",
       "Name": "Uphold",
@@ -196940,6 +197002,44 @@
         }
       },
       "Hash": "40726b8134b49967eca41e1ada0016a9d11fc15acfe4e032cf00fdf71942e34b"
+    },
+    "in:5ed6962a-7017-4d60-8805-e169b638528d": {
+      "Key": "5ed6962a-7017-4d60-8805-e169b638528d",
+      "Name": "Sqills",
+      "URL": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+      "InScope": {
+        "*.sqills.com": {
+          "ID": "*.sqills.com",
+          "Type": "wildcard"
+        },
+        "*.sqills.team": {
+          "ID": "*.sqills.team",
+          "Type": "wildcard"
+        }
+      },
+      "OutScope": {
+        "*.red.sqills.team": {
+          "ID": "*.red.sqills.team",
+          "Type": "wildcard"
+        },
+        "booking.*.cloud.sqills.com": {
+          "ID": "booking.*.cloud.sqills.com",
+          "Type": "wildcard"
+        },
+        "booking.*.sqills.com": {
+          "ID": "booking.*.sqills.com",
+          "Type": "wildcard"
+        },
+        "careers.sqills.com": {
+          "ID": "careers.sqills.com",
+          "Type": "url"
+        },
+        "welcome.sqills.com": {
+          "ID": "welcome.sqills.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "d8b1ff488fa4c926cc26ec88aac29a74241802ba5eeeae2edc3f9f42e3402d13"
     },
     "in:5f29e1eb-85e8-4d99-9b52-b809f06de633": {
       "Key": "5f29e1eb-85e8-4d99-9b52-b809f06de633",
