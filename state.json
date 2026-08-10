@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-10T16:27:27Z",
+  "captured_at": "2026-08-10T17:31:53Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -31387,7 +31387,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0589d77fb07c22cc77ccee186282acca6514dc6403bad923c0b091c17152ef14"
+      "Hash": "d77754de22c32f759c466796a45ae83e2bbde9982c921ba4b8eb766c506386fe"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -87905,7 +87905,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "284ae83e35c6753a773d1998d316b0f5e8df395242ee642df24335aaf3ac2176"
+      "Hash": "23d0765414a4028cb943b3668083789695cfe2895e37e825bc159da8ab4affc7"
     },
     "h1:cloudflare": {
       "Key": "cloudflare",
@@ -89181,7 +89181,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3923c8ff3693cee2bdbb6ff6d5dac91e8c472e17a330645ad819b4a05818876b"
+      "Hash": "4e9c0010b9c43dfaa69cd8d749bb291d96b08403d7bd9f7714487849e93de2a9"
     },
     "h1:crowdstrike": {
       "Key": "crowdstrike",
@@ -95766,7 +95766,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ec468b1be8f6195fe7c1130082a29483c67c5c5a78c428da8c837f1d4443a5ec"
+      "Hash": "0930d11fa541ecf33efa96f7a90957aff3c1559b3fce1e851b762c846c81fee7"
     },
     "h1:django": {
       "Key": "django",
@@ -96076,7 +96076,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "661435c80939817e507b9dc864b612e7707348961d47bd8fab5ad6a738711291"
+      "Hash": "c48cfb39ea3117c88d95480d39751f5986488be0faf53ab683f929e107d1c623"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -96630,7 +96630,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6d856f058995033e3f863f35b777a655365afa27578a54a6546dae551cb114e0"
+      "Hash": "5da87a1899016ae21411947456f66266862eba9687e0bf64739c3fb9d465009a"
     },
     "h1:elastic": {
       "Key": "elastic",
@@ -101473,7 +101473,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5add050f30b9e04eb13bb3798d7a7f8bc7ec336744877cf2cecfbf2e59f5b0be"
+      "Hash": "fa27b4c1e674b2393dc72913733255ce8f73ace0a70655d4e3788e8310721533"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -178749,7 +178749,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "14bb2e5f8aecec1d6d4e0ab1450997178858bd88fe28bdac63996174b3ec7aad"
+      "Hash": "1e9a0745f12036123b05c6a0cf68757b3661086ecfa1bca024b6c8b01af355fc"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -187220,7 +187220,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8a05e17d8d5eb63b1954edffc6ec7ebb1c6b00197dc2bf29f8f080e5967f92d1"
+      "Hash": "4e1d218a83944b8b4a29b40f091f10a440ff8819160ada2d977bf6d81b7d5a44"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -192296,12 +192296,24 @@
         }
       },
       "OutScope": {
+        "*.pipedrive.com": {
+          "ID": "*.pipedrive.com",
+          "Type": "WILDCARD"
+        },
         "blog.wolt.com": {
           "ID": "blog.wolt.com",
           "Type": "URL"
         },
         "gettest.wolt.com": {
           "ID": "gettest.wolt.com",
+          "Type": "URL"
+        },
+        "https://merchant.wolt.com/api/merchant-onboarding/merchant-admin/inbound-merchant": {
+          "ID": "https://merchant.wolt.com/api/merchant-onboarding/merchant-admin/inbound-merchant",
+          "Type": "URL"
+        },
+        "https://restaurant-api.wolt.com/v1/waw-api/corporate-leads": {
+          "ID": "https://restaurant-api.wolt.com/v1/waw-api/corporate-leads",
           "Type": "URL"
         },
         "links.wolt.com": {
@@ -192317,7 +192329,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bed11171fb448cf9a506adac48bc26f5e36abff65d9c4b97cf29cb9e092efe0d"
+      "Hash": "8ecfd9cc551e76d3333b82bf7859bc33f9ff060ce06760158eae89ad5f4be42b"
     },
     "h1:wordpress": {
       "Key": "wordpress",
