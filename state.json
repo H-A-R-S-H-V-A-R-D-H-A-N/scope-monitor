@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-10T19:37:28Z",
+  "captured_at": "2026-08-10T20:21:49Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -37,7 +37,7 @@
           "Type": "website"
         }
       },
-      "Hash": "7bf93463a676fbd5d96eef522cd9473784767af913c6b737e14d62648057b632"
+      "Hash": "a1fbab10cacd936330cf65a856bdbbec02261c9f693080c84db1ecbc94a74b2a"
     },
     "bc:20 Minuten": {
       "Key": "20 Minuten",
@@ -67109,7 +67109,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "83e87dfb7f5fd99c3d18dedadabb03f9375f817d2ee06cccf6baca9c0d303985"
+      "Hash": "c67cc316b1b1382cb5f99f61d3be467682550f3749af2f8d793a807f5db14d5d"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -90828,7 +90828,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0a60d4adc6086ec8789e452c93265101911a020df6627788bfd568f91df62ebe"
+      "Hash": "6e2abcf6295a7eca76ca6300ab16a60200a6c71e48dec027a4f40906750b88b0"
     },
     "h1:deptofdefense": {
       "Key": "deptofdefense",
@@ -146008,7 +146008,7 @@
       "URL": "https://hackerone.com/godaddy-vdp",
       "InScope": {},
       "OutScope": {},
-      "Hash": "2d8ee2ab855fd6fa6a81e6dcf691dd4212ba0be07ec4025c3b76a4ab94d80dbf"
+      "Hash": "83ec63743c9e35dcf4beaf9a13c2416f8144a98a302439362d9e035d763af361"
     },
     "h1:gogo_vdp": {
       "Key": "gogo_vdp",
@@ -170924,6 +170924,1396 @@
       },
       "OutScope": {},
       "Hash": "e5a200bcc28254b65eb459db4cdb2f34e93d0f299ca6297caf50d829cdc43f08"
+    },
+    "h1:mondelez": {
+      "Key": "mondelez",
+      "Name": "Mondelēz International",
+      "URL": "https://hackerone.com/mondelez",
+      "InScope": {
+        "admit-it-win.cadbury.co.uk": {
+          "ID": "admit-it-win.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "admit-it.cadbury.co.uk": {
+          "ID": "admit-it.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "admit-it.cadbury.ie": {
+          "ID": "admit-it.cadbury.ie",
+          "Type": "URL"
+        },
+        "aida-mdlz.com": {
+          "ID": "aida-mdlz.com",
+          "Type": "URL"
+        },
+        "alpengold.me": {
+          "ID": "alpengold.me",
+          "Type": "URL"
+        },
+        "amikekszunkjatek.hu": {
+          "ID": "amikekszunkjatek.hu",
+          "Type": "URL"
+        },
+        "anniversariooro.orosaiwa.it": {
+          "ID": "anniversariooro.orosaiwa.it",
+          "Type": "URL"
+        },
+        "atistirmalikdunyasi.com": {
+          "ID": "atistirmalikdunyasi.com",
+          "Type": "URL"
+        },
+        "backtoschoolsnacks.com": {
+          "ID": "backtoschoolsnacks.com",
+          "Type": "URL"
+        },
+        "barni.org": {
+          "ID": "barni.org",
+          "Type": "URL"
+        },
+        "barniadventures.com": {
+          "ID": "barniadventures.com",
+          "Type": "URL"
+        },
+        "base-mondelez-ag.fr": {
+          "ID": "base-mondelez-ag.fr",
+          "Type": "URL"
+        },
+        "bassettsvitamins.co.uk": {
+          "ID": "bassettsvitamins.co.uk",
+          "Type": "URL"
+        },
+        "bee.harmony.info": {
+          "ID": "bee.harmony.info",
+          "Type": "URL"
+        },
+        "beldent.com.ar": {
+          "ID": "beldent.com.ar",
+          "Type": "URL"
+        },
+        "belvita.life": {
+          "ID": "belvita.life",
+          "Type": "URL"
+        },
+        "belvitaoffer.com": {
+          "ID": "belvitaoffer.com",
+          "Type": "URL"
+        },
+        "belvitasnacks.com": {
+          "ID": "belvitasnacks.com",
+          "Type": "URL"
+        },
+        "bigwinwin.cadbury.co.uk": {
+          "ID": "bigwinwin.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "bis.com.br": {
+          "ID": "bis.com.br",
+          "Type": "URL"
+        },
+        "bournvita.ng": {
+          "ID": "bournvita.ng",
+          "Type": "URL"
+        },
+        "br.oreobts.com": {
+          "ID": "br.oreobts.com",
+          "Type": "URL"
+        },
+        "breathewithtomtom.com": {
+          "ID": "breathewithtomtom.com",
+          "Type": "URL"
+        },
+        "brumikobjavitel.sk": {
+          "ID": "brumikobjavitel.sk",
+          "Type": "URL"
+        },
+        "brumikobjevitel.cz": {
+          "ID": "brumikobjevitel.cz",
+          "Type": "URL"
+        },
+        "bundakraft.com": {
+          "ID": "bundakraft.com",
+          "Type": "URL"
+        },
+        "ca.oreobts.com": {
+          "ID": "ca.oreobts.com",
+          "Type": "URL"
+        },
+        "cadbury.co.uk": {
+          "ID": "cadbury.co.uk",
+          "Type": "URL"
+        },
+        "cadbury.co.za": {
+          "ID": "cadbury.co.za",
+          "Type": "URL"
+        },
+        "cadbury.com.au": {
+          "ID": "cadbury.com.au",
+          "Type": "URL"
+        },
+        "cadbury.ie": {
+          "ID": "cadbury.ie",
+          "Type": "URL"
+        },
+        "cadburydessertscorner.com": {
+          "ID": "cadburydessertscorner.com",
+          "Type": "URL"
+        },
+        "cadburyfindtheticket.com.au": {
+          "ID": "cadburyfindtheticket.com.au",
+          "Type": "URL"
+        },
+        "cadburygems.in": {
+          "ID": "cadburygems.in",
+          "Type": "URL"
+        },
+        "cadburylollyrewards.com": {
+          "ID": "cadburylollyrewards.com",
+          "Type": "URL"
+        },
+        "cadburymonopoly.com": {
+          "ID": "cadburymonopoly.com",
+          "Type": "URL"
+        },
+        "cadburytrytime.co.nz": {
+          "ID": "cadburytrytime.co.nz",
+          "Type": "URL"
+        },
+        "cadburyworld.co.uk": {
+          "ID": "cadburyworld.co.uk",
+          "Type": "URL"
+        },
+        "canjeatupremiomdlz.com": {
+          "ID": "canjeatupremiomdlz.com",
+          "Type": "URL"
+        },
+        "catalogohellojoy.com": {
+          "ID": "catalogohellojoy.com",
+          "Type": "URL"
+        },
+        "chappies.co.za": {
+          "ID": "chappies.co.za",
+          "Type": "URL"
+        },
+        "clifbar.ca": {
+          "ID": "clifbar.ca",
+          "Type": "URL"
+        },
+        "clifbar.com": {
+          "ID": "clifbar.com",
+          "Type": "URL"
+        },
+        "clifbar.com.au": {
+          "ID": "clifbar.com.au",
+          "Type": "URL"
+        },
+        "clorets.jp": {
+          "ID": "clorets.jp",
+          "Type": "URL"
+        },
+        "clubsocial.com.br": {
+          "ID": "clubsocial.com.br",
+          "Type": "URL"
+        },
+        "cocoalife.org": {
+          "ID": "cocoalife.org",
+          "Type": "URL"
+        },
+        "cocoaprogram.info": {
+          "ID": "cocoaprogram.info",
+          "Type": "URL"
+        },
+        "coffeecallsforbelvita.com": {
+          "ID": "coffeecallsforbelvita.com",
+          "Type": "URL"
+        },
+        "concorsocoop.philadelphia.it": {
+          "ID": "concorsocoop.philadelphia.it",
+          "Type": "URL"
+        },
+        "concorsoesselunga.philadelphia.it": {
+          "ID": "concorsoesselunga.philadelphia.it",
+          "Type": "URL"
+        },
+        "concorsomikadosummernights.it": {
+          "ID": "concorsomikadosummernights.it",
+          "Type": "URL"
+        },
+        "contactus.mdlzapps.com": {
+          "ID": "contactus.mdlzapps.com",
+          "Type": "URL"
+        },
+        "cotedor.com": {
+          "ID": "cotedor.com",
+          "Type": "URL"
+        },
+        "croissantpromo.gr": {
+          "ID": "croissantpromo.gr",
+          "Type": "URL"
+        },
+        "culinaryinspoguide.com": {
+          "ID": "culinaryinspoguide.com",
+          "Type": "URL"
+        },
+        "dairylea.co.uk": {
+          "ID": "dairylea.co.uk",
+          "Type": "URL"
+        },
+        "desfrutacomphiladelphia.com": {
+          "ID": "desfrutacomphiladelphia.com",
+          "Type": "URL"
+        },
+        "destroyvalentinesday.com": {
+          "ID": "destroyvalentinesday.com",
+          "Type": "URL"
+        },
+        "disfrutaconphiladelphia.com": {
+          "ID": "disfrutaconphiladelphia.com",
+          "Type": "URL"
+        },
+        "dormifelfedez.hu": {
+          "ID": "dormifelfedez.hu",
+          "Type": "URL"
+        },
+        "egypt.oreostayplayful.com": {
+          "ID": "egypt.oreostayplayful.com",
+          "Type": "URL"
+        },
+        "ejackson.co.uk": {
+          "ID": "ejackson.co.uk",
+          "Type": "URL"
+        },
+        "enjoylifefoods.ca": {
+          "ID": "enjoylifefoods.ca",
+          "Type": "URL"
+        },
+        "enjoylifefoods.com": {
+          "ID": "enjoylifefoods.com",
+          "Type": "URL"
+        },
+        "epack.mondelezinternational.com": {
+          "ID": "epack.mondelezinternational.com",
+          "Type": "URL"
+        },
+        "estate2026.fonzies.it": {
+          "ID": "estate2026.fonzies.it",
+          "Type": "URL"
+        },
+        "eu.clifbar.com": {
+          "ID": "eu.clifbar.com",
+          "Type": "URL"
+        },
+        "extra.milka.de": {
+          "ID": "extra.milka.de",
+          "Type": "URL"
+        },
+        "familiaterrabusi.com.ar": {
+          "ID": "familiaterrabusi.com.ar",
+          "Type": "URL"
+        },
+        "fattorieosella.it": {
+          "ID": "fattorieosella.it",
+          "Type": "URL"
+        },
+        "favourites.milka.com": {
+          "ID": "favourites.milka.com",
+          "Type": "URL"
+        },
+        "favourites.milka.de": {
+          "ID": "favourites.milka.de",
+          "Type": "URL"
+        },
+        "fcmilka.de": {
+          "ID": "fcmilka.de",
+          "Type": "URL"
+        },
+        "fidorka.cz": {
+          "ID": "fidorka.cz",
+          "Type": "URL"
+        },
+        "figaro.cz": {
+          "ID": "figaro.cz",
+          "Type": "URL"
+        },
+        "figaro.sk": {
+          "ID": "figaro.sk",
+          "Type": "URL"
+        },
+        "fingerscrossed.cadbury.co.uk": {
+          "ID": "fingerscrossed.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "fingerscrossed.cadbury.ie": {
+          "ID": "fingerscrossed.cadbury.ie",
+          "Type": "URL"
+        },
+        "fonzies.it": {
+          "ID": "fonzies.it",
+          "Type": "URL"
+        },
+        "freia.no": {
+          "ID": "freia.no",
+          "Type": "URL"
+        },
+        "freiafotballtur.no": {
+          "ID": "freiafotballtur.no",
+          "Type": "URL"
+        },
+        "fruehling-knacken.milka.de": {
+          "ID": "fruehling-knacken.milka.de",
+          "Type": "URL"
+        },
+        "fun.cadbury.co.uk": {
+          "ID": "fun.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "fundraising.com.au": {
+          "ID": "fundraising.com.au",
+          "Type": "URL"
+        },
+        "ganaconmdlz.com": {
+          "ID": "ganaconmdlz.com",
+          "Type": "URL"
+        },
+        "ganapremiosmdlz.com": {
+          "ID": "ganapremiosmdlz.com",
+          "Type": "URL"
+        },
+        "gethalls.ca": {
+          "ID": "gethalls.ca",
+          "Type": "URL"
+        },
+        "gethalls.com": {
+          "ID": "gethalls.com",
+          "Type": "URL"
+        },
+        "gifting.twistandmake.com": {
+          "ID": "gifting.twistandmake.com",
+          "Type": "URL"
+        },
+        "gifts.tatesbakeshop.com": {
+          "ID": "gifts.tatesbakeshop.com",
+          "Type": "URL"
+        },
+        "give-a-little-thanks.cadbury.co.za": {
+          "ID": "give-a-little-thanks.cadbury.co.za",
+          "Type": "URL"
+        },
+        "giveawaygiveaway.cadbury.co.uk": {
+          "ID": "giveawaygiveaway.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "gol.oreo.mx": {
+          "ID": "gol.oreo.mx",
+          "Type": "URL"
+        },
+        "gourmetfood.com.au": {
+          "ID": "gourmetfood.com.au",
+          "Type": "URL"
+        },
+        "greeting.twistandmake.com": {
+          "ID": "greeting.twistandmake.com",
+          "Type": "URL"
+        },
+        "grenade.com": {
+          "ID": "grenade.com",
+          "Type": "URL"
+        },
+        "guiaclorets.mx": {
+          "ID": "guiaclorets.mx",
+          "Type": "URL"
+        },
+        "gustaredetop.ro": {
+          "ID": "gustaredetop.ro",
+          "Type": "URL"
+        },
+        "halls.jp": {
+          "ID": "halls.jp",
+          "Type": "URL"
+        },
+        "harmony.info": {
+          "ID": "harmony.info",
+          "Type": "URL"
+        },
+        "haztudiadelicioso.com": {
+          "ID": "haztudiadelicioso.com",
+          "Type": "URL"
+        },
+        "health-pro.snackmindful.com": {
+          "ID": "health-pro.snackmindful.com",
+          "Type": "URL"
+        },
+        "heritageadvertising.cadbury.co.uk": {
+          "ID": "heritageadvertising.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "heroes.cadbury.co.uk": {
+          "ID": "heroes.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "hourlyjobs-us.mondelezinternational.com": {
+          "ID": "hourlyjobs-us.mondelezinternational.com",
+          "Type": "URL"
+        },
+        "https://ligamaissabor.pt/": {
+          "ID": "https://ligamaissabor.pt/",
+          "Type": "URL"
+        },
+        "https://www.cadburygiftsdirect.co.uk": {
+          "ID": "https://www.cadburygiftsdirect.co.uk",
+          "Type": "URL"
+        },
+        "https://www.clifbar.com": {
+          "ID": "https://www.clifbar.com",
+          "Type": "URL"
+        },
+        "https://www.tatesbakeshop.com": {
+          "ID": "https://www.tatesbakeshop.com",
+          "Type": "URL"
+        },
+        "https://xn--90aiakgkqi1l.xn--p1ai/": {
+          "ID": "https://xn--90aiakgkqi1l.xn--p1ai/",
+          "Type": "URL"
+        },
+        "hukitchen.com": {
+          "ID": "hukitchen.com",
+          "Type": "URL"
+        },
+        "id.oreobts.com": {
+          "ID": "id.oreobts.com",
+          "Type": "URL"
+        },
+        "id.oreosea.com": {
+          "ID": "id.oreosea.com",
+          "Type": "URL"
+        },
+        "id.snacksandmeals.app": {
+          "ID": "id.snacksandmeals.app",
+          "Type": "URL"
+        },
+        "in.oreobts.com": {
+          "ID": "in.oreobts.com",
+          "Type": "URL"
+        },
+        "insights.mdlzawayfromhome.com": {
+          "ID": "insights.mdlzawayfromhome.com",
+          "Type": "URL"
+        },
+        "instoreeggucation.com": {
+          "ID": "instoreeggucation.com",
+          "Type": "URL"
+        },
+        "ir.mondelezinternational.com": {
+          "ID": "ir.mondelezinternational.com",
+          "Type": "URL"
+        },
+        "jocca.it": {
+          "ID": "jocca.it",
+          "Type": "URL"
+        },
+        "juegayganaconmdlz.com": {
+          "ID": "juegayganaconmdlz.com",
+          "Type": "URL"
+        },
+        "klubbkakan.marabou.se": {
+          "ID": "klubbkakan.marabou.se",
+          "Type": "URL"
+        },
+        "kr.oreobts.com": {
+          "ID": "kr.oreobts.com",
+          "Type": "URL"
+        },
+        "kvikklunsj.freia.no": {
+          "ID": "kvikklunsj.freia.no",
+          "Type": "URL"
+        },
+        "lacta.com.br": {
+          "ID": "lacta.com.br",
+          "Type": "URL"
+        },
+        "lacta.gr": {
+          "ID": "lacta.gr",
+          "Type": "URL"
+        },
+        "lajoieoreo.ca": {
+          "ID": "lajoieoreo.ca",
+          "Type": "URL"
+        },
+        "lajoieoreo.com": {
+          "ID": "lajoieoreo.com",
+          "Type": "URL"
+        },
+        "laligaconmassabor.es": {
+          "ID": "laligaconmassabor.es",
+          "Type": "URL"
+        },
+        "library.spotlightdam.com": {
+          "ID": "library.spotlightdam.com",
+          "Type": "URL"
+        },
+        "lidl.nyerjakedvenceiddel.hu": {
+          "ID": "lidl.nyerjakedvenceiddel.hu",
+          "Type": "URL"
+        },
+        "liga.nl": {
+          "ID": "liga.nl",
+          "Type": "URL"
+        },
+        "ljmondelez.com.br": {
+          "ID": "ljmondelez.com.br",
+          "Type": "URL"
+        },
+        "lojamondelez.com.br": {
+          "ID": "lojamondelez.com.br",
+          "Type": "URL"
+        },
+        "loteria7days.pl": {
+          "ID": "loteria7days.pl",
+          "Type": "URL"
+        },
+        "loteriamilka.pl": {
+          "ID": "loteriamilka.pl",
+          "Type": "URL"
+        },
+        "loteriaoreo.pl": {
+          "ID": "loteriaoreo.pl",
+          "Type": "URL"
+        },
+        "lubakery.co.uk": {
+          "ID": "lubakery.co.uk",
+          "Type": "URL"
+        },
+        "lubiscuits.eu": {
+          "ID": "lubiscuits.eu",
+          "Type": "URL"
+        },
+        "lumeabarni.ro": {
+          "ID": "lumeabarni.ro",
+          "Type": "URL"
+        },
+        "lusingingpacks.nl": {
+          "ID": "lusingingpacks.nl",
+          "Type": "URL"
+        },
+        "marabou.com": {
+          "ID": "marabou.com",
+          "Type": "URL"
+        },
+        "matt-pokora.milka.com": {
+          "ID": "matt-pokora.milka.com",
+          "Type": "URL"
+        },
+        "mdlzcollaboration.com": {
+          "ID": "mdlzcollaboration.com",
+          "Type": "URL"
+        },
+        "mdlzcusthelp.ca": {
+          "ID": "mdlzcusthelp.ca",
+          "Type": "URL"
+        },
+        "mdlzcusthelp.com": {
+          "ID": "mdlzcusthelp.com",
+          "Type": "URL"
+        },
+        "mdlznutritionscience.com": {
+          "ID": "mdlznutritionscience.com",
+          "Type": "URL"
+        },
+        "merendadanumeriuno.it": {
+          "ID": "merendadanumeriuno.it",
+          "Type": "URL"
+        },
+        "mezclaydisfruta.com.ar": {
+          "ID": "mezclaydisfruta.com.ar",
+          "Type": "URL"
+        },
+        "miamicfsweeps.com": {
+          "ID": "miamicfsweeps.com",
+          "Type": "URL"
+        },
+        "miamicfsweepstakes.com": {
+          "ID": "miamicfsweepstakes.com",
+          "Type": "URL"
+        },
+        "milka-pasakyklabas.lt": {
+          "ID": "milka-pasakyklabas.lt",
+          "Type": "URL"
+        },
+        "milka.cl": {
+          "ID": "milka.cl",
+          "Type": "URL"
+        },
+        "milka.com": {
+          "ID": "milka.com",
+          "Type": "URL"
+        },
+        "milka.ru": {
+          "ID": "milka.ru",
+          "Type": "URL"
+        },
+        "milkamozi.hu": {
+          "ID": "milkamozi.hu",
+          "Type": "URL"
+        },
+        "milkapromo.hu": {
+          "ID": "milkapromo.hu",
+          "Type": "URL"
+        },
+        "mirabilandia.orosaiwa.it": {
+          "ID": "mirabilandia.orosaiwa.it",
+          "Type": "URL"
+        },
+        "miracelwhip.de": {
+          "ID": "miracelwhip.de",
+          "Type": "URL"
+        },
+        "mitiendamondelez.com.ar": {
+          "ID": "mitiendamondelez.com.ar",
+          "Type": "URL"
+        },
+        "mmm.marabou.se": {
+          "ID": "mmm.marabou.se",
+          "Type": "URL"
+        },
+        "mmmax.milka.at": {
+          "ID": "mmmax.milka.at",
+          "Type": "URL"
+        },
+        "mmmax.milka.de": {
+          "ID": "mmmax.milka.de",
+          "Type": "URL"
+        },
+        "momentosnack.com": {
+          "ID": "momentosnack.com",
+          "Type": "URL"
+        },
+        "mondelez-afh.co.uk": {
+          "ID": "mondelez-afh.co.uk",
+          "Type": "URL"
+        },
+        "mondelez-professional.de": {
+          "ID": "mondelez-professional.de",
+          "Type": "URL"
+        },
+        "mondelezawayfromhome.com": {
+          "ID": "mondelezawayfromhome.com",
+          "Type": "URL"
+        },
+        "mondelezcanadafoodservice.ca": {
+          "ID": "mondelezcanadafoodservice.ca",
+          "Type": "URL"
+        },
+        "mondelezinternational.com": {
+          "ID": "mondelezinternational.com",
+          "Type": "URL"
+        },
+        "mondelezinternationalnutritionscience.com": {
+          "ID": "mondelezinternationalnutritionscience.com",
+          "Type": "URL"
+        },
+        "mondelezpromo.com": {
+          "ID": "mondelezpromo.com",
+          "Type": "URL"
+        },
+        "mondelezvending.com": {
+          "ID": "mondelezvending.com",
+          "Type": "URL"
+        },
+        "mwtr.com": {
+          "ID": "mwtr.com",
+          "Type": "URL"
+        },
+        "my.oreobts.com": {
+          "ID": "my.oreobts.com",
+          "Type": "URL"
+        },
+        "my.oreosea.com": {
+          "ID": "my.oreosea.com",
+          "Type": "URL"
+        },
+        "my.rssl.com": {
+          "ID": "my.rssl.com",
+          "Type": "URL"
+        },
+        "mysales.mdlz.com": {
+          "ID": "mysales.mdlz.com",
+          "Type": "URL"
+        },
+        "nillanummies.th12ty.com": {
+          "ID": "nillanummies.th12ty.com",
+          "Type": "URL"
+        },
+        "nyerjakedvenceiddel.hu": {
+          "ID": "nyerjakedvenceiddel.hu",
+          "Type": "URL"
+        },
+        "nyerjakekszekkel.hu": {
+          "ID": "nyerjakekszekkel.hu",
+          "Type": "URL"
+        },
+        "oboy.eu": {
+          "ID": "oboy.eu",
+          "Type": "URL"
+        },
+        "opavia.info": {
+          "ID": "opavia.info",
+          "Type": "URL"
+        },
+        "oplatky-kolonada.cz": {
+          "ID": "oplatky-kolonada.cz",
+          "Type": "URL"
+        },
+        "oreo-challenge.oreo.eu": {
+          "ID": "oreo-challenge.oreo.eu",
+          "Type": "URL"
+        },
+        "oreo-la.com": {
+          "ID": "oreo-la.com",
+          "Type": "URL"
+        },
+        "oreo-promo.ge": {
+          "ID": "oreo-promo.ge",
+          "Type": "URL"
+        },
+        "oreo-starwars.ca": {
+          "ID": "oreo-starwars.ca",
+          "Type": "URL"
+        },
+        "oreo.bg": {
+          "ID": "oreo.bg",
+          "Type": "URL"
+        },
+        "oreo.co.za": {
+          "ID": "oreo.co.za",
+          "Type": "URL"
+        },
+        "oreo.com": {
+          "ID": "oreo.com",
+          "Type": "URL"
+        },
+        "oreo.com.ar": {
+          "ID": "oreo.com.ar",
+          "Type": "URL"
+        },
+        "oreo.com.au": {
+          "ID": "oreo.com.au",
+          "Type": "URL"
+        },
+        "oreo.com.br": {
+          "ID": "oreo.com.br",
+          "Type": "URL"
+        },
+        "oreo.eu": {
+          "ID": "oreo.eu",
+          "Type": "URL"
+        },
+        "oreo.mx": {
+          "ID": "oreo.mx",
+          "Type": "URL"
+        },
+        "oreo.ru": {
+          "ID": "oreo.ru",
+          "Type": "URL"
+        },
+        "oreocookie.jp": {
+          "ID": "oreocookie.jp",
+          "Type": "URL"
+        },
+        "oreofun.dk": {
+          "ID": "oreofun.dk",
+          "Type": "URL"
+        },
+        "oreoplayful.ca": {
+          "ID": "oreoplayful.ca",
+          "Type": "URL"
+        },
+        "oreoplayful.com": {
+          "ID": "oreoplayful.com",
+          "Type": "URL"
+        },
+        "oreopromo.com": {
+          "ID": "oreopromo.com",
+          "Type": "URL"
+        },
+        "oreosocolapie.com": {
+          "ID": "oreosocolapie.com",
+          "Type": "URL"
+        },
+        "oreostayplayful.com": {
+          "ID": "oreostayplayful.com",
+          "Type": "URL"
+        },
+        "orosaiwa.it": {
+          "ID": "orosaiwa.it",
+          "Type": "URL"
+        },
+        "pascallpromo.co.nz": {
+          "ID": "pascallpromo.co.nz",
+          "Type": "URL"
+        },
+        "passatempo.royalcontigo.com": {
+          "ID": "passatempo.royalcontigo.com",
+          "Type": "URL"
+        },
+        "perfectsnacks.com": {
+          "ID": "perfectsnacks.com",
+          "Type": "URL"
+        },
+        "ph.oreobts.com": {
+          "ID": "ph.oreobts.com",
+          "Type": "URL"
+        },
+        "ph.oreosea.com": {
+          "ID": "ph.oreosea.com",
+          "Type": "URL"
+        },
+        "philadelphia-professional.de": {
+          "ID": "philadelphia-professional.de",
+          "Type": "URL"
+        },
+        "philadelphia-professional.it": {
+          "ID": "philadelphia-professional.it",
+          "Type": "URL"
+        },
+        "philadelphia.com.mx": {
+          "ID": "philadelphia.com.mx",
+          "Type": "URL"
+        },
+        "philadelphia.eu": {
+          "ID": "philadelphia.eu",
+          "Type": "URL"
+        },
+        "philadelphiagenuss.de": {
+          "ID": "philadelphiagenuss.de",
+          "Type": "URL"
+        },
+        "philly.com.au": {
+          "ID": "philly.com.au",
+          "Type": "URL"
+        },
+        "phonejeeto.com": {
+          "ID": "phonejeeto.com",
+          "Type": "URL"
+        },
+        "pranktheroutine.com": {
+          "ID": "pranktheroutine.com",
+          "Type": "URL"
+        },
+        "premiumcrackers.jp": {
+          "ID": "premiumcrackers.jp",
+          "Type": "URL"
+        },
+        "prepararoyal.com": {
+          "ID": "prepararoyal.com",
+          "Type": "URL"
+        },
+        "princepolo.pl": {
+          "ID": "princepolo.pl",
+          "Type": "URL"
+        },
+        "privacy.mondelezinternational.com": {
+          "ID": "privacy.mondelezinternational.com",
+          "Type": "URL"
+        },
+        "promo.7days.com": {
+          "ID": "promo.7days.com",
+          "Type": "URL"
+        },
+        "promo.milka.com": {
+          "ID": "promo.milka.com",
+          "Type": "URL"
+        },
+        "promo.royalcontigo.com": {
+          "ID": "promo.royalcontigo.com",
+          "Type": "URL"
+        },
+        "promocaoondadepremios.com.br": {
+          "ID": "promocaoondadepremios.com.br",
+          "Type": "URL"
+        },
+        "promocja7days.pl": {
+          "ID": "promocja7days.pl",
+          "Type": "URL"
+        },
+        "promocjamilka.pl": {
+          "ID": "promocjamilka.pl",
+          "Type": "URL"
+        },
+        "promocjaoreo.pl": {
+          "ID": "promocjaoreo.pl",
+          "Type": "URL"
+        },
+        "promofield.pe": {
+          "ID": "promofield.pe",
+          "Type": "URL"
+        },
+        "promoritz.com": {
+          "ID": "promoritz.com",
+          "Type": "URL"
+        },
+        "promotrident.com": {
+          "ID": "promotrident.com",
+          "Type": "URL"
+        },
+        "recaldent-gum.com": {
+          "ID": "recaldent-gum.com",
+          "Type": "URL"
+        },
+        "recept.marabou.se": {
+          "ID": "recept.marabou.se",
+          "Type": "URL"
+        },
+        "recruiting.mdlz.com": {
+          "ID": "recruiting.mdlz.com",
+          "Type": "URL"
+        },
+        "ritzcrackers.jp": {
+          "ID": "ritzcrackers.jp",
+          "Type": "URL"
+        },
+        "ritzshrimp.com": {
+          "ID": "ritzshrimp.com",
+          "Type": "URL"
+        },
+        "royalbakingpowder.co.za": {
+          "ID": "royalbakingpowder.co.za",
+          "Type": "URL"
+        },
+        "royalcontigo.com": {
+          "ID": "royalcontigo.com",
+          "Type": "URL"
+        },
+        "rssl.com": {
+          "ID": "rssl.com",
+          "Type": "URL"
+        },
+        "schokolade.at": {
+          "ID": "schokolade.at",
+          "Type": "URL"
+        },
+        "scoresnackgoals.com": {
+          "ID": "scoresnackgoals.com",
+          "Type": "URL"
+        },
+        "sea.oreobts.com": {
+          "ID": "sea.oreobts.com",
+          "Type": "URL"
+        },
+        "semester.marabou.se": {
+          "ID": "semester.marabou.se",
+          "Type": "URL"
+        },
+        "servicesalimentairesmondelezcanada.ca": {
+          "ID": "servicesalimentairesmondelezcanada.ca",
+          "Type": "URL"
+        },
+        "sg.oreobts.com": {
+          "ID": "sg.oreobts.com",
+          "Type": "URL"
+        },
+        "sg.oreosea.com": {
+          "ID": "sg.oreosea.com",
+          "Type": "URL"
+        },
+        "sharecadbury.ca": {
+          "ID": "sharecadbury.ca",
+          "Type": "URL"
+        },
+        "shop.oreo.com": {
+          "ID": "shop.oreo.com",
+          "Type": "URL"
+        },
+        "sjokoladehus.no": {
+          "ID": "sjokoladehus.no",
+          "Type": "URL"
+        },
+        "sklepoweszukajki.pl": {
+          "ID": "sklepoweszukajki.pl",
+          "Type": "URL"
+        },
+        "smagenafguld.marabou.dk": {
+          "ID": "smagenafguld.marabou.dk",
+          "Type": "URL"
+        },
+        "smartlabel.mondelez.info": {
+          "ID": "smartlabel.mondelez.info",
+          "Type": "URL"
+        },
+        "smukfest.marabou.dk": {
+          "ID": "smukfest.marabou.dk",
+          "Type": "URL"
+        },
+        "snackbites.in": {
+          "ID": "snackbites.in",
+          "Type": "URL"
+        },
+        "snackdisplay.co.uk": {
+          "ID": "snackdisplay.co.uk",
+          "Type": "URL"
+        },
+        "snackfest.ro": {
+          "ID": "snackfest.ro",
+          "Type": "URL"
+        },
+        "snackfutures.com": {
+          "ID": "snackfutures.com",
+          "Type": "URL"
+        },
+        "snackingright.com": {
+          "ID": "snackingright.com",
+          "Type": "URL"
+        },
+        "snackingright.com.au": {
+          "ID": "snackingright.com.au",
+          "Type": "URL"
+        },
+        "snackmindful.com": {
+          "ID": "snackmindful.com",
+          "Type": "URL"
+        },
+        "snackworks.ca": {
+          "ID": "snackworks.ca",
+          "Type": "URL"
+        },
+        "snackworks.com": {
+          "ID": "snackworks.com",
+          "Type": "URL"
+        },
+        "snackworks.th12ty.com": {
+          "ID": "snackworks.th12ty.com",
+          "Type": "URL"
+        },
+        "solucionesmondelez.com": {
+          "ID": "solucionesmondelez.com",
+          "Type": "URL"
+        },
+        "sottilette.it": {
+          "ID": "sottilette.it",
+          "Type": "URL"
+        },
+        "sourpatchkids.com.au": {
+          "ID": "sourpatchkids.com.au",
+          "Type": "URL"
+        },
+        "soutenezvotreassociation.be": {
+          "ID": "soutenezvotreassociation.be",
+          "Type": "URL"
+        },
+        "soutez-opavia.cz": {
+          "ID": "soutez-opavia.cz",
+          "Type": "URL"
+        },
+        "spar.nyerjakedvenceiddel.hu": {
+          "ID": "spar.nyerjakedvenceiddel.hu",
+          "Type": "URL"
+        },
+        "spkwatermelonslurpee.th12ty.com": {
+          "ID": "spkwatermelonslurpee.th12ty.com",
+          "Type": "URL"
+        },
+        "sportszelet.hu": {
+          "ID": "sportszelet.hu",
+          "Type": "URL"
+        },
+        "sportszeletjoenergiak.hu": {
+          "ID": "sportszeletjoenergiak.hu",
+          "Type": "URL"
+        },
+        "steunjouwvereniging.be": {
+          "ID": "steunjouwvereniging.be",
+          "Type": "URL"
+        },
+        "suchard.bg": {
+          "ID": "suchard.bg",
+          "Type": "URL"
+        },
+        "suchard.es": {
+          "ID": "suchard.es",
+          "Type": "URL"
+        },
+        "suporter-tuc.ro": {
+          "ID": "suporter-tuc.ro",
+          "Type": "URL"
+        },
+        "sutaz-opavia.sk": {
+          "ID": "sutaz-opavia.sk",
+          "Type": "URL"
+        },
+        "tayyarijeetki.in": {
+          "ID": "tayyarijeetki.in",
+          "Type": "URL"
+        },
+        "th.oreobts.com": {
+          "ID": "th.oreobts.com",
+          "Type": "URL"
+        },
+        "th.oreosea.com": {
+          "ID": "th.oreosea.com",
+          "Type": "URL"
+        },
+        "thebournvitaquiz.in": {
+          "ID": "thebournvitaquiz.in",
+          "Type": "URL"
+        },
+        "thelunchbarman.co.za": {
+          "ID": "thelunchbarman.co.za",
+          "Type": "URL"
+        },
+        "ticketing.cadburyfc.com": {
+          "ID": "ticketing.cadburyfc.com",
+          "Type": "URL"
+        },
+        "tiendamondelez.com.co": {
+          "ID": "tiendamondelez.com.co",
+          "Type": "URL"
+        },
+        "tiendamondelez.com.ec": {
+          "ID": "tiendamondelez.com.ec",
+          "Type": "URL"
+        },
+        "tiendamondelez.com.pe": {
+          "ID": "tiendamondelez.com.pe",
+          "Type": "URL"
+        },
+        "tiendamondelez.com.uy": {
+          "ID": "tiendamondelez.com.uy",
+          "Type": "URL"
+        },
+        "tiendamondelez.cr": {
+          "ID": "tiendamondelez.cr",
+          "Type": "URL"
+        },
+        "tiendamondelez.es": {
+          "ID": "tiendamondelez.es",
+          "Type": "URL"
+        },
+        "timeoutz4snacks.com": {
+          "ID": "timeoutz4snacks.com",
+          "Type": "URL"
+        },
+        "tncc.com.au": {
+          "ID": "tncc.com.au",
+          "Type": "URL"
+        },
+        "toblerone.ch": {
+          "ID": "toblerone.ch",
+          "Type": "URL"
+        },
+        "toblerone.com": {
+          "ID": "toblerone.com",
+          "Type": "URL"
+        },
+        "tobleronearabia.com": {
+          "ID": "tobleronearabia.com",
+          "Type": "URL"
+        },
+        "tridentbr.com.br": {
+          "ID": "tridentbr.com.br",
+          "Type": "URL"
+        },
+        "tuc.eu": {
+          "ID": "tuc.eu",
+          "Type": "URL"
+        },
+        "tuc.fun": {
+          "ID": "tuc.fun",
+          "Type": "URL"
+        },
+        "tucjuhla.fi": {
+          "ID": "tucjuhla.fi",
+          "Type": "URL"
+        },
+        "tuckesa.fi": {
+          "ID": "tuckesa.fi",
+          "Type": "URL"
+        },
+        "tuctime.it": {
+          "ID": "tuctime.it",
+          "Type": "URL"
+        },
+        "tw.oreobts.com": {
+          "ID": "tw.oreobts.com",
+          "Type": "URL"
+        },
+        "tw.oreosea.com": {
+          "ID": "tw.oreosea.com",
+          "Type": "URL"
+        },
+        "twistandmake.com": {
+          "ID": "twistandmake.com",
+          "Type": "URL"
+        },
+        "us.oreobts.com": {
+          "ID": "us.oreobts.com",
+          "Type": "URL"
+        },
+        "vincialexdelpiero.it": {
+          "ID": "vincialexdelpiero.it",
+          "Type": "URL"
+        },
+        "vincicoppaitalia.it": {
+          "ID": "vincicoppaitalia.it",
+          "Type": "URL"
+        },
+        "vincigrenade.it": {
+          "ID": "vincigrenade.it",
+          "Type": "URL"
+        },
+        "vincilight.philadelphia.it": {
+          "ID": "vincilight.philadelphia.it",
+          "Type": "URL"
+        },
+        "virtualhiringassistant.mondelezinternational.com": {
+          "ID": "virtualhiringassistant.mondelezinternational.com",
+          "Type": "URL"
+        },
+        "vn.oreobts.com": {
+          "ID": "vn.oreobts.com",
+          "Type": "URL"
+        },
+        "vn.oreosea.com": {
+          "ID": "vn.oreosea.com",
+          "Type": "URL"
+        },
+        "vyhrajschuti.cz": {
+          "ID": "vyhrajschuti.cz",
+          "Type": "URL"
+        },
+        "vyhrajschutou.sk": {
+          "ID": "vyhrajschutou.sk",
+          "Type": "URL"
+        },
+        "webform.philadelphia.com.mx": {
+          "ID": "webform.philadelphia.com.mx",
+          "Type": "URL"
+        },
+        "win-tuc.cz": {
+          "ID": "win-tuc.cz",
+          "Type": "URL"
+        },
+        "win-tuc.sk": {
+          "ID": "win-tuc.sk",
+          "Type": "URL"
+        },
+        "win.cadbury.co.uk": {
+          "ID": "win.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "winforyoursquad.cadbury.co.uk": {
+          "ID": "winforyoursquad.cadbury.co.uk",
+          "Type": "URL"
+        },
+        "winforyoursquad.cadbury.ie": {
+          "ID": "winforyoursquad.cadbury.ie",
+          "Type": "URL"
+        },
+        "winwithphilly.com": {
+          "ID": "winwithphilly.com",
+          "Type": "URL"
+        },
+        "winwithphilly.dk": {
+          "ID": "winwithphilly.dk",
+          "Type": "URL"
+        },
+        "winwithphilly.no": {
+          "ID": "winwithphilly.no",
+          "Type": "URL"
+        },
+        "www.cadbury.com.au": {
+          "ID": "www.cadbury.com.au",
+          "Type": "URL"
+        },
+        "www.clifbar.ca": {
+          "ID": "www.clifbar.ca",
+          "Type": "URL"
+        },
+        "www.clifbar.com.au": {
+          "ID": "www.clifbar.com.au",
+          "Type": "URL"
+        },
+        "www.enjoylifefoods.com": {
+          "ID": "www.enjoylifefoods.com",
+          "Type": "URL"
+        },
+        "www.lusingingpacks.be": {
+          "ID": "www.lusingingpacks.be",
+          "Type": "URL"
+        },
+        "www.milka-sakisveiks.lv": {
+          "ID": "www.milka-sakisveiks.lv",
+          "Type": "URL"
+        },
+        "www.oreo.com": {
+          "ID": "www.oreo.com",
+          "Type": "URL"
+        },
+        "www.oreofun.se": {
+          "ID": "www.oreofun.se",
+          "Type": "URL"
+        },
+        "www.promocaomisturaquecombina.com.br": {
+          "ID": "www.promocaomisturaquecombina.com.br",
+          "Type": "URL"
+        },
+        "www.saltinesoffer.com": {
+          "ID": "www.saltinesoffer.com",
+          "Type": "URL"
+        },
+        "www.snack7days.com": {
+          "ID": "www.snack7days.com",
+          "Type": "URL"
+        },
+        "www.snackmindful.com": {
+          "ID": "www.snackmindful.com",
+          "Type": "URL"
+        },
+        "www.winwithphilly.fi": {
+          "ID": "www.winwithphilly.fi",
+          "Type": "URL"
+        },
+        "www.winwithphilly.no": {
+          "ID": "www.winwithphilly.no",
+          "Type": "URL"
+        },
+        "www.winwithphilly.se": {
+          "ID": "www.winwithphilly.se",
+          "Type": "URL"
+        },
+        "xn--80abwto.xn--p1ai": {
+          "ID": "xn--80abwto.xn--p1ai",
+          "Type": "URL"
+        },
+        "xn--90aiefdldtba7bg.xn--p1ai": {
+          "ID": "xn--90aiefdldtba7bg.xn--p1ai",
+          "Type": "URL"
+        },
+        "xn--glcksrad-75a.milka.at": {
+          "ID": "xn--glcksrad-75a.milka.at",
+          "Type": "URL"
+        },
+        "ygeiaspavlides.gr": {
+          "ID": "ygeiaspavlides.gr",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {
+        "Leaked Credentials": {
+          "ID": "Leaked Credentials",
+          "Type": "OTHER"
+        },
+        "bot.cadburygifting.in": {
+          "ID": "bot.cadburygifting.in",
+          "Type": "URL"
+        },
+        "https://cadburygifting.in": {
+          "ID": "https://cadburygifting.in",
+          "Type": "URL"
+        },
+        "www.cadburygifting.in": {
+          "ID": "www.cadburygifting.in",
+          "Type": "URL"
+        }
+      },
+      "Hash": "02e43d2b5d0c94dcdf2daad293c5002a5f948e313da70a995de202ccf810ed35"
     },
     "h1:monero": {
       "Key": "monero",
