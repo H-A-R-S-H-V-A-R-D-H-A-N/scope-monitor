@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-10T21:23:16Z",
+  "captured_at": "2026-08-10T22:17:13Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -98354,6 +98354,18 @@
           "ID": "*.talx.com",
           "Type": "OTHER"
         },
+        "*.vedaadvantage.com": {
+          "ID": "*.vedaadvantage.com",
+          "Type": "WILDCARD"
+        },
+        "*.vedaadvantage.com.au": {
+          "ID": "*.vedaadvantage.com.au",
+          "Type": "WILDCARD"
+        },
+        "*.vedaadvantage.com.nz": {
+          "ID": "*.vedaadvantage.com.nz",
+          "Type": "WILDCARD"
+        },
         "*.vineapps.com": {
           "ID": "*.vineapps.com",
           "Type": "WILDCARD"
@@ -99301,7 +99313,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7c6c62f110bd12ead459d52b0f87b0ba4867f4299ffd5ba726849ffe0aaa179a"
+      "Hash": "79c4b6749938d3e8d6e8456dc30ffd36181b09dbd0c8f8a8389ccfdc50393ead"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -175523,7 +175535,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8e15b3472b49f1f71b37328793c508707f6b4a8a247e88e76135926fe06801f5"
+      "Hash": "509e7361dc56f03d7082cb83937a6c447bac9b0d863ad7f8f3c90380c457c2ee"
     },
     "h1:navient_solutions": {
       "Key": "navient_solutions",
@@ -181511,7 +181523,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b73b5c7695fb6c005d304314e105f7eb364b4b76e48d5e9000f0c411313db4fa"
+      "Hash": "7028be84f2943ab8c8b4f446e6ae2961377376055b11c59be8aae60f71b5faa1"
     },
     "h1:pixiv": {
       "Key": "pixiv",
