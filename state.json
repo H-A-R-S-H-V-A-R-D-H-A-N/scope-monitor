@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-10T15:12:14Z",
+  "captured_at": "2026-08-10T16:27:27Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -96630,7 +96630,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "36a9a67d43161b7558b514630a3ad334f95d86dcf72b0bc19f75c275768c3d0d"
+      "Hash": "6d856f058995033e3f863f35b777a655365afa27578a54a6546dae551cb114e0"
     },
     "h1:elastic": {
       "Key": "elastic",
@@ -101527,7 +101527,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f5b56ca59953d0e9c88da3d2bbf62fa93eb10b206b8759b7631888c8777d6fce"
+      "Hash": "f6cddd21d83935ad19995967f4b94a7fe4d7c8fb156a6fbfd76cf47da07bb9c3"
     },
     "h1:exness": {
       "Key": "exness",
@@ -145048,7 +145048,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "bff3d854870cb62c50cfd1fa0b3f4931b1d0d844a25ec92ffaf50e8a93d89c25"
+      "Hash": "954ca69d451624e01ae3cf1f8e63182da0525595f9f33cf9825fc13d7a99d918"
     },
     "h1:freshworks": {
       "Key": "freshworks",
@@ -148095,7 +148095,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d367f9148d5d308ebc65591f3c425900d4a977ea3b9edbf0cc6ddf52416c8536"
+      "Hash": "5d783b9d71551ef6261f8b1cd1e0176b8c7e52b126b8614f9a0791e8f186e518"
     },
     "h1:hex": {
       "Key": "hex",
@@ -167658,7 +167658,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "2c88f2ad7e12ce735e365e4186fd091490218fe48adc2b50b0192ee889425401"
+      "Hash": "547680009242819b1ef700521245e5da9b4ef5fcc1e7e8169d65fde4852be6e4"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -167764,7 +167764,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "00212e13bb7ed3481a3804c9a45c944c5436a69a80cd1422d9044e91200fdbf1"
+      "Hash": "8ba2e5d209417ad9e589648a0203dd7ac2d6223702e188409cb1915ffe586f9d"
     },
     "h1:luminor": {
       "Key": "luminor",
@@ -176744,7 +176744,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d9620289302272bec49ef7196b8930d38d05f55dfb37f5e82d0086d06b9f1199"
+      "Hash": "24a7c296a6955f30f8b1e2ff2a3c22eed65db40a9cd1ad63f7cbd9ccaf2ca91e"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -184190,7 +184190,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cf050ffece751804110acab92630c60f43cbdd0d2fb689c67d8198f52c5586ca"
+      "Hash": "ee2131b6591ea3055796ee8811fb9a68f0d9d6b89276f3ad3b684f8222456a8b"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -187220,7 +187220,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4e1d218a83944b8b4a29b40f091f10a440ff8819160ada2d977bf6d81b7d5a44"
+      "Hash": "8a05e17d8d5eb63b1954edffc6ec7ebb1c6b00197dc2bf29f8f080e5967f92d1"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -187940,6 +187940,10 @@
           "ID": "fraudarmorservice.com",
           "Type": "URL"
         },
+        "fraudforce.iovation.com": {
+          "ID": "fraudforce.iovation.com",
+          "Type": "URL"
+        },
         "fraudscout.com": {
           "ID": "fraudscout.com",
           "Type": "URL"
@@ -188132,6 +188136,10 @@
           "ID": "valueyouridentity.com",
           "Type": "URL"
         },
+        "verify-uat-canada.ccid.neustar.biz": {
+          "ID": "verify-uat-canada.ccid.neustar.biz",
+          "Type": "URL"
+        },
         "verify-west-qa-perf.dev.ccid.neustar.biz": {
           "ID": "verify-west-qa-perf.dev.ccid.neustar.biz",
           "Type": "URL"
@@ -188187,7 +188195,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6c758601ed3b39a5271b672ec0399b967ff69cc12e0d3ba74356c717f7524c60"
+      "Hash": "6e8309562c3f85bc81babb5b7cb9f885b3d4388a9f990d07ae718d2e590d7b61"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -191735,7 +191743,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "78f63e64a99e09a639ad8501fa68d8cac6c06b972774580ebd7e1e03342e6c61"
+      "Hash": "1480a8dbf886db6914ad4841fe8513d299b1afc7537c2ebb010df9cb1492961f"
     },
     "h1:vueling_vdp": {
       "Key": "vueling_vdp",
@@ -192559,7 +192567,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "344dcc662af4927b9825d9925b830b1fcb22827969c9f8da428698344fdb41e4"
+      "Hash": "d386f43d9624ee900d5fb0484f9c78567e0fef1768857ae579b1764c1318eff6"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
