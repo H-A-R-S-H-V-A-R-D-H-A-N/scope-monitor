@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-11T14:02:59Z",
+  "captured_at": "2026-08-11T15:13:35Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -30874,7 +30874,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "779726dcaf9391d098c1c9f4c4428b7f5f6b441eb18ec1c09d5558285d75d67f"
+      "Hash": "9c478630e2144312809d570f69ad2285deb397cdc2e0291b20ea7927f2bb523e"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31665,7 +31665,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c097ff209631068efa1ecfa23ca821bcdcf879f7db862e9c76cc598009cacb1e"
+      "Hash": "3c603c9f8fedcf7d6b08983b5ae924426a1d99715da78d8da0d260ee898c4979"
     },
     "h1:bumble": {
       "Key": "bumble",
@@ -95968,7 +95968,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d80a73c6cf6665746b3f35de2298426a9ac9ca1e8df9595431c08e661fbd5902"
+      "Hash": "2296cd6df51516a7e17f2df063cd5e2e510033bb6c1a92eca9f898703908ac11"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -172329,7 +172329,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "02e43d2b5d0c94dcdf2daad293c5002a5f948e313da70a995de202ccf810ed35"
+      "Hash": "5d374398948ed2769da5f653f903efd2bde54011ac18770c63f668eadcf9a58c"
     },
     "h1:monero": {
       "Key": "monero",
@@ -181527,7 +181527,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b73b5c7695fb6c005d304314e105f7eb364b4b76e48d5e9000f0c411313db4fa"
+      "Hash": "83e454b5a46e41567000e5d0e7b3599f41617882412975d16730ee859dee8750"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -184386,7 +184386,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "e6a9b4d47d066dafa9475439821284276cfb3edf0d7513b571dc146268263783"
+      "Hash": "5585a6542e8dbc11ce55466a46ba3f79623bca7e17f7b3bcc6692fbf35db8e46"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -185843,7 +185843,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "1e4de3cce0af434c883446110799dd5811071f5117bb385178a5517f4f4cbab6"
+      "Hash": "862ea29b01a04cb472b2522a2f5a10af2cbc7a07ec791531cf05b571cb1e7ceb"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -188553,7 +188553,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4ce35c15cfe8c031127370c2f7396104dbed6085ecaa9daf93c9fdca832adae6"
+      "Hash": "5cfda46e898cc2c791dca0de45e8a609423bca1aa736828d55733ec63b01de3f"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -202129,128 +202129,6 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
