@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-11T02:24:28Z",
+  "captured_at": "2026-08-11T04:04:47Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26262,7 +26262,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0b860cbf781594d30c0e7e59fa675b41bb05ef50db682ca1c0331ac0e39a0f67"
+      "Hash": "c2089189b58f8ff6ddd2e70b8270afa1361e6c800ff4da612c78c1eae16c84e8"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -31661,7 +31661,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b22f5bd6a9598ecc6886688db5b4a0696e444a49511a628e3839d13d15ae3bfb"
+      "Hash": "c93f8b2d9ced4103790ab040f2a1e43fea8c13bac5aff9229d3bd0c6d4c34407"
     },
     "h1:bumble": {
       "Key": "bumble",
@@ -88282,7 +88282,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ee93f585dbb10e28366ab9bee26a0a114d5c087e1de0068041d18eeff08db85a"
+      "Hash": "560dc4f95dca08ff8942575d64d6ce764bc69a0b53eeff0764d45ddeabed1f0f"
     },
     "h1:cognizant": {
       "Key": "cognizant",
@@ -96588,7 +96588,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3de734568485b0f9010bd21dd90ad7475d7168a14879f9fa5a4f8421a05281e3"
+      "Hash": "f8d3bd1d27b1d3028950ad7be3fa23e148c5ed3c3ca2d05fee02f603c532212e"
     },
     "h1:eero": {
       "Key": "eero",
@@ -101539,7 +101539,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f6cddd21d83935ad19995967f4b94a7fe4d7c8fb156a6fbfd76cf47da07bb9c3"
+      "Hash": "057e5b384b1e20f930ce7ad2c3143d112f883b928a26008c118bb36f8141bba1"
     },
     "h1:exness": {
       "Key": "exness",
@@ -101859,7 +101859,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "084186affe9342a1c5a3c767606bf37fc10b2f833bc1d5f8fd181731e7f14b63"
+      "Hash": "452e6a1740b4d901c0b86764b4671ac63cd610362acea6d901c13d7ac69674c9"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -144170,7 +144170,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3ee99eb40a7ac1d9e818ad319ddb27843febd656a74b555488717aa07fc8c746"
+      "Hash": "642da1238ea3674780a882ead90dcdd91696f68a3a8337d7df8140b2a645c841"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -144587,7 +144587,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "33b30aad177106bde8184eec9998badf6616fb11772563281178bec6971958e1"
+      "Hash": "72dcdeab1aacbb5894de1ea03938362527a54b98196f9f1045bb308f6f87e402"
     },
     "h1:ford": {
       "Key": "ford",
@@ -177264,7 +177264,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bc22e689aff62c825571b15f2840454512687ec593c7d2eab66178cc37fc5689"
+      "Hash": "b45eaa9b0a642e88876be236bd6204dc8cec6b8fd9cb1acbf9735dd7dae84859"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -181699,7 +181699,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d8a9132049d6431704e02a36ce0ec36b24ef7a33f1ad96eb20d5558f447c7fb1"
+      "Hash": "a92375cbbc53cfb83f598f2067f2c0688b0d3f4b8bbcd46399f0f6d98eb6c875"
     },
     "h1:playstation": {
       "Key": "playstation",
@@ -183728,7 +183728,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a61354ea5b8988cb3755512fe110e2e73d32ecfad40c293e704c06470c0b76bd"
+      "Hash": "d0cf9b3a18a4baf33cc53552506eac27e26a070fb98788411100aa5014b0a10b"
     },
     "h1:render": {
       "Key": "render",
@@ -196327,63 +196327,6 @@
       },
       "OutScope": {},
       "Hash": "05b845405e143bbca42f3e6b5e1f69c5b722cf795bd96ea60a90ded0cc6bf30d"
-    },
-    "in:18058413-5255-4f5c-a9db-c6ac027bb5d6": {
-      "Key": "18058413-5255-4f5c-a9db-c6ac027bb5d6",
-      "Name": "Soundtrack Technologies",
-      "URL": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
-      "InScope": {
-        "1114799709": {
-          "ID": "1114799709",
-          "Type": "ios"
-        },
-        "1114800186": {
-          "ID": "1114800186",
-          "Type": "ios"
-        },
-        "api.soundtrackyourbrand.com": {
-          "ID": "api.soundtrackyourbrand.com",
-          "Type": "url"
-        },
-        "billing.api.soundtrackyourbrand.com": {
-          "ID": "billing.api.soundtrackyourbrand.com",
-          "Type": "url"
-        },
-        "builds.soundtrackyourbrand.com": {
-          "ID": "builds.soundtrackyourbrand.com",
-          "Type": "url"
-        },
-        "business.soundtrackyourbrand.com": {
-          "ID": "business.soundtrackyourbrand.com",
-          "Type": "url"
-        },
-        "com.soundtrackyourbrand.soundtrack.player": {
-          "ID": "com.soundtrackyourbrand.soundtrack.player",
-          "Type": "android"
-        },
-        "https://auth.api.soundtrackyourbrand.com/": {
-          "ID": "https://auth.api.soundtrackyourbrand.com/",
-          "Type": "url"
-        },
-        "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest": {
-          "ID": "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest",
-          "Type": "other"
-        },
-        "https://radio.api.soundtrackyourbrand.com/": {
-          "ID": "https://radio.api.soundtrackyourbrand.com/",
-          "Type": "url"
-        },
-        "https://soundtrack.io": {
-          "ID": "https://soundtrack.io",
-          "Type": "url"
-        },
-        "macOS app": {
-          "ID": "macOS app",
-          "Type": "other"
-        }
-      },
-      "OutScope": {},
-      "Hash": "1e4e59a7a5625b54eb162427d72725f02c037c994022e98295e27dae578f8f09"
     },
     "in:196fa177-ac2d-41b0-91bb-07bc9db43b7a": {
       "Key": "196fa177-ac2d-41b0-91bb-07bc9db43b7a",
