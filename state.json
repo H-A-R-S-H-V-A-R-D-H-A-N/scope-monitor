@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-11T15:13:35Z",
+  "captured_at": "2026-08-11T16:29:47Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -15475,134 +15475,6 @@
       },
       "Hash": "907e4613096b14fabb263283b96208d552e714815677645460fb71099a601899"
     },
-    "bc:TheFork - B2B - TFM3": {
-      "Key": "TheFork - B2B - TFM3",
-      "Name": "TheFork - B2B - TFM3",
-      "URL": "https://bugcrowd.com/engagements/lafourchette",
-      "InScope": {
-        "██████████████": {
-          "ID": "██████████████",
-          "Type": "api"
-        },
-        "██████████████████": {
-          "ID": "██████████████████",
-          "Type": "website"
-        },
-        "████████████████████": {
-          "ID": "████████████████████",
-          "Type": "website"
-        },
-        "███████████████████████": {
-          "ID": "███████████████████████",
-          "Type": "ios"
-        },
-        "████████████████████████": {
-          "ID": "████████████████████████",
-          "Type": "website"
-        },
-        "███████████████████████████": {
-          "ID": "███████████████████████████",
-          "Type": "android"
-        }
-      },
-      "OutScope": {
-        "██████████████████": {
-          "ID": "██████████████████",
-          "Type": "api"
-        },
-        "████████████████████": {
-          "ID": "████████████████████",
-          "Type": "website"
-        },
-        "████████████████████████": {
-          "ID": "████████████████████████",
-          "Type": "website"
-        },
-        "██████████████████████████": {
-          "ID": "██████████████████████████",
-          "Type": "website"
-        },
-        "█████████████████████████████": {
-          "ID": "█████████████████████████████",
-          "Type": "other"
-        }
-      },
-      "Hash": "a6ad5450f9e401045736146bd778e77551d18c0dabf2072776997c1fd838b5b8"
-    },
-    "bc:TheFork - B2C - WNG": {
-      "Key": "TheFork - B2C - WNG",
-      "Name": "TheFork - B2C - WNG",
-      "URL": "https://bugcrowd.com/engagements/thefork-b2c-wng",
-      "InScope": {
-        "███████████████": {
-          "ID": "███████████████",
-          "Type": "ios"
-        },
-        "██████████████████": {
-          "ID": "██████████████████",
-          "Type": "website"
-        },
-        "███████████████████": {
-          "ID": "███████████████████",
-          "Type": "android"
-        },
-        "████████████████████": {
-          "ID": "████████████████████",
-          "Type": "website"
-        },
-        "█████████████████████": {
-          "ID": "█████████████████████",
-          "Type": "website"
-        },
-        "███████████████████████": {
-          "ID": "███████████████████████",
-          "Type": "api"
-        },
-        "████████████████████████": {
-          "ID": "████████████████████████",
-          "Type": "website"
-        },
-        "█████████████████████████": {
-          "ID": "█████████████████████████",
-          "Type": "website"
-        },
-        "████████████████████████████": {
-          "ID": "████████████████████████████",
-          "Type": "api"
-        },
-        "██████████████████████████████": {
-          "ID": "██████████████████████████████",
-          "Type": "website"
-        },
-        "███████████████████████████████████": {
-          "ID": "███████████████████████████████████",
-          "Type": "api"
-        },
-        "██████████████████████████████████████": {
-          "ID": "██████████████████████████████████████",
-          "Type": "api"
-        }
-      },
-      "OutScope": {
-        "██████████████████": {
-          "ID": "██████████████████",
-          "Type": "website"
-        },
-        "█████████████████████": {
-          "ID": "█████████████████████",
-          "Type": "website"
-        },
-        "████████████████████████████": {
-          "ID": "████████████████████████████",
-          "Type": "website"
-        },
-        "██████████████████████████████████████████": {
-          "ID": "██████████████████████████████████████████",
-          "Type": "website"
-        }
-      },
-      "Hash": "f46d33895df00bb514d93c2baa8db7d9e75c24a761ce2274f0ec52aad157fdf6"
-    },
     "bc:TheFork Managed Bug Bounty Engagement": {
       "Key": "TheFork Managed Bug Bounty Engagement",
       "Name": "TheFork Managed Bug Bounty Engagement",
@@ -28262,7 +28134,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3be3f632b8e36724ea210a18e24a892b5223626625686b713bf32b0e4187ae9c"
+      "Hash": "a262ed13aea01adbeee3283fa58f596dcea6830a004a706ca4614d160ecef87f"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -31895,7 +31767,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d5556a80b1f8bfffa20eb7982efcc3b873d0092f83638fc54196754163eccd72"
+      "Hash": "727a6ff48b2f7c6a627bb6aae87c0a3d41e9dc18fdaa8763fa24ce2825a682bc"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -67659,7 +67531,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b2f95a301178b9fc974f181a92b9f92a46b860fc3fd38ec08949e8b5ec0c3265"
+      "Hash": "f7bc6d9b810e87965660760591499a4ffc66365a78e87ef778d9d15a2137b856"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -99317,7 +99189,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "79c4b6749938d3e8d6e8456dc30ffd36181b09dbd0c8f8a8389ccfdc50393ead"
+      "Hash": "78b54c96863f47779a2bf64f60ebbd09a10b542fa389d2b369cd0a0c9057bf06"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -104703,7 +104575,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c9037a44094503ab85ff2360f558eb2c3a2631244acb3df56dbad4b1707618b3"
+      "Hash": "a0702ce1d47abd17f349954ef0d759f25e3d0118335b750d1c30397d1a877aab"
     },
     "h1:files": {
       "Key": "files",
@@ -149613,7 +149485,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "15e7c9af6d8d91bb9ab4177696af113acdcd9f966a1ce249bc4a93ad2b75bcb1"
+      "Hash": "ab6bd04b6d9b566c32a9378cdb6668e3cbf8de5ae39dbef339a125ff9aa4cf92"
     },
     "h1:hyland_software": {
       "Key": "hyland_software",
@@ -167860,7 +167732,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0fc6146a25afc3d46c7c93bc92bed04eb7f16715a1b225341dc613fa88669a03"
+      "Hash": "411ea01f374919d95ec5f502722e6f391c87942071b05101ceba5d062b647e24"
     },
     "h1:magic-eden": {
       "Key": "magic-eden",
@@ -167938,7 +167810,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a3767cf42f473c57df9c1fca41fb7e288b09af2a8a923c181358dd8c5339fa95"
+      "Hash": "f7d6941d0eda1e2eb653a2ce27705ec15a701a0dfbd32446d77763a9a57f80b4"
     },
     "h1:malwarebytes": {
       "Key": "malwarebytes",
@@ -169937,7 +169809,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b5b556885c04fd668d49958d9748df42f5ca49ecff2cc6811290a27d04d94903"
+      "Hash": "7fd44b77c607ec4de1b14d980b6695d6a5040341cb0b41e95bb8dc6e9f5d5b4c"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -172840,7 +172712,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b8d0d4b43296c2454c1af3e95407a30b11c8e95ba858b40e8ca45d2c921e00a4"
+      "Hash": "7a7defe07d3d00a86893d52cae56f27c161eb5b74c6611196c25fc443329e34d"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -190125,7 +189997,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2cbfa8c3d0624b26e270c43ef0b4b903ce6545297d350c0b1a9b5dd639baa9b0"
+      "Hash": "df6a9a4af282f324494471638e0d14232ee4223d3b0888176b04a3ee842fb618"
     },
     "h1:twilio": {
       "Key": "twilio",
@@ -190457,7 +190329,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fbc6a1d7ad0157c5d42344c1feedd6da8eb761c22a4c8f0ff39a4bcad4156afa"
+      "Hash": "aac0183198ddba3b819608684be9906874e7b46cb788594ac7b283a1c9cc1635"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -194503,7 +194375,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d3d267e5652ffec2a9e4fc0402afeef8a0564347a89478a8fd3346dde1cac0e1"
+      "Hash": "4450c7935f9a7f0196d2ac319913c54a156ad0991ede9278b557c8510bf77e4d"
     },
     "h1:yoti": {
       "Key": "yoti",
