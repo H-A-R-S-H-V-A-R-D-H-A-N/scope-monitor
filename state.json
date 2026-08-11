@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-11T07:50:31Z",
+  "captured_at": "2026-08-11T09:11:02Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26469,7 +26469,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e151ee84ff2f673ab9000ba2ba36828f2200176ac12635bfe99da5dec2cc66bb"
+      "Hash": "4980e9176e0205c241a92b9effb39fa36512dcad442d69e1d77888bac46a5257"
     },
     "h1:aon": {
       "Key": "aon",
@@ -30566,7 +30566,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "99462c2558f92ff4990a26ea2f5d457ceea334baf0331823650fffec3cb1894c"
+      "Hash": "0cd0565a3c5c5732f47cc5d99d8b0e8c83e8d5f190103b6dd647ef609f7b86e7"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31077,7 +31077,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ebdfcd060b480d95e0e0ebeb542e0be5faf6c39cd91a9445a042fd3e05cbb32a"
+      "Hash": "b9e9cd4532feab3861cb35d78486728361a87177494853955a4936205cf4b755"
     },
     "h1:bookingcom": {
       "Key": "bookingcom",
@@ -96932,7 +96932,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ff696e77c10ecc84c23e8cc933f4b39c84d29ebc8a541451d0e8bcbf96da7150"
+      "Hash": "1f22452ff35a47c879d7cadbdba6a2c8bfd4e21fa783cd0c5dac2fe6ecac797d"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -102021,7 +102021,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "4bbc98dc4bd12c8046d8769ef14d21b94755b204f6f38ae4395df3a1faaf0f0a"
+      "Hash": "e9ad6804ba9c44e06989cebc2bbbae204c41885b9702190c29d56310766a2887"
     },
     "h1:expediagroup_bbp": {
       "Key": "expediagroup_bbp",
@@ -175492,7 +175492,7 @@
       "URL": "https://hackerone.com/mueller_water_products_vdp",
       "InScope": {},
       "OutScope": {},
-      "Hash": "eff817e0ea2915c743005e3611d184af040db405a5d161dc3d12f7f2d71bbcec"
+      "Hash": "b240eea884f59eb9335ee8b99d2c2862bb8506140f122d391386f2511f93e257"
     },
     "h1:mufg-vdp": {
       "Key": "mufg-vdp",
@@ -182470,6 +182470,123 @@
       },
       "Hash": "aaf5e37a17ddc48a4dfdc9451d70b2df6828dd2f694ff7364874e4051251bab2"
     },
+    "h1:prism_vdp": {
+      "Key": "prism_vdp",
+      "Name": "PRISM",
+      "URL": "https://hackerone.com/prism_vdp",
+      "InScope": {
+        "*.checkin.life": {
+          "ID": "*.checkin.life",
+          "Type": "WILDCARD"
+        },
+        "Co-OYO Android App - com.oyo.partnerapp": {
+          "ID": "Co-OYO Android App - com.oyo.partnerapp",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "Co-OYO iOS Application": {
+          "ID": "Co-OYO iOS Application",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "OYO Android App - com.oyo.consumer": {
+          "ID": "OYO Android App - com.oyo.consumer",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "OYO Lite Android app - com.oyo.consumerlite": {
+          "ID": "OYO Lite Android app - com.oyo.consumerlite",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "OYO OS Android App - com.oyo.property": {
+          "ID": "OYO OS Android App - com.oyo.property",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "OYO iOS Application": {
+          "ID": "OYO iOS Application",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "Weddingz iOS App ": {
+          "ID": "Weddingz iOS App ",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "http://*.innov8.work": {
+          "ID": "http://*.innov8.work",
+          "Type": "WILDCARD"
+        },
+        "http://*.leisure-partners.net": {
+          "ID": "http://*.leisure-partners.net",
+          "Type": "WILDCARD"
+        },
+        "http://*.oyocircle.com": {
+          "ID": "http://*.oyocircle.com",
+          "Type": "WILDCARD"
+        },
+        "http://*.oyoos.com": {
+          "ID": "http://*.oyoos.com",
+          "Type": "WILDCARD"
+        },
+        "http://*.oyorooms.com": {
+          "ID": "http://*.oyorooms.com",
+          "Type": "WILDCARD"
+        },
+        "http://*.oyorooms.io": {
+          "ID": "http://*.oyorooms.io",
+          "Type": "WILDCARD"
+        },
+        "http://*.oyotownhouse.com": {
+          "ID": "http://*.oyotownhouse.com",
+          "Type": "WILDCARD"
+        },
+        "http://*.oyoworkspaces.com": {
+          "ID": "http://*.oyoworkspaces.com",
+          "Type": "WILDCARD"
+        },
+        "http://*.traum-ferienwohnungen.de": {
+          "ID": "http://*.traum-ferienwohnungen.de",
+          "Type": "WILDCARD"
+        },
+        "http://*.weddingz.in": {
+          "ID": "http://*.weddingz.in",
+          "Type": "WILDCARD"
+        },
+        "http://*.workflobyoyo.com": {
+          "ID": "http://*.workflobyoyo.com",
+          "Type": "WILDCARD"
+        },
+        "https://*.belvilla.com": {
+          "ID": "https://*.belvilla.com",
+          "Type": "WILDCARD"
+        },
+        "https://*.dancenter.dk": {
+          "ID": "https://*.dancenter.dk",
+          "Type": "WILDCARD"
+        },
+        "https://*.g6hospitality.com": {
+          "ID": "https://*.g6hospitality.com",
+          "Type": "WILDCARD"
+        },
+        "https://*.madecomfy.com.au": {
+          "ID": "https://*.madecomfy.com.au",
+          "Type": "WILDCARD"
+        },
+        "https://*.motel6.com": {
+          "ID": "https://*.motel6.com",
+          "Type": "WILDCARD"
+        },
+        "https://apps.apple.com/in/app/oyo-workspaces/id1448023664": {
+          "ID": "https://apps.apple.com/in/app/oyo-workspaces/id1448023664",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "patron.oyorooms.com": {
+          "ID": "patron.oyorooms.com",
+          "Type": "URL"
+        },
+        "prismlife.com": {
+          "ID": "prismlife.com",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {},
+      "Hash": "3e2d78a3dec48cab89853f3b2512365e29435fb51896350b3458ade706945283"
+    },
     "h1:privy-bbp": {
       "Key": "privy-bbp",
       "Name": "Privy (Bounty)",
@@ -187512,7 +187629,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "45a76db5b255274da3fac384a5349b25cb03bde91e56519cef50da374deff4d3"
+      "Hash": "d803bf19243a49356278a8bd6984cfa3974d25324c8ef1b4a6a26f221e62eb42"
     },
     "h1:superbet": {
       "Key": "superbet",
@@ -191323,7 +191440,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f29f144e85c560854514715ae6be5e9f3b13049a41068af7b20a86e87881419c"
+      "Hash": "8b8aa3377ce2af2f6fb51b4aa1d9e03f45ced995c8074acb2a4509241e048915"
     },
     "h1:veeam": {
       "Key": "veeam",
@@ -193603,7 +193720,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "53d2b537ad83114537500407a99e66f78a394a83bae3dec7b63d50c4ae91f0bd"
+      "Hash": "280c242846264e3388ebdb0852d512d1593bd1899dcd88500da4cb0c70da0d14"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
