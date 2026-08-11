@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-11T16:29:47Z",
+  "captured_at": "2026-08-11T17:34:55Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -25984,7 +25984,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "c38ff56f68e1bec355e4784b1d03af3baaca3a489f52c3a0d124f9d3fb120ba9"
+      "Hash": "61e481c30d9e0d809c8fd12b609c03aabf28d4dbf0861fb16e4056b971e350aa"
     },
     "h1:amazonvrp-devices": {
       "Key": "amazonvrp-devices",
@@ -30442,7 +30442,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "c6abaf1255ea3fbc369c63d9e96dd44ded70dd9d0fc5a2036f3d066ecd0da842"
+      "Hash": "a4dd234e9d25b675e50a90bd3a9f707f70e40afb9a725532632c9b82ffdcf614"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31263,7 +31263,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9c659a3bbe4f2292df4d268bd645da8c71d7a6a2700b1b0a1777297372904156"
+      "Hash": "0bab5f4cedf443c879526f759a71989e8d58eb0cf0219fbca4c1aaf781e58c9f"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -31417,6 +31417,35 @@
       "OutScope": {},
       "Hash": "c3b94aea2af8d23be3bb30f6c00b5d25261ae3155aad3a6c1e19e0c402630084"
     },
+    "h1:brave": {
+      "Key": "brave",
+      "Name": "Brave Software",
+      "URL": "https://hackerone.com/brave",
+      "InScope": {
+        "Brave Browser Desktop": {
+          "ID": "Brave Browser Desktop",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "Brave websites": {
+          "ID": "Brave websites",
+          "Type": "OTHER"
+        },
+        "com.brave.browser": {
+          "ID": "com.brave.browser",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.brave.ios.browser": {
+          "ID": "com.brave.ios.browser",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://github.com/brave/*, https://github.com/brave-intl/*": {
+          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {},
+      "Hash": "7e33fda305dc26f38faba5af91d24ee6c61792d19b6569feb8447580c793201a"
+    },
     "h1:braze_inc": {
       "Key": "braze_inc",
       "Name": "Braze, Inc.",
@@ -31474,7 +31503,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "874208e08dc2d3bb97f9fc0b516924b19fc8d0a5d983712ae6354177001787e3"
+      "Hash": "472d6ae11b2de88a2a84ddaa69200aced44989a50bbb708d57a94f93ff6d3149"
     },
     "h1:british_airways_vdp": {
       "Key": "british_airways_vdp",
@@ -166341,7 +166370,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "638932e3a172774d9868ff90772735f8c5f535932cb836a6d5b1a229220d8f6a"
+      "Hash": "934ec81c933b88a90a3edf1296c9232d64718e7ce21f479fabdd4b13a224cf04"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -168029,7 +168058,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b3b46d8c4451ee135e8b6aeb10f7be280a571c21ca92695642cc6b033b76d6a3"
+      "Hash": "7a40e499d7dc604740b6caeeeed38c8f679ad11309640b39926cdd1a6ffa3b46"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -172201,7 +172230,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5d374398948ed2769da5f653f903efd2bde54011ac18770c63f668eadcf9a58c"
+      "Hash": "02e43d2b5d0c94dcdf2daad293c5002a5f948e313da70a995de202ccf810ed35"
     },
     "h1:monero": {
       "Key": "monero",
@@ -180027,7 +180056,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f53500485eeb6e78820e40a968fdcb98feb98c63017732bb7ec4a8079d51d24c"
+      "Hash": "006e06aefc4d1e2f60bf29aeab621eb6446ad1e46e25d7e72e3604c48fcf1b1e"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -183067,7 +183096,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "208486a00412abaa29e6e4a5134b9ed8392eec1872edcfd4870c0b560ea6d3ff"
+      "Hash": "9b9eef3a9bb4cd703065d9b3ec5293d9df0394a4fed7137cf7174dde3437f68a"
     },
     "h1:redox_bbp": {
       "Key": "redox_bbp",
@@ -184363,7 +184392,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3b15f60e3b502aec6c8d77c3866579858284b0c71bc4025966a5025083167529"
+      "Hash": "ab27f9fcf775ab9a56aa0bae5eeb33a8b1b5a5b6807289e158cd5d91cc8f1a84"
     },
     "h1:ro": {
       "Key": "ro",
@@ -186969,7 +186998,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "39adc116328b9beb80a85155a44b3d2d865fe0fab6b40583b2faff2c1c3466b5"
+      "Hash": "1ae6cb1b25b87f25040b8fc2a438649716fd3171e0f77bcef1913e502c236670"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -193530,7 +193559,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e34b1b69d4fffd35bd6a19039f2474dee7c948be55ffdad472aaca32cec21158"
+      "Hash": "2866f7b0bd06773e86217763db5dcc1637547a29ddef476258fd110f29bebce2"
     },
     "h1:wickr": {
       "Key": "wickr",
