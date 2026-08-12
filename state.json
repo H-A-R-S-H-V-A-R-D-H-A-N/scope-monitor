@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-12T11:13:42Z",
+  "captured_at": "2026-08-12T11:55:36Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24031,7 +24031,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0750342244f3c628c4f021b9d186a5e2f7ffcf47edbcd71edb0b9d82a801a214"
+      "Hash": "f20ede7af7c08beaa43a6ec3dcd6a415c23c6806b5be13b8e737a5bb5ffc2332"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -30742,7 +30742,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d2b02f15bf991bfa7bb5cbf560041918f217f8e6e027fd94eecdede98be2b85f"
+      "Hash": "e2db70df57fcffb47b2c45c30b367ccdec38bd657e5456d74863a3474b259396"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -102303,7 +102303,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b26e3eda2cd5370a49863fa3a20e7217e3cc9efbe035c83626eccb89bf8fb066"
+      "Hash": "1adb7a7e0f4d0863f2a9ea4feadaddb6a1fa4f67ba28a7240feb8f36dc493077"
     },
     "h1:fanduel-vdp": {
       "Key": "fanduel-vdp",
@@ -150361,7 +150361,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1ee131d895ab61cebab35e21462e9297a060d854d4b786586715d1cb39bffda4"
+      "Hash": "a051d0586ba5c529765e76ccd7aeda663dfa5962d4223fcb387f1369338fca45"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -166115,6 +166115,22 @@
       "Name": "Klarna",
       "URL": "https://hackerone.com/klarna",
       "InScope": {
+        "*.klarna.com": {
+          "ID": "*.klarna.com",
+          "Type": "WILDCARD"
+        },
+        "*.klarna.net": {
+          "ID": "*.klarna.net",
+          "Type": "WILDCARD"
+        },
+        "*.klarnacdn.net": {
+          "ID": "*.klarnacdn.net",
+          "Type": "WILDCARD"
+        },
+        "*.pricerunner.com": {
+          "ID": "*.pricerunner.com",
+          "Type": "WILDCARD"
+        },
         "Klarna Android App (com.myklarnamobile)": {
           "ID": "Klarna Android App (com.myklarnamobile)",
           "Type": "GOOGLE_PLAY_APP_ID"
@@ -166198,7 +166214,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9dd6d699bf7a930f96da51df0fcb32ba35fb5182ba239dcabeeb630e8da1d1fc"
+      "Hash": "7a3fb806489ab8bb8127d807e40faddf48dea7659218ac3e9c95d13aab082fea"
     },
     "h1:koho": {
       "Key": "koho",
@@ -181233,7 +181249,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "348de1a14e03eb796394e7b7d68968f94e718a125335a163703af0938411d3c0"
+      "Hash": "ddebd5862bbaaaa3d64c0bfa38ec09d8ec5cb849921a5b78708da84dd8fa3f31"
     },
     "h1:picsart": {
       "Key": "picsart",
@@ -195289,6 +195305,80 @@
         }
       },
       "Hash": "7ef234a46dc0e5d69827254c1dcee2f6be5e7cf6115bf7ea45ac5e37c3b69a40"
+    },
+    "in:06ea3a06-58d5-4173-af0e-c2f1f98714c6": {
+      "Key": "06ea3a06-58d5-4173-af0e-c2f1f98714c6",
+      "Name": "Lansweeper Bug Bounty Program",
+      "URL": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+      "InScope": {
+        "*.lansweeper.com": {
+          "ID": "*.lansweeper.com",
+          "Type": "wildcard"
+        },
+        "Lansweeper Discovery": {
+          "ID": "Lansweeper Discovery",
+          "Type": "url"
+        },
+        "api.lansweeper.com": {
+          "ID": "api.lansweeper.com",
+          "Type": "url"
+        },
+        "app.lansweeper.com": {
+          "ID": "app.lansweeper.com",
+          "Type": "url"
+        },
+        "app.lansweeper.com/trial": {
+          "ID": "app.lansweeper.com/trial",
+          "Type": "url"
+        },
+        "autoupdateapi.lansweeper.com": {
+          "ID": "autoupdateapi.lansweeper.com",
+          "Type": "url"
+        },
+        "backoffice.lansweeper.com": {
+          "ID": "backoffice.lansweeper.com",
+          "Type": "url"
+        },
+        "docs.lansweeper.com": {
+          "ID": "docs.lansweeper.com",
+          "Type": "url"
+        },
+        "edge.lansweeper.com": {
+          "ID": "edge.lansweeper.com",
+          "Type": "url"
+        },
+        "fb.lansweeper.com": {
+          "ID": "fb.lansweeper.com",
+          "Type": "url"
+        },
+        "https://lsagentrelay.lansweeper.com/": {
+          "ID": "https://lsagentrelay.lansweeper.com/",
+          "Type": "url"
+        },
+        "login.lansweeper.com": {
+          "ID": "login.lansweeper.com",
+          "Type": "url"
+        },
+        "www.lansweeper.com": {
+          "ID": "www.lansweeper.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        " lsrunase2.0 and lsencrypt2.0 ": {
+          "ID": " lsrunase2.0 and lsencrypt2.0 ",
+          "Type": "other"
+        },
+        "careers.lansweeper.com": {
+          "ID": "careers.lansweeper.com",
+          "Type": "url"
+        },
+        "www.lansweeper.com/forum": {
+          "ID": "www.lansweeper.com/forum",
+          "Type": "url"
+        }
+      },
+      "Hash": "c698f0b7feba26149bde3a30f86dfb3c299a85f010d8e7faf6132dd5f57e339e"
     },
     "in:0acb1a74-c545-4941-ae57-7ca5fad9d449": {
       "Key": "0acb1a74-c545-4941-ae57-7ca5fad9d449",
