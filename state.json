@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-12T08:02:11Z",
+  "captured_at": "2026-08-12T09:21:34Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23668,7 +23668,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "b0455e81188909fbdbb91a741e996595b7d0fcc1eb6c15cc09a8115a20821cfc"
+      "Hash": "6be933d581309e5dc5f4f81e38e8bb29c12d1f8e4d8966d1786a8bd35c9e9fad"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -88382,7 +88382,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "00f73590dad428a455ff4652a7c3b05a97a5ab07372ebbd5ad07210c7a7b58c7"
+      "Hash": "881b7f2d12571abf8b1e77e6366f23da0c2500d05f89782eec8b8a2fa30a6a66"
     },
     "h1:coinmate": {
       "Key": "coinmate",
@@ -95516,7 +95516,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a9f9fe84ac93bf50e4d2c1179964d9a1845565a9f0c250a9703ada2a9ae0c9cf"
+      "Hash": "417e73c2676d888d2d63b3a1b0b90e45165ebc1685df32fb79e314cfe2d3fdf4"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -175434,9 +175434,13 @@
         "mqtt.myndr.net": {
           "ID": "mqtt.myndr.net",
           "Type": "URL"
+        },
+        "mqtt2.myndr.net": {
+          "ID": "mqtt2.myndr.net",
+          "Type": "URL"
         }
       },
-      "Hash": "ad390981908f3815e03fef36eb244729bc6481854e1c2996c45d606f646e4abb"
+      "Hash": "5d159c24f6e38818276d42a21e83a544840a7b3365944f56b7f8a5f076c2474a"
     },
     "h1:navient_solutions": {
       "Key": "navient_solutions",
@@ -182815,7 +182819,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fa7ded21aa350e0131a1457db6c3e2610b07f4ffcf75c4505d9f0704ccc85cb5"
+      "Hash": "253594973efe920d70ddf0bd94b77a7584b930384c68fd74a2614a6c01dbca3f"
     },
     "h1:r3": {
       "Key": "r3",
