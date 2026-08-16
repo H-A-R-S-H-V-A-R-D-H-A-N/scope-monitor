@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-16T03:09:28Z",
+  "captured_at": "2026-08-16T04:17:59Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -6807,59 +6807,6 @@
       },
       "OutScope": {},
       "Hash": "ac7526ee42385a1a89e3e7e7b2a235a212741448a9e3dfa2fa03720cd3510866"
-    },
-    "bc:Kantega SSO": {
-      "Key": "Kantega SSO",
-      "Name": "Kantega SSO",
-      "URL": "https://bugcrowd.com/engagements/kantega",
-      "InScope": {
-        "https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira?hosting=datacenter\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira?hosting=datacenter\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo?hosting=datacenter\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo?hosting=datacenter\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=datacenter\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=datacenter\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter",
-          "Type": "other"
-        }
-      },
-      "OutScope": {},
-      "Hash": "6d6b80ed6c02a45fc17b2a91874ecba7ad872d2de3425a9b2869afad6fa366e0"
     },
     "bc:Keeper Security Public Bounty Program": {
       "Key": "Keeper Security Public Bounty Program",
@@ -89875,7 +89822,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8ffa77378cdef3c714006ea4b063c958803f4a5129869b609b5ac522fc0387ee"
+      "Hash": "cae0f5f5f4e1134e7a0f92ef9eb1667b9e91db9f6c1ffc18cb18705d82c8fb26"
     },
     "h1:daimler_truck": {
       "Key": "daimler_truck",
@@ -145398,7 +145345,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "73d20668e5b0171e7fafe02eb7b21ed98e631463a0644f2b5abf0db5cbde1900"
+      "Hash": "549fb25f3aeb4eda84444de0ca6b000ed8522521d086e190d64b8450221c14e2"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -146232,7 +146179,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "54178233bfa0cc0c499d569dcc0e155810dcaf0ef395de93a5c4bfdc58a3ed01"
+      "Hash": "77d3f04e69259f63011067f149c6ce8f6c78efde111a2edbd19de8ae319bbe62"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -168815,7 +168762,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3490100a9613ac674b7e13a6e88c3c4ef43cd86cb0b2344f4edb1006e8fed93c"
+      "Hash": "99fae148195080648e3c46209861d11cfe1949e695d461352f733eb203ddb862"
     },
     "h1:mars": {
       "Key": "mars",
@@ -169513,7 +169460,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cc2f565d77d2e500a5eee814bf3ac5c6c1419c7b8a9400fdd271f0ed464e13f4"
+      "Hash": "7a98d3944e6cf2bc5263741f2d7a75bec516f229c15a45f67f7598a0f29faa6d"
     },
     "h1:mendix": {
       "Key": "mendix",
