@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-16T15:32:37Z",
+  "captured_at": "2026-08-16T15:53:43Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26685,7 +26685,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a462f814f754650bba3c9d9af65d17eab59285b23f766c007f3a4063a1cd72e7"
+      "Hash": "12e6a0d2fbda9faaee1af916ee9f49d38d5cb85eb8232ba08312d0dd79d2edc6"
     },
     "h1:aon": {
       "Key": "aon",
@@ -101705,7 +101705,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4ebb376c3b6e5fe62144f1fc9d21e49091e026891a0aed108b95d26c912510d3"
+      "Hash": "7ff9b90c61781031857d92b09197b790142f742c4a3804dccb15d8425818b823"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -198787,44 +198787,6 @@
         }
       },
       "Hash": "40726b8134b49967eca41e1ada0016a9d11fc15acfe4e032cf00fdf71942e34b"
-    },
-    "in:5ed6962a-7017-4d60-8805-e169b638528d": {
-      "Key": "5ed6962a-7017-4d60-8805-e169b638528d",
-      "Name": "Sqills",
-      "URL": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-      "InScope": {
-        "*.sqills.com": {
-          "ID": "*.sqills.com",
-          "Type": "wildcard"
-        },
-        "*.sqills.team": {
-          "ID": "*.sqills.team",
-          "Type": "wildcard"
-        }
-      },
-      "OutScope": {
-        "*.red.sqills.team": {
-          "ID": "*.red.sqills.team",
-          "Type": "wildcard"
-        },
-        "booking.*.cloud.sqills.com": {
-          "ID": "booking.*.cloud.sqills.com",
-          "Type": "wildcard"
-        },
-        "booking.*.sqills.com": {
-          "ID": "booking.*.sqills.com",
-          "Type": "wildcard"
-        },
-        "careers.sqills.com": {
-          "ID": "careers.sqills.com",
-          "Type": "url"
-        },
-        "welcome.sqills.com": {
-          "ID": "welcome.sqills.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "d8b1ff488fa4c926cc26ec88aac29a74241802ba5eeeae2edc3f9f42e3402d13"
     },
     "in:5f29e1eb-85e8-4d99-9b52-b809f06de633": {
       "Key": "5f29e1eb-85e8-4d99-9b52-b809f06de633",
