@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-16T20:54:58Z",
+  "captured_at": "2026-08-16T21:31:11Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -13326,6 +13326,95 @@
       },
       "OutScope": {},
       "Hash": "7b34ed5e71f4c3a0d7af4cd08867a5cd990bf36da4d4d128a37f23c49e509293"
+    },
+    "bc:Recorded Future Public Managed Bug Bounty Engagement": {
+      "Key": "Recorded Future Public Managed Bug Bounty Engagement",
+      "Name": "Recorded Future Public Managed Bug Bounty Engagement",
+      "URL": "https://bugcrowd.com/engagements/recorded-future-mbb-og",
+      "InScope": {
+        "https://api.recordedfuture.com": {
+          "ID": "https://api.recordedfuture.com",
+          "Type": "api"
+        },
+        "https://api.riskrecon.com": {
+          "ID": "https://api.riskrecon.com",
+          "Type": "api"
+        },
+        "https://api.riskrecon.eu": {
+          "ID": "https://api.riskrecon.eu",
+          "Type": "api"
+        },
+        "https://app.recordedfuture.com": {
+          "ID": "https://app.recordedfuture.com",
+          "Type": "website"
+        },
+        "https://apps.apple.com/us/app/recorded-future/id1435597894": {
+          "ID": "https://apps.apple.com/us/app/recorded-future/id1435597894",
+          "Type": "ios"
+        },
+        "https://auth.riskrecon.com": {
+          "ID": "https://auth.riskrecon.com",
+          "Type": "api"
+        },
+        "https://auth.riskrecon.eu": {
+          "ID": "https://auth.riskrecon.eu",
+          "Type": "api"
+        },
+        "https://geminiadvisory.io": {
+          "ID": "https://geminiadvisory.io",
+          "Type": "website"
+        },
+        "https://hatching.io": {
+          "ID": "https://hatching.io",
+          "Type": "website"
+        },
+        "https://id.recordedfuture.com": {
+          "ID": "https://id.recordedfuture.com",
+          "Type": "website"
+        },
+        "https://mcp.recordedfuture.com": {
+          "ID": "https://mcp.recordedfuture.com",
+          "Type": "api"
+        },
+        "https://play.google.com/store/apps/details?id=com.recordedfuture.mobile\u0026hl=en_US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.recordedfuture.mobile\u0026hl=en_US",
+          "Type": "android"
+        },
+        "https://portal.riskrecon.com": {
+          "ID": "https://portal.riskrecon.com",
+          "Type": "website"
+        },
+        "https://portal.riskrecon.eu": {
+          "ID": "https://portal.riskrecon.eu",
+          "Type": "website"
+        },
+        "https://securitytrails.com": {
+          "ID": "https://securitytrails.com",
+          "Type": "website"
+        },
+        "https://tria.ge": {
+          "ID": "https://tria.ge",
+          "Type": "website"
+        },
+        "https://vendor.riskrecon.com": {
+          "ID": "https://vendor.riskrecon.com",
+          "Type": "website"
+        },
+        "https://vendor.riskrecon.eu": {
+          "ID": "https://vendor.riskrecon.eu",
+          "Type": "website"
+        },
+        "https://www.recordedfuture.com": {
+          "ID": "https://www.recordedfuture.com",
+          "Type": "website"
+        },
+        "https://www.riskrecon.com": {
+          "ID": "https://www.riskrecon.com",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "33f374343c71277c6bab519c7a4d193b9f99131b3ea286984db87202b20c3c9c"
     },
     "bc:Redmoon": {
       "Key": "Redmoon",
@@ -165940,7 +166029,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a36402c68653be3cc58da5fb572f4d0fbbcb0657ef5ff213b3a42e978d288ba5"
+      "Hash": "7cc513086393a2098abcb9e896745cc2e114ec685d04642dd90621d11e44bd90"
     },
     "h1:keybank": {
       "Key": "keybank",
@@ -172963,7 +173052,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "88892c685172db9db1c956746d49c95a3ff5fa6cb7ce6aa5e2f338eb4cd3fbec"
+      "Hash": "a111dd1efd81a4e48329a40b692e158c471742aa95f053e4bf9cbabc25beffc5"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -187251,7 +187340,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "39adc116328b9beb80a85155a44b3d2d865fe0fab6b40583b2faff2c1c3466b5"
+      "Hash": "6e4180d090c057eb860c60df521a1236f95f99b309e0f1aaa67cc8b078648d9c"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
