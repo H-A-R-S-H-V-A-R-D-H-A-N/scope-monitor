@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-16T18:43:31Z",
+  "captured_at": "2026-08-16T19:29:41Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -6860,91 +6860,6 @@
       },
       "OutScope": {},
       "Hash": "6d6b80ed6c02a45fc17b2a91874ecba7ad872d2de3425a9b2869afad6fa366e0"
-    },
-    "bc:Keeper Security Public Bounty Program": {
-      "Key": "Keeper Security Public Bounty Program",
-      "Name": "Keeper Security Public Bounty Program",
-      "URL": "https://bugcrowd.com/engagements/keepersecurity",
-      "InScope": {
-        "https://apps.apple.com/app/id1216446440": {
-          "ID": "https://apps.apple.com/app/id1216446440",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12": {
-          "ID": "https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12",
-          "Type": "other"
-        },
-        "https://docs.keeper.io/en/keeperpam": {
-          "ID": "https://docs.keeper.io/en/keeperpam",
-          "Type": "website"
-        },
-        "https://docs.keeper.io/en/keeperpam/commander-cli/overview": {
-          "ID": "https://docs.keeper.io/en/keeperpam/commander-cli/overview",
-          "Type": "api"
-        },
-        "https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways": {
-          "ID": "https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways",
-          "Type": "api"
-        },
-        "https://docs.keeper.io/en/keeperpam/secrets-manager/overview": {
-          "ID": "https://docs.keeper.io/en/keeperpam/secrets-manager/overview",
-          "Type": "api"
-        },
-        "https://docs.keeper.io/kcm": {
-          "ID": "https://docs.keeper.io/kcm",
-          "Type": "other"
-        },
-        "https://docs.keeper.io/keeper-bridge/": {
-          "ID": "https://docs.keeper.io/keeper-bridge/",
-          "Type": "api"
-        },
-        "https://docs.keeper.io/sso-connect-cloud/": {
-          "ID": "https://docs.keeper.io/sso-connect-cloud/",
-          "Type": "api"
-        },
-        "https://docs.keeper.io/sso-connect-guide/": {
-          "ID": "https://docs.keeper.io/sso-connect-guide/",
-          "Type": "api"
-        },
-        "https://keepersecurity.com": {
-          "ID": "https://keepersecurity.com",
-          "Type": "website"
-        },
-        "https://keepersecurity.com/console": {
-          "ID": "https://keepersecurity.com/console",
-          "Type": "website"
-        },
-        "https://keepersecurity.com/password-manager-free-trial.html": {
-          "ID": "https://keepersecurity.com/password-manager-free-trial.html",
-          "Type": "website"
-        },
-        "https://keepersecurity.com/vault": {
-          "ID": "https://keepersecurity.com/vault",
-          "Type": "website"
-        },
-        "https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper\u0026hl=en_US\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper\u0026hl=en_US\u0026gl=US",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=com.keepersecurity.chat\u0026hl=en_US\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.keepersecurity.chat\u0026hl=en_US\u0026gl=US",
-          "Type": "android"
-        },
-        "https://www.keepersecurity.com/download.html": {
-          "ID": "https://www.keepersecurity.com/download.html",
-          "Type": "ios"
-        },
-        "https://www.keepersecurity.com/download.html?t=db": {
-          "ID": "https://www.keepersecurity.com/download.html?t=db",
-          "Type": "other"
-        },
-        "https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab": {
-          "ID": "https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab",
-          "Type": "other"
-        }
-      },
-      "OutScope": {},
-      "Hash": "75e6fbd8f908e740db539bfb622506e4c8b987de82d95b5cc435781d8d04b731"
     },
     "bc:Kiteworks": {
       "Key": "Kiteworks",
@@ -172850,7 +172765,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c41cdbb1d2a4d32d0f140438c366909694cefab6ad799d7b0515029fac8cfcbb"
+      "Hash": "c201b581c185ce1a20048db00c616cf79770629a142cf33003ca2de79b664a63"
     },
     "h1:moov": {
       "Key": "moov",
@@ -193668,7 +193583,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d44bdae941b8640be28b602656611b836d991469f8a18e305e6a3ad8d382e2cc"
+      "Hash": "c642142fc80da0b0bfd51e51c955152dfab088d525d5ebdbe4794d417d40597a"
     },
     "h1:weblate": {
       "Key": "weblate",
@@ -195374,7 +195289,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0957204a55e57d1c81d3c160cf22378cfaebdad2908d43f27bfed5b91d264cb1"
+      "Hash": "aff04d2d2ca9cd743fbbb3d0187384e3edc8ed24c6dc7ddfb234df4e1f4d3c89"
     },
     "h1:zurich-insurance": {
       "Key": "zurich-insurance",
