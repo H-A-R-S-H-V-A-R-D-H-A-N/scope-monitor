@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-16T19:50:09Z",
+  "captured_at": "2026-08-16T20:34:09Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -6861,6 +6861,91 @@
       "OutScope": {},
       "Hash": "6d6b80ed6c02a45fc17b2a91874ecba7ad872d2de3425a9b2869afad6fa366e0"
     },
+    "bc:Keeper Security Public Bounty Program": {
+      "Key": "Keeper Security Public Bounty Program",
+      "Name": "Keeper Security Public Bounty Program",
+      "URL": "https://bugcrowd.com/engagements/keepersecurity",
+      "InScope": {
+        "https://apps.apple.com/app/id1216446440": {
+          "ID": "https://apps.apple.com/app/id1216446440",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12": {
+          "ID": "https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12",
+          "Type": "other"
+        },
+        "https://docs.keeper.io/en/keeperpam": {
+          "ID": "https://docs.keeper.io/en/keeperpam",
+          "Type": "website"
+        },
+        "https://docs.keeper.io/en/keeperpam/commander-cli/overview": {
+          "ID": "https://docs.keeper.io/en/keeperpam/commander-cli/overview",
+          "Type": "api"
+        },
+        "https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways": {
+          "ID": "https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways",
+          "Type": "api"
+        },
+        "https://docs.keeper.io/en/keeperpam/secrets-manager/overview": {
+          "ID": "https://docs.keeper.io/en/keeperpam/secrets-manager/overview",
+          "Type": "api"
+        },
+        "https://docs.keeper.io/kcm": {
+          "ID": "https://docs.keeper.io/kcm",
+          "Type": "other"
+        },
+        "https://docs.keeper.io/keeper-bridge/": {
+          "ID": "https://docs.keeper.io/keeper-bridge/",
+          "Type": "api"
+        },
+        "https://docs.keeper.io/sso-connect-cloud/": {
+          "ID": "https://docs.keeper.io/sso-connect-cloud/",
+          "Type": "api"
+        },
+        "https://docs.keeper.io/sso-connect-guide/": {
+          "ID": "https://docs.keeper.io/sso-connect-guide/",
+          "Type": "api"
+        },
+        "https://keepersecurity.com": {
+          "ID": "https://keepersecurity.com",
+          "Type": "website"
+        },
+        "https://keepersecurity.com/console": {
+          "ID": "https://keepersecurity.com/console",
+          "Type": "website"
+        },
+        "https://keepersecurity.com/password-manager-free-trial.html": {
+          "ID": "https://keepersecurity.com/password-manager-free-trial.html",
+          "Type": "website"
+        },
+        "https://keepersecurity.com/vault": {
+          "ID": "https://keepersecurity.com/vault",
+          "Type": "website"
+        },
+        "https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper\u0026hl=en_US\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper\u0026hl=en_US\u0026gl=US",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.keepersecurity.chat\u0026hl=en_US\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.keepersecurity.chat\u0026hl=en_US\u0026gl=US",
+          "Type": "android"
+        },
+        "https://www.keepersecurity.com/download.html": {
+          "ID": "https://www.keepersecurity.com/download.html",
+          "Type": "ios"
+        },
+        "https://www.keepersecurity.com/download.html?t=db": {
+          "ID": "https://www.keepersecurity.com/download.html?t=db",
+          "Type": "other"
+        },
+        "https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab": {
+          "ID": "https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "75e6fbd8f908e740db539bfb622506e4c8b987de82d95b5cc435781d8d04b731"
+    },
     "bc:Kiteworks": {
       "Key": "Kiteworks",
       "Name": "Kiteworks",
@@ -13241,95 +13326,6 @@
       },
       "OutScope": {},
       "Hash": "7b34ed5e71f4c3a0d7af4cd08867a5cd990bf36da4d4d128a37f23c49e509293"
-    },
-    "bc:Recorded Future Public Managed Bug Bounty Engagement": {
-      "Key": "Recorded Future Public Managed Bug Bounty Engagement",
-      "Name": "Recorded Future Public Managed Bug Bounty Engagement",
-      "URL": "https://bugcrowd.com/engagements/recorded-future-mbb-og",
-      "InScope": {
-        "https://api.recordedfuture.com": {
-          "ID": "https://api.recordedfuture.com",
-          "Type": "api"
-        },
-        "https://api.riskrecon.com": {
-          "ID": "https://api.riskrecon.com",
-          "Type": "api"
-        },
-        "https://api.riskrecon.eu": {
-          "ID": "https://api.riskrecon.eu",
-          "Type": "api"
-        },
-        "https://app.recordedfuture.com": {
-          "ID": "https://app.recordedfuture.com",
-          "Type": "website"
-        },
-        "https://apps.apple.com/us/app/recorded-future/id1435597894": {
-          "ID": "https://apps.apple.com/us/app/recorded-future/id1435597894",
-          "Type": "ios"
-        },
-        "https://auth.riskrecon.com": {
-          "ID": "https://auth.riskrecon.com",
-          "Type": "api"
-        },
-        "https://auth.riskrecon.eu": {
-          "ID": "https://auth.riskrecon.eu",
-          "Type": "api"
-        },
-        "https://geminiadvisory.io": {
-          "ID": "https://geminiadvisory.io",
-          "Type": "website"
-        },
-        "https://hatching.io": {
-          "ID": "https://hatching.io",
-          "Type": "website"
-        },
-        "https://id.recordedfuture.com": {
-          "ID": "https://id.recordedfuture.com",
-          "Type": "website"
-        },
-        "https://mcp.recordedfuture.com": {
-          "ID": "https://mcp.recordedfuture.com",
-          "Type": "api"
-        },
-        "https://play.google.com/store/apps/details?id=com.recordedfuture.mobile\u0026hl=en_US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.recordedfuture.mobile\u0026hl=en_US",
-          "Type": "android"
-        },
-        "https://portal.riskrecon.com": {
-          "ID": "https://portal.riskrecon.com",
-          "Type": "website"
-        },
-        "https://portal.riskrecon.eu": {
-          "ID": "https://portal.riskrecon.eu",
-          "Type": "website"
-        },
-        "https://securitytrails.com": {
-          "ID": "https://securitytrails.com",
-          "Type": "website"
-        },
-        "https://tria.ge": {
-          "ID": "https://tria.ge",
-          "Type": "website"
-        },
-        "https://vendor.riskrecon.com": {
-          "ID": "https://vendor.riskrecon.com",
-          "Type": "website"
-        },
-        "https://vendor.riskrecon.eu": {
-          "ID": "https://vendor.riskrecon.eu",
-          "Type": "website"
-        },
-        "https://www.recordedfuture.com": {
-          "ID": "https://www.recordedfuture.com",
-          "Type": "website"
-        },
-        "https://www.riskrecon.com": {
-          "ID": "https://www.riskrecon.com",
-          "Type": "website"
-        }
-      },
-      "OutScope": {},
-      "Hash": "33f374343c71277c6bab519c7a4d193b9f99131b3ea286984db87202b20c3c9c"
     },
     "bc:Redmoon": {
       "Key": "Redmoon",
@@ -101744,7 +101740,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2a58c96b8f56c8a7385779ea32f86753d39f7803b2466e9aa68eda241da61193"
+      "Hash": "517bacf8e3535ab7b712ac1f121c6a71bf0bdf93581d1c71b12cd598a8f8499e"
     },
     "h1:exodus": {
       "Key": "exodus",
@@ -146899,7 +146895,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cbd8d8adb95f72f91be800465ac827feeb48e764c050e4da0e0aa21d8f62b4f0"
+      "Hash": "2d75a233b0951b5ff77ba37a7db1373d723d765e39d082e35863c44e671e08e6"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -185371,7 +185367,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "b5499a4f329e5e7fd56e300ca8ea2d718f05f997f1cbd1691f883f7f27235038"
+      "Hash": "39f4dd51d4fd3e66d44dd42d53d97b32c1b531ded9da3d4ef71b5361976f0342"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -194793,7 +194789,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "814e4770450120ce75d347ba6d2b7ea5b7b91f1a4f493bc0060c7ec9249496c7"
+      "Hash": "0b005c37cce6dea365a9a4912724b58cfd397404ce6e00f1b04265c7aa6eae3a"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
