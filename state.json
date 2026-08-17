@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T23:33:06Z",
+  "captured_at": "2026-08-17T23:54:51Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -6483,31 +6483,6 @@
       },
       "OutScope": {},
       "Hash": "fb833a88269dc60f1a8dc77a0156a6d1cdd6632b40fcd39c2af9d9801c611005"
-    },
-    "bc:Jaanga Marketplace Bug Bounty": {
-      "Key": "Jaanga Marketplace Bug Bounty",
-      "Name": "Jaanga Marketplace Bug Bounty",
-      "URL": "https://bugcrowd.com/engagements/JaangaInc-mbb-market",
-      "InScope": {
-        "https://marketplace.atlassian.com/apps/1218225?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1218225?tab=overview\u0026hosting=cloud",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1236750?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1236750?tab=overview\u0026hosting=cloud",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira": {
-          "ID": "https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira",
-          "Type": "website"
-        }
-      },
-      "OutScope": {},
-      "Hash": "7cf917a0e198ba9b16eff3d74d55617129ce7af2e73bf8c7a4a943348df4669e"
     },
     "bc:Jora": {
       "Key": "Jora",
@@ -101788,7 +101763,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "35b4dc01966b4eac573cc4117a258e00058c9aa7011521ace17106cfde701060"
+      "Hash": "f5b56ca59953d0e9c88da3d2bbf62fa93eb10b206b8759b7631888c8777d6fce"
     },
     "h1:exness": {
       "Key": "exness",
@@ -191550,7 +191525,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "69c3d80f57c9618c2c0a1d63c64d53fbc4968d788ce7c4d10165e9e609536afc"
+      "Hash": "579fdebce0b153244cd06182ca65aa8df5a1a825865230e246dd751dc086b80d"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -198957,52 +198932,6 @@
       },
       "OutScope": {},
       "Hash": "ca0c160d17e90a49ff9c71a3d35af84dc37da1d88a11d1d468f9b2f1c9c44e5b"
-    },
-    "in:64f80113-969e-4c55-9649-8a044487941c": {
-      "Key": "64f80113-969e-4c55-9649-8a044487941c",
-      "Name": "PDQ bug bounty program",
-      "URL": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "InScope": {
-        "https://a.simplemdm.com/": {
-          "ID": "https://a.simplemdm.com/",
-          "Type": "url"
-        },
-        "https://app.pdq.com/": {
-          "ID": "https://app.pdq.com/",
-          "Type": "url"
-        },
-        "https://auth2.pdq.com/": {
-          "ID": "https://auth2.pdq.com/",
-          "Type": "url"
-        },
-        "https://library.pdq.com/": {
-          "ID": "https://library.pdq.com/",
-          "Type": "url"
-        },
-        "https://portal.pdq.com/": {
-          "ID": "https://portal.pdq.com/",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "https://*.pdq.com/": {
-          "ID": "https://*.pdq.com/",
-          "Type": "wildcard"
-        },
-        "https://*.pdq.tools/": {
-          "ID": "https://*.pdq.tools/",
-          "Type": "wildcard"
-        },
-        "https://*.simplemdm.com/ ": {
-          "ID": "https://*.simplemdm.com/ ",
-          "Type": "wildcard"
-        },
-        "https://*.smartdeploy.com/ ": {
-          "ID": "https://*.smartdeploy.com/ ",
-          "Type": "wildcard"
-        }
-      },
-      "Hash": "4fa9f97456ab76e20a594fdc52aeb4a83f46f14d92708334ed1914565df11e85"
     },
     "in:6558543a-236f-4e98-91a3-4536e39b9c1e": {
       "Key": "6558543a-236f-4e98-91a3-4536e39b9c1e",
