@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T20:38:22Z",
+  "captured_at": "2026-08-17T21:35:52Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -3689,50 +3689,42 @@
       "Name": "Centers for Medicare \u0026 Medicaid Services - Public Bug Bounty Program 2026",
       "URL": "https://bugcrowd.com/engagements/cms-bbpublic",
       "InScope": {
-        "https://*nsa-idr.cms.gov": {
-          "ID": "https://*nsa-idr.cms.gov",
+        "█████████████": {
+          "ID": "█████████████",
           "Type": "website"
         },
-        "https://*qpp.cms.gov/": {
-          "ID": "https://*qpp.cms.gov/",
+        "████████████████": {
+          "ID": "████████████████",
           "Type": "website"
         },
-        "https://cmsnationaltrainingprogram.cms.gov/": {
-          "ID": "https://cmsnationaltrainingprogram.cms.gov/",
+        "████████████████████": {
+          "ID": "████████████████████",
           "Type": "website"
         },
-        "https://csscoperations.com/": {
-          "ID": "https://csscoperations.com/",
+        "███████████████████████": {
+          "ID": "███████████████████████",
           "Type": "website"
         },
-        "https://eua.cms.gov/": {
-          "ID": "https://eua.cms.gov/",
+        "███████████████████████████": {
+          "ID": "███████████████████████████",
           "Type": "website"
         },
-        "https://eua.cms.gov/efi": {
-          "ID": "https://eua.cms.gov/efi",
-          "Type": "website"
-        },
-        "https://portal.cms.gov/": {
-          "ID": "https://portal.cms.gov/",
-          "Type": "website"
-        },
-        "https://www.cms.gov/": {
-          "ID": "https://www.cms.gov/",
+        "███████████████████████████████████████████": {
+          "ID": "███████████████████████████████████████████",
           "Type": "website"
         }
       },
       "OutScope": {
-        "*https://eua.cms.gov/euareporting/": {
-          "ID": "*https://eua.cms.gov/euareporting/",
+        "██████████████████████████████████": {
+          "ID": "██████████████████████████████████",
           "Type": "website"
         },
-        "*https://www.eqrs.cms.gov and all related subdomains, APIs, and supporting services.": {
-          "ID": "*https://www.eqrs.cms.gov and all related subdomains, APIs, and supporting services.",
+        "████████████████████████████████████████████████████████████████████████████████████": {
+          "ID": "████████████████████████████████████████████████████████████████████████████████████",
           "Type": "website"
         }
       },
-      "Hash": "e73997fdb430b81d9164e1051eeaeff9086d68a0363ef37d5523f1de009f2350"
+      "Hash": "8901f2331825037403dfd54439eaea2b893ddc16df2bc039a27e7f48b22882eb"
     },
     "bc:Certinia (formerly FinancialForce)": {
       "Key": "Certinia (formerly FinancialForce)",
@@ -102557,7 +102549,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "eff2714620dd139651c181e3fe7dbb63a8a36fd7dc1c5120273dacb76dc03c9d"
+      "Hash": "32a76bae0042732ef6434cae19bdd5eebbc55fa441f799617eb29c0a2cfa175c"
     },
     "h1:fanduel": {
       "Key": "fanduel",
@@ -102659,7 +102651,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d14e346886850a3372c9a653cbafb62340c0fedc3a6b46d221c300c014746e0d"
+      "Hash": "28e0c5b293c78f5f6325abec674d03042ad3a741d66dbc85206ff4f91eccb780"
     },
     "h1:fanduel-vdp": {
       "Key": "fanduel-vdp",
@@ -149592,7 +149584,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ec69adb6c7dd1b5d8013465668022d18427e7ee3d54fd606bd533e05a29c7073"
+      "Hash": "3fa5e946df80470ccf738f4b1d03455dacb5cfa869d34c726f74d31b825bfad7"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -188453,7 +188445,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f8546d2ed353311fbd0b11cdf4ace2e7c32085abae9ee103ca2cb7797cd1d662"
+      "Hash": "61fd0845efa0836ab4b202abb8a9522b79042906a8325b64eeb8d9cbe8b04a0a"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -192944,10 +192936,6 @@
           "ID": "visa.com.ru",
           "Type": "URL"
         },
-        "visa.com.ua": {
-          "ID": "visa.com.ua",
-          "Type": "URL"
-        },
         "visainnovationprogram.com": {
           "ID": "visainnovationprogram.com",
           "Type": "URL"
@@ -193124,6 +193112,10 @@
           "ID": "www.visa.com.tw",
           "Type": "URL"
         },
+        "www.visa.com.ua": {
+          "ID": "www.visa.com.ua",
+          "Type": "URL"
+        },
         "www.visa.com.vn": {
           "ID": "www.visa.com.vn",
           "Type": "URL"
@@ -193146,7 +193138,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4c46600762328e801c2c9ee1437a6af41a174d2c7b52630dddf40ca6c81b0ab3"
+      "Hash": "7a49651320e5428b22d12750d36f644b18cf3e0aa2cc1e4b62aee5db6ffff070"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -193971,7 +193963,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4423a3cecd973d368400f02595719e160c6ada285465184f3aac3614b2bb8e25"
+      "Hash": "8347383ac4f806429b075880fe00cff8f5462ac2f5fdc2e70885162df11a4791"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
@@ -195514,7 +195506,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e32de7a93bc7ce53e34526bdbf2862094593332528a622256cd0a40829f09916"
+      "Hash": "ccd04be93f84b3cfce2d6578ac2594c15cca3dfe219e71c38ce24c9a7e339bda"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
