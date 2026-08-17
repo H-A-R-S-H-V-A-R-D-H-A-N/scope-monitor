@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T19:57:53Z",
+  "captured_at": "2026-08-17T20:38:22Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -28059,7 +28059,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "439ab35bba789bfd24b2d48207350c82c7385bd256c7026b796831935ae5179e"
+      "Hash": "f3f653caa9e283a9444e5017564fe268d7a26fa17e1303c1c22f4490d4e66518"
     },
     "h1:att": {
       "Key": "att",
@@ -28539,7 +28539,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f04c316cc3858ed5e72283d809b36aca79021cb6718f570ee9577e0a107ccca7"
+      "Hash": "8db52786a761c1dd411e970a84d873400dfd88295b1fe340506321063dd7389a"
     },
     "h1:aven_response": {
       "Key": "aven_response",
@@ -31603,7 +31603,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b67f7cc70cd72e89278411f1b4f440857b8f9a7141e895e94b81d377e59751ac"
+      "Hash": "6a1977ad99724d2f5c4c9ceaa5b4730e4d3871185f134b7b7433fd1f6e972b1e"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -67887,7 +67887,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "56f202919d28350bb897ff772991dc88e4e47f261f894c9cdfb324c36896d65f"
+      "Hash": "95f26608f37be1ef372387385f40233785f4922e913b4b0f18627e94c916db96"
     },
     "h1:citi_group": {
       "Key": "citi_group",
@@ -101463,7 +101463,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d3342f2e8f085560d9466ab2c62129f3aedb021edf9220d73a0e42abae16ed73"
+      "Hash": "f6f9b0877bb0f47c2ca5599630634a38c6fe15f38f37e46bacad45cea27a3d52"
     },
     "h1:eternal": {
       "Key": "eternal",
@@ -105040,7 +105040,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dc6ae4350a022c86d9a93715b194cf844e0590a48d3f0fea668455dbdf6ca271"
+      "Hash": "6254cc4b618c9ecc23b8dbad5ff0630b39766809d7795cb417e1ae0d85db90ec"
     },
     "h1:finra": {
       "Key": "finra",
@@ -167953,7 +167953,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "213ca19cf1f656e0da49d8a2b803543d1f1f1cf705c1622b94265f5623bbec80"
+      "Hash": "526dc78af6076ff61b223cf991ea68c9b401a4a82d1df7129f97826d1f8db35d"
     },
     "h1:lowes": {
       "Key": "lowes",
@@ -169977,7 +169977,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9a0d6112ea123b41555018a653551651ed71d9f72411f0a9af314e955c7f8984"
+      "Hash": "41abf1d033bbd22d63d5199fa04a698a1dc50e151bec1cd33b79477d8619d6cf"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -186028,7 +186028,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "1c5d2eaf8d2e416f5300f9b6221972afba6f8540a2919e740551b4d3546f3c7c"
+      "Hash": "8b53508ddd4d05c4f72b8552f95cadab0a3e4527b52648e0d18021f57a385d04"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -192251,7 +192251,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fc9a9c03336951cc06143d407010a4954a859eff41929d407e85bba773d20ffa"
+      "Hash": "7fc2786f96a7ac4d34744862fbda266fe0a1ccce28bbd11fe0e9afdb63e87955"
     },
     "h1:vimeo": {
       "Key": "vimeo",
@@ -195514,7 +195514,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ccd04be93f84b3cfce2d6578ac2594c15cca3dfe219e71c38ce24c9a7e339bda"
+      "Hash": "e32de7a93bc7ce53e34526bdbf2862094593332528a622256cd0a40829f09916"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -198771,44 +198771,6 @@
         }
       },
       "Hash": "40726b8134b49967eca41e1ada0016a9d11fc15acfe4e032cf00fdf71942e34b"
-    },
-    "in:5ed6962a-7017-4d60-8805-e169b638528d": {
-      "Key": "5ed6962a-7017-4d60-8805-e169b638528d",
-      "Name": "Sqills",
-      "URL": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-      "InScope": {
-        "*.sqills.com": {
-          "ID": "*.sqills.com",
-          "Type": "wildcard"
-        },
-        "*.sqills.team": {
-          "ID": "*.sqills.team",
-          "Type": "wildcard"
-        }
-      },
-      "OutScope": {
-        "*.red.sqills.team": {
-          "ID": "*.red.sqills.team",
-          "Type": "wildcard"
-        },
-        "booking.*.cloud.sqills.com": {
-          "ID": "booking.*.cloud.sqills.com",
-          "Type": "wildcard"
-        },
-        "booking.*.sqills.com": {
-          "ID": "booking.*.sqills.com",
-          "Type": "wildcard"
-        },
-        "careers.sqills.com": {
-          "ID": "careers.sqills.com",
-          "Type": "url"
-        },
-        "welcome.sqills.com": {
-          "ID": "welcome.sqills.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "d8b1ff488fa4c926cc26ec88aac29a74241802ba5eeeae2edc3f9f42e3402d13"
     },
     "in:5f29e1eb-85e8-4d99-9b52-b809f06de633": {
       "Key": "5f29e1eb-85e8-4d99-9b52-b809f06de633",
