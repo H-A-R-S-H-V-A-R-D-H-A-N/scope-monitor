@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T17:39:35Z",
+  "captured_at": "2026-08-17T18:54:06Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -31843,7 +31843,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "68713e52f10a587a5bc7bda696f0b2a72e73db1a2ddbd5755987e6d2b429df20"
+      "Hash": "cfbd162cc2299df267509275c581c0d2f7e16183fe3b323e865cc8c855354554"
     },
     "h1:british_airways_vdp": {
       "Key": "british_airways_vdp",
@@ -32181,7 +32181,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e003676c65ccaf8bb76157b29b0e06201837b403beb4cf9990abb9f1f123747b"
+      "Hash": "7f7c7c50249f315f044618f52c292163c44e5dd6e7e2696aa197261f337d8612"
     },
     "h1:bykea": {
       "Key": "bykea",
@@ -88456,7 +88456,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c1c97a641586924c92ec99e192076fc349901282dc91902dfc67a5f742e4d0fe"
+      "Hash": "bb881391d4aabe053899688d8cd77f7bef09b3f26fca906da79b2654e7392a9a"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -144312,7 +144312,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "74c3b62c9c4a07771583f479be18ff9aab3ee1178e74c08f068d471bd3ce8619"
+      "Hash": "6b549929ff4a9f3b55f6e243d792eec1f5baf0454b62774c550735b8c31804c6"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -150721,7 +150721,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1ee131d895ab61cebab35e21462e9297a060d854d4b786586715d1cb39bffda4"
+      "Hash": "ba17b0056b47a072c5ec735212d8b927a0124f91041f3d6c4989f902e4571b31"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -156828,7 +156828,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a030ca79d28d02f578e2603beddaa4941574625e8a806f4216b9244b154ecb8e"
+      "Hash": "bf22aefa1adfcebd95fddc77d86ab18219b1b9a74d515d64e007300de813bd21"
     },
     "h1:ips": {
       "Key": "ips",
@@ -178751,7 +178751,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1dae479bdeb1a4f48f4cc6f9606362f1e7f09fde488c6fc107e31d55991a71d6"
+      "Hash": "4a3170d5fd5ce275f058368036a9ad36b7ea1dc07eabf106d558a286f06e42aa"
     },
     "h1:on": {
       "Key": "on",
@@ -183380,7 +183380,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "15d7e8bf211be9cadff51f5081b0e0df7f2bb0c32cdc6e4428b729b1e434e50b"
+      "Hash": "85ada5bb671c080a6bca697f097bb10878e0df7aec2993527517405a2663e2c6"
     },
     "h1:redox_bbp": {
       "Key": "redox_bbp",
@@ -189015,7 +189015,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "30630e795f1655abc0ddb6f2ca60a36f2b9ab096edb3eba827924da3a6feda1a"
+      "Hash": "e6f98dab20868567b05abd615b7d487f473e7569b85f06a2e8ddbb9f448ba2e0"
     },
     "h1:tines_automation_vdp": {
       "Key": "tines_automation_vdp",
@@ -191228,7 +191228,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e75f819fa19452fdbc4cdd63f212b59a7000f58a2d8c96367fc4daec6b4dfc70"
+      "Hash": "4191d7a23738ba288afc7b3b8c0ca236abdfad3788133b7259935dc04c6332ca"
     },
     "h1:urbancompany": {
       "Key": "urbancompany",
@@ -199004,6 +199004,52 @@
       "OutScope": {},
       "Hash": "ca0c160d17e90a49ff9c71a3d35af84dc37da1d88a11d1d468f9b2f1c9c44e5b"
     },
+    "in:64f80113-969e-4c55-9649-8a044487941c": {
+      "Key": "64f80113-969e-4c55-9649-8a044487941c",
+      "Name": "PDQ bug bounty program",
+      "URL": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "InScope": {
+        "https://a.simplemdm.com/": {
+          "ID": "https://a.simplemdm.com/",
+          "Type": "url"
+        },
+        "https://app.pdq.com/": {
+          "ID": "https://app.pdq.com/",
+          "Type": "url"
+        },
+        "https://auth2.pdq.com/": {
+          "ID": "https://auth2.pdq.com/",
+          "Type": "url"
+        },
+        "https://library.pdq.com/": {
+          "ID": "https://library.pdq.com/",
+          "Type": "url"
+        },
+        "https://portal.pdq.com/": {
+          "ID": "https://portal.pdq.com/",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "https://*.pdq.com/": {
+          "ID": "https://*.pdq.com/",
+          "Type": "wildcard"
+        },
+        "https://*.pdq.tools/": {
+          "ID": "https://*.pdq.tools/",
+          "Type": "wildcard"
+        },
+        "https://*.simplemdm.com/ ": {
+          "ID": "https://*.simplemdm.com/ ",
+          "Type": "wildcard"
+        },
+        "https://*.smartdeploy.com/ ": {
+          "ID": "https://*.smartdeploy.com/ ",
+          "Type": "wildcard"
+        }
+      },
+      "Hash": "4fa9f97456ab76e20a594fdc52aeb4a83f46f14d92708334ed1914565df11e85"
+    },
     "in:6558543a-236f-4e98-91a3-4536e39b9c1e": {
       "Key": "6558543a-236f-4e98-91a3-4536e39b9c1e",
       "Name": "intigriti",
@@ -203901,6 +203947,23 @@
         }
       },
       "Hash": "fdd640fb20752c43c274d2acf1f123edcf6a8184655e8d70d3bc6f8f75c3b097"
+    },
+    "in:ecf9c610-36eb-47df-8b25-bb496aff8015": {
+      "Key": "ecf9c610-36eb-47df-8b25-bb496aff8015",
+      "Name": "Nexuzhealth Web PACS",
+      "URL": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
+      "InScope": {
+        " idp-contact.nexuzhealth.be": {
+          "ID": " idp-contact.nexuzhealth.be",
+          "Type": "url"
+        },
+        "media.nexuzhealth.be/patient/ ": {
+          "ID": "media.nexuzhealth.be/patient/ ",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
     },
     "in:ef919950-9ced-48c3-b1f4-2379c43c8ec5": {
       "Key": "ef919950-9ced-48c3-b1f4-2379c43c8ec5",
