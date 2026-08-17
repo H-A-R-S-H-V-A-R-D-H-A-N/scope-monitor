@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T08:20:56Z",
+  "captured_at": "2026-08-17T09:21:31Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24371,7 +24371,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f20ede7af7c08beaa43a6ec3dcd6a415c23c6806b5be13b8e737a5bb5ffc2332"
+      "Hash": "6b14ac5b3bb65934d912afd66978748d1061baead8d9f3885fb591f985f0ff0c"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -28474,7 +28474,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5e4d81e5f7f2056f49954700ee69f4ec2443932d037a8af640fd3877285f51d9"
+      "Hash": "3b8295335fb943d535fc3ae3505e9b18cdcb9ddb04125eb5f9f9645c96df2a61"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -89517,10 +89517,6 @@
           "ID": "Crypto.com Exchange APIs that require an account",
           "Type": "API"
         },
-        "Crypto.com Wallet Extension": {
-          "ID": "Crypto.com Wallet Extension",
-          "Type": "OTHER"
-        },
         "Crypto.com mobile app APIs that require an account": {
           "ID": "Crypto.com mobile app APIs that require an account",
           "Type": "API"
@@ -89531,10 +89527,6 @@
         },
         "co.mona.android": {
           "ID": "co.mona.android",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.defi.wallet": {
-          "ID": "com.defi.wallet",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
         "com.monaco.mobile": {
@@ -89551,6 +89543,10 @@
         },
         "developer.crypto.com": {
           "ID": "developer.crypto.com",
+          "Type": "URL"
+        },
+        "experiences.crypto.com": {
+          "ID": "experiences.crypto.com",
           "Type": "URL"
         },
         "https://crypto.com/exchange": {
@@ -89593,6 +89589,10 @@
           "ID": "tax.crypto.com",
           "Type": "URL"
         },
+        "tickets.crypto.com": {
+          "ID": "tickets.crypto.com",
+          "Type": "URL"
+        },
         "travel.crypto.com": {
           "ID": "travel.crypto.com",
           "Type": "URL"
@@ -89603,6 +89603,14 @@
         }
       },
       "OutScope": {
+        "Crypto.com Wallet Extension": {
+          "ID": "Crypto.com Wallet Extension",
+          "Type": "OTHER"
+        },
+        "com.defi.wallet": {
+          "ID": "com.defi.wallet",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
         "https://github.com/crypto-com/chain-desktop-wallet": {
           "ID": "https://github.com/crypto-com/chain-desktop-wallet",
           "Type": "SOURCE_CODE"
@@ -89620,7 +89628,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "1366d7d81cc35cdb9003a3da6510a97b386e473bc7a18ced28677fcfcfac0750"
+      "Hash": "6ee959915e717479caa48f38092c63ef6fc19c47d5d4b16d337e73502f15567c"
     },
     "h1:cs_money": {
       "Key": "cs_money",
@@ -95835,7 +95843,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "473c7f54fc20a8c8bd06202c293c12e20de73b3d4c47514d59af0e43ca058940"
+      "Hash": "1df0f5d61114f24263abca8ef3df916008dd133dad2a5599bc516783a82daeb1"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -101759,7 +101767,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "97ae00775b0b4c34fe7c3b47199898961301bbe6b9e6e5e9f1f0de02091b825e"
+      "Hash": "35b4dc01966b4eac573cc4117a258e00058c9aa7011521ace17106cfde701060"
     },
     "h1:exness": {
       "Key": "exness",
@@ -104129,7 +104137,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "39c7d9e22a5495e5460ad2aa7581c8b115a6166822efef70008f999174f9827b"
+      "Hash": "f5a3b8f2cb03e23a6a3118774990049afbb6146b8339ff2f461c7e66c2eab474"
     },
     "h1:fertitta_entertainment": {
       "Key": "fertitta_entertainment",
@@ -145668,7 +145676,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0574b04b1b33def4c16b3cd9b0c53bf8e9e1d5bc20a05f3b8e1441af9557a0f6"
+      "Hash": "943d28fba0016003a9fc2f7383cbf1d936d7b2c34a8b06e8d6f7852b6f9623e0"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -171088,7 +171096,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a2cf8cec3eb5bacedc29c3b1d47d0685210559b17a21a88e0f444150ea375c29"
+      "Hash": "0c204d1429d10e7d62bfedaede168c4324bf4569dc3fd1dab053f12d44bf77b1"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -178748,7 +178756,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "0ac83594c70df750442602645e68aa1f4b302514149486b0fb19147e2835e5e9"
+      "Hash": "a03bad3bb3b993ca2d74be985e4f98d31eb2e68c9f7dbbbd7ec0ba12127cf7f5"
     },
     "h1:omnicell": {
       "Key": "omnicell",
@@ -183212,7 +183220,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8638b17086dba8d5df7508f85c3366cc972368f85424d7294035227c0f860057"
+      "Hash": "1a212c3fa29cccb755304edfd4e0996eaa507754bf67b826bae2e2448280ce0a"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -188796,7 +188804,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ee9dfdfb1ff54eb22b3df596b599391c48cf68c1eb1f8d59e63f15bfe2c3ef6d"
+      "Hash": "09607f9ac089ef23acb79a2b6b137a2a94d8e18a794dc7fadeb8241ccc31ef90"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -191591,7 +191599,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "579fdebce0b153244cd06182ca65aa8df5a1a825865230e246dd751dc086b80d"
+      "Hash": "69c3d80f57c9618c2c0a1d63c64d53fbc4968d788ce7c4d10165e9e609536afc"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -193179,7 +193187,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dfa6e4ba123ba7da5a8314fd1993e7244e8730d65da4987a2f223c2f67938cff"
+      "Hash": "4c46600762328e801c2c9ee1437a6af41a174d2c7b52630dddf40ca6c81b0ab3"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -194004,7 +194012,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "38a6084d56c3d5cbb51175f31b9073ffa15ba8de6d279b102d2de9bc3a187a10"
+      "Hash": "a9ad8bec90776a8e5fb643ef1cef5d3b6133fff0f2c3bd99df1c8a4e49a35df8"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
