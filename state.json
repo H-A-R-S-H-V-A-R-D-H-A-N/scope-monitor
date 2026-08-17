@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T10:59:57Z",
+  "captured_at": "2026-08-17T11:36:01Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26478,7 +26478,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0196190948f39b442b770cc528517cc3efd270ecd3d9c5445eee71723c2f9506"
+      "Hash": "f238589fed156d12ce82baa19e347864982c5433591b54cae9b0614b9fbbee46"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -89812,7 +89812,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2f17edb7cbf5021d27fef205261a472b60b846a67e5f06bec5a53ff2498fb3d5"
+      "Hash": "20031d0c012ca5464b4e8fd6771bf02c30b508f9adab678a433fff29018d19d6"
     },
     "h1:curl": {
       "Key": "curl",
@@ -96002,7 +96002,7 @@
       "URL": "https://hackerone.com/django",
       "InScope": {},
       "OutScope": {},
-      "Hash": "8a118da8d8f1e365c45e8e0e264026e69606fe0d2da1dd180f826f989e83ca01"
+      "Hash": "cb5b09ddd06284a8a372c09103ad1c71bcd62525fe562fafdda222ebc624e119"
     },
     "h1:docusign": {
       "Key": "docusign",
@@ -101713,7 +101713,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bb46bde7e20b43884307252e9159fb6b74f8671f977c83c55f99524164a29d35"
+      "Hash": "a2f54511b6b3f278f69371d9b1dc2fe4d7f3250c44897800126aec4374b210f7"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -102249,7 +102249,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "82f887cd98093351a68f76890fdf8beebbae59c2a2b937e54347b72cbb195846"
+      "Hash": "fbcd76eecfbce72bf7159fff17dae2170add1f90e5a87c2b086b9f50fec54711"
     },
     "h1:expediagroup_bbp": {
       "Key": "expediagroup_bbp",
@@ -168348,7 +168348,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e50d5a10bd009aafbf37b8fd9003ffe272264653d390268dbf4fac919aebe115"
+      "Hash": "b968146db74c48467a4c2dc32dac2505f5a390943a983ce725db455bb03ff336"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -170241,7 +170241,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "01b1136c7d52f975f4eb41a444d96f7b758283ed7288b9837a8569f36153fd9c"
+      "Hash": "538c8f8491d9d82f5d13b02754b2206ae7dff6f49bc1a17c943af8ca510cc97c"
     },
     "h1:mod_supply_chain_vdp": {
       "Key": "mod_supply_chain_vdp",
@@ -171105,7 +171105,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e04404b94bd3eedd68b557d2d032a733efebcbb3f126e0466b1397b2f7329b03"
+      "Hash": "836fd6abb8c2cee0f8048e347b3eb3dfc99f325f8ed1ce717d152664545b09f4"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -185435,7 +185435,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "8cd62fb0b51210faa7df801699b85ee0d245678d7f07ec7360618b76cabab186"
+      "Hash": "4dc510f295040f26351e177968e8f22d819e68706924a31296511d357ddf55f0"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -188932,6 +188932,18 @@
           "ID": "*us.tiktokv.com",
           "Type": "WILDCARD"
         },
+        "6754134922": {
+          "ID": "6754134922",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "com.ss.android.ttmd.video": {
+          "ID": "com.ss.android.ttmd.video",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "drama.tiktok.com": {
+          "ID": "drama.tiktok.com",
+          "Type": "URL"
+        },
         "https://developers.tiktok.com/minis/": {
           "ID": "https://developers.tiktok.com/minis/",
           "Type": "URL"
@@ -188956,6 +188968,10 @@
           "ID": "p19-webcast.tiktokcdn-us.com",
           "Type": "URL"
         },
+        "shortdrama.tiktok.com": {
+          "ID": "shortdrama.tiktok.com",
+          "Type": "URL"
+        },
         "usds.tiktok.com": {
           "ID": "usds.tiktok.com",
           "Type": "URL"
@@ -188965,7 +188981,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "78eb0d861811b21a34c863863a6982c1be9f5d72f16483055ac4fd3bd58af48c"
+      "Hash": "5f43b45237d9ddef971c60cc20552f13320fb9420a00864ac39f3bb8b4c85bb1"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -193983,7 +193999,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8347383ac4f806429b075880fe00cff8f5462ac2f5fdc2e70885162df11a4791"
+      "Hash": "33367f52abbb83a1057faf8c97c30205b7e54ec57d5ef2d55d1b065a450c26c7"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
