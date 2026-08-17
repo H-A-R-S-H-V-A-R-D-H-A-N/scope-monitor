@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T11:57:35Z",
+  "captured_at": "2026-08-17T13:02:36Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18234,7 +18234,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5857ce1db1ac5a709905c2c74171e3021cca0c16337eb269dbf9d127f1a7197f"
+      "Hash": "d8fb7c1ab515d192a8e87e72a32998453fa7c814e7200a979ea7cc26a83c1c50"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -24021,7 +24021,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8a87181dbfcb8778aa5318a34fa51c4267ddba09008de4ea9ee4c1c05339da3b"
+      "Hash": "c342baf2a2e02a2639ae9f9c0a379f2567c6d17d2dcbd2c7162cdce7938e0121"
     },
     "h1:aig": {
       "Key": "aig",
@@ -102698,7 +102698,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "472c48abddcc87fa56902a16f7b981484ee762de86714f56eb3c4feb64ee4de2"
+      "Hash": "65ae5db9b1fba424400cc0da31a2fffb7fb598cc8a59363771e8b28e7e92aab5"
     },
     "h1:fastly-vdp": {
       "Key": "fastly-vdp",
@@ -148553,7 +148553,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "29093807269878f264e2b60515f806c2426025762592bce2c43c5aacccaaf645"
+      "Hash": "733640db09f168df83e07f238480a3cbbf0e26b493340c63b2e1baadd86d0c31"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -165752,7 +165752,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1b8625246199a51f0149f9d51628c6054e782de03a477d191e528758862eaf87"
+      "Hash": "4aab8e3a97628f72f0125733ac084daa1c6fae386eed45b9ded79d138beca635"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -166689,7 +166689,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ffb57c1615d401a38731c28dcc4ed02344d92eaedf709df6c2cc6319fae8ae1a"
+      "Hash": "748885e5a410d8a9801701bfbda7b330159b0b266ca33bd23a0edf684f1b3431"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -169610,7 +169610,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1d6111f6909b302b647c12c83ca168727e3efea15226c25ca44c167fe177547e"
+      "Hash": "8556c9791299b6a2a823332684493a6c27a4f7a85d728066d2b52a990fba89da"
     },
     "h1:mercadolibre": {
       "Key": "mercadolibre",
@@ -173093,13 +173093,17 @@
           "Type": "GOOGLE_PLAY_APP_ID"
         }
       },
-      "Hash": "05187e75ef411a4c392e6e75e04c4b9da78cb7bc12805605fd0ee570df5c5480"
+      "Hash": "98cd8a4072a9ae0205d833c0448b77f6f25518bb5c2612aafeb19323c302ae7f"
     },
     "h1:mtn_group": {
       "Key": "mtn_group",
       "Name": "MTN Group",
       "URL": "https://hackerone.com/mtn_group",
       "InScope": {
+        "*.momoafrica.tech": {
+          "ID": "*.momoafrica.tech",
+          "Type": "WILDCARD"
+        },
         "10.51.175.34": {
           "ID": "10.51.175.34",
           "Type": "IP_ADDRESS"
@@ -175679,7 +175683,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "45e876d6879fdea20614665e529800050a841f13faf91640e8957984b2513483"
+      "Hash": "afd11fcd2583623e1b3d8f331de9780ed64f3238ce75043f62a75ba45d33b866"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -181510,24 +181514,6 @@
       },
       "OutScope": {},
       "Hash": "6759344f4ac945f914dba8b32bf56c12068ad6cf3621e865decff7be93ebb55b"
-    },
-    "h1:phpbb": {
-      "Key": "phpbb",
-      "Name": "phpBB",
-      "URL": "https://hackerone.com/phpbb",
-      "InScope": {
-        "https://github.com/phpbb/phpbb": {
-          "ID": "https://github.com/phpbb/phpbb",
-          "Type": "SOURCE_CODE"
-        }
-      },
-      "OutScope": {
-        "www.phpbb.com": {
-          "ID": "www.phpbb.com",
-          "Type": "URL"
-        }
-      },
-      "Hash": "3c92960197abb8af10a5b64ad6b1ad1f6e0e21098923753aeec72d49b64d524d"
     },
     "h1:picsart": {
       "Key": "picsart",
@@ -188096,10 +188082,6 @@
           "ID": "Superhuman Mail Desktop App",
           "Type": "OTHER"
         },
-        "app.grammarly.com": {
-          "ID": "app.grammarly.com",
-          "Type": "URL"
-        },
         "coda.grammarly.com": {
           "ID": "coda.grammarly.com",
           "Type": "URL"
@@ -188131,6 +188113,10 @@
         "com.superhuman.mail ": {
           "ID": "com.superhuman.mail ",
           "Type": "APPLE_STORE_APP_ID"
+        },
+        "docs.superhuman.com": {
+          "ID": "docs.superhuman.com",
+          "Type": "URL"
         },
         "gateway.superhuman.com": {
           "ID": "gateway.superhuman.com",
@@ -188171,7 +188157,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a5de78a19fe517cf24ff92224d9d5e4d7f97fedb6d557efa1bdeeb333073b3b7"
+      "Hash": "d438e46ee373f6c2bd340d3e667ad5aeea4267f6128f7a744aae800df4e1491a"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -193508,7 +193494,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "87dbd9ba0a6f9cc90c53211e91421c0063754a9f636909abd847fb2d25a9acc2"
+      "Hash": "475d752fb7b2226922b5ef81c7d51a506464750a013b676c688034c981aef952"
     },
     "h1:vodafone_oman": {
       "Key": "vodafone_oman",
@@ -194708,7 +194694,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "72ff54eaa86a7b4f56dbb26b2790a279ed87a67924cf58caaacee65403292980"
+      "Hash": "17636259c84ace7be97e168e718f8f89cd00d84d3c86d754cb1c9c25303c153d"
     },
     "h1:yelp": {
       "Key": "yelp",
