@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T13:02:36Z",
+  "captured_at": "2026-08-17T13:49:58Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -89812,7 +89812,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "20031d0c012ca5464b4e8fd6771bf02c30b508f9adab678a433fff29018d19d6"
+      "Hash": "2f17edb7cbf5021d27fef205261a472b60b846a67e5f06bec5a53ff2498fb3d5"
     },
     "h1:curl": {
       "Key": "curl",
@@ -99541,7 +99541,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "14c08311d2f8b23fb6f6a5de24a24ff211643359cb5ef3c0ae9e92974fe1faaf"
+      "Hash": "71bb1e2224ab2c55d17f673abfae2905d321b6443462d23bece4614bb3c4a46c"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -144815,7 +144815,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "639786a931fb7ea33236cb4674317d790fc5ca210ab327a76d70ce6c51dbbf53"
+      "Hash": "c567df96d471dbe06b07ba42e292d6edfb805accde6049af09b0af6a4f364da8"
     },
     "h1:ford": {
       "Key": "ford",
@@ -169358,7 +169358,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "40b9e7f8689b445a94b4997ffcbf3640f0745de4ff316f710029d73525fb9e0a"
+      "Hash": "7a1fad6c555839b349ad11015b1b1672dc113826398b7ee48457c6430ddc91e8"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -175710,36 +175710,6 @@
       "OutScope": {},
       "Hash": "89e4a6150e1f16ca747a758682f3e4f92139285aa118e803071c513dc7408c34"
     },
-    "h1:myndr": {
-      "Key": "myndr",
-      "Name": "Myndr",
-      "URL": "https://hackerone.com/myndr",
-      "InScope": {
-        "*.myndr.net": {
-          "ID": "*.myndr.net",
-          "Type": "WILDCARD"
-        },
-        "*.myndr.nl": {
-          "ID": "*.myndr.nl",
-          "Type": "WILDCARD"
-        },
-        "www.myndr.nl": {
-          "ID": "www.myndr.nl",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {
-        "mqtt.myndr.net": {
-          "ID": "mqtt.myndr.net",
-          "Type": "URL"
-        },
-        "mqtt2.myndr.net": {
-          "ID": "mqtt2.myndr.net",
-          "Type": "URL"
-        }
-      },
-      "Hash": "2a54af566153fa1eed7811182aab415cb405358b93cfd8743ee43f692c6afcd3"
-    },
     "h1:navient_solutions": {
       "Key": "navient_solutions",
       "Name": "Navient Solutions LLC",
@@ -177731,7 +177701,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8896c1ccbe740eb1c0b2a8ab80c9920e9b5378484e3ce0eb0cccb1bd7f7126f0"
+      "Hash": "464e7063e5c9ecd38a76d83ae2285238ee3f87e36f5e4905463234159ced5f85"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -181802,7 +181772,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1087548bf0fe38cc210c2e2e2e94e036f8415437b6351b044aa99e9a9be30684"
+      "Hash": "d4af995973f817e7e40db45fc11822b71453d89ce86956b5ce046be33a1373be"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -183177,7 +183147,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1a212c3fa29cccb755304edfd4e0996eaa507754bf67b826bae2e2448280ce0a"
+      "Hash": "8638b17086dba8d5df7508f85c3366cc972368f85424d7294035227c0f860057"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -184677,7 +184647,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ab27f9fcf775ab9a56aa0bae5eeb33a8b1b5a5b6807289e158cd5d91cc8f1a84"
+      "Hash": "3b15f60e3b502aec6c8d77c3866579858284b0c71bc4025966a5025083167529"
     },
     "h1:ro": {
       "Key": "ro",
@@ -185571,7 +185541,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "77ea10b93f730914dfc660664e75c45b1e1024dbfcf0702e7e18582de9d51b13"
+      "Hash": "cbb8fb18ab90e773084ec096bfe3677aecdce5e41fdc1967a4ae014ba0626a30"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
@@ -186204,7 +186174,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1681fa6a7a5e12ab2ae4b5b9b527e1d26d156d26680e3278ddfcc0d69ade1ab0"
+      "Hash": "d14c44b7db5b8dc6b4dd13db7be03d4cf908ef055aff3ace1dd5c6b2e42eea38"
     },
     "h1:simple_poll": {
       "Key": "simple_poll",
@@ -188157,7 +188127,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d438e46ee373f6c2bd340d3e667ad5aeea4267f6128f7a744aae800df4e1491a"
+      "Hash": "c62c694f99c8dd7463d5a77ee4f7d1e652d99340aab7c07e15b78e22cdfc0dbc"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -193786,7 +193756,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "213a0bb1efc3c52f9ac69408287b0afaea001ccaf2d5ead45d1e7d2cc677c8d6"
+      "Hash": "f0ea9001c0c52f997aaec5e25bda21a774ba48ea978070c5cf6cc13b9599bda1"
     },
     "h1:whatnot": {
       "Key": "whatnot",
@@ -195528,7 +195498,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ccd04be93f84b3cfce2d6578ac2594c15cca3dfe219e71c38ce24c9a7e339bda"
+      "Hash": "e32de7a93bc7ce53e34526bdbf2862094593332528a622256cd0a40829f09916"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -196145,8 +196115,13 @@
           "Type": "url"
         }
       },
-      "OutScope": {},
-      "Hash": "37315bcda826a0a3d3303ec9c9ec91ed25d484172738e7eaea218e28a7d1e6d7"
+      "OutScope": {
+        "actie.volkskrant.nl": {
+          "ID": "actie.volkskrant.nl",
+          "Type": "url"
+        }
+      },
+      "Hash": "b2efbccfa55996b5d61fc00540dbcf25ba5da4d27b718eefbd443657564748dc"
     },
     "in:0f05f9cd-03e1-4f90-a449-2f43cdaf879a": {
       "Key": "0f05f9cd-03e1-4f90-a449-2f43cdaf879a",
@@ -197715,7 +197690,7 @@
           "Type": "url"
         }
       },
-      "Hash": "daa7ee17b849c69dfacf6904828e316c07f17d255b5045d8e780516ec34620ad"
+      "Hash": "c4d5b61346d523d0da123253d2480d6fffaacf9c139f4d19946abcf008c2afdf"
     },
     "in:3219ed72-e563-458d-aafd-9ce8ca4e3087": {
       "Key": "3219ed72-e563-458d-aafd-9ce8ca4e3087",
@@ -200529,6 +200504,10 @@
           "ID": "abonnement.demorgen.be",
           "Type": "url"
         },
+        "actie.demorgen.be": {
+          "ID": "actie.demorgen.be",
+          "Type": "url"
+        },
         "demorgen.be/inloggen": {
           "ID": "demorgen.be/inloggen",
           "Type": "url"
@@ -200546,7 +200525,7 @@
           "Type": "url"
         }
       },
-      "Hash": "f89ec3803597993aa4be7b1bf9dcd2718c88f980e963b0c6c5a27de261f7b443"
+      "Hash": "b55b2c5be348a8eecb24e054fab646be9e176a4dbd0e811ac1cb68a05b79eceb"
     },
     "in:8f6c92dc-1300-4f11-8284-29b6ed743378": {
       "Key": "8f6c92dc-1300-4f11-8284-29b6ed743378",
@@ -203853,23 +203832,6 @@
         }
       },
       "Hash": "fdd640fb20752c43c274d2acf1f123edcf6a8184655e8d70d3bc6f8f75c3b097"
-    },
-    "in:ecf9c610-36eb-47df-8b25-bb496aff8015": {
-      "Key": "ecf9c610-36eb-47df-8b25-bb496aff8015",
-      "Name": "Nexuzhealth Web PACS",
-      "URL": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
-      "InScope": {
-        " idp-contact.nexuzhealth.be": {
-          "ID": " idp-contact.nexuzhealth.be",
-          "Type": "url"
-        },
-        "media.nexuzhealth.be/patient/ ": {
-          "ID": "media.nexuzhealth.be/patient/ ",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
     },
     "in:ef919950-9ced-48c3-b1f4-2379c43c8ec5": {
       "Key": "ef919950-9ced-48c3-b1f4-2379c43c8ec5",
