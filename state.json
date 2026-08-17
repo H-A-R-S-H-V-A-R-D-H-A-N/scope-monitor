@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T10:07:36Z",
+  "captured_at": "2026-08-17T10:59:57Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -147042,7 +147042,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3bef2e0236dec97f4f25145581b76afbf96e3b42833d32f6840dd3b6e3600105"
+      "Hash": "0689ca984c3ba5392bcd7db3ff09acc4758f25ff887a57495ca07354b9b2faaa"
     },
     "h1:hack_the_box": {
       "Key": "hack_the_box",
@@ -168350,35 +168350,6 @@
       },
       "Hash": "e50d5a10bd009aafbf37b8fd9003ffe272264653d390268dbf4fac919aebe115"
     },
-    "h1:mariadb": {
-      "Key": "mariadb",
-      "Name": "MariaDB",
-      "URL": "https://hackerone.com/mariadb",
-      "InScope": {
-        "MariaDB Server \u0026 Connectors  - Denial of Service": {
-          "ID": "MariaDB Server \u0026 Connectors  - Denial of Service",
-          "Type": "SOURCE_CODE"
-        },
-        "MariaDB Server \u0026 Connectors - Access control bypass": {
-          "ID": "MariaDB Server \u0026 Connectors - Access control bypass",
-          "Type": "SOURCE_CODE"
-        },
-        "MariaDB Server \u0026 Connectors - Data corruption, exfiltration, disclosure": {
-          "ID": "MariaDB Server \u0026 Connectors - Data corruption, exfiltration, disclosure",
-          "Type": "SOURCE_CODE"
-        },
-        "MariaDB Server \u0026 Connectors - Remote Code Execution": {
-          "ID": "MariaDB Server \u0026 Connectors - Remote Code Execution",
-          "Type": "SOURCE_CODE"
-        },
-        "mariadb.org": {
-          "ID": "mariadb.org",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {},
-      "Hash": "e7ba6a70c778ab22cba435973ba2c72b3030fb2b7127316d5dbb87ad263d9774"
-    },
     "h1:marriott": {
       "Key": "marriott",
       "Name": "Marriott Bug Bounty Program",
@@ -178756,7 +178727,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "a03bad3bb3b993ca2d74be985e4f98d31eb2e68c9f7dbbbd7ec0ba12127cf7f5"
+      "Hash": "0ac83594c70df750442602645e68aa1f4b302514149486b0fb19147e2835e5e9"
     },
     "h1:omnicell": {
       "Key": "omnicell",
@@ -191933,7 +191904,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "37031203673840ca9f1f70b68e5b98e63ce3f8ef5f6ec98f191a4991c23c844c"
+      "Hash": "6b351dbd11acbc1a4c770733778f8ed07061b48727490033e63fee8b3bc6206c"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -200698,10 +200669,6 @@
           "ID": "*.ein-herz-fuer-kinder.de",
           "Type": "wildcard"
         },
-        "*.emarketer.com": {
-          "ID": "*.emarketer.com",
-          "Type": "wildcard"
-        },
         "*.fitbook.de": {
           "ID": "*.fitbook.de",
           "Type": "wildcard"
@@ -200837,7 +200804,7 @@
           "Type": "wildcard"
         }
       },
-      "Hash": "2536bc140408a9e245be068f2499abba426df5415db3ab6bba553e8041d69828"
+      "Hash": "b0c09ca3916fbb0410bda5595e5c72c7cf72dde335a0438e4e02851f8eeae33d"
     },
     "in:96d3f49a-4c5f-4bc8-835a-77f734eefe4e": {
       "Key": "96d3f49a-4c5f-4bc8-835a-77f734eefe4e",
