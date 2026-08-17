@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T13:49:58Z",
+  "captured_at": "2026-08-17T14:39:29Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -14124,7 +14124,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "54ccce57e5189d3975bb16807e06ef04f81fa2ca6296d2cbcf2f414edd47726e"
+      "Hash": "4eef5786512d2ff766077c66cde2962206252f13569368f265707fe9eba6c48e"
     },
     "bc:Sky DACH Vulnerability Disclosure Program": {
       "Key": "Sky DACH Vulnerability Disclosure Program",
@@ -23322,7 +23322,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a8d19b3890e1be9f28f101cfcb544e1bf3b172b2eeafeb66a28800c3d8ffa56c"
+      "Hash": "4b009136376ad1e76d36db2ba316a781d48d2c2c4f212bb6f07de8f80c9050b6"
     },
     "h1:abn_amro_vdp": {
       "Key": "abn_amro_vdp",
@@ -31086,7 +31086,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "02a7f69ed4899581977ce37dd98420a1581f1c0fb6060ee583febc042bebf2b1"
+      "Hash": "78a76e56838871637fe3fb01cc2ace0b6b39d7cb4a94877df134d4b6d87dc2dc"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -67621,7 +67621,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "29cfb6180bc35665191a3bac37b4f42bf8ad6112eccd65bfeba9d7074ea44b5e"
+      "Hash": "32664a4a28645486be176363ddb70e40ec9efe1954068ad9fe227a2f33f8f699"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -96304,7 +96304,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a3f8f660b36ac29f96fae3cb1de1877f9c5f58ccf95c3d7c1bf50d5e1abcafbf"
+      "Hash": "df52d54504557794802468de93632b3a8155a15e6c201aa52049d29c417c9f9e"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -169251,7 +169251,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8aa52b26fdc924c2a122a9943cd3f46404da0e384ab96c3320ad91d94fc43d7f"
+      "Hash": "06d9cdf03791e69eb4b69b80363e21fe9493e1cdf24bc0faaba35822416f1031"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -187403,7 +187403,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "d84b008090eb8a196bb091823a5cc2675517eb5e7378bf848cdbc4b93fade847"
+      "Hash": "db3ad4a15dc733fab2481f53fff166b25e853b06855175541efbe824680a4ba9"
     },
     "h1:streak_com": {
       "Key": "streak_com",
@@ -188731,7 +188731,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "09607f9ac089ef23acb79a2b6b137a2a94d8e18a794dc7fadeb8241ccc31ef90"
+      "Hash": "22300274707bc89995df11144450f1c7235919309be3f5a30959e2ed00c7cc18"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -193464,7 +193464,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "475d752fb7b2226922b5ef81c7d51a506464750a013b676c688034c981aef952"
+      "Hash": "87dbd9ba0a6f9cc90c53211e91421c0063754a9f636909abd847fb2d25a9acc2"
     },
     "h1:vodafone_oman": {
       "Key": "vodafone_oman",
@@ -197879,6 +197879,10 @@
           "ID": "abonnement.parool.nl",
           "Type": "url"
         },
+        "actie.parool.nl": {
+          "ID": "actie.parool.nl",
+          "Type": "url"
+        },
         "parool.nl/inloggen": {
           "ID": "parool.nl/inloggen",
           "Type": "url"
@@ -197896,7 +197900,7 @@
           "Type": "url"
         }
       },
-      "Hash": "bd43b507af27a3846bd7b3d44e82b8c7127e2a8496f6f4a1b2436deaa3dc0989"
+      "Hash": "6e88399f5d7869ca7bb793a8d1a6ea339afaf8117f69cda018e271fd7681491f"
     },
     "in:4352dcef-dfc5-4d74-8fd8-9bef5aa16f18": {
       "Key": "4352dcef-dfc5-4d74-8fd8-9bef5aa16f18",
@@ -197924,6 +197928,10 @@
           "ID": "*.libelle.nl",
           "Type": "wildcard"
         },
+        "actie.libelle.nl": {
+          "ID": "actie.libelle.nl",
+          "Type": "url"
+        },
         "www.libelle.nl": {
           "ID": "www.libelle.nl",
           "Type": "url"
@@ -197947,7 +197955,7 @@
           "Type": "url"
         }
       },
-      "Hash": "c723b5379213396e1e4e71ed17cbde0c1dd14beab6716e4e28e94cb7c0ab85e5"
+      "Hash": "882373261ca8bc3a19849f40369171f71ec6a96730ccfcc21f482d8e0f276ac7"
     },
     "in:452a516e-fc32-4285-96e5-97ad5e5e9595": {
       "Key": "452a516e-fc32-4285-96e5-97ad5e5e9595",
@@ -198699,12 +198707,16 @@
         }
       },
       "OutScope": {
+        "actie.hln.be": {
+          "ID": "actie.hln.be",
+          "Type": "url"
+        },
         "hln.be/service": {
           "ID": "hln.be/service",
           "Type": "url"
         }
       },
-      "Hash": "051cd9a494d98b460583c5a013009d63f23e015460a96211fea0cda0c282b727"
+      "Hash": "411b9faffeefde90292dc85dc8515dfe89d7c4df8f5e07bfd9e9b0ffb79397ee"
     },
     "in:5e9d5fc7-2cfe-4530-94de-c55f1d8d3a8e": {
       "Key": "5e9d5fc7-2cfe-4530-94de-c55f1d8d3a8e",
@@ -199113,6 +199125,10 @@
           "ID": "abonnement.humo.be",
           "Type": "url"
         },
+        "actie.humo.be": {
+          "ID": "actie.humo.be",
+          "Type": "url"
+        },
         "humo.be/inloggen": {
           "ID": "humo.be/inloggen",
           "Type": "url"
@@ -199126,7 +199142,7 @@
           "Type": "url"
         }
       },
-      "Hash": "e6aef2e280956d7921d177869946a74d706c85800aef448d390427e7bafd172d"
+      "Hash": "ceb5db0edc0205b8fa55365887bfac3ce4a29714e8701db52058c74465099237"
     },
     "in:67f303d5-5c5b-44ec-a278-874f818fbc48": {
       "Key": "67f303d5-5c5b-44ec-a278-874f818fbc48",
@@ -199786,12 +199802,16 @@
         }
       },
       "OutScope": {
+        "Qualifio Subdomains": {
+          "ID": "Qualifio Subdomains",
+          "Type": "other"
+        },
         "visitors.dpgmedia.be": {
           "ID": "visitors.dpgmedia.be",
           "Type": "url"
         }
       },
-      "Hash": "0f2cb1beec95acdd4ea7b7cc93cbb00e4249a10749c3ee3066509a6e3e556e55"
+      "Hash": "1d40cf2ba5ca386bf496f0549a2bb5cdc4d1da4d9b4b60e464a62fec554d8428"
     },
     "in:8148a041-c41d-4128-8c73-f4727002515e": {
       "Key": "8148a041-c41d-4128-8c73-f4727002515e",
@@ -203833,6 +203853,23 @@
       },
       "Hash": "fdd640fb20752c43c274d2acf1f123edcf6a8184655e8d70d3bc6f8f75c3b097"
     },
+    "in:ecf9c610-36eb-47df-8b25-bb496aff8015": {
+      "Key": "ecf9c610-36eb-47df-8b25-bb496aff8015",
+      "Name": "Nexuzhealth Web PACS",
+      "URL": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
+      "InScope": {
+        " idp-contact.nexuzhealth.be": {
+          "ID": " idp-contact.nexuzhealth.be",
+          "Type": "url"
+        },
+        "media.nexuzhealth.be/patient/ ": {
+          "ID": "media.nexuzhealth.be/patient/ ",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
+    },
     "in:ef919950-9ced-48c3-b1f4-2379c43c8ec5": {
       "Key": "ef919950-9ced-48c3-b1f4-2379c43c8ec5",
       "Name": "Wärtsilä Vulnerability Disclosure Program",
@@ -203885,6 +203922,10 @@
           "ID": "abonnement.trouw.nl",
           "Type": "url"
         },
+        "actie.trouw.nl": {
+          "ID": "actie.trouw.nl",
+          "Type": "url"
+        },
         "trouw.nl/inloggen": {
           "ID": "trouw.nl/inloggen",
           "Type": "url"
@@ -203902,7 +203943,7 @@
           "Type": "url"
         }
       },
-      "Hash": "8e440d689cf78ad7b669e19120568dda0435e31f01d370260865c6400f3020ce"
+      "Hash": "b40e477915818b97909f56f130e01b3bc3d279f4fadd558386464b8c5455c986"
     },
     "in:efd8bd86-a986-4b4a-9eda-c9a6a1a6b540": {
       "Key": "efd8bd86-a986-4b4a-9eda-c9a6a1a6b540",
