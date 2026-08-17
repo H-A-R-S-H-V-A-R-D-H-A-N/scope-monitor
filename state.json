@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T16:40:27Z",
+  "captured_at": "2026-08-17T17:39:35Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18394,7 +18394,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "5d6b3ddfbb6d2f3584fc61145b447da00c76aee10ef66cd8539dad7ae46f30d8"
+      "Hash": "4244967f65fa3fa29cf6e471b3f9351010e6411afef446a937295dabf0d3eaca"
     },
     "h1:6sense-vdp": {
       "Key": "6sense-vdp",
@@ -105022,7 +105022,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c4f505907087f6e80ce1704b81696c8cc7faade79560930c3bd2293fe847bfef"
+      "Hash": "5c867ba5e3211486d24b4b02716329d53136f0831e4d89f5060db04cf75e944f"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -145255,7 +145255,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2ae71e632f77a43b51656b2c695db234d5288f416f277a0ba367f2eaabd05dcd"
+      "Hash": "c6e3963369d02070a5009e30acc604d8e8003ff9e7517b69d18345f9a9ff2de5"
     },
     "h1:formassembly": {
       "Key": "formassembly",
@@ -170157,7 +170157,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1b5636d270bb3ac4f8129175cdc26cbd0e6c210819f339048c0c257f220351ab"
+      "Hash": "d582c003389aff37cccfa188e11f3dbd72d11864e6a034df5d36135d64a6a4d0"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -188143,7 +188143,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c62c694f99c8dd7463d5a77ee4f7d1e652d99340aab7c07e15b78e22cdfc0dbc"
+      "Hash": "e7aa2c1ecb754fc33699e63e36350f01a9c253422f4f974d1973feb352c5c531"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -189205,7 +189205,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6cc84404f6a05964389e787bc2add8ce28ed5156c6b086ca13fd2aaa442daf9a"
+      "Hash": "a2988caa0aa3afdcf803120553fc28703faa87e568efbb07943d0cdd2f04ca5d"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -194254,7 +194254,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "96cb3d7f5401649ffd2af5f3cbe0745bd9623223a58613881f43d9bb26858316"
+      "Hash": "ad216ebec6569dfc1b7874849f4a8487e0059b4fe898f912e202b7ca32bcd7df"
     },
     "h1:worldpay": {
       "Key": "worldpay",
@@ -195514,7 +195514,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e32de7a93bc7ce53e34526bdbf2862094593332528a622256cd0a40829f09916"
+      "Hash": "1f40ad5958d37fe0055fa8e46bc7f29a1def5f315792ddbada6f4ccd2b8d3285"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -199004,52 +199004,6 @@
       "OutScope": {},
       "Hash": "ca0c160d17e90a49ff9c71a3d35af84dc37da1d88a11d1d468f9b2f1c9c44e5b"
     },
-    "in:64f80113-969e-4c55-9649-8a044487941c": {
-      "Key": "64f80113-969e-4c55-9649-8a044487941c",
-      "Name": "PDQ bug bounty program",
-      "URL": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "InScope": {
-        "https://a.simplemdm.com/": {
-          "ID": "https://a.simplemdm.com/",
-          "Type": "url"
-        },
-        "https://app.pdq.com/": {
-          "ID": "https://app.pdq.com/",
-          "Type": "url"
-        },
-        "https://auth2.pdq.com/": {
-          "ID": "https://auth2.pdq.com/",
-          "Type": "url"
-        },
-        "https://library.pdq.com/": {
-          "ID": "https://library.pdq.com/",
-          "Type": "url"
-        },
-        "https://portal.pdq.com/": {
-          "ID": "https://portal.pdq.com/",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "https://*.pdq.com/": {
-          "ID": "https://*.pdq.com/",
-          "Type": "wildcard"
-        },
-        "https://*.pdq.tools/": {
-          "ID": "https://*.pdq.tools/",
-          "Type": "wildcard"
-        },
-        "https://*.simplemdm.com/ ": {
-          "ID": "https://*.simplemdm.com/ ",
-          "Type": "wildcard"
-        },
-        "https://*.smartdeploy.com/ ": {
-          "ID": "https://*.smartdeploy.com/ ",
-          "Type": "wildcard"
-        }
-      },
-      "Hash": "4fa9f97456ab76e20a594fdc52aeb4a83f46f14d92708334ed1914565df11e85"
-    },
     "in:6558543a-236f-4e98-91a3-4536e39b9c1e": {
       "Key": "6558543a-236f-4e98-91a3-4536e39b9c1e",
       "Name": "intigriti",
@@ -202492,128 +202446,6 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
