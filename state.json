@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T14:39:29Z",
+  "captured_at": "2026-08-17T16:40:27Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18394,7 +18394,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "4244967f65fa3fa29cf6e471b3f9351010e6411afef446a937295dabf0d3eaca"
+      "Hash": "5d6b3ddfbb6d2f3584fc61145b447da00c76aee10ef66cd8539dad7ae46f30d8"
     },
     "h1:6sense-vdp": {
       "Key": "6sense-vdp",
@@ -23322,7 +23322,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4b009136376ad1e76d36db2ba316a781d48d2c2c4f212bb6f07de8f80c9050b6"
+      "Hash": "a8d19b3890e1be9f28f101cfcb544e1bf3b172b2eeafeb66a28800c3d8ffa56c"
     },
     "h1:abn_amro_vdp": {
       "Key": "abn_amro_vdp",
@@ -24008,7 +24008,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "de30133697bac31338b32dc4431e80e8b24e6d4aa58c2336a8f30d04cf56b260"
+      "Hash": "3d5b24d8bef5d99cd1a058698dcc266bf321c22f05db97efe24351d9d9cf8a51"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -28474,7 +28474,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3b8295335fb943d535fc3ae3505e9b18cdcb9ddb04125eb5f9f9645c96df2a61"
+      "Hash": "905af1392d6c8ce2b25fa673a8a810bd8858918a1e4e2a4efb9c93098da66a01"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -28564,7 +28564,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "684bad090b4ba8fd724fae5ddec91c47c5377b7986a48fa8b417f51139b207d5"
+      "Hash": "d93fa7d472473513204ab776939efba21ed36b74ece131f8f43fc73b97925572"
     },
     "h1:aws_vdp": {
       "Key": "aws_vdp",
@@ -31120,7 +31120,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "5243087d928927e82e65fd247891e0318413b2805833858e704bc653cb35f2b9"
+      "Hash": "9bb6aa1f2ad2974465546efea247b37081caec0c683ec0ab356e8908cb1a97e8"
     },
     "h1:bill_vdp": {
       "Key": "bill_vdp",
@@ -31178,7 +31178,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "122f2fbbef744d79954e3fdf09aae4c2d738920a500735df3a62c3cb2e3a2d2b"
+      "Hash": "8c966b3745c1c535f4948c8f82c2e6670b7c350a1f27e8aef583a66cbeaea781"
     },
     "h1:bitwarden": {
       "Key": "bitwarden",
@@ -31757,6 +31757,35 @@
       "OutScope": {},
       "Hash": "271a6324c3b068c54cbb39906ca929df27d36842491f590951de11ec2d595356"
     },
+    "h1:brave": {
+      "Key": "brave",
+      "Name": "Brave Software",
+      "URL": "https://hackerone.com/brave",
+      "InScope": {
+        "Brave Browser Desktop": {
+          "ID": "Brave Browser Desktop",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "Brave websites": {
+          "ID": "Brave websites",
+          "Type": "OTHER"
+        },
+        "com.brave.browser": {
+          "ID": "com.brave.browser",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.brave.ios.browser": {
+          "ID": "com.brave.ios.browser",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://github.com/brave/*, https://github.com/brave-intl/*": {
+          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {},
+      "Hash": "88084c84db7c0e1d30aa7ec7d3b39d65d733d9f7f995f550b6b283f3dc2afe15"
+    },
     "h1:braze_inc": {
       "Key": "braze_inc",
       "Name": "Braze, Inc.",
@@ -31864,7 +31893,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d9ceaf1aaeb0b0ca9b677d128f8d7200fbbd7576326db3e4b0847d1e4fc8ac2c"
+      "Hash": "be96f2aaa1ed29f50c956ba7bd5c91a6b7e0962065d573d5fda5a034845f3672"
     },
     "h1:bumba_bbp": {
       "Key": "bumba_bbp",
@@ -88904,7 +88933,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "47fd66f477cce3d92dc719e2a424d14f1b0c0f9a5d33c9c09d6a7b9082533606"
+      "Hash": "d049808db315f260d43a7dd93f979bceb39cc43ad166378a492214209bdef5ab"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -91056,7 +91085,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c7b09d4cd3d64faea9be6ebc56c2948fe8f997921f1491fb2f3e1e4e5ccc018c"
+      "Hash": "6fdc083151d4631e019bc95ffcf7a1b8801eb5c756acebbc64402a6cc195d3f0"
     },
     "h1:deptofdefense": {
       "Key": "deptofdefense",
@@ -97989,7 +98018,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cb33706cd299094fb76bfabe98906dc785c26bb53e56f7e9e15f1e1002d2f528"
+      "Hash": "85206e537c9fa83d35acef6179ae9c1cb877d8149ad6c14596b31f8dd449cc5e"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -104993,7 +105022,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0ebba7d61dff327216133727bd351e0797b2e7e1c2b0873e9b03bdf3844ac0b7"
+      "Hash": "c4f505907087f6e80ce1704b81696c8cc7faade79560930c3bd2293fe847bfef"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -145288,7 +145317,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "eb8d95d33d9d1109ee2b8b0a21cfb51cfdf6e4a1360fb6e38b3ae576d4cb6164"
+      "Hash": "292089f3e1fa2f790d918c02e555d6e30940e07f4ed10e1898c992b67799b46f"
     },
     "h1:freshworks": {
       "Key": "freshworks",
@@ -145862,7 +145891,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9744a9675ac0eee8e2a89bdfdacb3abed27401f0ab2ee123898ad4d269a9f7fb"
+      "Hash": "e24743b7517066291252bb105fad6323a85c6d5b436ad54418d1703e5ea5cf95"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -148523,7 +148552,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1af52bc3e08bd55bbfc3e21f1262c6ec7ace90587e8e34ae82b368213b0c8e80"
+      "Hash": "c8a4b867ab1caf7bad54d41bbff0a342ba3144df3f3132e88770c1c833b0d482"
     },
     "h1:homebargains": {
       "Key": "homebargains",
@@ -166208,7 +166237,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d855a5249e4a2d8e0956ca00394271013ace7acefbda16099955d8e8510caddd"
+      "Hash": "b8321201c7f44aae7f28a272d3b425decf699c0f40e15362b41606e6cc761151"
     },
     "h1:kiwicom": {
       "Key": "kiwicom",
@@ -168000,7 +168029,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aaa7f0a1893f573308ec52c56bc5a8ec85d37c3733e56c9affe25764594b28cd"
+      "Hash": "9e9a83fd765f432b5ecdd1bab976b7c16efd19e1b00893d961a53a2583c5e1b5"
     },
     "h1:luminor": {
       "Key": "luminor",
@@ -169948,7 +169977,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "41abf1d033bbd22d63d5199fa04a698a1dc50e151bec1cd33b79477d8619d6cf"
+      "Hash": "9a0d6112ea123b41555018a653551651ed71d9f72411f0a9af314e955c7f8984"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -172671,7 +172700,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0a5c9555af6df46f0095aa99102e8794a87e18eab18a780033b00902e16f92b0"
+      "Hash": "49d25c64574b8d6f547895657b754b9d127874b663401e6a8ee73e43b6eb35e1"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -175683,7 +175712,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "afd11fcd2583623e1b3d8f331de9780ed64f3238ce75043f62a75ba45d33b866"
+      "Hash": "5732f36dfd6b5228a593067eb6e43443aa41af304ef3f60bd5e1db0f9f4bf63a"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -185047,7 +185076,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aec62f1c868447f7eb00e7755f0d76e020cb9deba8b58ee2937be2e270bf47fd"
+      "Hash": "35701a1b61872e3a4b2316087518296cc59d57b2f68e0c1e4c898786ae7880c4"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -186163,19 +186192,6 @@
       },
       "Hash": "716eb7d33cb531213d08bf9654d3b80fbfd9dceacef35b2ef644289e82c3831b"
     },
-    "h1:sidefx": {
-      "Key": "sidefx",
-      "Name": "SideFX",
-      "URL": "https://hackerone.com/sidefx",
-      "InScope": {
-        "*.sidefx.com": {
-          "ID": "*.sidefx.com",
-          "Type": "WILDCARD"
-        }
-      },
-      "OutScope": {},
-      "Hash": "d14c44b7db5b8dc6b4dd13db7be03d4cf908ef055aff3ace1dd5c6b2e42eea38"
-    },
     "h1:simple_poll": {
       "Key": "simple_poll",
       "Name": "Simple Poll",
@@ -187275,7 +187291,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e4180d090c057eb860c60df521a1236f95f99b309e0f1aaa67cc8b078648d9c"
+      "Hash": "0bc3be70f7b5186b459fd54e8ede8a0dcbbf013af0bafe376368f3fac0b329c5"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -193756,7 +193772,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f0ea9001c0c52f997aaec5e25bda21a774ba48ea978070c5cf6cc13b9599bda1"
+      "Hash": "213a0bb1efc3c52f9ac69408287b0afaea001ccaf2d5ead45d1e7d2cc677c8d6"
     },
     "h1:whatnot": {
       "Key": "whatnot",
@@ -193955,7 +193971,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "33367f52abbb83a1057faf8c97c30205b7e54ec57d5ef2d55d1b065a450c26c7"
+      "Hash": "4423a3cecd973d368400f02595719e160c6ada285465184f3aac3614b2bb8e25"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
@@ -194626,7 +194642,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4c31534dd71b76dc4fa887f111db0b460acc850ea64f2f2418f47b7c4ac57ff1"
+      "Hash": "36ceb2af005f9348e94b579b8c38570f17f072f4bc8edab10d14e0ec7b470e4a"
     },
     "h1:xvideos": {
       "Key": "xvideos",
@@ -194796,7 +194812,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4a515d4926a716e4e718bc1dc37c7cec2e8b63d640e09afd81d68397ecd19f2d"
+      "Hash": "2d142809ce9ece7c06a2e54a57912ba7ae1c518653d06c1b174fd88297a4fefe"
     },
     "h1:yuga_labs": {
       "Key": "yuga_labs",
@@ -198756,6 +198772,44 @@
       },
       "Hash": "40726b8134b49967eca41e1ada0016a9d11fc15acfe4e032cf00fdf71942e34b"
     },
+    "in:5ed6962a-7017-4d60-8805-e169b638528d": {
+      "Key": "5ed6962a-7017-4d60-8805-e169b638528d",
+      "Name": "Sqills",
+      "URL": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+      "InScope": {
+        "*.sqills.com": {
+          "ID": "*.sqills.com",
+          "Type": "wildcard"
+        },
+        "*.sqills.team": {
+          "ID": "*.sqills.team",
+          "Type": "wildcard"
+        }
+      },
+      "OutScope": {
+        "*.red.sqills.team": {
+          "ID": "*.red.sqills.team",
+          "Type": "wildcard"
+        },
+        "booking.*.cloud.sqills.com": {
+          "ID": "booking.*.cloud.sqills.com",
+          "Type": "wildcard"
+        },
+        "booking.*.sqills.com": {
+          "ID": "booking.*.sqills.com",
+          "Type": "wildcard"
+        },
+        "careers.sqills.com": {
+          "ID": "careers.sqills.com",
+          "Type": "url"
+        },
+        "welcome.sqills.com": {
+          "ID": "welcome.sqills.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "d8b1ff488fa4c926cc26ec88aac29a74241802ba5eeeae2edc3f9f42e3402d13"
+    },
     "in:5f29e1eb-85e8-4d99-9b52-b809f06de633": {
       "Key": "5f29e1eb-85e8-4d99-9b52-b809f06de633",
       "Name": "Bpost",
@@ -202439,6 +202493,128 @@
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
     },
+    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
+      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
+      "Name": "DataCamp",
+      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "InScope": {
+        "*.datacamp.com": {
+          "ID": "*.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/certification": {
+          "ID": "app.datacamp.com/certification",
+          "Type": "url"
+        },
+        "app.datacamp.com/groups": {
+          "ID": "app.datacamp.com/groups",
+          "Type": "url"
+        },
+        "app.datacamp.com/learn": {
+          "ID": "app.datacamp.com/learn",
+          "Type": "url"
+        },
+        "assessment-api.datacamp.com": {
+          "ID": "assessment-api.datacamp.com",
+          "Type": "url"
+        },
+        "assessment-v2.datacamp.com ": {
+          "ID": "assessment-v2.datacamp.com ",
+          "Type": "url"
+        },
+        "assessment.datacamp.com": {
+          "ID": "assessment.datacamp.com",
+          "Type": "url"
+        },
+        "campus.datacamp.com": {
+          "ID": "campus.datacamp.com",
+          "Type": "url"
+        },
+        "com.datacamp": {
+          "ID": "com.datacamp",
+          "Type": "android"
+        },
+        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
+          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+          "Type": "ios"
+        },
+        "practice.datacamp.com": {
+          "ID": "practice.datacamp.com",
+          "Type": "url"
+        },
+        "profiles-api.datacamp.com": {
+          "ID": "profiles-api.datacamp.com",
+          "Type": "url"
+        },
+        "projects.datacamp.com": {
+          "ID": "projects.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com": {
+          "ID": "www.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com/datalab": {
+          "ID": "www.datacamp.com/datalab",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.it.datacamp.com": {
+          "ID": "*.it.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/recruit": {
+          "ID": "app.datacamp.com/recruit",
+          "Type": "url"
+        },
+        "ast-viewer.datacamp.com": {
+          "ID": "ast-viewer.datacamp.com",
+          "Type": "url"
+        },
+        "confluence.datacamp.com": {
+          "ID": "confluence.datacamp.com",
+          "Type": "url"
+        },
+        "dccertified.datacamp.com": {
+          "ID": "dccertified.datacamp.com",
+          "Type": "url"
+        },
+        "intranet.datacamp.com": {
+          "ID": "intranet.datacamp.com",
+          "Type": "url"
+        },
+        "jira.datacamp.com": {
+          "ID": "jira.datacamp.com",
+          "Type": "url"
+        },
+        "links.datacamp.com": {
+          "ID": "links.datacamp.com",
+          "Type": "url"
+        },
+        "rdocumentation.datacamp.com": {
+          "ID": "rdocumentation.datacamp.com",
+          "Type": "url"
+        },
+        "signature.datacamp.com": {
+          "ID": "signature.datacamp.com",
+          "Type": "url"
+        },
+        "status.datacamp.com": {
+          "ID": "status.datacamp.com",
+          "Type": "url"
+        },
+        "support.datacamp.com": {
+          "ID": "support.datacamp.com",
+          "Type": "url"
+        },
+        "talent-jobs-api.datacamp.com": {
+          "ID": "talent-jobs-api.datacamp.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
+    },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
       "Name": "Axel Springer SE Vulnerability Disclosure Program",
@@ -202495,6 +202671,47 @@
         }
       },
       "Hash": "53d37d7307cb96791970030cf034899ac2872abac47b7f83fd3e2efaf79e1e16"
+    },
+    "in:c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e": {
+      "Key": "c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e",
+      "Name": "Venly",
+      "URL": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+      "InScope": {
+        "api-wallet-sandbox.venly.io": {
+          "ID": "api-wallet-sandbox.venly.io",
+          "Type": "url"
+        },
+        "api-wallet.venly.io": {
+          "ID": "api-wallet.venly.io",
+          "Type": "url"
+        },
+        "api.arkane.network": {
+          "ID": "api.arkane.network",
+          "Type": "url"
+        },
+        "connect.arkane.network ": {
+          "ID": "connect.arkane.network ",
+          "Type": "url"
+        },
+        "connect.venly.io": {
+          "ID": "connect.venly.io",
+          "Type": "url"
+        },
+        "login.arkane.network": {
+          "ID": "login.arkane.network",
+          "Type": "url"
+        },
+        "login.venly.io": {
+          "ID": "login.venly.io",
+          "Type": "url"
+        },
+        "wallet.venly.io": {
+          "ID": "wallet.venly.io",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "ea8b482a765a30cb3b435286d5a943e795c63c5a4e9d7c1cdb44f1d51096498e"
     },
     "in:c7272420-0cef-4366-87d2-278c06591799": {
       "Key": "c7272420-0cef-4366-87d2-278c06591799",
@@ -203852,23 +204069,6 @@
         }
       },
       "Hash": "fdd640fb20752c43c274d2acf1f123edcf6a8184655e8d70d3bc6f8f75c3b097"
-    },
-    "in:ecf9c610-36eb-47df-8b25-bb496aff8015": {
-      "Key": "ecf9c610-36eb-47df-8b25-bb496aff8015",
-      "Name": "Nexuzhealth Web PACS",
-      "URL": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
-      "InScope": {
-        " idp-contact.nexuzhealth.be": {
-          "ID": " idp-contact.nexuzhealth.be",
-          "Type": "url"
-        },
-        "media.nexuzhealth.be/patient/ ": {
-          "ID": "media.nexuzhealth.be/patient/ ",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
     },
     "in:ef919950-9ced-48c3-b1f4-2379c43c8ec5": {
       "Key": "ef919950-9ced-48c3-b1f4-2379c43c8ec5",
