@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-18T08:50:31Z",
+  "captured_at": "2026-08-18T09:45:17Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -28292,7 +28292,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "49bb07e680c511d1fcd8bad291417a23e8251bbcd1c8c23919b9ff81df01a7d2"
+      "Hash": "684c9df35a2447591590e4c6d91c279f87f078cca3a90a7bd6cd77fdc3ae46ab"
     },
     "h1:automattic": {
       "Key": "automattic",
@@ -97189,7 +97189,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "702459c159a75a328b56e4577b355523ea793d414d2b5fca0ae5902d6cc5804a"
+      "Hash": "ac668af6ffec47e11f75696a406e8d7894e8554dd09d462bd900fadd9b473ce2"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -167923,7 +167923,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "a2ec2d24af4dc5c6697e4c0b4440b650c1fed64c3ff7d7df792a667209dcc6a5"
+      "Hash": "74f8c1b4ff49b1d7ceeb0bfe20e07a95049b2040ef8f03f1e833d969fde72497"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -178751,7 +178751,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "897cd6ceac553c3421765d396b2b7997b331bf1c7c9185f288e21f3811238a16"
+      "Hash": "a068d523dc7ef35d2fffda14dab4bdcb0f9078d7c9e7c9e07ac8829459f8c476"
     },
     "h1:on": {
       "Key": "on",
@@ -182774,7 +182774,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fbd7c94980c868a3d73fcf1344b0cc95dbabadd22e2ad03cabb90dc0dbf262c7"
+      "Hash": "91b3a93468794d5632e387f6078d2b000eff0d28ac07fe20e9cdcd22688c9dac"
     },
     "h1:privy-bbp": {
       "Key": "privy-bbp",
@@ -185508,7 +185508,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "1eba2a14333946dadbfe64541374d6dfe2207a4d3387d68caafb4e22c57e73e0"
+      "Hash": "73106fbf9539790d42c4399d9143de760b8b8da96f90f787c33cff814c92d1d9"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -187204,7 +187204,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "34157184d6b0ff2262effb3a5f8e3bbd4d3979198ea0f68ad1768827009f2384"
+      "Hash": "c1cea0b328652d34552e5b227b4a1830a4bd2e3d2c2cd43422003c1cf1d63765"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -191696,7 +191696,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "62d0bf92b8bebcda0a47a880270b545af80aa8032e2be7a58401e9e29d805f1d"
+      "Hash": "2f4b10293eb6a699bee32103e3e6b6dc9778012fa9348afe5048ab98dc14f23b"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -193146,7 +193146,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7a49651320e5428b22d12750d36f644b18cf3e0aa2cc1e4b62aee5db6ffff070"
+      "Hash": "9670e9a712e8502a7576b1ddd4de71221fe4c130cb6b29c664582e1bde1ac7a3"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -194119,7 +194119,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7bf20464e8bd40c4efcb5cf6ad65c789a891dc1b48ee96ee2e9cee47a1efdd1"
+      "Hash": "da4b2635304dddfc00b5623af49fe3d48f31a54f23d295ef2c464459754e1b9c"
     },
     "h1:wordpress": {
       "Key": "wordpress",
@@ -198965,6 +198965,52 @@
       },
       "OutScope": {},
       "Hash": "ca0c160d17e90a49ff9c71a3d35af84dc37da1d88a11d1d468f9b2f1c9c44e5b"
+    },
+    "in:64f80113-969e-4c55-9649-8a044487941c": {
+      "Key": "64f80113-969e-4c55-9649-8a044487941c",
+      "Name": "PDQ bug bounty program",
+      "URL": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "InScope": {
+        "https://a.simplemdm.com/": {
+          "ID": "https://a.simplemdm.com/",
+          "Type": "url"
+        },
+        "https://app.pdq.com/": {
+          "ID": "https://app.pdq.com/",
+          "Type": "url"
+        },
+        "https://auth2.pdq.com/": {
+          "ID": "https://auth2.pdq.com/",
+          "Type": "url"
+        },
+        "https://library.pdq.com/": {
+          "ID": "https://library.pdq.com/",
+          "Type": "url"
+        },
+        "https://portal.pdq.com/": {
+          "ID": "https://portal.pdq.com/",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "https://*.pdq.com/": {
+          "ID": "https://*.pdq.com/",
+          "Type": "wildcard"
+        },
+        "https://*.pdq.tools/": {
+          "ID": "https://*.pdq.tools/",
+          "Type": "wildcard"
+        },
+        "https://*.simplemdm.com/ ": {
+          "ID": "https://*.simplemdm.com/ ",
+          "Type": "wildcard"
+        },
+        "https://*.smartdeploy.com/ ": {
+          "ID": "https://*.smartdeploy.com/ ",
+          "Type": "wildcard"
+        }
+      },
+      "Hash": "4fa9f97456ab76e20a594fdc52aeb4a83f46f14d92708334ed1914565df11e85"
     },
     "in:6558543a-236f-4e98-91a3-4536e39b9c1e": {
       "Key": "6558543a-236f-4e98-91a3-4536e39b9c1e",
