@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-18T03:55:21Z",
+  "captured_at": "2026-08-18T04:47:18Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -7442,6 +7442,164 @@
         }
       },
       "Hash": "69033aa0f3b71aec57858558efc16666223675abdeba0deb85a54d0c79e3bcb2"
+    },
+    "bc:Latitude Financial Services Bug Bounty ": {
+      "Key": "Latitude Financial Services Bug Bounty ",
+      "Name": "Latitude Financial Services Bug Bounty ",
+      "URL": "https://bugcrowd.com/engagements/latitude-financial-service-bugbounty",
+      "InScope": {
+        " *.test.*.lfscnp.com": {
+          "ID": " *.test.*.lfscnp.com",
+          "Type": "website"
+        },
+        "*.-np.*.lfscnp.com": {
+          "ID": "*.-np.*.lfscnp.com",
+          "Type": "website"
+        },
+        "*.dev.*.lfscnp.com": {
+          "ID": "*.dev.*.lfscnp.com",
+          "Type": "website"
+        },
+        "*.genoapay.co.nz": {
+          "ID": "*.genoapay.co.nz",
+          "Type": "website"
+        },
+        "*.genoapay.com": {
+          "ID": "*.genoapay.com",
+          "Type": "website"
+        },
+        "*.latitudefinancial.co.nz": {
+          "ID": "*.latitudefinancial.co.nz",
+          "Type": "website"
+        },
+        "*.latitudefinancial.com": {
+          "ID": "*.latitudefinancial.com",
+          "Type": "website"
+        },
+        "*.latitudefinancial.com.au": {
+          "ID": "*.latitudefinancial.com.au",
+          "Type": "website"
+        },
+        "*.latitudepay.com": {
+          "ID": "*.latitudepay.com",
+          "Type": "website"
+        },
+        "*.latitudepay.com.au": {
+          "ID": "*.latitudepay.com.au",
+          "Type": "website"
+        },
+        "*.sandbox.*.lfscnp.com": {
+          "ID": "*.sandbox.*.lfscnp.com",
+          "Type": "website"
+        },
+        "https://28degreescard.com.au": {
+          "ID": "https://28degreescard.com.au",
+          "Type": "website"
+        },
+        "https://api.test.latitudefinancial.com": {
+          "ID": "https://api.test.latitudefinancial.com",
+          "Type": "api"
+        },
+        "https://app.latitudepayapps.com/": {
+          "ID": "https://app.latitudepayapps.com/",
+          "Type": "api"
+        },
+        "https://buyersedge.co.nz": {
+          "ID": "https://buyersedge.co.nz",
+          "Type": "website"
+        },
+        "https://carecredit.com.au": {
+          "ID": "https://carecredit.com.au",
+          "Type": "website"
+        },
+        "https://gemcreditline.co.nz": {
+          "ID": "https://gemcreditline.co.nz",
+          "Type": "website"
+        },
+        "https://gemfinance.co.nz": {
+          "ID": "https://gemfinance.co.nz",
+          "Type": "website"
+        },
+        "https://gemvisa.com.au": {
+          "ID": "https://gemvisa.com.au",
+          "Type": "website"
+        },
+        "https://gomastercard.com.au": {
+          "ID": "https://gomastercard.com.au",
+          "Type": "website"
+        },
+        "https://images.latitudepayapps.com/": {
+          "ID": "https://images.latitudepayapps.com/",
+          "Type": "api"
+        },
+        "https://interestfree.com.au": {
+          "ID": "https://interestfree.com.au",
+          "Type": "website"
+        },
+        "https://latitudeinfinity.com.au": {
+          "ID": "https://latitudeinfinity.com.au",
+          "Type": "website"
+        },
+        "https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/\t": {
+          "ID": "https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/\t",
+          "Type": "website"
+        },
+        "https://master.servicecentre.digitalservicing-np.lfscnp.com/": {
+          "ID": "https://master.servicecentre.digitalservicing-np.lfscnp.com/",
+          "Type": "website"
+        },
+        "https://umiloans.com.au": {
+          "ID": "https://umiloans.com.au",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "*.latitudefs.com": {
+          "ID": "*.latitudefs.com",
+          "Type": "other"
+        },
+        "https://*.my.latitudepay.com/": {
+          "ID": "https://*.my.latitudepay.com/",
+          "Type": "website"
+        },
+        "https://*.sg.latitudepay.com/": {
+          "ID": "https://*.sg.latitudepay.com/",
+          "Type": "website"
+        },
+        "https://auth.*.latitudefinancial.com": {
+          "ID": "https://auth.*.latitudefinancial.com",
+          "Type": "other"
+        },
+        "https://auth.latitudefinancial.com": {
+          "ID": "https://auth.latitudefinancial.com",
+          "Type": "other"
+        },
+        "https://investors.latitudefinancial.com.au": {
+          "ID": "https://investors.latitudefinancial.com.au",
+          "Type": "website"
+        },
+        "https://my.latitudepay.com": {
+          "ID": "https://my.latitudepay.com",
+          "Type": "website"
+        },
+        "https://p.latitudefinancial.com": {
+          "ID": "https://p.latitudefinancial.com",
+          "Type": "website"
+        },
+        "https://payments.latitudefinancial.com/hosted/*,https://payments.latitudefinancial.com/embed/*,https://payments-api.latitudefinancial.com/*": {
+          "ID": "https://payments.latitudefinancial.com/hosted/*,https://payments.latitudefinancial.com/embed/*,https://payments-api.latitudefinancial.com/*",
+          "Type": "website"
+        },
+        "https://sg.latitudepay.com": {
+          "ID": "https://sg.latitudepay.com",
+          "Type": "website"
+        },
+        "https://t.latitudefinancial.com/*": {
+          "ID": "https://t.latitudefinancial.com/*",
+          "Type": "website"
+        }
+      },
+      "Hash": "27ca0f1921446fdaa2f9dfd2490946bc6af50d2ce6c8ee7afc805abe8725beac"
     },
     "bc:LaunchDarkly Managed Bug Bounty Engagement": {
       "Key": "LaunchDarkly Managed Bug Bounty Engagement",
@@ -145269,7 +145427,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "549fb25f3aeb4eda84444de0ca6b000ed8522521d086e190d64b8450221c14e2"
+      "Hash": "e84474cfda0d95b124744b5abf2f7a45ebe6ef660dca0ed462751202540a95b1"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -145295,7 +145453,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "db20bb0350645fc3e679af07950ed1822e54d3ea3f50837f1b1ed21ad4e683e3"
+      "Hash": "4b7c6ca34f4252631c1aa9b9a532f5d9804a30275d63391ef60ef7c40548e9f9"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -167787,7 +167945,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "526dc78af6076ff61b223cf991ea68c9b401a4a82d1df7129f97826d1f8db35d"
+      "Hash": "e3dec094995cc2e7e55514d73d3108b47032b644c978afb7b8821e3f6abd6775"
     },
     "h1:lowes": {
       "Key": "lowes",
@@ -170930,7 +171088,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0c204d1429d10e7d62bfedaede168c4324bf4569dc3fd1dab053f12d44bf77b1"
+      "Hash": "a2cf8cec3eb5bacedc29c3b1d47d0685210559b17a21a88e0f444150ea375c29"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -185862,7 +186020,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "1c5d2eaf8d2e416f5300f9b6221972afba6f8540a2919e740551b4d3546f3c7c"
+      "Hash": "8b53508ddd4d05c4f72b8552f95cadab0a3e4527b52648e0d18021f57a385d04"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -189959,7 +190117,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2817835437d783eeffb6188d834074f672d4a6a260ace689fcc4193b2ff92bab"
+      "Hash": "c2dc89af2ffcec0f6188ad9ebdcd122334713819264b15c55c4d3787a0814bea"
     },
     "h1:truecaller": {
       "Key": "truecaller",
@@ -195348,7 +195506,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ccd04be93f84b3cfce2d6578ac2594c15cca3dfe219e71c38ce24c9a7e339bda"
+      "Hash": "e32de7a93bc7ce53e34526bdbf2862094593332528a622256cd0a40829f09916"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
