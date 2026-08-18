@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-18T15:42:19Z",
+  "captured_at": "2026-08-18T16:45:38Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -67650,7 +67650,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "678fb223cfa8caf275d08ef0bf4e07b333a1e2c76171ebc91d8c736d2a73a010"
+      "Hash": "3930d6f77dd17842e3b15db8bac535bc57f1211b22d5fb40198791fd2e411676"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -102520,7 +102520,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fe4eff5d7452198ef24963797f22a0bbe87e7388dcec056fa9e51738be156e85"
+      "Hash": "eada7bf99260b625fdd00006b5607e7adf53bb5eaa86803ac90e19195b13b5aa"
     },
     "h1:experian": {
       "Key": "experian",
@@ -158474,6 +158474,10 @@
           "ID": "api-qual-casemanagement-financeconnect.deere.com",
           "Type": "URL"
         },
+        "api-trade-mgmt.supplymgmt-tariffs-devl-vpn.use1.e15.c01.johndeerecloud.com": {
+          "ID": "api-trade-mgmt.supplymgmt-tariffs-devl-vpn.use1.e15.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
         "api-us-devl-e00.deere.com": {
           "ID": "api-us-devl-e00.deere.com",
           "Type": "URL"
@@ -163534,6 +163538,10 @@
           "ID": "stratos.deere.com",
           "Type": "URL"
         },
+        "subtier-langchain-api.supplymgmt-compliance-risk-prod-vpn2.us.e15.c01.johndeerecloud.com": {
+          "ID": "subtier-langchain-api.supplymgmt-compliance-risk-prod-vpn2.us.e15.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
         "sunbeltparts.com": {
           "ID": "sunbeltparts.com",
           "Type": "URL"
@@ -165777,7 +165785,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4aab8e3a97628f72f0125733ac084daa1c6fae386eed45b9ded79d138beca635"
+      "Hash": "69eea655d25a301df67fcd6561c2ee1b840c66640a4f5609f364d5b43da415a0"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -167528,7 +167536,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1161ebf0934c8e19319223b4a835190ce8d1d5f597f96e59521b1ed6fc71e627"
+      "Hash": "0d319228d8983b36b9f6b9d69ebd9e72501653389a1c56f6723d30991696d864"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -167919,7 +167927,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "a2ec2d24af4dc5c6697e4c0b4440b650c1fed64c3ff7d7df792a667209dcc6a5"
+      "Hash": "4be92ecb1afa54ec2a3d50bef04a2652197e51d0494a22c0b4faf0bf042fc084"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -178747,7 +178755,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a068d523dc7ef35d2fffda14dab4bdcb0f9078d7c9e7c9e07ac8829459f8c476"
+      "Hash": "897cd6ceac553c3421765d396b2b7997b331bf1c7c9185f288e21f3811238a16"
     },
     "h1:on": {
       "Key": "on",
@@ -181797,7 +181805,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d4af995973f817e7e40db45fc11822b71453d89ce86956b5ce046be33a1373be"
+      "Hash": "ec2e43e16db97e77ece78dc4bb03ae23727b4c212d25eceda5c1bb493d9ae563"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -183099,7 +183107,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "676ce9e0c0a8ce66bc561a0b4f1f874c63d9adc26e1cbb1006bda2ffdef31037"
+      "Hash": "a2f5f3b96414f483e6f6d1e1a5d6ef422c29be9f22d6d47b6456f6900d00a4e1"
     },
     "h1:r3": {
       "Key": "r3",
@@ -184321,7 +184329,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a4114ee821c5ab5c3d6724fecbc30b782f7ca78a88d8b16c10de75036b4ccf13"
+      "Hash": "bb2a4f223d04d69751d24edbc8e6de97bcafa0e26246061f3b4b7b103076c9bc"
     },
     "h1:revive_adserver": {
       "Key": "revive_adserver",
@@ -184567,7 +184575,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "8598ec661275804174146d89a5499d4f891f1af8472c856981cdacdd8482431b"
+      "Hash": "ccd399d1db66d63f2e1cd78cabdbf73361500f8d3c2a5616a289609c82ab30e0"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -187287,7 +187295,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0bc3be70f7b5186b459fd54e8ede8a0dcbbf013af0bafe376368f3fac0b329c5"
+      "Hash": "b5c8fc5b3a9c73dfa5f327e3fa196bbc132f8acd5702334cb1752fa5a210e16c"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -191860,7 +191868,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f8f12bc27586245fb53ca52a628d8c03390487c32746d53d7694837a880248d7"
+      "Hash": "9fa774cdc907664f6d86b822173f4ac825a05cb31d65bd9bc601759d89725fb3"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
