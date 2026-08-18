@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-18T18:53:00Z",
+  "captured_at": "2026-08-18T19:35:31Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26478,7 +26478,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "962683a281efe877acce6ad14d092051565e9b7f8a4b31b2e3ce5773f9dcbcdc"
+      "Hash": "8278daf3566839987bd9622d6546709c6f47d1ee602b4f7481f5561346c062ec"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -88531,7 +88531,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "560dc4f95dca08ff8942575d64d6ce764bc69a0b53eeff0764d45ddeabed1f0f"
+      "Hash": "76b63b03c541ffb0c35d2ac8362bed780602ff45cb4a001b7825d1702998805b"
     },
     "h1:cognizant": {
       "Key": "cognizant",
@@ -144423,7 +144423,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "89a97fd7a0a596d68c77a3ec19c7e5787db21bc74643b9b89078bfd9009a4ebc"
+      "Hash": "d8549b094a3d8272aa4a53db8a20ea55d104bf89db7f06d355e89ac5d961880d"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -147067,7 +147067,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9f5b263054ceae028ba6caa843f19ae3591c4b9a76841afd202e9d7f22091e2b"
+      "Hash": "73b13f3a52b7be5115bab55cc502d1dbd0d97132fc4646cb44574b3f49c6400e"
     },
     "h1:hack_the_box": {
       "Key": "hack_the_box",
@@ -149494,7 +149494,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2c67ce49b4813cac39b5dfbf00858b08947e6fb1c85f40c5385ca3f91ebb8ed5"
+      "Hash": "4a10f503ab822085255ba959fce7037948fcdb3b79d38a7e3562e5aa2eab6ff7"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -168381,7 +168381,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "659f445ba6945a94a5bb69965d781ce0998a4ab8ece0cb9471f9c48753c397d5"
+      "Hash": "b968146db74c48467a4c2dc32dac2505f5a390943a983ce725db455bb03ff336"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -177755,7 +177755,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "587f73992784932530b84ac9b6041f493b8363ca57c44069d708c6331e3762f9"
+      "Hash": "77bf0f2d76479734c5ebfa3063e585965adee68faae263f0cc112cc5b293caa3"
     },
     "h1:newegg": {
       "Key": "newegg",
@@ -183384,7 +183384,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0d313eef033bbfdd7dc27aa7e8fc88d2e77436b1985a51e4a2c1822f77e218f3"
+      "Hash": "b2da2131ea648de55896bd96eb6a9e348932404c2877110f269f5636c64228b3"
     },
     "h1:redox_bbp": {
       "Key": "redox_bbp",
@@ -189493,6 +189493,10 @@
           "ID": "argo-qa-perf-west-idp-nlb.dev.ccid.neustar.biz",
           "Type": "URL"
         },
+        "authn-uat-canada.ccid.neustar.biz": {
+          "ID": "authn-uat-canada.ccid.neustar.biz",
+          "Type": "URL"
+        },
         "authn-west-qa-perf.dev.ccid.neustar.biz": {
           "ID": "authn-west-qa-perf.dev.ccid.neustar.biz",
           "Type": "URL"
@@ -189577,6 +189581,10 @@
           "ID": "cs2protect.com",
           "Type": "URL"
         },
+        "cvt-uat-canada.ccid.neustar.biz": {
+          "ID": "cvt-uat-canada.ccid.neustar.biz",
+          "Type": "URL"
+        },
         "cvt-west-qa-perf.dev.ccid.neustar.biz": {
           "ID": "cvt-west-qa-perf.dev.ccid.neustar.biz",
           "Type": "URL"
@@ -189623,6 +189631,10 @@
         },
         "enrollment.monitormyidentity.com": {
           "ID": "enrollment.monitormyidentity.com",
+          "Type": "URL"
+        },
+        "extapi-test4.cloudcare.avg.com": {
+          "ID": "extapi-test4.cloudcare.avg.com",
           "Type": "URL"
         },
         "ezshield.biz": {
@@ -189928,7 +189940,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a975fb4bdaf0773c69163b08bc618c7ee244d1209d85d71f9d55cb9a1464ad64"
+      "Hash": "4cf0958be4be2f882c1c0c01c2bd451eac4057ae16e93662893063b9f76b16a0"
     },
     "h1:trellix": {
       "Key": "trellix",
