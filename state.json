@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-18T05:40:48Z",
+  "captured_at": "2026-08-18T07:00:10Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -8674,6 +8674,10 @@
           "ID": "https://apps.apple.com/au/app/monash-bsafe/id1462241951",
           "Type": "ios"
         },
+        "https://apps.apple.com/ky/app/m-space/id6761056432": {
+          "ID": "https://apps.apple.com/ky/app/m-space/id6761056432",
+          "Type": "ios"
+        },
         "https://apps.apple.com/us/app/monash-study/id1462126829": {
           "ID": "https://apps.apple.com/us/app/monash-study/id1462126829",
           "Type": "ios"
@@ -8766,6 +8770,10 @@
           "ID": "https://partner.apps.monash.edu",
           "Type": "website"
         },
+        "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share": {
+          "ID": "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share",
+          "Type": "android"
+        },
         "https://play.google.com/store/apps/details?id=com.scu.bsafe": {
           "ID": "https://play.google.com/store/apps/details?id=com.scu.bsafe",
           "Type": "android"
@@ -8824,7 +8832,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c140d32ecce394d653dc658a21a87cf25b318cd279c69c7989c7b7e9511e69cc"
+      "Hash": "dac404403426b7edfb207193dd93b18fd697d8e9f3472b46e967aaa5126a4c12"
     },
     "bc:Moneytree KK": {
       "Key": "Moneytree KK",
@@ -88478,7 +88486,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d923c0fdd84e9feff8d513633cbe832a4e70138660f174152452ca1b9878e0e9"
+      "Hash": "ad494a8fe1ec8393e21f662faf2cbccf46f74232f2c33c5ebb9f158837e94bd2"
     },
     "h1:coinbase": {
       "Key": "coinbase",
@@ -88767,7 +88775,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d049808db315f260d43a7dd93f979bceb39cc43ad166378a492214209bdef5ab"
+      "Hash": "a2bf579ecf51058e03c70cc1d3a6e5dda91bc4d945ea1ded75c2db450014ae03"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -148416,7 +148424,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "733640db09f168df83e07f238480a3cbbf0e26b493340c63b2e1baadd86d0c31"
+      "Hash": "29093807269878f264e2b60515f806c2426025762592bce2c43c5aacccaaf645"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -169991,7 +169999,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d582c003389aff37cccfa188e11f3dbd72d11864e6a034df5d36135d64a6a4d0"
+      "Hash": "1b5636d270bb3ac4f8129175cdc26cbd0e6c210819f339048c0c257f220351ab"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -177279,7 +177287,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ef803fa0fc55b01bd4755613657cafaeabc98ba0878aeac07ec3386cf3a10d31"
+      "Hash": "8edaeda68f08a719928f0a7869580dcdb983b3e941e5c970e868eac5868e5d1d"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -181635,7 +181643,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d4af995973f817e7e40db45fc11822b71453d89ce86956b5ce046be33a1373be"
+      "Hash": "ec2e43e16db97e77ece78dc4bb03ae23727b4c212d25eceda5c1bb493d9ae563"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -185404,7 +185412,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cbb8fb18ab90e773084ec096bfe3677aecdce5e41fdc1967a4ae014ba0626a30"
+      "Hash": "08312e3c8ab35a7120a03aab3515a376322a742038ed86b491df7cffb6f96d75"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
