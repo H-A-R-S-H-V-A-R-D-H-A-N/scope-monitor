@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-18T14:47:29Z",
+  "captured_at": "2026-08-18T15:42:19Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -67354,7 +67354,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "171172f3feb8a83bef93f297cc06e94092f2bf979b75fc2f3fc5608a6cf13c5b"
+      "Hash": "87e47f57c86ddc5925956f7467177cb5d4d50f0b98251e23777694fe01c70f09"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -148548,7 +148548,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fc11e108a51a8522e4154f8ff279e0882f82bc7629d379e95addde2e88c4d20a"
+      "Hash": "d5b0289161d37d4dd351c131cc98a78f6a400897438577bfaf02ccd9cc04dbc8"
     },
     "h1:homebargains": {
       "Key": "homebargains",
@@ -169973,7 +169973,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "41abf1d033bbd22d63d5199fa04a698a1dc50e151bec1cd33b79477d8619d6cf"
+      "Hash": "9a0d6112ea123b41555018a653551651ed71d9f72411f0a9af314e955c7f8984"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -191848,6 +191848,19 @@
       },
       "OutScope": {},
       "Hash": "17ed23601ad3c50875a4c4b71daa5506c71e5968746fd67bdff147abd101e60d"
+    },
+    "h1:vercel_sandbox": {
+      "Key": "vercel_sandbox",
+      "Name": "Vercel Sandbox",
+      "URL": "https://hackerone.com/vercel_sandbox",
+      "InScope": {
+        "Vercel sandbox": {
+          "ID": "Vercel sandbox",
+          "Type": "OTHER"
+        }
+      },
+      "OutScope": {},
+      "Hash": "f8f12bc27586245fb53ca52a628d8c03390487c32746d53d7694837a880248d7"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
