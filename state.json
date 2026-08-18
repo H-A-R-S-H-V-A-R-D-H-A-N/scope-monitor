@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-18T20:58:31Z",
+  "captured_at": "2026-08-18T21:34:51Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -28243,7 +28243,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d42a833071be1125baed444633449ddde2fe2900c9caed48be251c0ebe2d3162"
+      "Hash": "63518262b1fce47fa4e4b57b7e2a50f2a53bd8fb4648551107497458f39c784a"
     },
     "h1:autodesk": {
       "Key": "autodesk",
@@ -31805,7 +31805,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ab4552c89e8415e663dae3e413ad52ff6e6bfb99521685354cdb8372869582d6"
+      "Hash": "1ac632893e357257e0142cc597de7e4155cf298d83ae9c0a08db5e94acdabf54"
     },
     "h1:brightspeed": {
       "Key": "brightspeed",
@@ -202697,47 +202697,6 @@
         }
       },
       "Hash": "53d37d7307cb96791970030cf034899ac2872abac47b7f83fd3e2efaf79e1e16"
-    },
-    "in:c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e": {
-      "Key": "c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e",
-      "Name": "Venly",
-      "URL": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-      "InScope": {
-        "api-wallet-sandbox.venly.io": {
-          "ID": "api-wallet-sandbox.venly.io",
-          "Type": "url"
-        },
-        "api-wallet.venly.io": {
-          "ID": "api-wallet.venly.io",
-          "Type": "url"
-        },
-        "api.arkane.network": {
-          "ID": "api.arkane.network",
-          "Type": "url"
-        },
-        "connect.arkane.network ": {
-          "ID": "connect.arkane.network ",
-          "Type": "url"
-        },
-        "connect.venly.io": {
-          "ID": "connect.venly.io",
-          "Type": "url"
-        },
-        "login.arkane.network": {
-          "ID": "login.arkane.network",
-          "Type": "url"
-        },
-        "login.venly.io": {
-          "ID": "login.venly.io",
-          "Type": "url"
-        },
-        "wallet.venly.io": {
-          "ID": "wallet.venly.io",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "ea8b482a765a30cb3b435286d5a943e795c63c5a4e9d7c1cdb44f1d51096498e"
     },
     "in:c7272420-0cef-4366-87d2-278c06591799": {
       "Key": "c7272420-0cef-4366-87d2-278c06591799",
