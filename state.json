@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-18T13:54:01Z",
+  "captured_at": "2026-08-18T14:47:29Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26520,7 +26520,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1e846c749d486de9d0e6fe2d83ad3c0aa29a79ad8360ecbc565e1cb2ffd10030"
+      "Hash": "5130bb0965e37fe6142626c07a9c88d8517651abcbf56670b45d01c1925141ba"
     },
     "h1:anthropic": {
       "Key": "anthropic",
@@ -91030,7 +91030,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7537f601c408bfca11e72a0aae51102abe3f42b53cc4edd0aaae0e633038c32d"
+      "Hash": "e282c17202b505ce31a43f55f043c21417751c601cefe470da5983f060b5174f"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -105036,7 +105036,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6254cc4b618c9ecc23b8dbad5ff0630b39766809d7795cb417e1ae0d85db90ec"
+      "Hash": "8030974f39efefd19f6503791cebf5bd4e1c4b9926351dc6cc6572d73ded8394"
     },
     "h1:finra": {
       "Key": "finra",
@@ -148398,7 +148398,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "66ca9b3951a5fe5e7a8b9bb6e26c1017f19fb2e37285fb819217aeff2a56da8b"
+      "Hash": "4b0488b3383294e26c88b9f94cfd5ccb55e99e938586f81c7f5d44f34330c1db"
     },
     "h1:hilton": {
       "Key": "hilton",
@@ -165921,10 +165921,6 @@
           "ID": "*.rocketcyber.com",
           "Type": "WILDCARD"
         },
-        "*.saasalerts.com": {
-          "ID": "*.saasalerts.com",
-          "Type": "WILDCARD"
-        },
         "*.scorpionsoft.com": {
           "ID": "*.scorpionsoft.com",
           "Type": "WILDCARD"
@@ -165964,6 +165960,10 @@
         "autotask.net": {
           "ID": "autotask.net",
           "Type": "URL"
+        },
+        "https://qa.manage.saasalerts.com/": {
+          "ID": "https://qa.manage.saasalerts.com/",
+          "Type": "URL"
         }
       },
       "OutScope": {
@@ -165976,7 +165976,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "bb3f29d8f27c5344b59982b0c4b564850f3e5c32e8f12978d9de81d60fda1e56"
+      "Hash": "261a93f1a63032bb8bd7c3137d1aff80ad1d213e00e48b5f8a4da3c50f422d2d"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -181859,7 +181859,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "26e2da570f088300245ee9364cbcb940bdd2cdccc5864080f73ba0e7ed2e6086"
+      "Hash": "3ea85536dc92a2f4c2ee0947c35f7ebe62b1e6c94ddf39fbbf175748a31d1b41"
     },
     "h1:planet-labs": {
       "Key": "planet-labs",
@@ -182915,7 +182915,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "690d9d14f928a1f029fb3b00e0f4a75c6e0a7f32d1b16d7e4feebdd4b4baebac"
+      "Hash": "8d7d5f85e751ab77bad2d9e5c7bd5a50f48460ec82c8ea17e9357398c24a21e9"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -185416,7 +185416,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "beef6a4801e257cf4cc98056a5c7f707bc74ba3fbfc24898476fbc920366feb3"
+      "Hash": "8c5c053c4ecba60c56d64758d8e1dcd734f4175c95a9a4a7c16018fa5913652a"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -188323,7 +188323,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d59c0d9da74e1eb76468d68138da733a762f4f13724c786f916bcd67a3f2b893"
+      "Hash": "995719cd0331121b7cf31f74d0d1a4deed68a85015a1558cdb5683fe7e590909"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -190113,7 +190113,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2817835437d783eeffb6188d834074f672d4a6a260ace689fcc4193b2ff92bab"
+      "Hash": "c2dc89af2ffcec0f6188ad9ebdcd122334713819264b15c55c4d3787a0814bea"
     },
     "h1:truecaller": {
       "Key": "truecaller",
@@ -191546,7 +191546,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "579fdebce0b153244cd06182ca65aa8df5a1a825865230e246dd751dc086b80d"
+      "Hash": "7afdddda3e5ae08da43d722936e07526e5129e5a0f0c406243c3975c13ef8cfa"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -194107,7 +194107,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7bf20464e8bd40c4efcb5cf6ad65c789a891dc1b48ee96ee2e9cee47a1efdd1"
+      "Hash": "da4b2635304dddfc00b5623af49fe3d48f31a54f23d295ef2c464459754e1b9c"
     },
     "h1:wordpress": {
       "Key": "wordpress",
@@ -204333,6 +204333,200 @@
       },
       "OutScope": {},
       "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
+    },
+    "in:ee2612e7-e188-492f-9bb2-ba48651523de": {
+      "Key": "ee2612e7-e188-492f-9bb2-ba48651523de",
+      "Name": "Intergamma",
+      "URL": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
+      "InScope": {
+        "*.gamma.be/*": {
+          "ID": "*.gamma.be/*",
+          "Type": "wildcard"
+        },
+        "*.gamma.nl/*": {
+          "ID": "*.gamma.nl/*",
+          "Type": "wildcard"
+        },
+        "*.intergamma-test.nl": {
+          "ID": "*.intergamma-test.nl",
+          "Type": "wildcard"
+        },
+        "*.intergamma.cloud": {
+          "ID": "*.intergamma.cloud",
+          "Type": "wildcard"
+        },
+        "*.intergamma.nl/*": {
+          "ID": "*.intergamma.nl/*",
+          "Type": "wildcard"
+        },
+        "*.karwei.nl/*": {
+          "ID": "*.karwei.nl/*",
+          "Type": "wildcard"
+        },
+        "*.karweioutletstore.nl": {
+          "ID": "*.karweioutletstore.nl",
+          "Type": "wildcard"
+        },
+        "*.restintergamma.nl": {
+          "ID": "*.restintergamma.nl",
+          "Type": "wildcard"
+        },
+        "*.werkenbijgamma.be": {
+          "ID": "*.werkenbijgamma.be",
+          "Type": "wildcard"
+        },
+        "*.werkenbijgamma.nl": {
+          "ID": "*.werkenbijgamma.nl",
+          "Type": "wildcard"
+        },
+        "*.werkenbijkarwei.nl": {
+          "ID": "*.werkenbijkarwei.nl",
+          "Type": "wildcard"
+        },
+        "1558129454": {
+          "ID": "1558129454",
+          "Type": "ios"
+        },
+        "949829216": {
+          "ID": "949829216",
+          "Type": "ios"
+        },
+        "950680989": {
+          "ID": "950680989",
+          "Type": "ios"
+        },
+        "950693949": {
+          "ID": "950693949",
+          "Type": "ios"
+        },
+        "be.gamma.app.android": {
+          "ID": "be.gamma.app.android",
+          "Type": "android"
+        },
+        "gammacademy.be": {
+          "ID": "gammacademy.be",
+          "Type": "url"
+        },
+        "gammalokaal.nl": {
+          "ID": "gammalokaal.nl",
+          "Type": "url"
+        },
+        "irmg.nl": {
+          "ID": "irmg.nl",
+          "Type": "url"
+        },
+        "karwei-promotiepunt.nl": {
+          "ID": "karwei-promotiepunt.nl",
+          "Type": "url"
+        },
+        "kassa.gamma.be/*": {
+          "ID": "kassa.gamma.be/*",
+          "Type": "wildcard"
+        },
+        "kassa.gamma.nl/*": {
+          "ID": "kassa.gamma.nl/*",
+          "Type": "wildcard"
+        },
+        "kassa.karwei.nl/*": {
+          "ID": "kassa.karwei.nl/*",
+          "Type": "wildcard"
+        },
+        "mijn.gamma.be/*": {
+          "ID": "mijn.gamma.be/*",
+          "Type": "wildcard"
+        },
+        "mijn.gamma.nl/*": {
+          "ID": "mijn.gamma.nl/*",
+          "Type": "wildcard"
+        },
+        "mijn.karwei.nl/*": {
+          "ID": "mijn.karwei.nl/*",
+          "Type": "wildcard"
+        },
+        "nl.gamma.app.android": {
+          "ID": "nl.gamma.app.android",
+          "Type": "android"
+        },
+        "nl.gamma.verf": {
+          "ID": "nl.gamma.verf",
+          "Type": "android"
+        },
+        "nl.karwei.app.android": {
+          "ID": "nl.karwei.app.android",
+          "Type": "android"
+        },
+        "www.gamma.be/*": {
+          "ID": "www.gamma.be/*",
+          "Type": "wildcard"
+        },
+        "www.gamma.nl/*": {
+          "ID": "www.gamma.nl/*",
+          "Type": "wildcard"
+        },
+        "www.karwei.nl/*": {
+          "ID": "www.karwei.nl/*",
+          "Type": "wildcard"
+        }
+      },
+      "OutScope": {
+        "*.configuratoren.nl/*": {
+          "ID": "*.configuratoren.nl/*",
+          "Type": "wildcard"
+        },
+        "Everything related to configurators, both on primary as other domains": {
+          "ID": "Everything related to configurators, both on primary as other domains",
+          "Type": "other"
+        },
+        "afspraakmaken.gamma.nl": {
+          "ID": "afspraakmaken.gamma.nl",
+          "Type": "url"
+        },
+        "api.afspraakmaken.gamma.be": {
+          "ID": "api.afspraakmaken.gamma.be",
+          "Type": "url"
+        },
+        "api.afspraakmaken.gamma.nl": {
+          "ID": "api.afspraakmaken.gamma.nl",
+          "Type": "url"
+        },
+        "api.maakafspraak.karwei.nl": {
+          "ID": "api.maakafspraak.karwei.nl",
+          "Type": "url"
+        },
+        "horrenconfigurator-fr.gamma.be": {
+          "ID": "horrenconfigurator-fr.gamma.be",
+          "Type": "url"
+        },
+        "horrenconfigurator-nl.gamma.be": {
+          "ID": "horrenconfigurator-nl.gamma.be",
+          "Type": "url"
+        },
+        "horrenconfigurator.karwei.nl": {
+          "ID": "horrenconfigurator.karwei.nl",
+          "Type": "url"
+        },
+        "karwei-2018.hetmooistegordijn.nl": {
+          "ID": "karwei-2018.hetmooistegordijn.nl",
+          "Type": "url"
+        },
+        "maakafspraak.karwei.nl": {
+          "ID": "maakafspraak.karwei.nl",
+          "Type": "url"
+        },
+        "mail.gamma.be": {
+          "ID": "mail.gamma.be",
+          "Type": "url"
+        },
+        "mail.gamma.nl": {
+          "ID": "mail.gamma.nl",
+          "Type": "url"
+        },
+        "mail.karwei.nl": {
+          "ID": "mail.karwei.nl",
+          "Type": "url"
+        }
+      },
+      "Hash": "84a8fa3c05773abd869fc9695929ee781040ae25d277d879dd2ae93d57ae4aac"
     },
     "in:ef919950-9ced-48c3-b1f4-2379c43c8ec5": {
       "Key": "ef919950-9ced-48c3-b1f4-2379c43c8ec5",
