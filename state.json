@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T23:54:51Z",
+  "captured_at": "2026-08-18T01:47:17Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -6483,6 +6483,31 @@
       },
       "OutScope": {},
       "Hash": "fb833a88269dc60f1a8dc77a0156a6d1cdd6632b40fcd39c2af9d9801c611005"
+    },
+    "bc:Jaanga Marketplace Bug Bounty": {
+      "Key": "Jaanga Marketplace Bug Bounty",
+      "Name": "Jaanga Marketplace Bug Bounty",
+      "URL": "https://bugcrowd.com/engagements/JaangaInc-mbb-market",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1218225?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1218225?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1236750?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1236750?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira": {
+          "ID": "https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "7cf917a0e198ba9b16eff3d74d55617129ce7af2e73bf8c7a4a943348df4669e"
     },
     "bc:Jora": {
       "Key": "Jora",
@@ -26287,7 +26312,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "2dbfbfa611270c0c4543336f4994e54f6a07f46edb9187ab59e4d6c84ba01229"
+      "Hash": "03cf1fef12a4fd1d3ef642a745d97ff57bf48988676b3d2b942fab14bd462e99"
     },
     "h1:amazonvrp-devices": {
       "Key": "amazonvrp-devices",
@@ -101709,7 +101734,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a2f54511b6b3f278f69371d9b1dc2fe4d7f3250c44897800126aec4374b210f7"
+      "Hash": "bb46bde7e20b43884307252e9159fb6b74f8671f977c83c55f99524164a29d35"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -145222,7 +145247,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "702e3cc52e3bbfe284b94bc68332208ffbfab06866a8ac6a3c29e477075f9c59"
+      "Hash": "1172c097755881db0e17e68abddfe7a0202282eb15e23720b8491c00a695c243"
     },
     "h1:formassembly": {
       "Key": "formassembly",
@@ -145858,7 +145883,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e24743b7517066291252bb105fad6323a85c6d5b436ad54418d1703e5ea5cf95"
+      "Hash": "9744a9675ac0eee8e2a89bdfdacb3abed27401f0ab2ee123898ad4d269a9f7fb"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -167133,7 +167158,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "763400f38002372b6d6b2c01248b6568a9abadaa642d27cbe2866cd54907bdae"
+      "Hash": "40eba8e79828653ce67d740e65e67805fb27994c123e5c2c009f2910158c54cd"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -188714,7 +188739,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "22300274707bc89995df11144450f1c7235919309be3f5a30959e2ed00c7cc18"
+      "Hash": "56dd6dd3b9715e0a1942c200ee56ba0215bf942726fd794ccf6016f3a59ea881"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -190150,7 +190175,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cc47363e5d593f2d753d999d55dff830a8710d3ece1b31cb3567069241351e16"
+      "Hash": "e2fb42bd1fc59c06e5f94529641cad4d250fb93f4a563e73d1dc32aefd37144d"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -191859,7 +191884,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6b351dbd11acbc1a4c770733778f8ed07061b48727490033e63fee8b3bc6206c"
+      "Hash": "288166c7005ba6a2305eca30fb5be009b905b33ce7392e81328a642bee3138d4"
     },
     "h1:versioncake": {
       "Key": "versioncake",
