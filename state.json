@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-19T19:34:38Z",
+  "captured_at": "2026-08-19T19:56:18Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -13809,20 +13809,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1220741/sla-time-and-report-for-jira?hosting=cloud\u0026tab=overview",
           "Type": "website"
         },
-        "https://marketplace.atlassian.com/apps/1221462/time-between-statuses-time-to-resolution-timer?hosting=datacenter\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1221462/time-between-statuses-time-to-resolution-timer?hosting=datacenter\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1221462/time-between-statuses-time-to-resolution-timer?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1221462/time-between-statuses-time-to-resolution-timer?tab=overview\u0026hosting=cloud",
-          "Type": "website"
-        },
         "https://marketplace.atlassian.com/apps/1221462/time-between-statuses?hosting=cloud\u0026tab=overview": {
           "ID": "https://marketplace.atlassian.com/apps/1221462/time-between-statuses?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1222274/jiva-voice-assistant-for-jira?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1222274/jiva-voice-assistant-for-jira?hosting=cloud\u0026tab=overview",
           "Type": "website"
         },
         "https://marketplace.atlassian.com/apps/1227085/forms-checklists-for-jira?hosting=cloud\u0026tab=overview": {
@@ -13843,7 +13831,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "052071cd91e8082dc6f15f5d7b5ec07dc35238c3904bc650ad044028c852cb1a"
+      "Hash": "8f9b99b6cf3ee8c61e2e11fdab3c4ad79e90b95a74f4cb86d566f5e33a03e41b"
     },
     "bc:Safety Bug Bounty": {
       "Key": "Safety Bug Bounty",
@@ -31843,7 +31831,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bff93acdc4ac90b49c7045ac1fdbe4de521a7e3c9f693818198434943449781d"
+      "Hash": "b97bdcbb4cfc199b8f378a72b8d8404b4bd9a6a267510a4325ffbb5375093f4b"
     },
     "h1:british_airways_vdp": {
       "Key": "british_airways_vdp",
@@ -32573,7 +32561,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d86fc58915b5fbfce79ea0fae9a696fcfa15cb6e4da3f0926da0522f91018673"
+      "Hash": "68718b7138a141074a553942192816b56eaeafea08b8f081efab29320ef844aa"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -182043,7 +182031,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fc2cfc43baebce2e9a89b4836dad4cc7ec493abbbec6d908b43b2873d67bdb3b"
+      "Hash": "c0208413fe554d930376803cc309c70de50f70b8e700fb60d2b2ec8ec12a3bb9"
     },
     "h1:playtika": {
       "Key": "playtika",
