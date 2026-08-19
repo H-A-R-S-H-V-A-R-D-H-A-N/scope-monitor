@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-19T23:33:07Z",
+  "captured_at": "2026-08-19T23:55:02Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -7971,6 +7971,23 @@
       },
       "Hash": "be41a1b0233c320b4d6d09dffeed7d18a398b650e9a810c471cf7168bf6558ab"
     },
+    "bc:Litew8 GmbH - Marketplace Bug Bounty ": {
+      "Key": "Litew8 GmbH - Marketplace Bug Bounty ",
+      "Name": "Litew8 GmbH - Marketplace Bug Bounty ",
+      "URL": "https://bugcrowd.com/engagements/litew8",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1235430/space-templates-for-confluence?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1235430/space-templates-for-confluence?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "fd71e55a54a3c98ba8c95ed30061743ac257dc7c819605d1938cb1469ea3b09f"
+    },
     "bc:Luno Bug Bounty Program": {
       "Key": "Luno Bug Bounty Program",
       "Name": "Luno Bug Bounty Program",
@@ -13179,6 +13196,23 @@
       },
       "OutScope": {},
       "Hash": "9a18074723e446d60807afa1e5ceeb599a5f68ca5b55933ce54cbd1b01647d5a"
+    },
+    "bc:Raley Apps": {
+      "Key": "Raley Apps",
+      "Name": "Raley Apps",
+      "URL": "https://bugcrowd.com/engagements/raleyapps",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1223409/raley-purchase-orders?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1223409/raley-purchase-orders?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "683972e9281e1054d30455f15840ff271a3faf233a8e6390fbf41f9ef8906a13"
     },
     "bc:Rapyd": {
       "Key": "Rapyd",
@@ -184609,7 +184643,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "e14115d0960afa12c3d41b4e0d7b66d4e58bee35849e8b9cafa0b97da7ea57d6"
+      "Hash": "f8c71ceeefb0c3edaa2203031c83d97b9a3d5e14ba6bd26f4610905ad56f93ce"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -194030,7 +194064,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4e1d16422ba1db4279f1c7bfdf0b87d6c0be79ac0803fb4f58cd4156fd683607"
+      "Hash": "cf1f6548fc8d6887ce741d1c91e5573d833867919a0127acbc9a9f399d7cd19a"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
@@ -202670,128 +202704,6 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
