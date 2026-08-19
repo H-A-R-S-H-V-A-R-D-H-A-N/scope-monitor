@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-19T14:48:13Z",
+  "captured_at": "2026-08-19T15:41:37Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26320,7 +26320,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "30417dbac3d704920310972a96b0d99cb17bd16f79486484a90b92ecec9fd7f8"
+      "Hash": "993e0e6cd7728c9bc5c97598347bddbdf90ede31ba0c56bc6a2389d472d5c7cd"
     },
     "h1:amazonvrp-devices": {
       "Key": "amazonvrp-devices",
@@ -67650,7 +67650,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "3930d6f77dd17842e3b15db8bac535bc57f1211b22d5fb40198791fd2e411676"
+      "Hash": "678fb223cfa8caf275d08ef0bf4e07b333a1e2c76171ebc91d8c736d2a73a010"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -91030,7 +91030,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "e282c17202b505ce31a43f55f043c21417751c601cefe470da5983f060b5174f"
+      "Hash": "7537f601c408bfca11e72a0aae51102abe3f42b53cc4edd0aaae0e633038c32d"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -144957,7 +144957,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ec14b76cc9a7e3b51f21a2164dca616c1995c181714b641554ff9b8cd8ec74e9"
+      "Hash": "ccc428008da33728162414247fd1a332d202578ae24e93cb200f78f2ef725d8d"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -145887,7 +145887,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "49c5a386f839f23de54eac4ceccc6d9237edc7aba0381aff90d6891ae94b13f1"
+      "Hash": "373dc9feefbb340f07486ffcf06d5b9acbe4bde40423ebbb60a954792a1ba540"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -163550,6 +163550,10 @@
           "ID": "sunbeltparts.com",
           "Type": "URL"
         },
+        "supplier-risk-management-api.supplymgmt-compliance-risk-devl-vpn2.us.e15.c01.johndeerecloud.com": {
+          "ID": "supplier-risk-management-api.supplymgmt-compliance-risk-devl-vpn2.us.e15.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
         "suppliercompare.deere.com": {
           "ID": "suppliercompare.deere.com",
           "Type": "URL"
@@ -165789,7 +165793,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2f9a238618716cf6de740ce658f3c05591c9d7f03f8fc5c06f3226404c4c89b0"
+      "Hash": "7c13a11fd73a68529428a0c9581450c9c5a914eada482e4dfa254f8e2d6a5093"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -170165,7 +170169,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e7dc9bdeb7a14013ee42d401dc0b49aea7d52ec16e31d51893ec7bbe82fef04"
+      "Hash": "2bbcf4facd182586011ee68c4b829e651b60e7d080d2d2045c463135b5e3cdae"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -188983,7 +188987,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "28416951fe462b46d8a53fe625cf1de3fee8fdcb4ed90c4c8673cd9637716e57"
+      "Hash": "d0d43356659ee702cc0b825aa93e47273c51e0f487c67bf52780447f95f4122d"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -189239,7 +189243,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2d437dfce4bd863bed17609572d9e02b5c435db7ae8785ebc3403b1e19d06255"
+      "Hash": "0cd0a406967707422ad2a2f7f31af6ab07d9f920943c2fa19b2a7a00bc3be703"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -194809,7 +194813,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7ef8fc0b898ee386af5e14f8356940545f7b031ed8ee96d2666d44e884f5a988"
+      "Hash": "8279e725e4d846a85ad8c7538ebcd2396518a50c8ce443b2cbda9197a920ea5d"
     },
     "h1:yoti": {
       "Key": "yoti",
