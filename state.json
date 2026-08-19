@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-19T11:58:49Z",
+  "captured_at": "2026-08-19T13:05:12Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23517,7 +23517,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4729fc0baf20b4da60c4301cde50a811e259f1f0801c61791eda6de8a79c5291"
+      "Hash": "e8aae18d1c783e58fb2a7e613b6003bf2483bb5e43e116785ad6845edaea461d"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -28474,7 +28474,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7ae9b34613b10c9c18cf0b38808100ecd5ecb67b73f07d0a132b66a892d823b7"
+      "Hash": "61b096cb3b804793ebb4327ddf3d5c43b319a3ae9a514aaca1ce66e3ebd5a15c"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -97276,7 +97276,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9fe6327a1776a671af89c9de07729831d2869fdd5c85a70df75305500f51ce23"
+      "Hash": "d31fe37a2bff638507dcc2d5ecc5a5f72ac68920f5035073d18d74a77e705047"
     },
     "h1:epicgames": {
       "Key": "epicgames",
@@ -144840,7 +144840,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c567df96d471dbe06b07ba42e292d6edfb805accde6049af09b0af6a4f364da8"
+      "Hash": "639786a931fb7ea33236cb4674317d790fc5ca210ab327a76d70ce6c51dbbf53"
     },
     "h1:ford": {
       "Key": "ford",
@@ -165984,7 +165984,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "261a93f1a63032bb8bd7c3137d1aff80ad1d213e00e48b5f8a4da3c50f422d2d"
+      "Hash": "0a5c1e1576b38adf178b0478cc7f9e1f3f8b9eb24bf1133d965e3a11125b5bec"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -170161,7 +170161,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2bbcf4facd182586011ee68c4b829e651b60e7d080d2d2045c463135b5e3cdae"
+      "Hash": "6e7dc9bdeb7a14013ee42d401dc0b49aea7d52ec16e31d51893ec7bbe82fef04"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -171100,7 +171100,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "10604c82ab2b55d8cee98381ae30772c6a524a12591ee2a97f25632faf07c33d"
+      "Hash": "8e21add1dc2f2145deee736eccc504ef32ec397a34e8ba030a6d228c807eab14"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -172862,7 +172862,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a20e5f9a063b9a376e490ea406d8e7fdaf84f288bd5c496b8e79558f075a3a4c"
+      "Hash": "6ed6aca77715c35c8aee11ca14f97845ee46d94417c49432940ddf404b7bd38d"
     },
     "h1:moov": {
       "Key": "moov",
@@ -178382,7 +178382,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "025face4a4876a16d8f1d45f977c0d75ca468555f0dabaa43fd26849e9595070"
+      "Hash": "37da89f3ec3f6269c89955ab75dc498cb0c7213550b100e95c31f346440b50ac"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -185878,7 +185878,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cc18b0a1511ba2e2cbe7f7041f7c527407b0b81e463ca3959277583d08aec7a2"
+      "Hash": "145277363d1b2adc2a5e524735ccd6332dd073f0dbe5ea2db1b5f9ed857f48b4"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -187238,7 +187238,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "04365512727ac5166f4f3fb40b3b502d200dd458e408a43b46c7c7d2a39da354"
+      "Hash": "4308329d216d7d6c248220bc8980cbd346f790954ef6cf629a878e2c5545716f"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -187388,7 +187388,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "171a0bbf3b5c977517f8eecea2248b0f3ace48661605d088efee90345569f125"
+      "Hash": "b4a11c1a5bcdaef794db3825ccc8909c960c68f89f3ddd5f0bbc7b98b9628e74"
     },
     "h1:starling_bank": {
       "Key": "starling_bank",
@@ -187754,7 +187754,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "3202e3fd1badac77630808e006324a2977a97c1dbff79230d6e0999847f58e2b"
+      "Hash": "96ade304a7410017c9e2c0a2d06c4fa5c4c72210358906917ffd4aa2e4dc6c21"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -189228,10 +189228,14 @@
         "Tor Browser": {
           "ID": "Tor Browser",
           "Type": "OTHER"
+        },
+        "https://gitlab.torproject.org/tpo/core/arti": {
+          "ID": "https://gitlab.torproject.org/tpo/core/arti",
+          "Type": "SOURCE_CODE"
         }
       },
       "OutScope": {},
-      "Hash": "a2988caa0aa3afdcf803120553fc28703faa87e568efbb07943d0cdd2f04ca5d"
+      "Hash": "2d437dfce4bd863bed17609572d9e02b5c435db7ae8785ebc3403b1e19d06255"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -192302,7 +192306,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7fc2786f96a7ac4d34744862fbda266fe0a1ccce28bbd11fe0e9afdb63e87955"
+      "Hash": "bbefcf0d0f3ba4e241800791d017ffa795898255de83ec4739f15b088d7eb68e"
     },
     "h1:vimeo": {
       "Key": "vimeo",
