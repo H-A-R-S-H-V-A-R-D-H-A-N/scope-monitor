@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-19T07:50:07Z",
+  "captured_at": "2026-08-19T08:51:10Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23517,7 +23517,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2aecea8cd86112b478bf731a39dc2a47688497fec99d20bcd184229f14f2940f"
+      "Hash": "0ecfc1d1e7493efaedc2de0700ba2e0ea8f561e3583f7d418cf2a31768870a87"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -26685,7 +26685,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9d908aa7f13904e50beef69054cedfaf1fb4e24e042220783c1868b54c7e53fe"
+      "Hash": "b2fcb1366107f25f7e3dab7e17b0183cd3d779ef36553d3f89ec5043d97c726b"
     },
     "h1:aon": {
       "Key": "aon",
@@ -96163,7 +96163,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7e333bcee559026ef3a778d155ea264491a358e675edaabea8a42cddda151b9"
+      "Hash": "731c6ef7a1bbf0a327b0a663f75d97185a2d91608b3a1b7229d2be51a9aa52fa"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -96333,7 +96333,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "85390c947617cd9a857085aafb4337b7f4ddcafa8e808d86e8c98645d07ad08a"
+      "Hash": "e6d805ceac4b2a91b048b3cec2f5a25272122d9a747b9b78737c2ce9bc578a14"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -150550,7 +150550,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "202d99b7f5e3baec919705c43665788643b159f25216ef0c1c3ec4c557e9ba44"
+      "Hash": "c07c93ea72a535a9b80b3d760c7c9e72f22cc79607117a155e716cd6a32b31de"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -150664,7 +150664,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "17354433d74d1c9c221e24dab00c6ace0cb09fba80ba42afea0f885354570994"
+      "Hash": "17ccaf6c94cf6eefc55a198fa5cfbe6b5905d38a6794a76da58a43d9afc26453"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -168381,7 +168381,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b968146db74c48467a4c2dc32dac2505f5a390943a983ce725db455bb03ff336"
+      "Hash": "e50d5a10bd009aafbf37b8fd9003ffe272264653d390268dbf4fac919aebe115"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -175742,6 +175742,36 @@
       },
       "OutScope": {},
       "Hash": "9ecbf88b4ea6f91e4b83157a2d47d71ace5649938f3e4886782a7c46c8164fdf"
+    },
+    "h1:myndr": {
+      "Key": "myndr",
+      "Name": "Myndr",
+      "URL": "https://hackerone.com/myndr",
+      "InScope": {
+        "*.myndr.net": {
+          "ID": "*.myndr.net",
+          "Type": "WILDCARD"
+        },
+        "*.myndr.nl": {
+          "ID": "*.myndr.nl",
+          "Type": "WILDCARD"
+        },
+        "www.myndr.nl": {
+          "ID": "www.myndr.nl",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {
+        "mqtt.myndr.net": {
+          "ID": "mqtt.myndr.net",
+          "Type": "URL"
+        },
+        "mqtt2.myndr.net": {
+          "ID": "mqtt2.myndr.net",
+          "Type": "URL"
+        }
+      },
+      "Hash": "f66f376ab5a98d88b1acd7064adf3e18b28465c90fca3cef031d8ed561e61336"
     },
     "h1:navient_solutions": {
       "Key": "navient_solutions",
@@ -188449,7 +188479,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "da40b33f6cd95984ab07c77f2b2ad72e816c31bb5fa1b7cb3512c54031280b9f"
+      "Hash": "4af443c7c6f9636ffa59e5a36ed03290ccc6fe9ecd3894cd7e7bebb560cf1404"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -189973,7 +190003,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "aeca22a3617f82552b5aed48eeee141ae3cb8b46c87ffbd982122ca566373dab"
+      "Hash": "cd322a9de53a66f87847bcca7cf683e9a1d094d47c6590a9bbe4c73656d17e61"
     },
     "h1:trendyol": {
       "Key": "trendyol",
@@ -194663,7 +194693,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2950c59cd0b50227b6d42e71b5904799d06e6ee79c4de82841327d1375591c15"
+      "Hash": "569609848d8ae4c1f6c8a7377e3c7b01999452e83159e5fa2948895cfa972dbb"
     },
     "h1:xvideos": {
       "Key": "xvideos",
