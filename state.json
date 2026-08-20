@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-20T20:40:50Z",
+  "captured_at": "2026-08-20T21:38:20Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -15319,10 +15319,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1217117/project-team-for-jira-cloud?hosting=cloud\u0026tab=overview",
           "Type": "website"
         },
-        "https://marketplace.atlassian.com/apps/1218777/great-gadgets-for-jira-server?hosting=datacenter\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1218777/great-gadgets-for-jira-server?hosting=datacenter\u0026tab=overview",
-          "Type": "website"
-        },
         "https://marketplace.atlassian.com/apps/1226592/great-gadgets-for-confluence-cloud?hosting=cloud\u0026tab=overview": {
           "ID": "https://marketplace.atlassian.com/apps/1226592/great-gadgets-for-confluence-cloud?hosting=cloud\u0026tab=overview",
           "Type": "website"
@@ -15338,7 +15334,7 @@
           "Type": "website"
         }
       },
-      "Hash": "dddda1b65a1c752aaf639375bab285298b058ac2e0568f16216417509f4dd5ed"
+      "Hash": "ffe61519b2f8da8321164dfe8a311a70f653e93f78584d0d03cd4e7cb17c4a2d"
     },
     "bc:Sykora IT Marketplace Managed Bug Bounty Engagement": {
       "Key": "Sykora IT Marketplace Managed Bug Bounty Engagement",
@@ -28233,7 +28229,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0d5ff7f75719eb7cb8a89a21508ac50bb5db7b1d82665d8434ec45b3008696b6"
+      "Hash": "df947b1529ac2202fc669e8e791a92aab2ecb14f2e660c81394e87faa0ec2172"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -31593,7 +31589,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3d72412f810b9f74105fc6eb7900bf10e9257e87fb0d81b8240382ebadb63359"
+      "Hash": "ac7cdc0e43c9bf0e1c79d0af0bf08fc9b275303ed98d7968362e92b14b80a865"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -89937,7 +89933,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "13d5aace06c312b26d81ffdb0dd67c740f36d6a8497bea9825796cd99e40f732"
+      "Hash": "553981447958a9dbb13c5d3593b6e76922f26d37c2ecf2011924b193b8e5a73c"
     },
     "h1:crowdstrike": {
       "Key": "crowdstrike",
@@ -103027,7 +103023,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0103a1f4526661cc43b92d8ebbefdd4b45e04985559c8d06768b10aa9c86387e"
+      "Hash": "e79c96b77c974d33f602e0dbb7e6edb0d8dfd2e5ec163a8f019e76633c5b0848"
     },
     "h1:experian": {
       "Key": "experian",
@@ -157900,7 +157896,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "81cc702d3b78050db32483c5fdb3bbffcace6b8d1b367907bf8bd63073466caf"
+      "Hash": "b1ec991b1d8ea5f419adc270896d95677723a0c87c5eb55b4aaa0fbf4508a03c"
     },
     "h1:jetblue": {
       "Key": "jetblue",
@@ -183737,7 +183733,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a9b28733715b78e4125d9a82b0f19907c1f9098c82b4e2b371844071043da3cb"
+      "Hash": "8638b17086dba8d5df7508f85c3366cc972368f85424d7294035227c0f860057"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -185132,7 +185128,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "eea03a6af7806414d2b3abacdd12c3e5d708979f45f8d38297eab4fb9c69dd78"
+      "Hash": "2fe1301afa7759fefb8b6e9a9d710c01d58639ca7c14481950ee1704884ceee6"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -189568,7 +189564,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2489a5f6fe9a1937ab11afd9c475cc6022bcf96fa2a50ea34a2f595c61c9fdf0"
+      "Hash": "1da4ec9142a469f7bdd5f50f95d64b48edef479071d8c6b0ed1bb84c1f119bb2"
     },
     "h1:tines_automation_vdp": {
       "Key": "tines_automation_vdp",
@@ -190694,7 +190690,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c2dc89af2ffcec0f6188ad9ebdcd122334713819264b15c55c4d3787a0814bea"
+      "Hash": "b5f682bd99a39e2e1a63bd6bea6e47e67182bb338ea91373339c5f48b77fdefc"
     },
     "h1:truecaller": {
       "Key": "truecaller",
@@ -191236,7 +191232,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4d48b6c5e880f5dd6fa3b0ee1c067cce79c10b6831295425dc8d60cd8d8ecebd"
+      "Hash": "40ecc234a476f75b81e8ef0509030bf0909a092dd673f6f78474851063ff847b"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -191797,7 +191793,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4191d7a23738ba288afc7b3b8c0ca236abdfad3788133b7259935dc04c6332ca"
+      "Hash": "e75f819fa19452fdbc4cdd63f212b59a7000f58a2d8c96367fc4daec6b4dfc70"
     },
     "h1:urbancompany": {
       "Key": "urbancompany",
@@ -197259,63 +197255,6 @@
       },
       "OutScope": {},
       "Hash": "05b845405e143bbca42f3e6b5e1f69c5b722cf795bd96ea60a90ded0cc6bf30d"
-    },
-    "in:18058413-5255-4f5c-a9db-c6ac027bb5d6": {
-      "Key": "18058413-5255-4f5c-a9db-c6ac027bb5d6",
-      "Name": "Soundtrack Technologies",
-      "URL": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
-      "InScope": {
-        "1114799709": {
-          "ID": "1114799709",
-          "Type": "ios"
-        },
-        "1114800186": {
-          "ID": "1114800186",
-          "Type": "ios"
-        },
-        "api.soundtrackyourbrand.com": {
-          "ID": "api.soundtrackyourbrand.com",
-          "Type": "url"
-        },
-        "billing.api.soundtrackyourbrand.com": {
-          "ID": "billing.api.soundtrackyourbrand.com",
-          "Type": "url"
-        },
-        "builds.soundtrackyourbrand.com": {
-          "ID": "builds.soundtrackyourbrand.com",
-          "Type": "url"
-        },
-        "business.soundtrackyourbrand.com": {
-          "ID": "business.soundtrackyourbrand.com",
-          "Type": "url"
-        },
-        "com.soundtrackyourbrand.soundtrack.player": {
-          "ID": "com.soundtrackyourbrand.soundtrack.player",
-          "Type": "android"
-        },
-        "https://auth.api.soundtrackyourbrand.com/": {
-          "ID": "https://auth.api.soundtrackyourbrand.com/",
-          "Type": "url"
-        },
-        "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest": {
-          "ID": "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest",
-          "Type": "other"
-        },
-        "https://radio.api.soundtrackyourbrand.com/": {
-          "ID": "https://radio.api.soundtrackyourbrand.com/",
-          "Type": "url"
-        },
-        "https://soundtrack.io": {
-          "ID": "https://soundtrack.io",
-          "Type": "url"
-        },
-        "macOS app": {
-          "ID": "macOS app",
-          "Type": "other"
-        }
-      },
-      "OutScope": {},
-      "Hash": "1e4e59a7a5625b54eb162427d72725f02c037c994022e98295e27dae578f8f09"
     },
     "in:196fa177-ac2d-41b0-91bb-07bc9db43b7a": {
       "Key": "196fa177-ac2d-41b0-91bb-07bc9db43b7a",
