@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-20T19:39:49Z",
+  "captured_at": "2026-08-20T20:40:50Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -25537,7 +25537,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b6bf55f328e14ff6f055959e4f428008ed176af51ab034113489e4260af6fa5d"
+      "Hash": "7eca2b6bcbfd7d60b02fbdc035e657f9c3e0a9dba38ec22f8d032cae0eaa8975"
     },
     "h1:alohi": {
       "Key": "alohi",
@@ -28750,7 +28750,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "150da0c5c3d8fb1062c9e7b9a7327779b5bc45b513706caf47d6eb3883ef84ba"
+      "Hash": "e5258ca133822dfe23083d58bf8b213528a0568db06162eff3bd492ff861a9e5"
     },
     "h1:autodesk": {
       "Key": "autodesk",
@@ -31289,7 +31289,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "34b2dc5feb1cf41722672026a9775a911dcf4724d5c898b53119925948d25302"
+      "Hash": "efa1415599c9c27783f276b235cf5bf92d509501c01032ce32c288c10e86aa6f"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -96538,7 +96538,7 @@
       "URL": "https://hackerone.com/django",
       "InScope": {},
       "OutScope": {},
-      "Hash": "1691b73a1d16547ec5776a370792848224b35831f5f78ad790364e54d68b009c"
+      "Hash": "0a9e701736153a7baa840a0ed3f9d42d7706e308f41ce278e487180d8ebaf431"
     },
     "h1:docusign": {
       "Key": "docusign",
@@ -144930,7 +144930,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dbbdbd2f38f3ee21af1e1bf91034e2c6305afcf8d8044ba83686d64ed5820d44"
+      "Hash": "5feede0d6af205539bef2c5236d1645228b5b9e0899b1d8c4aa957cf07ccfca7"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -146208,7 +146208,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7c324f54a9b151f5eda1fc1a649f19c5ebe56cf58fa2476ef51e0c0d1d8e65c2"
+      "Hash": "7f5e3c09fa906b1494f64a578ab9e4f995122da54a3e179074b2f413753e7c7f"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -158829,6 +158829,10 @@
           "ID": "ama.witos.wirtgen-group.com",
           "Type": "URL"
         },
+        "amd-ai.deere.com": {
+          "ID": "amd-ai.deere.com",
+          "Type": "URL"
+        },
         "analytics-db.sentera.com": {
           "ID": "analytics-db.sentera.com",
           "Type": "URL"
@@ -166308,7 +166312,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "539c319e541e05e157901b21baecc90e4ae8b70dd086c4ca8f5ee237de602d67"
+      "Hash": "28605dc86fb8cd476cf3ad560ad24f8696f441b3c2656f8d512db283255c2a5c"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -176264,7 +176268,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9ecbf88b4ea6f91e4b83157a2d47d71ace5649938f3e4886782a7c46c8164fdf"
+      "Hash": "72acafbd5d45ccab4083033b080a974f2ce2d543d4529379db1bc56571f4d75a"
     },
     "h1:myndr": {
       "Key": "myndr",
@@ -190826,7 +190830,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "19b539fabe99ed0047508a37e7589369e557764816a74b28dba6705f2cadc9de"
+      "Hash": "01e606ebe60e8a704838b75359148272180ac4a72a91ae9867776b36198fb38e"
     },
     "h1:tucows_vdp": {
       "Key": "tucows_vdp",
@@ -191232,7 +191236,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "40ecc234a476f75b81e8ef0509030bf0909a092dd673f6f78474851063ff847b"
+      "Hash": "4d48b6c5e880f5dd6fa3b0ee1c067cce79c10b6831295425dc8d60cd8d8ecebd"
     },
     "h1:udemy": {
       "Key": "udemy",
