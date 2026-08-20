@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-20T03:07:07Z",
+  "captured_at": "2026-08-20T03:57:01Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -147344,7 +147344,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "0e9ecc4a7fdf8ffe067112457bc6893bf48679d97ac6c4ea3412d2bc639f696c"
+      "Hash": "0858be5cbc02daa91a6c12c59ce8c7aafdb7d226796d2966b1e8d2288aab16a3"
     },
     "h1:greenhouse": {
       "Key": "greenhouse",
@@ -168450,7 +168450,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "484058d0f865053ed9536516b22282ec36c7ce8e31323cb26f0b1ca7a6404e41"
+      "Hash": "cb49400c95d5d4d09edea9153514db79aa55d40e31f071aa46000390857ed502"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -170797,7 +170797,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "538c8f8491d9d82f5d13b02754b2206ae7dff6f49bc1a17c943af8ca510cc97c"
+      "Hash": "368fec7e07f3fb457e250c3f716999828f82de1955c75bf1fc79054b888013a8"
     },
     "h1:mod_supply_chain_vdp": {
       "Key": "mod_supply_chain_vdp",
@@ -190748,7 +190748,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9272815fb848b3f1b5f62cadacaccf721b3107effb768f29a7721f7895163f46"
+      "Hash": "247e42914716f6063d38f96fd3d0dbc86fbe6127a14e572c8a3b48b7677793db"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -194864,10 +194864,6 @@
           "ID": "*.grok.com",
           "Type": "WILDCARD"
         },
-        "*.pscp.tv": {
-          "ID": "*.pscp.tv",
-          "Type": "WILDCARD"
-        },
         "*.twimg.com": {
           "ID": "*.twimg.com",
           "Type": "WILDCARD"
@@ -194892,6 +194888,10 @@
           "ID": "X Pixel Helper (Chrome Extension)",
           "Type": "OTHER"
         },
+        "accounts.x.ai": {
+          "ID": "accounts.x.ai",
+          "Type": "URL"
+        },
         "ai.x.GrokApp": {
           "ID": "ai.x.GrokApp",
           "Type": "APPLE_STORE_APP_ID"
@@ -194912,16 +194912,16 @@
           "ID": "com.twitter.android",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
+        "console.x.ai": {
+          "ID": "console.x.ai",
+          "Type": "URL"
+        },
         "console.x.com": {
           "ID": "console.x.com",
           "Type": "URL"
         },
-        "gnip.com": {
-          "ID": "gnip.com",
-          "Type": "URL"
-        },
-        "grok-build-cli": {
-          "ID": "grok-build-cli",
+        "grok-build": {
+          "ID": "grok-build",
           "Type": "DOWNLOADABLE_EXECUTABLES"
         },
         "grok.com": {
@@ -194936,8 +194936,16 @@
           "ID": "money.x.com",
           "Type": "URL"
         },
+        "pscp.tv": {
+          "ID": "pscp.tv",
+          "Type": "URL"
+        },
         "t.co": {
           "ID": "t.co",
+          "Type": "URL"
+        },
+        "x.ai": {
+          "ID": "x.ai",
           "Type": "URL"
         },
         "x.com": {
@@ -194949,13 +194957,8 @@
           "Type": "URL"
         }
       },
-      "OutScope": {
-        "status.twitter.com": {
-          "ID": "status.twitter.com",
-          "Type": "URL"
-        }
-      },
-      "Hash": "b0a298a67877caf8a42e0d2eeec4b29d852b2b9e5bc4b6fc884fd530f529e943"
+      "OutScope": {},
+      "Hash": "b22de59a0c29fbabb1f39094fa17eede42d46257af57c337eb78786be65bac29"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
