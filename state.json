@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-20T01:47:49Z",
+  "captured_at": "2026-08-20T03:07:07Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -28409,7 +28409,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "272f548829b3cd17351d6164d8da4f9ea24a23154b6b529d44dd681645ebc65d"
+      "Hash": "cde73c9d42219e342dbd571d1a35bf0c4b2417e3a3714bcc315e6157a0cbd686"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -96670,7 +96670,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3e6e7cc2f2a26c9b6a90f910d7ee3380530db90c6e20a3b64fb5758e95ce8908"
+      "Hash": "8fcdecaad497b2123001c114aae58d584a4de3023a7adf07b8c2a3bc55d333d9"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -166345,7 +166345,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "be43cd226b598ab2653f313f23e6755f6944780151fe73ff41c95bf45b2b980d"
+      "Hash": "f97b5d53726c04f2f895511ea12308c1b507ae3d8fd8f940479f65bd219ef8a4"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -168904,7 +168904,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6a59043979ae42808a55e9dbb1644190360618002ad30ab4660f77f713fbc7f1"
+      "Hash": "07cfbbd818785a9a162bb8a30f39003b6aa910f8ae8c1241feb1dd78091c29db"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -169807,7 +169807,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4d2aff9069e8d6403396d1184d0678792bb70425283c2b3794c5998be8697741"
+      "Hash": "8aa67a6e73b74fab6bf433c03316619ff4d9689163f5284f652144e1385d2634"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -189758,7 +189758,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0cfcc35d0c96f673ba434b20d447a267ab0ff962978fbd50da52ec33da025977"
+      "Hash": "ae98d25eaf8536d3c0ed76a94b9490b9ea92f130a2365c9292327629baf6716e"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -191232,7 +191232,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4d48b6c5e880f5dd6fa3b0ee1c067cce79c10b6831295425dc8d60cd8d8ecebd"
+      "Hash": "40ecc234a476f75b81e8ef0509030bf0909a092dd673f6f78474851063ff847b"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -194864,12 +194864,12 @@
           "ID": "*.grok.com",
           "Type": "WILDCARD"
         },
-        "*.twimg.com": {
-          "ID": "*.twimg.com",
+        "*.pscp.tv": {
+          "ID": "*.pscp.tv",
           "Type": "WILDCARD"
         },
-        "*.twitter.biz": {
-          "ID": "*.twitter.biz",
+        "*.twimg.com": {
+          "ID": "*.twimg.com",
           "Type": "WILDCARD"
         },
         "*.twitter.com": {
@@ -194887,6 +194887,10 @@
         "*.x.com": {
           "ID": "*.x.com",
           "Type": "WILDCARD"
+        },
+        "X Pixel Helper (Chrome Extension)": {
+          "ID": "X Pixel Helper (Chrome Extension)",
+          "Type": "OTHER"
         },
         "ai.x.GrokApp": {
           "ID": "ai.x.GrokApp",
@@ -194907,6 +194911,10 @@
         "com.twitter.android": {
           "ID": "com.twitter.android",
           "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "console.x.com": {
+          "ID": "console.x.com",
+          "Type": "URL"
         },
         "gnip.com": {
           "ID": "gnip.com",
@@ -194947,7 +194955,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a79b8744397d9edf5a75f5e8b16cd8297ac1690ad00cf2133185250d5a073899"
+      "Hash": "b0a298a67877caf8a42e0d2eeec4b29d852b2b9e5bc4b6fc884fd530f529e943"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
