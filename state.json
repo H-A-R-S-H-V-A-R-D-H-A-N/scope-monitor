@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-20T18:55:34Z",
+  "captured_at": "2026-08-20T19:39:49Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -25537,7 +25537,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f7a28edb227584cb266e2eb0af98d2cd8c6cc6f43f8df2360dfdb1aa8c754671"
+      "Hash": "b6bf55f328e14ff6f055959e4f428008ed176af51ab034113489e4260af6fa5d"
     },
     "h1:alohi": {
       "Key": "alohi",
@@ -31593,7 +31593,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ac7cdc0e43c9bf0e1c79d0af0bf08fc9b275303ed98d7968362e92b14b80a865"
+      "Hash": "3d72412f810b9f74105fc6eb7900bf10e9257e87fb0d81b8240382ebadb63359"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -97394,7 +97394,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "90f98427136a5861c8cc92a9191aecb25af2e6417963cbf1e12f2468e9b04983"
+      "Hash": "b76ddd0bf745a75210e2e7477e675391aff2304cf3974c953d660b93b6bb79ae"
     },
     "h1:elastic": {
       "Key": "elastic",
@@ -145021,7 +145021,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "4e031d129096c9bd614fcfdc621efaecb2df34dfff73f9fec1231c2184303591"
+      "Hash": "4bf2b180ae85e375f77eae01d9bc89d5a51b6df547f214ab7d9426547cd376e9"
     },
     "h1:flutteruki": {
       "Key": "flutteruki",
@@ -170504,7 +170504,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e515f6a61b6a19c41e21c5abc85c977b50d8aeda9d394641bf4fdf1be5d1289"
+      "Hash": "79fe84d904ab436d1854ec520691f3768ad5c9cf098eda89dc7207e177194e69"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -180910,7 +180910,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cdff6e555a4bdfecaa11bcf98902ca88a30df98316a43f43fdf5b6fa3ebf85e8"
+      "Hash": "4685fea771bf031dd4218f149eb3d73e8d6993e0a6a5708d99fa9885dcd65dfe"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -194214,48 +194214,6 @@
         }
       },
       "Hash": "85527d128dac99985575e7a09e70a0e8b1f4a5ffb383bec55a33b9f0c973b8c9"
-    },
-    "h1:weblate": {
-      "Key": "weblate",
-      "Name": "Weblate",
-      "URL": "https://hackerone.com/weblate",
-      "InScope": {
-        "hosted.weblate.org": {
-          "ID": "hosted.weblate.org",
-          "Type": "URL"
-        },
-        "https://github.com/WeblateOrg/docker": {
-          "ID": "https://github.com/WeblateOrg/docker",
-          "Type": "SOURCE_CODE"
-        },
-        "https://github.com/WeblateOrg/translation-finder": {
-          "ID": "https://github.com/WeblateOrg/translation-finder",
-          "Type": "SOURCE_CODE"
-        },
-        "https://github.com/WeblateOrg/weblate": {
-          "ID": "https://github.com/WeblateOrg/weblate",
-          "Type": "SOURCE_CODE"
-        },
-        "https://github.com/WeblateOrg/website": {
-          "ID": "https://github.com/WeblateOrg/website",
-          "Type": "SOURCE_CODE"
-        },
-        "https://github.com/WeblateOrg/wlc": {
-          "ID": "https://github.com/WeblateOrg/wlc",
-          "Type": "SOURCE_CODE"
-        }
-      },
-      "OutScope": {
-        "github.com": {
-          "ID": "github.com",
-          "Type": "URL"
-        },
-        "hg.weblate.org": {
-          "ID": "hg.weblate.org",
-          "Type": "URL"
-        }
-      },
-      "Hash": "7a79223caa83b1439aa603f36133aac3e4c82735759d1949371a664fa5fadf9f"
     },
     "h1:wellhive": {
       "Key": "wellhive",
