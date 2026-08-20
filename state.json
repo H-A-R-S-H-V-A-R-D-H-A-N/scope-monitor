@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-19T23:55:02Z",
+  "captured_at": "2026-08-20T01:47:49Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -215,6 +215,31 @@
       },
       "OutScope": {},
       "Hash": "da22aa0630f026c293cfc6025ad35750307ee320440f758b6e216f8660c1d9cb"
+    },
+    "bc:Accxia Marketplace Bug Bounty ": {
+      "Key": "Accxia Marketplace Bug Bounty ",
+      "Name": "Accxia Marketplace Bug Bounty ",
+      "URL": "https://bugcrowd.com/engagements/accxia-gmbh",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?tab=overview\u0026hosting=datacenter": {
+          "ID": "https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?tab=overview\u0026hosting=datacenter",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1228703/intelligent-user-manager-ium-for-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1228703/intelligent-user-manager-ium-for-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1235944/intelligent-user-manager-ium-for-confluence-cloud?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1235944/intelligent-user-manager-ium-for-confluence-cloud?hosting=cloud\u0026tab=overview",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "1e82a08db9d14760d5aabc7e4d7c4a15ca573ed9c29b49a816f8ede0553f6225"
     },
     "bc:Acorns Grow, Inc.": {
       "Key": "Acorns Grow, Inc.",
@@ -3432,6 +3457,31 @@
       "OutScope": {},
       "Hash": "36524e2cb0fc80b043eef57ec109f812fe648a53e6319c86307bfbac5a3947c3"
     },
+    "bc:BrowserStack Inc. Marketplace Managed Bug Bounty Engagement": {
+      "Key": "BrowserStack Inc. Marketplace Managed Bug Bounty Engagement",
+      "Name": "BrowserStack Inc. Marketplace Managed Bug Bounty Engagement",
+      "URL": "https://bugcrowd.com/engagements/browserstack-market",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1230699/browserstack-integration-for-jira?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1230699/browserstack-integration-for-jira?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1230699/browserstack-integration-for-jira?hosting=datacenter": {
+          "ID": "https://marketplace.atlassian.com/apps/1230699/browserstack-integration-for-jira?hosting=datacenter",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1230699/browserstack-test-management-webapp-integration-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1230699/browserstack-test-management-webapp-integration-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1741353933/browserstack-test-management-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1741353933/browserstack-test-management-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "ff22b6d4c4e09a61fb03928108fba7ed65f6b5091b14ce826ea98285a48a46ef"
+    },
     "bc:Bugcrowd": {
       "Key": "Bugcrowd",
       "Name": "Bugcrowd",
@@ -4774,6 +4824,79 @@
       },
       "OutScope": {},
       "Hash": "d29827461577eed8e918dfe1966609c42b9f88a5efac5cfcd6de047b2942944c"
+    },
+    "bc:DevSamurai": {
+      "Key": "DevSamurai",
+      "Name": "DevSamurai",
+      "URL": "https://bugcrowd.com/engagements/devsamurai",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1221853/enterprise-social-networking-polls-votes-for-confluence?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1221853/enterprise-social-networking-polls-votes-for-confluence?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1222309/agile-user-story-mapping-board-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1222309/agile-user-story-mapping-board-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1223423/teamboard-resource-management-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1223423/teamboard-resource-management-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1223793/confluence-whiteboard-process-workflow-visualization?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1223793/confluence-whiteboard-process-workflow-visualization?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224087/whiteboard-process-workflow-visualization-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224087/whiteboard-process-workflow-visualization-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224383/agile-user-story-mapping-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224383/agile-user-story-mapping-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224759/agile-scrum-planning-poker-for-jira?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1224759/agile-scrum-planning-poker-for-jira?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224927/time-tracking-timesheet-cost-tracker-resource-management?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224927/time-tracking-timesheet-cost-tracker-resource-management?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225654/ui-wireframes-mockup-prototype-diagrams-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1225654/ui-wireframes-mockup-prototype-diagrams-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1226280/ui-wireframes-mockup-prototype-diagrams-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1226280/ui-wireframes-mockup-prototype-diagrams-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1228080/agile-roadmaps-timeline-product-discovery-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1228080/agile-roadmaps-timeline-product-discovery-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1228867/assetit-it-asset-management-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1228867/assetit-it-asset-management-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1230085/agile-test-management-ad-hoc-test-qa-checklist-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1230085/agile-test-management-ad-hoc-test-qa-checklist-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1232398/roadmaps-timeline-gantt-chart-structure-for-confluence?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1232398/roadmaps-timeline-gantt-chart-structure-for-confluence?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1236175/spreadsheet-structure-table-gantt-chart-on-forge-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1236175/spreadsheet-structure-table-gantt-chart-on-forge-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/856555290/salesforge-crm-leads-deals-customers-management-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/856555290/salesforge-crm-leads-deals-customers-management-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "a8d357db1e75322febc0f984a79a1b147c25c9dde4ef2aaa41771416dfc3764d"
     },
     "bc:Deviniti": {
       "Key": "Deviniti",
@@ -9131,6 +9254,55 @@
       },
       "Hash": "ea5e62d2ed104ddc8091d49dd9f9fc40127b4566674c2795ba47d3281a8c51d1"
     },
+    "bc:Move Work Forward": {
+      "Key": "Move Work Forward",
+      "Name": "Move Work Forward",
+      "URL": "https://bugcrowd.com/engagements/moveworkforward",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1216106/github-links-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1216106/github-links-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1216286/gitlab-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1216286/gitlab-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1216325/microsoft-teams-jira-connector?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1216325/microsoft-teams-jira-connector?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1216348/microsoft-teams-confluence-connector?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1216348/microsoft-teams-confluence-connector?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1217566/github-links-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217566/github-links-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1222079/microsoftteams-confluence-connector-lite?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1222079/microsoftteams-confluence-connector-lite?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1223149/azure-devops-confluence-connector?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1223149/azure-devops-confluence-connector?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1231122/azure-devops-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1231122/azure-devops-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1233491/google-chat-for-jira?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1233491/google-chat-for-jira?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1236139/capybara-github-azure-devops-for-jira-service-management?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1236139/capybara-github-azure-devops-for-jira-service-management?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "3fc1234e1c30dc0adb19a28ee129536d6bf70dc5fb2db0e8fde228c46f6d6c66"
+    },
     "bc:MyFitnessPal Managed Bug Bounty": {
       "Key": "MyFitnessPal Managed Bug Bounty",
       "Name": "MyFitnessPal Managed Bug Bounty",
@@ -9826,6 +9998,31 @@
         }
       },
       "Hash": "56c0ef6ab4909b9324953896410e9b3ec4c9988c9b14b767710eac2a1827cb4a"
+    },
+    "bc:OST Consulting SRL Marketplace Managed Bug Bounty Engagement ": {
+      "Key": "OST Consulting SRL Marketplace Managed Bug Bounty Engagement ",
+      "Name": "OST Consulting SRL Marketplace Managed Bug Bounty Engagement ",
+      "URL": "https://bugcrowd.com/engagements/ost-consulting-market",
+      "InScope": {
+        "https://atlassian.ost-consulting.be": {
+          "ID": "https://atlassian.ost-consulting.be",
+          "Type": "api"
+        },
+        "https://marketplace.atlassian.com/apps/1230344/issue-templates-for-jira-cloud?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1230344/issue-templates-for-jira-cloud?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1233398/easy-clone-for-jira-cloud-free?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1233398/easy-clone-for-jira-cloud-free?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1235901/html-macro-pro-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1235901/html-macro-pro-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "a4d27ae4789ff6c1114dd9734a45369a43f12be15b840ac14f907a791124fc02"
     },
     "bc:Octopus": {
       "Key": "Octopus",
@@ -13197,6 +13394,31 @@
       "OutScope": {},
       "Hash": "9a18074723e446d60807afa1e5ceeb599a5f68ca5b55933ce54cbd1b01647d5a"
     },
+    "bc:RadBee Ltd.": {
+      "Key": "RadBee Ltd.",
+      "Name": "RadBee Ltd.",
+      "URL": "https://bugcrowd.com/engagements/radbee",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1222932/speedy-pdf-sign-offs-for-jira-cloud?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1222932/speedy-pdf-sign-offs-for-jira-cloud?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225123/jira-snapshots-time-stamped-baselines-into-confluence?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1225123/jira-snapshots-time-stamped-baselines-into-confluence?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1228815?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1228815?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1229545/access-agent-for-jira-snapshots-for-confluence?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1229545/access-agent-for-jira-snapshots-for-confluence?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "518db29cd6d6f0420883b08ffcad1bad01cd4d970fa91764c2003b3335c70979"
+    },
     "bc:Raley Apps": {
       "Key": "Raley Apps",
       "Name": "Raley Apps",
@@ -13606,6 +13828,256 @@
         }
       },
       "Hash": "42d6dc0bc668c9f72aab00c4ecabc7b04f733ebc59420bf0465df95e2060381d"
+    },
+    "bc:Resolution": {
+      "Key": "Resolution",
+      "Name": "Resolution",
+      "URL": "https://bugcrowd.com/engagements/resolutionde",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1211109/user-deactivator-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1211109/user-deactivator-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1211109/user-deactivator-jira?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1211109/user-deactivator-jira?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1211109/user-management-and-license-optimizer-for-jira-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1211109/user-management-and-license-optimizer-for-jira-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1212129/saml-single-sign-on-sso-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1212129/saml-single-sign-on-sso-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1212129/saml-single-sign-on-sso-confluence?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1212129/saml-single-sign-on-sso-confluence?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1212130/saml-single-sign-on-sso-jira-saml-sso?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1212130/saml-single-sign-on-sso-jira-saml-sso?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1212130/saml-single-sign-on-sso-jira-saml-sso?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1212130/saml-single-sign-on-sso-jira-saml-sso?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1216514/google-analytics-for-confluence-free?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1216514/google-analytics-for-confluence-free?hosting=cloud\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1217045/saml-single-sign-on-sso-bitbucket?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217045/saml-single-sign-on-sso-bitbucket?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1217045/saml-single-sign-on-sso-bitbucket?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217045/saml-single-sign-on-sso-bitbucket?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1217672/saml-single-sign-on-saml-sso-bamboo?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217672/saml-single-sign-on-saml-sso-bamboo?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1217672/saml-single-sign-on-sso-bamboo?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217672/saml-single-sign-on-sso-bamboo?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1218164/redirects-and-vanity-urls-for-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1218164/redirects-and-vanity-urls-for-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1218164/redirects-and-vanity-urls-for-confluence?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1218164/redirects-and-vanity-urls-for-confluence?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1218305/out-of-office-assistant-for-jira-cloud?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1218305/out-of-office-assistant-for-jira-cloud?hosting=cloud",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1219399/users-sync-groups-sync-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219399/users-sync-groups-sync-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1219399/users-sync-groups-sync-jira?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219399/users-sync-groups-sync-jira?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1219400/users-sync-groups-sync-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219400/users-sync-groups-sync-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1219400/users-sync-groups-sync-confluence?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219400/users-sync-groups-sync-confluence?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1219401/users-sync-groups-sync-bitbucket?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219401/users-sync-groups-sync-bitbucket?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1219401/users-sync-groups-sync-bitbucket?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219401/users-sync-groups-sync-bitbucket?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1219932/language-translation-jira-service-desk?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1219932/language-translation-jira-service-desk?hosting=cloud",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221586/api-token-authentication-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221586/api-token-authentication-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221586/api-token-authentication-jira?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221586/api-token-authentication-jira?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221601/user-deactivator-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221601/user-deactivator-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221601/user-deactivator-confluence?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221601/user-deactivator-confluence?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221608/api-token-authentication-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221608/api-token-authentication-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221608/api-token-authentication-confluence?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221608/api-token-authentication-confluence?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221625/http-header-authentication-for-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221625/http-header-authentication-for-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221625/http-header-authentication-for-jira?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221625/http-header-authentication-for-jira?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221627/http-header-auth-for-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221627/http-header-auth-for-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221627/http-header-auth-for-confluence?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221627/http-header-auth-for-confluence?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221629/license-user-deactivator-for-bitbucket?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221629/license-user-deactivator-for-bitbucket?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1221629/user-deactivator-for-bitbucket?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221629/user-deactivator-for-bitbucket?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1221738/user-sync-users-provisioning-sync-groups-sync-bamboo?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221738/user-sync-users-provisioning-sync-groups-sync-bamboo?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1221738/users-sync-groups-sync-bamboo?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221738/users-sync-groups-sync-bamboo?hosting=server\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1224117/api-token-authentication-for-bitbucket?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224117/api-token-authentication-for-bitbucket?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224117/api-token-authentication-for-bitbucket?hosting=server\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224117/api-token-authentication-for-bitbucket?hosting=server\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224142/monday-com-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224142/monday-com-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224156/miro-embed-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224156/miro-embed-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224457/aws-load-balancer-authentication-cognito-compatible-jira?hosting=server": {
+          "ID": "https://marketplace.atlassian.com/apps/1224457/aws-load-balancer-authentication-cognito-compatible-jira?hosting=server",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224457/aws-sso-alb-amazon-cognito-authentication-for-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224457/aws-sso-alb-amazon-cognito-authentication-for-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224459/aws-alb-and-amazon-cognito-authentication-for-confluence?hosting=server": {
+          "ID": "https://marketplace.atlassian.com/apps/1224459/aws-alb-and-amazon-cognito-authentication-for-confluence?hosting=server",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224459/aws-sso-alb-amazon-cognito-authentication-for-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224459/aws-sso-alb-amazon-cognito-authentication-for-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224602/smartsheet-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224602/smartsheet-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224606/microsoft-power-bi-embed-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224606/microsoft-power-bi-embed-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224678/monday-com-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224678/monday-com-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225346/hubspot-crm-for-confluence-hubspot-integration?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1225346/hubspot-crm-for-confluence-hubspot-integration?hosting=cloud\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1225465/pdf-embed-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1225465/pdf-embed-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "other"
+        },
+        "https://marketplace.atlassian.com/apps/1226752/google-translation-automation-for-jira-issue-language?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1226752/google-translation-automation-for-jira-issue-language?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1228240/hubspot-jira-crm-issue-link-integration-collaboration?hosting=cloud\u0026tab=reviews": {
+          "ID": "https://marketplace.atlassian.com/apps/1228240/hubspot-jira-crm-issue-link-integration-collaboration?hosting=cloud\u0026tab=reviews",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1231965/structure-your-jira-scrum-nasa-not-another-standup-app?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1231965/structure-your-jira-scrum-nasa-not-another-standup-app?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "Any app URLs that contain \"staging\", \"stg\", \"dev\" or \"ngrok\"": {
+          "ID": "Any app URLs that contain \"staging\", \"stg\", \"dev\" or \"ngrok\"",
+          "Type": "website"
+        },
+        "https://*.resolution.de": {
+          "ID": "https://*.resolution.de",
+          "Type": "website"
+        },
+        "https://id.atlassian.com": {
+          "ID": "https://id.atlassian.com",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/*": {
+          "ID": "https://marketplace.atlassian.com/*",
+          "Type": "website"
+        }
+      },
+      "Hash": "c8111543ee55677ec17f69141006478e055dadb9c064542d3fb6975ba259348d"
     },
     "bc:SAP Invitational Bug Bounty Program": {
       "Key": "SAP Invitational Bug Bounty Program",
@@ -15896,6 +16368,19 @@
         }
       },
       "Hash": "adf36a62cf13a1d15b8ecb0cf398bd045db975bd5b9324f5e2a2dcd1d1a5067b"
+    },
+    "bc:ToolsPlus": {
+      "Key": "ToolsPlus",
+      "Name": "ToolsPlus",
+      "URL": "https://bugcrowd.com/engagements/toolsplus",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1217371/intercom-for-jira?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1217371/intercom-for-jira?hosting=cloud",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "1301ee86884dffa80483d0d52c168e9054091aad9ed2b62520a7ad8d999a4135"
     },
     "bc:Trello": {
       "Key": "Trello",
@@ -145327,7 +145812,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "14248de7ffdd9674fe18a18353a975bc65115f606e753f00ba61be701c8a3fd0"
+      "Hash": "79c685170c9bdc0095bf8eff3e11eafefdc6d386e8e6daa50441764445a293b8"
     },
     "h1:fresenius": {
       "Key": "fresenius",
@@ -187276,7 +187761,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "04365512727ac5166f4f3fb40b3b502d200dd458e408a43b46c7c7d2a39da354"
+      "Hash": "4308329d216d7d6c248220bc8980cbd346f790954ef6cf629a878e2c5545716f"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
