@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-21T22:59:47Z",
+  "captured_at": "2026-08-21T23:34:37Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18486,98 +18486,62 @@
       "Name": "lululemon",
       "URL": "https://bugcrowd.com/engagements/lululemon",
       "InScope": {
-        "*.lululemon.com": {
-          "ID": "*.lululemon.com",
+        "███████████████": {
+          "ID": "███████████████",
           "Type": "other"
         },
-        "http://www.lululemon.co.kr/": {
-          "ID": "http://www.lululemon.co.kr/",
+        "██████████████████": {
+          "ID": "██████████████████",
           "Type": "website"
         },
-        "https://apps.apple.com/us/app/lululemon/id920098546": {
-          "ID": "https://apps.apple.com/us/app/lululemon/id920098546",
-          "Type": "ios"
-        },
-        "https://shop.lululemon.com": {
-          "ID": "https://shop.lululemon.com",
+        "████████████████████████": {
+          "ID": "████████████████████████",
           "Type": "website"
         },
-        "https://www.eu.lululemon.com/": {
-          "ID": "https://www.eu.lululemon.com/",
+        "██████████████████████████": {
+          "ID": "██████████████████████████",
           "Type": "website"
         },
-        "https://www.lululemon.co.jp/": {
-          "ID": "https://www.lululemon.co.jp/",
+        "███████████████████████████": {
+          "ID": "███████████████████████████",
           "Type": "website"
         },
-        "https://www.lululemon.co.nz/": {
-          "ID": "https://www.lululemon.co.nz/",
-          "Type": "website"
-        },
-        "https://www.lululemon.co.uk/": {
-          "ID": "https://www.lululemon.co.uk/",
-          "Type": "website"
-        },
-        "https://www.lululemon.com.au/  ": {
-          "ID": "https://www.lululemon.com.au/  ",
-          "Type": "website"
-        },
-        "https://www.lululemon.com.hk/": {
-          "ID": "https://www.lululemon.com.hk/",
-          "Type": "website"
-        },
-        "https://www.lululemon.de/": {
-          "ID": "https://www.lululemon.de/",
-          "Type": "website"
-        },
-        "https://www.lululemon.es/ ": {
-          "ID": "https://www.lululemon.es/ ",
-          "Type": "website"
-        },
-        "https://www.lululemon.fr/": {
-          "ID": "https://www.lululemon.fr/",
+        "████████████████████████████": {
+          "ID": "████████████████████████████",
           "Type": "website"
         }
       },
       "OutScope": {
-        "*.lululemon.cn": {
-          "ID": "*.lululemon.cn",
+        "███████████": {
+          "ID": "███████████",
           "Type": "website"
         },
-        "AEM - Assets": {
-          "ID": "AEM - Assets",
+        "████████████": {
+          "ID": "████████████",
           "Type": "website"
         },
-        "AEM - Sites": {
-          "ID": "AEM - Sites",
+        "██████████████": {
+          "ID": "██████████████",
           "Type": "website"
         },
-        "https://careers.lululemon.com/": {
-          "ID": "https://careers.lululemon.com/",
+        "█████████████████████": {
+          "ID": "█████████████████████",
           "Type": "website"
         },
-        "https://fr.shop.lululemon.com": {
-          "ID": "https://fr.shop.lululemon.com",
+        "██████████████████████████": {
+          "ID": "██████████████████████████",
           "Type": "website"
         },
-        "https://info.lululemon.com": {
-          "ID": "https://info.lululemon.com",
+        "█████████████████████████████": {
+          "ID": "█████████████████████████████",
           "Type": "website"
         },
-        "https://pnimage.lululemon.com": {
-          "ID": "https://pnimage.lululemon.com",
-          "Type": "website"
-        },
-        "https://www.lululemon.me": {
-          "ID": "https://www.lululemon.me",
-          "Type": "website"
-        },
-        "https://www.mirror.co/": {
-          "ID": "https://www.mirror.co/",
+        "██████████████████████████████": {
+          "ID": "██████████████████████████████",
           "Type": "website"
         }
       },
-      "Hash": "f3378bc9bf938c7716a1fe4b89e3fe28447dd53933db3182b7d67675c167c77d"
+      "Hash": "534842ab41459c468563e73b1d3b01da1f9367d8bf02ea8edb7fb17792b9fb50"
     },
     "bc:oDesk ": {
       "Key": "oDesk ",
@@ -103024,7 +102988,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "15c2a950329b9b7498b186414a5640e895b8581b7e44ac83adcf4ddb1ba7d95a"
+      "Hash": "07e0c032b90e4045be5345f67a7f7c6fd413c8628009349de025241a82643491"
     },
     "h1:experian": {
       "Key": "experian",
@@ -145990,7 +145954,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2f7ce828b3f673a56228c6665b2d041fff927acaf3e6971bc970d1015089c5b1"
+      "Hash": "249e4b060cec0b41a5279ce45bab7c9ccf4b2413787d15bf4928fd8a4495cad3"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -176256,7 +176220,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "72951b231bbd78b018f8d1c4340fa0e4209165dbfe40f44428aedad7538e73c5"
+      "Hash": "baabf208889dafc3eda1eb376a6caa3de2a8001706f02bc7aaf3a0275f8d30a1"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -200218,260 +200182,6 @@
       },
       "OutScope": {},
       "Hash": "53b2fab1df76425b23e61269aaf51227372c6c5c9fcefbca6afd092a2fa1fd62"
-    },
-    "in:768ad323-335b-4710-9370-6b81925c122f": {
-      "Key": "768ad323-335b-4710-9370-6b81925c122f",
-      "Name": "Kinepolis Group",
-      "URL": "https://www.intigriti.com/programs/kinepolis/website/detail",
-      "InScope": {
-        "*.kinepolis.be": {
-          "ID": "*.kinepolis.be",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.ch": {
-          "ID": "*.kinepolis.ch",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.com": {
-          "ID": "*.kinepolis.com",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.fr": {
-          "ID": "*.kinepolis.fr",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.lu": {
-          "ID": "*.kinepolis.lu",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.nl": {
-          "ID": "*.kinepolis.nl",
-          "Type": "wildcard"
-        },
-        "*.klubcinema.fr": {
-          "ID": "*.klubcinema.fr",
-          "Type": "wildcard"
-        },
-        "*.landmarkcinemas.com": {
-          "ID": "*.landmarkcinemas.com",
-          "Type": "wildcard"
-        },
-        "*.megatix.be  ": {
-          "ID": "*.megatix.be  ",
-          "Type": "wildcard"
-        },
-        "*.mjrtheatres.com": {
-          "ID": "*.mjrtheatres.com",
-          "Type": "wildcard"
-        },
-        "522089287": {
-          "ID": "522089287",
-          "Type": "ios"
-        },
-        "booking.mjrtheatres.com": {
-          "ID": "booking.mjrtheatres.com",
-          "Type": "url"
-        },
-        "business.kinepolis.be": {
-          "ID": "business.kinepolis.be",
-          "Type": "url"
-        },
-        "business.kinepolis.lu": {
-          "ID": "business.kinepolis.lu",
-          "Type": "url"
-        },
-        "business.kinepolis.nl": {
-          "ID": "business.kinepolis.nl",
-          "Type": "url"
-        },
-        "com.inthepocket.kinepolis": {
-          "ID": "com.inthepocket.kinepolis",
-          "Type": "android"
-        },
-        "egaming.kinepolis.es": {
-          "ID": "egaming.kinepolis.es",
-          "Type": "url"
-        },
-        "extras-acc.landmarkcinemas.com": {
-          "ID": "extras-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "extras.landmarkcinemas.com": {
-          "ID": "extras.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "https://movieclub-int.kinepolis.com": {
-          "ID": "https://movieclub-int.kinepolis.com",
-          "Type": "url"
-        },
-        "https://movienow-int.kinepolis.be/admin": {
-          "ID": "https://movienow-int.kinepolis.be/admin",
-          "Type": "url"
-        },
-        "https://shop-acc.kinepolis.be/": {
-          "ID": "https://shop-acc.kinepolis.be/",
-          "Type": "url"
-        },
-        "identityserver-acc.landmarkcinemas.com": {
-          "ID": "identityserver-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "identityserver.landmarkcinemas.com": {
-          "ID": "identityserver.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "kinepolis-studio.be": {
-          "ID": "kinepolis-studio.be",
-          "Type": "url"
-        },
-        "kinepolis.megatix.be": {
-          "ID": "kinepolis.megatix.be",
-          "Type": "url"
-        },
-        "kinepolis/id368204284": {
-          "ID": "kinepolis/id368204284",
-          "Type": "ios"
-        },
-        "luxfilmfestfilms.megatix.be": {
-          "ID": "luxfilmfestfilms.megatix.be",
-          "Type": "url"
-        },
-        "luxfilmfestproducts.megatix.be": {
-          "ID": "luxfilmfestproducts.megatix.be",
-          "Type": "url"
-        },
-        "luxfilmfesttickets.megatix.be": {
-          "ID": "luxfilmfesttickets.megatix.be",
-          "Type": "url"
-        },
-        "movieapi.kinepolis.megatix.be": {
-          "ID": "movieapi.kinepolis.megatix.be",
-          "Type": "url"
-        },
-        "nz.co.vista.android.movie.mjrtheatres": {
-          "ID": "nz.co.vista.android.movie.mjrtheatres",
-          "Type": "android"
-        },
-        "stage.landmarkcinemas.com": {
-          "ID": "stage.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "tickets.kinepolis.be": {
-          "ID": "tickets.kinepolis.be",
-          "Type": "url"
-        },
-        "tickets.kinepolis.ch": {
-          "ID": "tickets.kinepolis.ch",
-          "Type": "url"
-        },
-        "tickets.kinepolis.es": {
-          "ID": "tickets.kinepolis.es",
-          "Type": "url"
-        },
-        "tickets.kinepolis.fr": {
-          "ID": "tickets.kinepolis.fr",
-          "Type": "url"
-        },
-        "tickets.kinepolis.lu": {
-          "ID": "tickets.kinepolis.lu",
-          "Type": "url"
-        },
-        "tickets.kinepolis.nl": {
-          "ID": "tickets.kinepolis.nl",
-          "Type": "url"
-        },
-        "userprofile-acc.landmarkcinemas.com": {
-          "ID": "userprofile-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "userprofile-ui.landmarkcinemas.com": {
-          "ID": "userprofile-ui.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "www.kinepolis.be ": {
-          "ID": "www.kinepolis.be ",
-          "Type": "url"
-        },
-        "www.kinepolis.biz": {
-          "ID": "www.kinepolis.biz",
-          "Type": "url"
-        },
-        "www.kinepolis.ch ": {
-          "ID": "www.kinepolis.ch ",
-          "Type": "url"
-        },
-        "www.kinepolis.com ": {
-          "ID": "www.kinepolis.com ",
-          "Type": "url"
-        },
-        "www.kinepolis.es ": {
-          "ID": "www.kinepolis.es ",
-          "Type": "url"
-        },
-        "www.kinepolis.fr ": {
-          "ID": "www.kinepolis.fr ",
-          "Type": "url"
-        },
-        "www.kinepolis.lu ": {
-          "ID": "www.kinepolis.lu ",
-          "Type": "url"
-        },
-        "www.kinepolis.nl ": {
-          "ID": "www.kinepolis.nl ",
-          "Type": "url"
-        },
-        "www.landmarkcinemas.com": {
-          "ID": "www.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "www.mjrtheatres.com": {
-          "ID": "www.mjrtheatres.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.cineramabios.nl": {
-          "ID": "*.cineramabios.nl",
-          "Type": "wildcard"
-        },
-        "dev.kinepolis.com": {
-          "ID": "dev.kinepolis.com",
-          "Type": "url"
-        },
-        "helpdesk.landmarkcinemas.com": {
-          "ID": "helpdesk.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "jobs.kinepolis.com": {
-          "ID": "jobs.kinepolis.com",
-          "Type": "url"
-        },
-        "l.kinepolis.com": {
-          "ID": "l.kinepolis.com",
-          "Type": "url"
-        },
-        "openx.kinepolis.com": {
-          "ID": "openx.kinepolis.com",
-          "Type": "url"
-        },
-        "shop.kinepolis.be ": {
-          "ID": "shop.kinepolis.be ",
-          "Type": "url"
-        },
-        "shop.kinepolis.es": {
-          "ID": "shop.kinepolis.es",
-          "Type": "url"
-        },
-        "shop.kinepolis.fr ": {
-          "ID": "shop.kinepolis.fr ",
-          "Type": "url"
-        },
-        "shop.kinepolis.lu": {
-          "ID": "shop.kinepolis.lu",
-          "Type": "url"
-        }
-      },
-      "Hash": "a7c2a49ea9d26ca6c2af09d4ed22aae3fadc5aae6aabaca8caf1244b61f50a0e"
     },
     "in:784ffbc6-daaa-4e7e-8eba-c38a101d7b12": {
       "Key": "784ffbc6-daaa-4e7e-8eba-c38a101d7b12",
