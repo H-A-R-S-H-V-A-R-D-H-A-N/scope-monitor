@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-21T19:53:16Z",
+  "captured_at": "2026-08-21T20:36:15Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26981,7 +26981,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f9085c667bae4c77c2e57fd864a1181b33e5420f2a0278cf07359486db51782b"
+      "Hash": "df966774ba205d0589612ad1d52655e7af6c5287d151c1920c9d0239919f1f54"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -31590,7 +31590,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3c0906427eae12b651ee966fca0e0656ffe7676f0df87db1d3c532264f216943"
+      "Hash": "4fc1b4c2ba826c6bb1e01d133cc57f447ac08f777a5a23cc0cf5913f5fded131"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -144812,7 +144812,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9c700dedb7e6fce0448a756fe2731f6e10339f975521c41aff4a675d7ad8fcc6"
+      "Hash": "3f6d2e34846c1c19c9fc4725875517963aa14509ff44ffc555021684921a33e3"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -160834,6 +160834,10 @@
           "ID": "globalx.deere.com",
           "Type": "URL"
         },
+        "gls.deere.com": {
+          "ID": "gls.deere.com",
+          "Type": "URL"
+        },
         "gm01.benninghoven-gm.com": {
           "ID": "gm01.benninghoven-gm.com",
           "Type": "URL"
@@ -166313,7 +166317,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "71578cc2f1ed874888c577ae80fa4bfb0008d485a38664450953023f47658a64"
+      "Hash": "d75e17deddad5184c91bb35eca4c67f576692d95ee4d9d4e3ca325c0f047144b"
     },
     "h1:judgeme": {
       "Key": "judgeme",
