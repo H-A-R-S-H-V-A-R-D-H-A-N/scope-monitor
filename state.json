@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-21T18:52:05Z",
+  "captured_at": "2026-08-21T19:33:22Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24642,7 +24642,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0ac9f61c9e9b40f5aa6fb7bc5e83fa7a4d37472224a77a7b996450b132b7928c"
+      "Hash": "d0ad60bbe4e2fbf46cf8baa62d0729db6dfd2eec8d1430769a19f929a2f901d6"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -31624,7 +31624,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "5243087d928927e82e65fd247891e0318413b2805833858e704bc653cb35f2b9"
+      "Hash": "e453f9a8f9703b4a11deb6ecc2a5d37ec8630a6d5230c314f4439b048361a927"
     },
     "h1:bill_vdp": {
       "Key": "bill_vdp",
@@ -158782,6 +158782,10 @@
           "ID": "ai-lab.ae-machine-learning-operations-prod-vpn.us.e18.c01.johndeerecloud.com",
           "Type": "URL"
         },
+        "ai-platform.deere.com": {
+          "ID": "ai-platform.deere.com",
+          "Type": "URL"
+        },
         "ai.deere.com": {
           "ID": "ai.deere.com",
           "Type": "URL"
@@ -162400,6 +162404,10 @@
         },
         "np-zeus.agrisync.com": {
           "ID": "np-zeus.agrisync.com",
+          "Type": "URL"
+        },
+        "npp-dev.deere.com": {
+          "ID": "npp-dev.deere.com",
           "Type": "URL"
         },
         "nrtmonitor.deere.com": {
@@ -166305,7 +166313,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "11dd8e1e174ae69778a6f1c3da2f6bde89a2b0d94149e4fb17281a465fb205e3"
+      "Hash": "71578cc2f1ed874888c577ae80fa4bfb0008d485a38664450953023f47658a64"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -186875,7 +186883,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a62eefeb8e29d405208c2b8ec49b145b65c7a901b4e72d5c8c4df1ae60d0e52b"
+      "Hash": "38d7522a37a0c06176497e80fbfa0f287fd663a46abb2d58762136d1dc7c6e71"
     },
     "h1:six-group": {
       "Key": "six-group",
