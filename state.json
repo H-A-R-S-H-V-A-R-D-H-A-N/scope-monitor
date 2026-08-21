@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-21T17:39:23Z",
+  "captured_at": "2026-08-21T18:52:05Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -28406,7 +28406,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4da8f77a690bf465dbd84cd87c6fcecd9c389096b990c836cdde2948466d73d2"
+      "Hash": "6663ad100c25521ba02a9e2fffa0e3d59c7c9f67a43f1ab9450108e2c8a73b56"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -105410,7 +105410,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d12bcbcee8e0fdcf2a71942191b210aa89e24f0299b3afcf5efb8487a170c3d9"
+      "Hash": "6ed443fb29c0ca5b00451e6e7203f50f48e00e299d972de16c5107c964c3141a"
     },
     "h1:figma": {
       "Key": "figma",
@@ -150092,7 +150092,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "43366b15df900b6fd2236d750ced50a9b71a3d64c52aa220d49f8c94898dc440"
+      "Hash": "e26cf231aad5490375f1e93f614ab90e1f02c81f8833260852ed2e8e90797f48"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -159042,10 +159042,6 @@
           "ID": "apiprod-smoke.deere.com",
           "Type": "URL"
         },
-        "apisand-smoke.deere.com": {
-          "ID": "apisand-smoke.deere.com",
-          "Type": "URL"
-        },
         "apisecurity.deere.com": {
           "ID": "apisecurity.deere.com",
           "Type": "URL"
@@ -166309,7 +166305,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "be89f039841952d523e51d6a3f535aaeaae02cb3442b718dc197e6c456db306c"
+      "Hash": "11dd8e1e174ae69778a6f1c3da2f6bde89a2b0d94149e4fb17281a465fb205e3"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -166943,7 +166939,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5fd40d2bf8ce18c53884972c25cf1d1e6fcab179d3bac90d44f9acd3dedc23f5"
+      "Hash": "a1b3fdec87c39f9ab37d72fe5199172199b37fa52ef865f246ef8cdc67a884aa"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -193237,7 +193233,7 @@
         },
         "forms.cybersource.com": {
           "ID": "forms.cybersource.com",
-          "Type": "OTHER"
+          "Type": "URL"
         },
         "garp.visa.com": {
           "ID": "garp.visa.com",
@@ -193737,7 +193733,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fc77cd778048a287601bab855a742eefd165e99b6005af0efaf3e2d985805b7a"
+      "Hash": "2902447f2b7ffe9e851e8dfc584370dd47297e8312d7da899c56b0947d3701be"
     },
     "h1:vodafone": {
       "Key": "vodafone",
