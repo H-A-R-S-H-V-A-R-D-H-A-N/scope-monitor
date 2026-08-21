@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-21T10:42:16Z",
+  "captured_at": "2026-08-21T11:36:25Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23918,7 +23918,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6fe4d249e98555331713c316b4e0b4daa2b98159c2c0d21d438b67eb825364f5"
+      "Hash": "485fa01072331ea604a6d3e94ae3f0b1ed93275a2efd68b36a4c8eaafd1612f7"
     },
     "h1:acronis": {
       "Key": "acronis",
@@ -28562,7 +28562,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "439ab35bba789bfd24b2d48207350c82c7385bd256c7026b796831935ae5179e"
+      "Hash": "a16e0010f198999ca0614f18bf54e3fa154c75445839ab72f0cceff9bf70c660"
     },
     "h1:att": {
       "Key": "att",
@@ -88938,10 +88938,6 @@
           "ID": "https://github.com/cloudflare/vinext-private",
           "Type": "SOURCE_CODE"
         },
-        "https://github.com/cloudflare/wirefilter/": {
-          "ID": "https://github.com/cloudflare/wirefilter/",
-          "Type": "SOURCE_CODE"
-        },
         "react-examples.realtime.cloudflare.com": {
           "ID": "react-examples.realtime.cloudflare.com",
           "Type": "URL"
@@ -88963,7 +88959,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "183aed2537b14476158440af290b2bc4ab780d096339b5bad04a76a0100715df"
+      "Hash": "00d86e9bd4ebc3ffee0e959b0c3313d3d9a7e63cfe515a9753bee3fac2664c50"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -149055,7 +149051,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0e139b3f90b8ead9e86403ac56b95fd0d66ab2f123ddaee4d0be900f9091ed34"
+      "Hash": "e7c957b92b3cc43c7fe4665a1e92c4c698d55e8bc16507ddb6faf0795ca78e2b"
     },
     "h1:homebargains": {
       "Key": "homebargains",
@@ -173548,7 +173544,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c847817f0a0b64cb2ff1aa46358ca110782e4c7e65327df5dbdeee11aaee5381"
+      "Hash": "4f114243a7b985d4baf33a7d7749f787b6b7a897e5d8883e78fe792f8bb1f940"
     },
     "h1:msci": {
       "Key": "msci",
@@ -183774,7 +183770,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0d00db24d95a59ca4632a4358a3468d8af4a92f299834276e1c3285577513611"
+      "Hash": "023617858945f0927dbca84c10e03b8426e5d7865357fa382202742de69ac676"
     },
     "h1:reddit": {
       "Key": "reddit",
@@ -187304,7 +187300,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "33f92c93c931236804f3d3ce195b0cdfbdc75c43ded8e064bdba859d7ef17c47"
+      "Hash": "a9f9cd909686cf267606f67c0d4df73a3f4fbe65caf7eb655fffeee22eaa2edd"
     },
     "h1:snapchat": {
       "Key": "snapchat",
@@ -189300,7 +189296,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dd2b4e35867186df0162aaee610f49c065072cf3118a52946e9618228ce6cf2b"
+      "Hash": "efcc2962692f424d17608d6a96eecf9b82d54bc69e8aa4504f77d5e5947d3f14"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -189506,7 +189502,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e8025a69ec21977419cc640155e43cf7d90508c95fb3ee51c553eedb5916948c"
+      "Hash": "1b749ad03b2a3c8880fc5a613ec8664e069a4a0bb585d99e279f70365f6a259e"
     },
     "h1:tinder": {
       "Key": "tinder",
