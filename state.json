@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-21T13:56:45Z",
+  "captured_at": "2026-08-21T14:49:34Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -27188,7 +27188,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b2fcb1366107f25f7e3dab7e17b0183cd3d779ef36553d3f89ec5043d97c726b"
+      "Hash": "424321b92cde0454db7c8e140f9eb3ce22835b8db9644f4daee9cf1c98a5e4d3"
     },
     "h1:aon": {
       "Key": "aon",
@@ -28562,7 +28562,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a16e0010f198999ca0614f18bf54e3fa154c75445839ab72f0cceff9bf70c660"
+      "Hash": "0c71c0a77aa80a7c913d0046932ad0f38683cfd70cf02fbb4f7109cb5a0e7ad5"
     },
     "h1:att": {
       "Key": "att",
@@ -33076,7 +33076,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3314f51ccc5dc89dae672b810693a8b35a3a1b238abee3ed7d3702760fdfca44"
+      "Hash": "889b9cb54ad2161517eb8a55b5c56d657871f9d35f142ce032e94f78d2f9e480"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -88959,7 +88959,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "00d86e9bd4ebc3ffee0e959b0c3313d3d9a7e63cfe515a9753bee3fac2664c50"
+      "Hash": "4acb90bc0213840a4ed3be157897031b8289da44e616dbbad19c449c18ab9c44"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -96526,7 +96526,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1143dcea14138cd965bd4d168df6dce1459d537a9bc8ffb9a5859459cb8fff5d"
+      "Hash": "59aeecc708ff672919cbb5aaf76bb4900df0d2def2177e16e58e1fd39f620305"
     },
     "h1:django": {
       "Key": "django",
@@ -146776,7 +146776,7 @@
       "URL": "https://hackerone.com/godaddy-vdp",
       "InScope": {},
       "OutScope": {},
-      "Hash": "d57e59c951caaa53e168b6f9459efce2e5116b01f625c085d51d18d1a4b13564"
+      "Hash": "222302b6e3cbb204ba40ec409f6e3ad5b871486f34673aed47c1501f2f4fa22a"
     },
     "h1:gogo_vdp": {
       "Key": "gogo_vdp",
@@ -151220,7 +151220,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ba17b0056b47a072c5ec735212d8b927a0124f91041f3d6c4989f902e4571b31"
+      "Hash": "1ee131d895ab61cebab35e21462e9297a060d854d4b786586715d1cb39bffda4"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -167785,6 +167785,10 @@
           "ID": "airtalk.appslatam.com",
           "Type": "URL"
         },
+        "andeslatam.tech": {
+          "ID": "andeslatam.tech",
+          "Type": "URL"
+        },
         "chat.latamairlines.com": {
           "ID": "chat.latamairlines.com",
           "Type": "URL"
@@ -167968,7 +167972,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5167a4721c866c74d4f60e996a9f251fce8115c4cb9ebe5f591ecaf0807c9341"
+      "Hash": "a64beb0f71ef680bf30c4abf8cb6052ec823aee8189672a7374b1dbdd81fdd85"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -182358,7 +182362,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bab548235d8b8ac0dc29d4cd982e39a6014f4659a09576cebf78750c6b07de34"
+      "Hash": "4b149a252241f02a6c36ae577acef5de4909c927ee92c001b9b8de6a215638ce"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -183476,7 +183480,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d7d5f85e751ab77bad2d9e5c7bd5a50f48460ec82c8ea17e9357398c24a21e9"
+      "Hash": "6e571696431b3749cf1419f09c6169b1bc26400ca9e6a94faaa7fda4868c6ef5"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -188981,7 +188985,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cd910eb1b89128c65f19a4d8da516e4fc3fe936943279d2cb57e5957d447b6b8"
+      "Hash": "5d8d7dd8dc13fd8b8f021f57e8fc803ef0f1040a675e968921482b7109c19527"
     },
     "h1:temu": {
       "Key": "temu",
@@ -189766,7 +189770,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e8c4d56e69883ea19bd9b32e4786bb4878b0a24df3d6a240808298cef34b79f4"
+      "Hash": "300bd39f1bdbcbd0fa633d4af56bc9f2d4be45a486f5867bb8203d38077c7a68"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -195400,7 +195404,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1ea242cc838a7755103a18b5e04f5f00957bb691cda3747adaf85d958d3b67d7"
+      "Hash": "e4ddceb90a6d5a1ad321d0eea5299b56634cee457b9f3bdd945474289e843228"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -200268,6 +200272,260 @@
       "OutScope": {},
       "Hash": "53b2fab1df76425b23e61269aaf51227372c6c5c9fcefbca6afd092a2fa1fd62"
     },
+    "in:768ad323-335b-4710-9370-6b81925c122f": {
+      "Key": "768ad323-335b-4710-9370-6b81925c122f",
+      "Name": "Kinepolis Group",
+      "URL": "https://www.intigriti.com/programs/kinepolis/website/detail",
+      "InScope": {
+        "*.kinepolis.be": {
+          "ID": "*.kinepolis.be",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.ch": {
+          "ID": "*.kinepolis.ch",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.com": {
+          "ID": "*.kinepolis.com",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.fr": {
+          "ID": "*.kinepolis.fr",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.lu": {
+          "ID": "*.kinepolis.lu",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.nl": {
+          "ID": "*.kinepolis.nl",
+          "Type": "wildcard"
+        },
+        "*.klubcinema.fr": {
+          "ID": "*.klubcinema.fr",
+          "Type": "wildcard"
+        },
+        "*.landmarkcinemas.com": {
+          "ID": "*.landmarkcinemas.com",
+          "Type": "wildcard"
+        },
+        "*.megatix.be  ": {
+          "ID": "*.megatix.be  ",
+          "Type": "wildcard"
+        },
+        "*.mjrtheatres.com": {
+          "ID": "*.mjrtheatres.com",
+          "Type": "wildcard"
+        },
+        "522089287": {
+          "ID": "522089287",
+          "Type": "ios"
+        },
+        "booking.mjrtheatres.com": {
+          "ID": "booking.mjrtheatres.com",
+          "Type": "url"
+        },
+        "business.kinepolis.be": {
+          "ID": "business.kinepolis.be",
+          "Type": "url"
+        },
+        "business.kinepolis.lu": {
+          "ID": "business.kinepolis.lu",
+          "Type": "url"
+        },
+        "business.kinepolis.nl": {
+          "ID": "business.kinepolis.nl",
+          "Type": "url"
+        },
+        "com.inthepocket.kinepolis": {
+          "ID": "com.inthepocket.kinepolis",
+          "Type": "android"
+        },
+        "egaming.kinepolis.es": {
+          "ID": "egaming.kinepolis.es",
+          "Type": "url"
+        },
+        "extras-acc.landmarkcinemas.com": {
+          "ID": "extras-acc.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "extras.landmarkcinemas.com": {
+          "ID": "extras.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "https://movieclub-int.kinepolis.com": {
+          "ID": "https://movieclub-int.kinepolis.com",
+          "Type": "url"
+        },
+        "https://movienow-int.kinepolis.be/admin": {
+          "ID": "https://movienow-int.kinepolis.be/admin",
+          "Type": "url"
+        },
+        "https://shop-acc.kinepolis.be/": {
+          "ID": "https://shop-acc.kinepolis.be/",
+          "Type": "url"
+        },
+        "identityserver-acc.landmarkcinemas.com": {
+          "ID": "identityserver-acc.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "identityserver.landmarkcinemas.com": {
+          "ID": "identityserver.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "kinepolis-studio.be": {
+          "ID": "kinepolis-studio.be",
+          "Type": "url"
+        },
+        "kinepolis.megatix.be": {
+          "ID": "kinepolis.megatix.be",
+          "Type": "url"
+        },
+        "kinepolis/id368204284": {
+          "ID": "kinepolis/id368204284",
+          "Type": "ios"
+        },
+        "luxfilmfestfilms.megatix.be": {
+          "ID": "luxfilmfestfilms.megatix.be",
+          "Type": "url"
+        },
+        "luxfilmfestproducts.megatix.be": {
+          "ID": "luxfilmfestproducts.megatix.be",
+          "Type": "url"
+        },
+        "luxfilmfesttickets.megatix.be": {
+          "ID": "luxfilmfesttickets.megatix.be",
+          "Type": "url"
+        },
+        "movieapi.kinepolis.megatix.be": {
+          "ID": "movieapi.kinepolis.megatix.be",
+          "Type": "url"
+        },
+        "nz.co.vista.android.movie.mjrtheatres": {
+          "ID": "nz.co.vista.android.movie.mjrtheatres",
+          "Type": "android"
+        },
+        "stage.landmarkcinemas.com": {
+          "ID": "stage.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "tickets.kinepolis.be": {
+          "ID": "tickets.kinepolis.be",
+          "Type": "url"
+        },
+        "tickets.kinepolis.ch": {
+          "ID": "tickets.kinepolis.ch",
+          "Type": "url"
+        },
+        "tickets.kinepolis.es": {
+          "ID": "tickets.kinepolis.es",
+          "Type": "url"
+        },
+        "tickets.kinepolis.fr": {
+          "ID": "tickets.kinepolis.fr",
+          "Type": "url"
+        },
+        "tickets.kinepolis.lu": {
+          "ID": "tickets.kinepolis.lu",
+          "Type": "url"
+        },
+        "tickets.kinepolis.nl": {
+          "ID": "tickets.kinepolis.nl",
+          "Type": "url"
+        },
+        "userprofile-acc.landmarkcinemas.com": {
+          "ID": "userprofile-acc.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "userprofile-ui.landmarkcinemas.com": {
+          "ID": "userprofile-ui.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "www.kinepolis.be ": {
+          "ID": "www.kinepolis.be ",
+          "Type": "url"
+        },
+        "www.kinepolis.biz": {
+          "ID": "www.kinepolis.biz",
+          "Type": "url"
+        },
+        "www.kinepolis.ch ": {
+          "ID": "www.kinepolis.ch ",
+          "Type": "url"
+        },
+        "www.kinepolis.com ": {
+          "ID": "www.kinepolis.com ",
+          "Type": "url"
+        },
+        "www.kinepolis.es ": {
+          "ID": "www.kinepolis.es ",
+          "Type": "url"
+        },
+        "www.kinepolis.fr ": {
+          "ID": "www.kinepolis.fr ",
+          "Type": "url"
+        },
+        "www.kinepolis.lu ": {
+          "ID": "www.kinepolis.lu ",
+          "Type": "url"
+        },
+        "www.kinepolis.nl ": {
+          "ID": "www.kinepolis.nl ",
+          "Type": "url"
+        },
+        "www.landmarkcinemas.com": {
+          "ID": "www.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "www.mjrtheatres.com": {
+          "ID": "www.mjrtheatres.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.cineramabios.nl": {
+          "ID": "*.cineramabios.nl",
+          "Type": "wildcard"
+        },
+        "dev.kinepolis.com": {
+          "ID": "dev.kinepolis.com",
+          "Type": "url"
+        },
+        "helpdesk.landmarkcinemas.com": {
+          "ID": "helpdesk.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "jobs.kinepolis.com": {
+          "ID": "jobs.kinepolis.com",
+          "Type": "url"
+        },
+        "l.kinepolis.com": {
+          "ID": "l.kinepolis.com",
+          "Type": "url"
+        },
+        "openx.kinepolis.com": {
+          "ID": "openx.kinepolis.com",
+          "Type": "url"
+        },
+        "shop.kinepolis.be ": {
+          "ID": "shop.kinepolis.be ",
+          "Type": "url"
+        },
+        "shop.kinepolis.es": {
+          "ID": "shop.kinepolis.es",
+          "Type": "url"
+        },
+        "shop.kinepolis.fr ": {
+          "ID": "shop.kinepolis.fr ",
+          "Type": "url"
+        },
+        "shop.kinepolis.lu": {
+          "ID": "shop.kinepolis.lu",
+          "Type": "url"
+        }
+      },
+      "Hash": "a7c2a49ea9d26ca6c2af09d4ed22aae3fadc5aae6aabaca8caf1244b61f50a0e"
+    },
     "in:784ffbc6-daaa-4e7e-8eba-c38a101d7b12": {
       "Key": "784ffbc6-daaa-4e7e-8eba-c38a101d7b12",
       "Name": "Voi Vulnerability Disclosure Program",
@@ -203224,6 +203482,47 @@
       },
       "Hash": "53d37d7307cb96791970030cf034899ac2872abac47b7f83fd3e2efaf79e1e16"
     },
+    "in:c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e": {
+      "Key": "c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e",
+      "Name": "Venly",
+      "URL": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+      "InScope": {
+        "api-wallet-sandbox.venly.io": {
+          "ID": "api-wallet-sandbox.venly.io",
+          "Type": "url"
+        },
+        "api-wallet.venly.io": {
+          "ID": "api-wallet.venly.io",
+          "Type": "url"
+        },
+        "api.arkane.network": {
+          "ID": "api.arkane.network",
+          "Type": "url"
+        },
+        "connect.arkane.network ": {
+          "ID": "connect.arkane.network ",
+          "Type": "url"
+        },
+        "connect.venly.io": {
+          "ID": "connect.venly.io",
+          "Type": "url"
+        },
+        "login.arkane.network": {
+          "ID": "login.arkane.network",
+          "Type": "url"
+        },
+        "login.venly.io": {
+          "ID": "login.venly.io",
+          "Type": "url"
+        },
+        "wallet.venly.io": {
+          "ID": "wallet.venly.io",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "ea8b482a765a30cb3b435286d5a943e795c63c5a4e9d7c1cdb44f1d51096498e"
+    },
     "in:c7272420-0cef-4366-87d2-278c06591799": {
       "Key": "c7272420-0cef-4366-87d2-278c06591799",
       "Name": "House of HR Vulnerability Disclosure Program",
@@ -204597,6 +204896,200 @@
       },
       "OutScope": {},
       "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
+    },
+    "in:ed04d1ef-1aa3-49dd-92f1-06f50f9756b9": {
+      "Key": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
+      "Name": "TrueLayer",
+      "URL": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "InScope": {
+        "*.truelayer.cloud": {
+          "ID": "*.truelayer.cloud",
+          "Type": "wildcard"
+        },
+        "*.truelayer.com": {
+          "ID": "*.truelayer.com",
+          "Type": "wildcard"
+        },
+        "*.truelayer.io": {
+          "ID": "*.truelayer.io",
+          "Type": "wildcard"
+        },
+        "C# SDK": {
+          "ID": "C# SDK",
+          "Type": "other"
+        },
+        "Java SDK": {
+          "ID": "Java SDK",
+          "Type": "other"
+        },
+        "PHP SDK": {
+          "ID": "PHP SDK",
+          "Type": "other"
+        },
+        "React Native SDK": {
+          "ID": "React Native SDK",
+          "Type": "other"
+        },
+        "Rust SDK": {
+          "ID": "Rust SDK",
+          "Type": "other"
+        },
+        "TrueLayer for Magento (Magento plugin)": {
+          "ID": "TrueLayer for Magento (Magento plugin)",
+          "Type": "other"
+        },
+        "TrueLayer for WooCommerce (WordPress plugin)": {
+          "ID": "TrueLayer for WooCommerce (WordPress plugin)",
+          "Type": "other"
+        },
+        "Web SDK": {
+          "ID": "Web SDK",
+          "Type": "other"
+        },
+        "api.mtls.truelayer[-sandbox].com": {
+          "ID": "api.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "api.truelayer[-sandbox].com": {
+          "ID": "api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "app.truelayer[-sandbox].com": {
+          "ID": "app.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.mtls.truelayer[-sandbox].com": {
+          "ID": "auth.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.truelayer[-sandbox].com": {
+          "ID": "auth.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console-backend.truelayer[-sandbox].com": {
+          "ID": "console-backend.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console.truelayer[-sandbox].com": {
+          "ID": "console.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "iOS SDK": {
+          "ID": "iOS SDK",
+          "Type": "other"
+        },
+        "login-api.truelayer[-sandbox].com": {
+          "ID": "login-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "login.truelayer[-sandbox].com": {
+          "ID": "login.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "onboarding-api.truelayer.com": {
+          "ID": "onboarding-api.truelayer.com",
+          "Type": "url"
+        },
+        "pay-api.truelayer[-sandbox].com": {
+          "ID": "pay-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "pay.truelayer[-sandbox].com": {
+          "ID": "pay.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "paydirect.truelayer[-sandbox].com": {
+          "ID": "paydirect.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payment.truelayer[-sandbox].com": {
+          "ID": "payment.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payments-experience-api.truelayer[-sandbox].com": {
+          "ID": "payments-experience-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "sftp.reports.truelayer.com": {
+          "ID": "sftp.reports.truelayer.com",
+          "Type": "url"
+        },
+        "shop-pay-app-api.truelayer.com": {
+          "ID": "shop-pay-app-api.truelayer.com",
+          "Type": "url"
+        },
+        "shopify-admin.truelayer.com": {
+          "ID": "shopify-admin.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer-signing": {
+          "ID": "truelayer-signing",
+          "Type": "other"
+        },
+        "user-authentication-api.truelayer[-sandbox].com": {
+          "ID": "user-authentication-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "users-api.truelayer.com": {
+          "ID": "users-api.truelayer.com",
+          "Type": "url"
+        },
+        "webhooks.truelayer[-sandbox].com": {
+          "ID": "webhooks.truelayer[-sandbox].com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "banks.truelayer.com": {
+          "ID": "banks.truelayer.com",
+          "Type": "url"
+        },
+        "careers.truelayer.com": {
+          "ID": "careers.truelayer.com",
+          "Type": "url"
+        },
+        "docs.houston.truelayer.com": {
+          "ID": "docs.houston.truelayer.com",
+          "Type": "url"
+        },
+        "docs.truelayer.com": {
+          "ID": "docs.truelayer.com",
+          "Type": "url"
+        },
+        "https://truelayer.com/contact/": {
+          "ID": "https://truelayer.com/contact/",
+          "Type": "url"
+        },
+        "index.truelayer.com": {
+          "ID": "index.truelayer.com",
+          "Type": "url"
+        },
+        "info.truelayer.com": {
+          "ID": "info.truelayer.com",
+          "Type": "url"
+        },
+        "signin.truelayer.com": {
+          "ID": "signin.truelayer.com",
+          "Type": "url"
+        },
+        "status.truelayer.com": {
+          "ID": "status.truelayer.com",
+          "Type": "url"
+        },
+        "support.truelayer.com": {
+          "ID": "support.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer.zendesk.com": {
+          "ID": "truelayer.zendesk.com",
+          "Type": "url"
+        },
+        "trust.truelayer.com": {
+          "ID": "trust.truelayer.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "7a2d0cc76bc6ebd6a98c958be9db862155e3f0590e73ca1efa314cee5b156d4d"
     },
     "in:ee2612e7-e188-492f-9bb2-ba48651523de": {
       "Key": "ee2612e7-e188-492f-9bb2-ba48651523de",
