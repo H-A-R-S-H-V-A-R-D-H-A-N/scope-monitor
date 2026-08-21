@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-21T21:57:31Z",
+  "captured_at": "2026-08-21T22:36:40Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -31286,7 +31286,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a8a1280e1c76380be88a1a38250c6a40b873dc9db8aac00c0b574965a4e557f0"
+      "Hash": "0adf9863d20315bd7a7f71554cd08b910a1547d0e6a27801f26374a0035433a8"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -105410,7 +105410,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6ed443fb29c0ca5b00451e6e7203f50f48e00e299d972de16c5107c964c3141a"
+      "Hash": "a5cd735391d8dbc20b48c02c67a2d1380a1802f2d3b8c864695fe770dff0e9c6"
     },
     "h1:figma": {
       "Key": "figma",
@@ -148868,7 +148868,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "247856275556e38bcde23a2dc6c5b97fd6c9c0f6729c4c5b8690b0f6be6b5696"
+      "Hash": "737e10fc7a710c5b48ff4ab2bfc3c4c0b7a5f8d4dc99c7b720f214d1c7acbb78"
     },
     "h1:hex": {
       "Key": "hex",
@@ -151221,7 +151221,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1ee131d895ab61cebab35e21462e9297a060d854d4b786586715d1cb39bffda4"
+      "Hash": "ba17b0056b47a072c5ec735212d8b927a0124f91041f3d6c4989f902e4571b31"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -169824,7 +169824,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "021358acf40b81f0c2b763b8d2bb8fe17a5ef1e4feec873faa491af9946ca4ab"
+      "Hash": "a1b378294d55a81128fb105d842cdd858c0728217f3500c505c6df2fa03a1581"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -192148,7 +192148,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "89522acb4d2162afc5bb1ecdc39cf1c576a785b4fead2afa395622aa8da73306"
+      "Hash": "423080a79d3ddeb19dba9f450b183323c899d5fef1edc7ab6b946f22fe3fae07"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -193749,7 +193749,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2902447f2b7ffe9e851e8dfc584370dd47297e8312d7da899c56b0947d3701be"
+      "Hash": "a9ed2adb4293a1cad2ea7882afd51f73372769c87fe6de574fa53d4445396759"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -194468,72 +194468,6 @@
       },
       "Hash": "82f6d00cacf38c6887ac6eca6a94d5df33cb2de328add3768f7856e15f1d1cb9"
     },
-    "h1:wickr": {
-      "Key": "wickr",
-      "Name": "Wickr",
-      "URL": "https://hackerone.com/wickr",
-      "InScope": {
-        "Wickr Me Android": {
-          "ID": "Wickr Me Android",
-          "Type": "OTHER"
-        },
-        "Wickr Me Linux": {
-          "ID": "Wickr Me Linux",
-          "Type": "OTHER"
-        },
-        "Wickr Me OS X": {
-          "ID": "Wickr Me OS X",
-          "Type": "OTHER"
-        },
-        "Wickr Me Windows": {
-          "ID": "Wickr Me Windows",
-          "Type": "OTHER"
-        },
-        "Wickr Me iOS": {
-          "ID": "Wickr Me iOS",
-          "Type": "OTHER"
-        },
-        "Wickr Pro Android": {
-          "ID": "Wickr Pro Android",
-          "Type": "OTHER"
-        },
-        "Wickr Pro Linux": {
-          "ID": "Wickr Pro Linux",
-          "Type": "OTHER"
-        },
-        "Wickr Pro OS X": {
-          "ID": "Wickr Pro OS X",
-          "Type": "OTHER"
-        },
-        "Wickr Pro Windows": {
-          "ID": "Wickr Pro Windows",
-          "Type": "OTHER"
-        },
-        "Wickr Pro iOS": {
-          "ID": "Wickr Pro iOS",
-          "Type": "OTHER"
-        },
-        "Wickr Pro/Wickr Me (all related technical components) (up to)": {
-          "ID": "Wickr Pro/Wickr Me (all related technical components) (up to)",
-          "Type": "OTHER"
-        },
-        "admin.wickr.com": {
-          "ID": "admin.wickr.com",
-          "Type": "URL"
-        },
-        "www.wickr.com": {
-          "ID": "www.wickr.com",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {
-        "support.wickr.com": {
-          "ID": "support.wickr.com",
-          "Type": "URL"
-        }
-      },
-      "Hash": "6ff1a626136f1b03cb8c785436fdff5fe55388ccdfc94404733637876673c11f"
-    },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
       "Name": "WisdomTree, Inc.",
@@ -195214,7 +195148,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b61771d0ab16c0fd3d62abb7e09c652fc674e0096f0674a8f62efba4f9337b37"
+      "Hash": "d16d1ca5715d0df25204eeb40d55c4a05331ebebf48de714d802172e274a7ec1"
     },
     "h1:xvideos": {
       "Key": "xvideos",
