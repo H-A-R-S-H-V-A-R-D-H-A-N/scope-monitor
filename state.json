@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-22T03:04:03Z",
+  "captured_at": "2026-08-22T03:52:26Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -68089,7 +68089,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "d5e56e9b6648aedb98bf08930b5169d35f852cec958503b6c169b958ea4d41e5"
+      "Hash": "78aceec993e8e27d642c9bd6fbd8c8907c25673e4485cf373f8c7dd903b99b75"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -96772,7 +96772,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "42101b9f7a2282f50403dc241a4f2c4f7abe5a97b6c0eece8eec6fbde25e3b9b"
+      "Hash": "93dca8ea47d6a3f288a3b8fd492067d6a23877d2781a82e6b6926d19bc376218"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -147096,7 +147096,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "35b9f3ff20f1e796e3fef6f9383fb7f2283d95a11bbd38a4f1ccc95b65011922"
+      "Hash": "060abbec02f8803f2645e71b4146f8b96e22590ef48b8acb79d2ee77bd64484f"
     },
     "h1:goodrx": {
       "Key": "goodrx",
@@ -149017,7 +149017,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "beab606fff17e514a2194bfa31228622ec9b04dc1f29d951d7136c2c540bd814"
+      "Hash": "276fbce1451fe34a17c1f7c5a704f0b9dc2a6b336c79ec90cb808726bdc32c72"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -149096,7 +149096,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "3e7f9fb9348cb5896bc33f09228fcde989fe87151b5c4eb62e584a9a030fe2fc"
+      "Hash": "9c0728f4ac923257b73ba15f8f6463980247a2e43c5d17b131e0ee1a3c5fad68"
     },
     "h1:hpe_vdp": {
       "Key": "hpe_vdp",
@@ -166455,7 +166455,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "aa12eb93eb805332e1546695a53fb6f1904f27f6fd0e3684ae1c21aea85223a7"
+      "Hash": "bd5ab55a3321f3b0fa42d4cf1d3f362079b1e6097ccec102f672883fad639c1c"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -188844,7 +188844,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "17c2053cffa0920491edcc1a7ec8525e3b1dd90844232497f2083728dbab96d9"
+      "Hash": "b1c73163bad616c0b4955a1503d3e9e6f668ae5f229abecbdc5e034896837410"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -199559,52 +199559,6 @@
       },
       "OutScope": {},
       "Hash": "ca0c160d17e90a49ff9c71a3d35af84dc37da1d88a11d1d468f9b2f1c9c44e5b"
-    },
-    "in:64f80113-969e-4c55-9649-8a044487941c": {
-      "Key": "64f80113-969e-4c55-9649-8a044487941c",
-      "Name": "PDQ bug bounty program",
-      "URL": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "InScope": {
-        "https://a.simplemdm.com/": {
-          "ID": "https://a.simplemdm.com/",
-          "Type": "url"
-        },
-        "https://app.pdq.com/": {
-          "ID": "https://app.pdq.com/",
-          "Type": "url"
-        },
-        "https://auth2.pdq.com/": {
-          "ID": "https://auth2.pdq.com/",
-          "Type": "url"
-        },
-        "https://library.pdq.com/": {
-          "ID": "https://library.pdq.com/",
-          "Type": "url"
-        },
-        "https://portal.pdq.com/": {
-          "ID": "https://portal.pdq.com/",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "https://*.pdq.com/": {
-          "ID": "https://*.pdq.com/",
-          "Type": "wildcard"
-        },
-        "https://*.pdq.tools/": {
-          "ID": "https://*.pdq.tools/",
-          "Type": "wildcard"
-        },
-        "https://*.simplemdm.com/ ": {
-          "ID": "https://*.simplemdm.com/ ",
-          "Type": "wildcard"
-        },
-        "https://*.smartdeploy.com/ ": {
-          "ID": "https://*.smartdeploy.com/ ",
-          "Type": "wildcard"
-        }
-      },
-      "Hash": "4fa9f97456ab76e20a594fdc52aeb4a83f46f14d92708334ed1914565df11e85"
     },
     "in:6558543a-236f-4e98-91a3-4536e39b9c1e": {
       "Key": "6558543a-236f-4e98-91a3-4536e39b9c1e",
