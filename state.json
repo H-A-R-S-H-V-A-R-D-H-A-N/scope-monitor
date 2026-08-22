@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-22T14:55:27Z",
+  "captured_at": "2026-08-22T15:32:01Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -103212,7 +103212,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "14f58d873917e870805c223464bd470e3248e79d959553252ef7a7fec593ddb3"
+      "Hash": "fab2c664844f38a71305df2c184807260dc6204bea52cf45856732df31d90cb2"
     },
     "h1:ferrero": {
       "Key": "ferrero",
@@ -150378,7 +150378,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ddf6e1a402bf6a9bb73e0ed30aa51f163dc11a5ddfc96397989dffc731b5d474"
+      "Hash": "d16e8918b0bfbb28b577d02961b25cb11bc4816634f50c6c7de67f14d2851a31"
     },
     "h1:hypr-corp": {
       "Key": "hypr-corp",
@@ -166549,7 +166549,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7ccb28ff331c60772218ee50db33436d9a58fa06e7de185bacf173f54e9b77b6"
+      "Hash": "bb3cf705d127193277f8d690cfbec5e2c900c763ffc69adff82cadd27650664b"
     },
     "h1:keybank": {
       "Key": "keybank",
@@ -167649,7 +167649,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "0f082683b219541b90e9042edd10f5d323b74c06dedefb2f042f649ee1a96a68"
+      "Hash": "cafbc341062374d275d2c5dd1bc44c3ec733b56589aa789a1aa82b99c2147ee2"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -173036,7 +173036,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "339b2eb5a6737d2c517ae3c942a87b49c03d1241e75936bcb220033dd64f878b"
+      "Hash": "006e0e2eeba71c073aaec7997d5fae62ca89b9c47c83658056952206d404d185"
     },
     "h1:monero": {
       "Key": "monero",
@@ -178943,7 +178943,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ae70b64770626d45d9d44ef54394c397dcda277c845f956530f7f13738f9f381"
+      "Hash": "0c7f70d490347dc3de9113b70752a171459514c7138ca24194e725d8a997a738"
     },
     "h1:nutanix": {
       "Key": "nutanix",
@@ -186128,7 +186128,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f06dc1e4515bb55ab4e07679c8a388c269356d1cbebb8302a84ff4d2206190b7"
+      "Hash": "98e6bcb3b55df18b37b6e4222d9f1f5db1afb9085d32e7624370971903111dc0"
     },
     "h1:security": {
       "Key": "security",
@@ -187721,7 +187721,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "43b06e7c36ce408909800bd2bff3c1fd15cb1d35cc28f1fa4c70753c93e2071b"
+      "Hash": "feed0156d2961497ff6fd8f65d94aaeec05192f82fc060d2ac6701e7604c2243"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -193206,10 +193206,6 @@
           "ID": "http://myvisainfinite.com/suntrust/en_us/home.html",
           "Type": "URL"
         },
-        "http://www.myvisacardportal.com/welcome/enbd/product/#": {
-          "ID": "http://www.myvisacardportal.com/welcome/enbd/product/#",
-          "Type": "URL"
-        },
         "https://ebctest.cybersource.com/CGK2": {
           "ID": "https://ebctest.cybersource.com/CGK2",
           "Type": "URL"
@@ -193366,6 +193362,10 @@
           "ID": "https://solutions.visaacceptance.com/subscription",
           "Type": "URL"
         },
+        "https://www.myvisacardportal.com/enbd/en_ae/landing/": {
+          "ID": "https://www.myvisacardportal.com/enbd/en_ae/landing/",
+          "Type": "URL"
+        },
         "https://www.visa.com.az/az_az/account/registration": {
           "ID": "https://www.visa.com.az/az_az/account/registration",
           "Type": "URL"
@@ -193462,24 +193462,12 @@
           "ID": "vgov.catalogue.digitalcontrolroom.com",
           "Type": "URL"
         },
-        "visa.co.cr": {
-          "ID": "visa.co.cr",
-          "Type": "URL"
-        },
-        "visa.co.ni": {
-          "ID": "visa.co.ni",
-          "Type": "URL"
-        },
         "visa.co.za": {
           "ID": "visa.co.za",
           "Type": "URL"
         },
         "visa.com.au": {
           "ID": "visa.com.au",
-          "Type": "URL"
-        },
-        "visa.com.bo": {
-          "ID": "visa.com.bo",
           "Type": "URL"
         },
         "visa.com.jm": {
@@ -193550,6 +193538,10 @@
           "ID": "www.visa.co.ao",
           "Type": "URL"
         },
+        "www.visa.co.cr": {
+          "ID": "www.visa.co.cr",
+          "Type": "URL"
+        },
         "www.visa.co.id": {
           "ID": "www.visa.co.id",
           "Type": "URL"
@@ -193570,6 +193562,10 @@
           "ID": "www.visa.co.ke",
           "Type": "URL"
         },
+        "www.visa.co.ni": {
+          "ID": "www.visa.co.ni",
+          "Type": "URL"
+        },
         "www.visa.co.nz": {
           "ID": "www.visa.co.nz",
           "Type": "URL"
@@ -193588,6 +193584,10 @@
         },
         "www.visa.com.az": {
           "ID": "www.visa.com.az",
+          "Type": "URL"
+        },
+        "www.visa.com.bo": {
+          "ID": "www.visa.com.bo",
           "Type": "URL"
         },
         "www.visa.com.br": {
@@ -193692,7 +193692,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a9ed2adb4293a1cad2ea7882afd51f73372769c87fe6de574fa53d4445396759"
+      "Hash": "fa3114ace351ac07639b174a7a9b2677cdbd141272a56495592c5164a1c46ea6"
     },
     "h1:vodafone": {
       "Key": "vodafone",
