@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-22T06:56:09Z",
+  "captured_at": "2026-08-22T07:40:41Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -91469,7 +91469,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7e9f4e477c87a9cb4eeada0fb965dbc8f12303ed54c9876c846dd0ab047bac5c"
+      "Hash": "d5ffc81f10736607a06dc241a7ab8ed1f34945412c32c20485b75a1e2dcb17fa"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -146140,7 +146140,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fe59eef185e650574a0e532e47690e42c86b34a66eb95b22f2daf6cd306b4de9"
+      "Hash": "b3a1495fb53e4374fc9d40f80cf43312bbc096c2954e90d1009d0a9fb81b29e3"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -147968,6 +147968,10 @@
           "ID": "*.henkeldx.com",
           "Type": "WILDCARD"
         },
+        "*.henkeleconomato.es": {
+          "ID": "*.henkeleconomato.es",
+          "Type": "WILDCARD"
+        },
         "*.henkelgroup.cloud": {
           "ID": "*.henkelgroup.cloud",
           "Type": "WILDCARD"
@@ -148384,6 +148388,10 @@
           "ID": "*.salonory.com",
           "Type": "WILDCARD"
         },
+        "*.sawope.com": {
+          "ID": "*.sawope.com",
+          "Type": "WILDCARD"
+        },
         "*.schwarzkopf.*": {
           "ID": "*.schwarzkopf.*",
           "Type": "WILDCARD"
@@ -148786,7 +148794,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a5e2ed889a7f7781df6ae509bf25d159ea4c4b9417fad1ed2cbae3d2e1a94a97"
+      "Hash": "c9d0fd68fe9dfa7b1ed99639fa79876c951914b36aeef4ddf47092f9ceb010f3"
     },
     "h1:hertz": {
       "Key": "hertz",
@@ -166455,7 +166463,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "bd5ab55a3321f3b0fa42d4cf1d3f362079b1e6097ccec102f672883fad639c1c"
+      "Hash": "eb9588712e3f9fd0b25f6345b751c4ce735c0f49b97fc33b86e0b54c50f34798"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -167193,7 +167201,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ffb57c1615d401a38731c28dcc4ed02344d92eaedf709df6c2cc6319fae8ae1a"
+      "Hash": "290242f081becda3632ff2020100b0c97ca44617277beef831d255495ff84233"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
