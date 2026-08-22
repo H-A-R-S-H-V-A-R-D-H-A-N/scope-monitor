@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-21T23:57:01Z",
+  "captured_at": "2026-08-22T01:46:57Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -32224,35 +32224,6 @@
       },
       "OutScope": {},
       "Hash": "44bf61bde0628abd21245094216e5ca9e9da686e9a25b752e0484720411e9719"
-    },
-    "h1:brave": {
-      "Key": "brave",
-      "Name": "Brave Software",
-      "URL": "https://hackerone.com/brave",
-      "InScope": {
-        "Brave Browser Desktop": {
-          "ID": "Brave Browser Desktop",
-          "Type": "DOWNLOADABLE_EXECUTABLES"
-        },
-        "Brave websites": {
-          "ID": "Brave websites",
-          "Type": "OTHER"
-        },
-        "com.brave.browser": {
-          "ID": "com.brave.browser",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.brave.ios.browser": {
-          "ID": "com.brave.ios.browser",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "https://github.com/brave/*, https://github.com/brave-intl/*": {
-          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
-          "Type": "SOURCE_CODE"
-        }
-      },
-      "OutScope": {},
-      "Hash": "6fd8c43504698b245f94a2493b27cfe0f84147a062829705fa2641313f3bd7e9"
     },
     "h1:braze_inc": {
       "Key": "braze_inc",
@@ -98486,7 +98457,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9fb5a4108feea49e648f1663767522ea949a4a4284230e00e5cec730c3cc0a56"
+      "Hash": "bdeff27caf3d3cb0b3842135976b03572e21d88cdfa826d5a5905386e8c5d955"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -147485,7 +147456,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c982087fa62f90af513ec764759f461fc98403916a028b02c8c959959a562555"
+      "Hash": "53ce994aae34f8a89fcc0e8071a9ec804c8c827a29a123e1d3e6c3eb07102e58"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -151132,7 +151103,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8508352d89e5e72cbf7d27ce4d8312c81213e4a2f5b90048019008698d06f44b"
+      "Hash": "1520db5ff9bbd7d16b91faf282db086dd0b0fd137e333e786f2f9a433ed6994e"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -157971,7 +157942,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2ce4d1c37c50d0e7e1c65bdde744accf2616382f5cf6c63f40cbc303a0b9634f"
+      "Hash": "fc58df4f12ed5f3c1705cd324580e1cd4373b24c3f9e5ee5f4378a6b294c5998"
     },
     "h1:john-deere": {
       "Key": "john-deere",
@@ -168885,7 +168856,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2f0bfc5906d769483b9e53da1951a1a999055a5dbcb23e1c8400540137b67d1f"
+      "Hash": "94fb5f193f8ac207fd4ea3fa1a58476a01fd93ebba07262ad0372afc6fb1cf8a"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -186382,7 +186353,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5a123ae1467d80293dc5abe6943f207b6dd634d2f766fc71c0835e54aa69ccce"
+      "Hash": "40b82f2407b821f3003a107daa23e55e5704bd615b6360834d0eac0e36ee4ee9"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -189285,7 +189256,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "efcc2962692f424d17608d6a96eecf9b82d54bc69e8aa4504f77d5e5947d3f14"
+      "Hash": "fdaeadd740c19c4c1bcca886c7af359733998ea396966f1bff44e0bc617a8559"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -189747,7 +189718,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7077f79c0a2b63b16d2a06689654132053892de97f27a512b4b7d5579e93aae4"
+      "Hash": "3ae5fed7432cfa833b61cacf4d3897c26aae0c18c0cbde1f37ee0ca3938d8565"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -194430,7 +194401,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "82f6d00cacf38c6887ac6eca6a94d5df33cb2de328add3768f7856e15f1d1cb9"
+      "Hash": "af9c950b79b6dbf6fcfffc3cddc836f618ceb5936edba3cdf980250c88a0159e"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
