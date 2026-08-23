@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-23T15:54:34Z",
+  "captured_at": "2026-08-23T16:37:49Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -28370,7 +28370,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7a5715196ac5a2dc59ee7ed5c3df2f2b6626f97d23ebf326392c7e964f1ac416"
+      "Hash": "fd63b7eccab52451552e6658d0da4fd0995ad95a7a98fdf2bfb245ba41fa7112"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -88576,7 +88576,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d15487117a30dc777ac76fd9d0363f20b3775f451661fc68c801eaa968276492"
+      "Hash": "2b2fd3240ad00b2f33affe975c84eac6be0415f2b65d44a7b3b21cce2eacc028"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -179330,7 +179330,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1e099bb760359247c32c1a434ab06720ebc1d93266a01ea18bc1345be125c863"
+      "Hash": "698aeefa60fb6f13412c122c154e186ab41f17ccab083213b99d65f840565950"
     },
     "h1:openmage": {
       "Key": "openmage",
@@ -186545,7 +186545,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "e7cddb7216306e8359c5d1fa42fa398fe39ede00427a09c0b8e0cf1f6dadef6b"
+      "Hash": "a44e532651c4d78a9a0e3cfa0945133410d5d4d53b27018743fa08373ca568a2"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -188852,7 +188852,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e68cc1ae2e0bdcac4e591b237c7af52a1c70734d57c16f819ecabcaf75b8a08a"
+      "Hash": "b1cfac2bb7f9d3c1cd785dffc8ddfec6acd1fe7f91abb04268c75bd9955b5fae"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -201200,6 +201200,188 @@
       },
       "OutScope": {},
       "Hash": "6c532f3ed656b4b34381d8a76906afbf041e345488a61ff05e6d4b9d27164251"
+    },
+    "in:933f224e-fbd3-4f08-a4fb-5038c2fa1a6e": {
+      "Key": "933f224e-fbd3-4f08-a4fb-5038c2fa1a6e",
+      "Name": "Axel Springer National Media \u0026 Tech",
+      "URL": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
+      "InScope": {
+        "*.as-nmt.de": {
+          "ID": "*.as-nmt.de",
+          "Type": "wildcard"
+        },
+        "*.asadcdn.com": {
+          "ID": "*.asadcdn.com",
+          "Type": "wildcard"
+        },
+        "*.auth.bild.de": {
+          "ID": "*.auth.bild.de",
+          "Type": "wildcard"
+        },
+        "*.autobild.de": {
+          "ID": "*.autobild.de",
+          "Type": "wildcard"
+        },
+        "*.bild.de": {
+          "ID": "*.bild.de",
+          "Type": "wildcard"
+        },
+        "*.bild.design": {
+          "ID": "*.bild.design",
+          "Type": "wildcard"
+        },
+        "*.bild.tv": {
+          "ID": "*.bild.tv",
+          "Type": "wildcard"
+        },
+        "*.bz-berlin.de": {
+          "ID": "*.bz-berlin.de",
+          "Type": "wildcard"
+        },
+        "*.computerbild.de": {
+          "ID": "*.computerbild.de",
+          "Type": "wildcard"
+        },
+        "*.ein-herz-fuer-kinder.de": {
+          "ID": "*.ein-herz-fuer-kinder.de",
+          "Type": "wildcard"
+        },
+        "*.fitbook.de": {
+          "ID": "*.fitbook.de",
+          "Type": "wildcard"
+        },
+        "*.germany.politico.eu": {
+          "ID": "*.germany.politico.eu",
+          "Type": "wildcard"
+        },
+        "*.hey.bild.de": {
+          "ID": "*.hey.bild.de",
+          "Type": "wildcard"
+        },
+        "*.myhomebook.de": {
+          "ID": "*.myhomebook.de",
+          "Type": "wildcard"
+        },
+        "*.petbook-magazine.com/": {
+          "ID": "*.petbook-magazine.com/",
+          "Type": "wildcard"
+        },
+        "*.petbook.de": {
+          "ID": "*.petbook.de",
+          "Type": "wildcard"
+        },
+        "*.sportbild.de": {
+          "ID": "*.sportbild.de",
+          "Type": "wildcard"
+        },
+        "*.spring-media.de": {
+          "ID": "*.spring-media.de",
+          "Type": "wildcard"
+        },
+        "*.springtools.de": {
+          "ID": "*.springtools.de",
+          "Type": "wildcard"
+        },
+        "*.stylebook.de": {
+          "ID": "*.stylebook.de",
+          "Type": "wildcard"
+        },
+        "*.techbook.de": {
+          "ID": "*.techbook.de",
+          "Type": "wildcard"
+        },
+        "*.travelbook.de": {
+          "ID": "*.travelbook.de",
+          "Type": "wildcard"
+        },
+        "*.welt.de": {
+          "ID": "*.welt.de",
+          "Type": "wildcard"
+        },
+        "*.wissen-sie-mehr.de": {
+          "ID": "*.wissen-sie-mehr.de",
+          "Type": "wildcard"
+        },
+        "18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39": {
+          "ID": "18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39",
+          "Type": "iprange"
+        },
+        "adtechnology.axelspringer.com": {
+          "ID": "adtechnology.axelspringer.com",
+          "Type": "url"
+        },
+        "bild.de": {
+          "ID": "bild.de",
+          "Type": "url"
+        },
+        "cancellation.prod.ps.welt.de": {
+          "ID": "cancellation.prod.ps.welt.de",
+          "Type": "url"
+        },
+        "dealer.prod.ps.axelspringer.de/purchases/*": {
+          "ID": "dealer.prod.ps.axelspringer.de/purchases/*",
+          "Type": "wildcard"
+        },
+        "digital.welt.de": {
+          "ID": "digital.welt.de",
+          "Type": "url"
+        },
+        "editorial.one": {
+          "ID": "editorial.one",
+          "Type": "url"
+        },
+        "emarketer.com": {
+          "ID": "emarketer.com",
+          "Type": "url"
+        },
+        "epaper.welt.de": {
+          "ID": "epaper.welt.de",
+          "Type": "url"
+        },
+        "go.welt.de": {
+          "ID": "go.welt.de",
+          "Type": "url"
+        },
+        "m.bild.de": {
+          "ID": "m.bild.de",
+          "Type": "url"
+        },
+        "meinkonto.bild.de": {
+          "ID": "meinkonto.bild.de",
+          "Type": "url"
+        },
+        "newsos.com": {
+          "ID": "newsos.com",
+          "Type": "url"
+        },
+        "politico.eu": {
+          "ID": "politico.eu",
+          "Type": "url"
+        },
+        "signin.auth.welt.de": {
+          "ID": "signin.auth.welt.de",
+          "Type": "url"
+        },
+        "technik.autobild.de": {
+          "ID": "technik.autobild.de",
+          "Type": "url"
+        },
+        "technik.beta.autobild.de": {
+          "ID": "technik.beta.autobild.de",
+          "Type": "url"
+        },
+        "welt.de": {
+          "ID": "welt.de",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.axelspringer.com": {
+          "ID": "*.axelspringer.com",
+          "Type": "wildcard"
+        }
+      },
+      "Hash": "b0c09ca3916fbb0410bda5595e5c72c7cf72dde335a0438e4e02851f8eeae33d"
     },
     "in:96d3f49a-4c5f-4bc8-835a-77f734eefe4e": {
       "Key": "96d3f49a-4c5f-4bc8-835a-77f734eefe4e",
