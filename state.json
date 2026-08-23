@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-23T05:04:53Z",
+  "captured_at": "2026-08-23T05:42:11Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -178943,7 +178943,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ae70b64770626d45d9d44ef54394c397dcda277c845f956530f7f13738f9f381"
+      "Hash": "0c7f70d490347dc3de9113b70752a171459514c7138ca24194e725d8a997a738"
     },
     "h1:nutanix": {
       "Key": "nutanix",
@@ -191200,7 +191200,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "14182e9e868ac08c0f046be81784a9fff0196bcd22047c4122d4030323b77b42"
+      "Hash": "74820ac9dc4ed076323c2e3887e2bc6167fcf065ddf9dd26feef188228ed4012"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -201200,188 +201200,6 @@
       },
       "OutScope": {},
       "Hash": "6c532f3ed656b4b34381d8a76906afbf041e345488a61ff05e6d4b9d27164251"
-    },
-    "in:933f224e-fbd3-4f08-a4fb-5038c2fa1a6e": {
-      "Key": "933f224e-fbd3-4f08-a4fb-5038c2fa1a6e",
-      "Name": "Axel Springer National Media \u0026 Tech",
-      "URL": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
-      "InScope": {
-        "*.as-nmt.de": {
-          "ID": "*.as-nmt.de",
-          "Type": "wildcard"
-        },
-        "*.asadcdn.com": {
-          "ID": "*.asadcdn.com",
-          "Type": "wildcard"
-        },
-        "*.auth.bild.de": {
-          "ID": "*.auth.bild.de",
-          "Type": "wildcard"
-        },
-        "*.autobild.de": {
-          "ID": "*.autobild.de",
-          "Type": "wildcard"
-        },
-        "*.bild.de": {
-          "ID": "*.bild.de",
-          "Type": "wildcard"
-        },
-        "*.bild.design": {
-          "ID": "*.bild.design",
-          "Type": "wildcard"
-        },
-        "*.bild.tv": {
-          "ID": "*.bild.tv",
-          "Type": "wildcard"
-        },
-        "*.bz-berlin.de": {
-          "ID": "*.bz-berlin.de",
-          "Type": "wildcard"
-        },
-        "*.computerbild.de": {
-          "ID": "*.computerbild.de",
-          "Type": "wildcard"
-        },
-        "*.ein-herz-fuer-kinder.de": {
-          "ID": "*.ein-herz-fuer-kinder.de",
-          "Type": "wildcard"
-        },
-        "*.fitbook.de": {
-          "ID": "*.fitbook.de",
-          "Type": "wildcard"
-        },
-        "*.germany.politico.eu": {
-          "ID": "*.germany.politico.eu",
-          "Type": "wildcard"
-        },
-        "*.hey.bild.de": {
-          "ID": "*.hey.bild.de",
-          "Type": "wildcard"
-        },
-        "*.myhomebook.de": {
-          "ID": "*.myhomebook.de",
-          "Type": "wildcard"
-        },
-        "*.petbook-magazine.com/": {
-          "ID": "*.petbook-magazine.com/",
-          "Type": "wildcard"
-        },
-        "*.petbook.de": {
-          "ID": "*.petbook.de",
-          "Type": "wildcard"
-        },
-        "*.sportbild.de": {
-          "ID": "*.sportbild.de",
-          "Type": "wildcard"
-        },
-        "*.spring-media.de": {
-          "ID": "*.spring-media.de",
-          "Type": "wildcard"
-        },
-        "*.springtools.de": {
-          "ID": "*.springtools.de",
-          "Type": "wildcard"
-        },
-        "*.stylebook.de": {
-          "ID": "*.stylebook.de",
-          "Type": "wildcard"
-        },
-        "*.techbook.de": {
-          "ID": "*.techbook.de",
-          "Type": "wildcard"
-        },
-        "*.travelbook.de": {
-          "ID": "*.travelbook.de",
-          "Type": "wildcard"
-        },
-        "*.welt.de": {
-          "ID": "*.welt.de",
-          "Type": "wildcard"
-        },
-        "*.wissen-sie-mehr.de": {
-          "ID": "*.wissen-sie-mehr.de",
-          "Type": "wildcard"
-        },
-        "18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39": {
-          "ID": "18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39",
-          "Type": "iprange"
-        },
-        "adtechnology.axelspringer.com": {
-          "ID": "adtechnology.axelspringer.com",
-          "Type": "url"
-        },
-        "bild.de": {
-          "ID": "bild.de",
-          "Type": "url"
-        },
-        "cancellation.prod.ps.welt.de": {
-          "ID": "cancellation.prod.ps.welt.de",
-          "Type": "url"
-        },
-        "dealer.prod.ps.axelspringer.de/purchases/*": {
-          "ID": "dealer.prod.ps.axelspringer.de/purchases/*",
-          "Type": "wildcard"
-        },
-        "digital.welt.de": {
-          "ID": "digital.welt.de",
-          "Type": "url"
-        },
-        "editorial.one": {
-          "ID": "editorial.one",
-          "Type": "url"
-        },
-        "emarketer.com": {
-          "ID": "emarketer.com",
-          "Type": "url"
-        },
-        "epaper.welt.de": {
-          "ID": "epaper.welt.de",
-          "Type": "url"
-        },
-        "go.welt.de": {
-          "ID": "go.welt.de",
-          "Type": "url"
-        },
-        "m.bild.de": {
-          "ID": "m.bild.de",
-          "Type": "url"
-        },
-        "meinkonto.bild.de": {
-          "ID": "meinkonto.bild.de",
-          "Type": "url"
-        },
-        "newsos.com": {
-          "ID": "newsos.com",
-          "Type": "url"
-        },
-        "politico.eu": {
-          "ID": "politico.eu",
-          "Type": "url"
-        },
-        "signin.auth.welt.de": {
-          "ID": "signin.auth.welt.de",
-          "Type": "url"
-        },
-        "technik.autobild.de": {
-          "ID": "technik.autobild.de",
-          "Type": "url"
-        },
-        "technik.beta.autobild.de": {
-          "ID": "technik.beta.autobild.de",
-          "Type": "url"
-        },
-        "welt.de": {
-          "ID": "welt.de",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.axelspringer.com": {
-          "ID": "*.axelspringer.com",
-          "Type": "wildcard"
-        }
-      },
-      "Hash": "b0c09ca3916fbb0410bda5595e5c72c7cf72dde335a0438e4e02851f8eeae33d"
     },
     "in:96d3f49a-4c5f-4bc8-835a-77f734eefe4e": {
       "Key": "96d3f49a-4c5f-4bc8-835a-77f734eefe4e",
