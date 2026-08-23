@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-23T17:31:03Z",
+  "captured_at": "2026-08-23T17:53:16Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -31646,7 +31646,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "63f489288d9c19198bfa76ab9816fdea93ac19f3c4f79d19429a8d94d4de87c3"
+      "Hash": "cd7ded6145c485382660526a053f091570c455554f34174521fc7dbea9103c25"
     },
     "h1:bitwarden": {
       "Key": "bitwarden",
@@ -150035,7 +150035,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f818933ef74365e93fb0ea69ada61a151810f9a978df44903032cbe18480283a"
+      "Hash": "f9908fe14f1e94255151fc3090d6418a74ebfdacfbee5cd4cd9470b2820097b6"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -157271,7 +157271,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a009490bcb0ddf9d803bdb9b091f22b7636c7cc6db6b530fcab8d210d508a99b"
+      "Hash": "eb17df07b0a7c0794c916edf0b581d9211c0e92159d3b67221f465bff794fff4"
     },
     "h1:ips": {
       "Key": "ips",
@@ -180935,7 +180935,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8543508b5876e259e258711071f9807f8580e950a4848630c14c1691ff454d12"
+      "Hash": "b4e5b487c4912bde13a0b5f9803642b3ff0c01458c90cfb27d030bb417babf12"
     },
     "h1:peloton": {
       "Key": "peloton",
@@ -186545,7 +186545,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a44e532651c4d78a9a0e3cfa0945133410d5d4d53b27018743fa08373ca568a2"
+      "Hash": "e7cddb7216306e8359c5d1fa42fa398fe39ede00427a09c0b8e0cf1f6dadef6b"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -189532,7 +189532,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1da4ec9142a469f7bdd5f50f95d64b48edef479071d8c6b0ed1bb84c1f119bb2"
+      "Hash": "2489a5f6fe9a1937ab11afd9c475cc6022bcf96fa2a50ea34a2f595c61c9fdf0"
     },
     "h1:tines_automation_vdp": {
       "Key": "tines_automation_vdp",
@@ -190658,7 +190658,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "22fb20a164f659728cd7b81c7efb7d7b600f1d034230bbc3930354c599005cf8"
+      "Hash": "be12842e70940888cd0b629c1c9a98c19577f063b91872018665a0243b321892"
     },
     "h1:truecaller": {
       "Key": "truecaller",
@@ -194313,7 +194313,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e34b5d17e212966ef237275aaf91941190ed72a2c6b553034cc7d81e05b9eca5"
+      "Hash": "430e2b22fd3f46603cb6c4f9c12757713eecd1c8047a9e9c97a933588c29b3dc"
     },
     "h1:who-covid-19-mobile-app": {
       "Key": "who-covid-19-mobile-app",
