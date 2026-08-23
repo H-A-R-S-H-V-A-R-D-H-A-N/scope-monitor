@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-23T11:53:49Z",
+  "captured_at": "2026-08-23T12:58:23Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -90351,7 +90351,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ea7b71ce0cb3249248b6162750060d3bd7f2c1edf34b4088e4e05061400f6779"
+      "Hash": "a371e95d791c9fa8ac0131358944014598459e8b277dc71c65bd97fa7100f0d7"
     },
     "h1:daimler_truck": {
       "Key": "daimler_truck",
@@ -151111,7 +151111,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1520db5ff9bbd7d16b91faf282db086dd0b0fd137e333e786f2f9a433ed6994e"
+      "Hash": "8508352d89e5e72cbf7d27ce4d8312c81213e4a2f5b90048019008698d06f44b"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -171621,7 +171621,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6c11e3a79a9929c17625b41eeca0f144417c92790d1acfd05cd0e7ef9844153c"
+      "Hash": "1769fdff2f706bbe2a227049d198071818421ac0aaa36941c4e8d9ae515af00c"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -192438,7 +192438,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "27db6195994a417ff86e596d1421b16e9eb2e7e5b09dde295767ba0a60c57ab1"
+      "Hash": "9feb9a07a4774148f2fc3878c747ecbb3273fdcd18e6ea2606b0ceb113b4ba96"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -201152,6 +201152,55 @@
       "OutScope": {},
       "Hash": "bc3cd90bfada5c38bc78bf002982b267ca686742eeeb1604a73ebd6d2f7dec83"
     },
+    "in:92431bf9-ab3e-4e69-9619-c59f8e5193b1": {
+      "Key": "92431bf9-ab3e-4e69-9619-c59f8e5193b1",
+      "Name": "Voi Scooters",
+      "URL": "https://www.intigriti.com/programs/voi/voiscooters/detail",
+      "InScope": {
+        "*.voi.com": {
+          "ID": "*.voi.com",
+          "Type": "wildcard"
+        },
+        "*.voiscooters.com": {
+          "ID": "*.voiscooters.com",
+          "Type": "wildcard"
+        },
+        "Voi – e-scooter \u0026 e-bike hire": {
+          "ID": "Voi – e-scooter \u0026 e-bike hire",
+          "Type": "android"
+        },
+        "Voi – e-scooters \u0026 e-bikes": {
+          "ID": "Voi – e-scooters \u0026 e-bikes",
+          "Type": "ios"
+        },
+        "fm.voiapp.io": {
+          "ID": "fm.voiapp.io",
+          "Type": "url"
+        },
+        "https://api.voiapp.io/": {
+          "ID": "https://api.voiapp.io/",
+          "Type": "url"
+        },
+        "https://repair.voiweb.net": {
+          "ID": "https://repair.voiweb.net",
+          "Type": "url"
+        },
+        "mds.voiapp.io": {
+          "ID": "mds.voiapp.io",
+          "Type": "url"
+        },
+        "report.voi.com": {
+          "ID": "report.voi.com",
+          "Type": "url"
+        },
+        "voi.com": {
+          "ID": "voi.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "6c532f3ed656b4b34381d8a76906afbf041e345488a61ff05e6d4b9d27164251"
+    },
     "in:96d3f49a-4c5f-4bc8-835a-77f734eefe4e": {
       "Key": "96d3f49a-4c5f-4bc8-835a-77f734eefe4e",
       "Name": "Citymesh Responsible Vulnerability Disclosure Program",
@@ -202840,6 +202889,47 @@
         }
       },
       "Hash": "53d37d7307cb96791970030cf034899ac2872abac47b7f83fd3e2efaf79e1e16"
+    },
+    "in:c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e": {
+      "Key": "c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e",
+      "Name": "Venly",
+      "URL": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+      "InScope": {
+        "api-wallet-sandbox.venly.io": {
+          "ID": "api-wallet-sandbox.venly.io",
+          "Type": "url"
+        },
+        "api-wallet.venly.io": {
+          "ID": "api-wallet.venly.io",
+          "Type": "url"
+        },
+        "api.arkane.network": {
+          "ID": "api.arkane.network",
+          "Type": "url"
+        },
+        "connect.arkane.network ": {
+          "ID": "connect.arkane.network ",
+          "Type": "url"
+        },
+        "connect.venly.io": {
+          "ID": "connect.venly.io",
+          "Type": "url"
+        },
+        "login.arkane.network": {
+          "ID": "login.arkane.network",
+          "Type": "url"
+        },
+        "login.venly.io": {
+          "ID": "login.venly.io",
+          "Type": "url"
+        },
+        "wallet.venly.io": {
+          "ID": "wallet.venly.io",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "ea8b482a765a30cb3b435286d5a943e795c63c5a4e9d7c1cdb44f1d51096498e"
     },
     "in:c7272420-0cef-4366-87d2-278c06591799": {
       "Key": "c7272420-0cef-4366-87d2-278c06591799",
