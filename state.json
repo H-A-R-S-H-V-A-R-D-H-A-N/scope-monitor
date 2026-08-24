@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T07:18:36Z",
+  "captured_at": "2026-08-24T08:23:31Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24838,7 +24838,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "95bd79151c26b399dafd26365931874001c3457fa806f6c56796c4f028632ce9"
+      "Hash": "9af47cb5a1e9e2a245c160362563a2bac8a76c20febab7c7c94b570e500f5143"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -68356,7 +68356,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a38914e9eeb37b8eabc8a2536a18aa9d7aacb63d6f363af4534a2320eb0c5d56"
+      "Hash": "8de53a380d7e3e13e043d619537677bc11a0abde710abfa42e45a1b44d78ef77"
     },
     "h1:clarivate": {
       "Key": "clarivate",
@@ -104114,7 +104114,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cefbc9325b0d3c186a0384247ffc815450e0ad6b4e340e6d9938ca15f9a640d2"
+      "Hash": "34d0843d205ecb1ee6a3dbe0ecff4e8568516f9a269def4f249bc59ba2876621"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -147803,7 +147803,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b8203687c1bf5f8779db821d91b41aef8ff9e1cbb82fd98f43bd7ee169c01a5b"
+      "Hash": "98d3009d40f6e04a9592f4a25777546648dc49b19fc01ccfa1d4743a4dd4f09d"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -148330,8 +148330,8 @@
           "ID": "Heartland Payment Systems",
           "Type": "OTHER"
         },
-        "Heartland Restaurant / Retail / Payroll / Human Capital Management (Get Hired)": {
-          "ID": "Heartland Restaurant / Retail / Payroll / Human Capital Management (Get Hired)",
+        "Heartland Restaurant / Retail / Human Capital Management (Get Hired)": {
+          "ID": "Heartland Restaurant / Retail / Human Capital Management (Get Hired)",
           "Type": "OTHER"
         },
         "MerchantWare": {
@@ -148416,6 +148416,10 @@
           "ID": "Globalpaymentsinc.com and Globalpayments.com - OUT OF SCOPE",
           "Type": "OTHER"
         },
+        "Heartland Payroll": {
+          "ID": "Heartland Payroll",
+          "Type": "OTHER"
+        },
         "Leaked Credentials": {
           "ID": "Leaked Credentials",
           "Type": "OTHER"
@@ -148433,7 +148437,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e46977be4cb249019e6e8d3dd9eadbe11de124a65db1fc25304686f65275526d"
+      "Hash": "1fdb2c980157aa2541fd2c50bc477f6e22b81684d62f3f4e312d6472df1244ec"
     },
     "h1:gm": {
       "Key": "gm",
@@ -159204,7 +159208,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "eb17df07b0a7c0794c916edf0b581d9211c0e92159d3b67221f465bff794fff4"
+      "Hash": "a009490bcb0ddf9d803bdb9b091f22b7636c7cc6db6b530fcab8d210d508a99b"
     },
     "h1:ips": {
       "Key": "ips",
@@ -183893,7 +183897,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5225fb5953a96e34cd61332add0db831c1c6ed0ff2b04a1562bf42082dd7604c"
+      "Hash": "09a2b7e0e979c46627b67bc673208361a5efa6784231bcf8a2b9f9d85cff29b1"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -185369,7 +185373,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f2cf882109e0bfeb4f0bd514020c1ecf49d162dfcc7f735cb1cf1caa247718aa"
+      "Hash": "270a191654f49a2a4ac06c8119946614009eae42fce18fbaef4930b76df6b344"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -187526,7 +187530,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8dcd4d7d71f933a36ee1277e45011b9bcfa075b80133e6b4de19f3ecfbe5ce2d"
+      "Hash": "c40f1c6156c990efbaadaa035a7f38062c423b6ae92fe226477eb3540882a363"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -194371,7 +194375,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9feb9a07a4774148f2fc3878c747ecbb3273fdcd18e6ea2606b0ceb113b4ba96"
+      "Hash": "b9ec6d81f8dc119b111350cc32cfc99b7013816d0caa19587995ab1081e2bfb8"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -197024,7 +197028,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "093deb7296574e3668cd4aeec2f575e8d1808107e4115279824cb6dfacf0840a"
+      "Hash": "227d2dd253e3c004a60d153e8d017ec9a1538764dcc3e252ca89f3611a9f1286"
     },
     "h1:xvideos": {
       "Key": "xvideos",
