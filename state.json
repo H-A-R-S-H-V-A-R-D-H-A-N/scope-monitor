@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T20:44:17Z",
+  "captured_at": "2026-08-24T21:39:35Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -169105,7 +169105,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "563335b1ddf295039c26a2064b0624499df7d87ca8dd5d9085f177e32d1e6edf"
+      "Hash": "6632f1ece2e01aea295272c7b6a251edacb0465faaf86820baf3fcf3410c5010"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -175412,7 +175412,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "829cdde63d489497565ed5c4dc298b23c4420359e5f91e97d7d6a75be0a557b2"
+      "Hash": "c7ca66225b5974dcb9ee25df7e16f58b37b9b2cd31bfd93d8ff93da8f610554e"
     },
     "h1:msci": {
       "Key": "msci",
@@ -189844,7 +189844,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "57153b0a34aeb2a5ed4cb43e5eeddb031360f3295d4a5f9eae69dfeb57594bba"
+      "Hash": "2ff48996e4c69466c921158765bad8c3b8ea283a22d614e121ec5bc5bd6f407e"
     },
     "h1:streak_com": {
       "Key": "streak_com",
@@ -195290,6 +195290,10 @@
           "ID": "https://www.visa.com.az/az_az/account/registration",
           "Type": "URL"
         },
+        "https://www.visa.com.ua/": {
+          "ID": "https://www.visa.com.ua/",
+          "Type": "URL"
+        },
         "images.demand.cybersource.com": {
           "ID": "images.demand.cybersource.com",
           "Type": "URL"
@@ -195440,10 +195444,6 @@
         },
         "www.cybersource.com": {
           "ID": "www.cybersource.com",
-          "Type": "URL"
-        },
-        "www.fraedom.com": {
-          "ID": "www.fraedom.com",
           "Type": "URL"
         },
         "www.mz.visa.com": {
@@ -195626,10 +195626,6 @@
           "ID": "www.visa.com.tw",
           "Type": "URL"
         },
-        "www.visa.com.ua": {
-          "ID": "www.visa.com.ua",
-          "Type": "URL"
-        },
         "www.visa.com.vn": {
           "ID": "www.visa.com.vn",
           "Type": "URL"
@@ -195756,7 +195752,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a45f5795d4eb299b0471afd2369d93cf196b3fb0b992e83271ee3fe657615f90"
+      "Hash": "06932af9f8323f4c37dbbf57077372a272d1fed29b122c9af8518da428e6ee19"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -201697,52 +201693,6 @@
       },
       "OutScope": {},
       "Hash": "ca0c160d17e90a49ff9c71a3d35af84dc37da1d88a11d1d468f9b2f1c9c44e5b"
-    },
-    "in:64f80113-969e-4c55-9649-8a044487941c": {
-      "Key": "64f80113-969e-4c55-9649-8a044487941c",
-      "Name": "PDQ bug bounty program",
-      "URL": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "InScope": {
-        "https://a.simplemdm.com/": {
-          "ID": "https://a.simplemdm.com/",
-          "Type": "url"
-        },
-        "https://app.pdq.com/": {
-          "ID": "https://app.pdq.com/",
-          "Type": "url"
-        },
-        "https://auth2.pdq.com/": {
-          "ID": "https://auth2.pdq.com/",
-          "Type": "url"
-        },
-        "https://library.pdq.com/": {
-          "ID": "https://library.pdq.com/",
-          "Type": "url"
-        },
-        "https://portal.pdq.com/": {
-          "ID": "https://portal.pdq.com/",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "https://*.pdq.com/": {
-          "ID": "https://*.pdq.com/",
-          "Type": "wildcard"
-        },
-        "https://*.pdq.tools/": {
-          "ID": "https://*.pdq.tools/",
-          "Type": "wildcard"
-        },
-        "https://*.simplemdm.com/ ": {
-          "ID": "https://*.simplemdm.com/ ",
-          "Type": "wildcard"
-        },
-        "https://*.smartdeploy.com/ ": {
-          "ID": "https://*.smartdeploy.com/ ",
-          "Type": "wildcard"
-        }
-      },
-      "Hash": "4fa9f97456ab76e20a594fdc52aeb4a83f46f14d92708334ed1914565df11e85"
     },
     "in:6558543a-236f-4e98-91a3-4536e39b9c1e": {
       "Key": "6558543a-236f-4e98-91a3-4536e39b9c1e",
