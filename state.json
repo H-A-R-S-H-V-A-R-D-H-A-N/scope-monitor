@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T10:20:15Z",
+  "captured_at": "2026-08-24T11:05:00Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -28942,7 +28942,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f022e04085ca227f7f154ff56f4e74e3827e557a423eb42a540a58d44d100e0e"
+      "Hash": "ba248ea296c32e28848aee7be09c5a52ac576e421472ac13d2e4e43e8d1f157f"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -32071,7 +32071,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5d5f7c1ea352daf9da2165921c743938660bcf795261f230360ccaa2cf7756e2"
+      "Hash": "f0164cd674ebe09bb56f5886095b5bb48c5d7689d1aa56901df5a8054fad1461"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -105099,7 +105099,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "10ab256e86571586e808b19b92947aa3ea7032af8fbd55b6214087c4a664728c"
+      "Hash": "bae3b5a5a3157b762de925a8e0443153e472d4de2ea0ca612129ebe99cbffd24"
     },
     "h1:fastly-vdp": {
       "Key": "fastly-vdp",
@@ -171704,7 +171704,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a1b378294d55a81128fb105d842cdd858c0728217f3500c505c6df2fa03a1581"
+      "Hash": "3fe9cb8b22c8e5e0e3c657aaafb02d0d95c427235b9729506c803538e5d36b3a"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -180880,7 +180880,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e804cc4f335582d01d36c0a3bb01dd60828eaf72db2a458175f76649061f8f74"
+      "Hash": "69e8e1aa8e1c941f2e361dfa512832ea21a663c6560378f0ffe601104a416b48"
     },
     "h1:nutanix": {
       "Key": "nutanix",
@@ -185228,7 +185228,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "db675e0226e71b3a8bfcf9632c305af44ada59f6f918bc656d02c2ca7613a2e4"
+      "Hash": "2047d10650e54704ab75852025aaaa705f6aa70fae8b7353c719144c276015c3"
     },
     "h1:privy-bbp": {
       "Key": "privy-bbp",
@@ -190597,7 +190597,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1ee4b89dc7e1c54f3e8f12edbc21cb7d0014c840ee0b6df50574ec737d05de60"
+      "Hash": "7ec7eb58b7678ad7c50a4a175b049812ecd8f837dd924c31c1c79ddfa35ee40b"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -194028,7 +194028,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1c0ae11b802ca58f7a145d02d098fa11f946daf2195378a0ffa99e9a24d64a47"
+      "Hash": "2d156bfb1f476004f623ec72714a2c67a0ccf9ce932645bd35376d70dd04f10e"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -197066,7 +197066,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1bd3fb2463e878450dd4377837dc2f65c229f5a386c1b0548d2e86a0fc71bf9f"
+      "Hash": "dc9cd345c58b8aa3a676a916cbea668fb554b9706970f7a1b4d53c86ef375d7b"
     },
     "h1:yelp": {
       "Key": "yelp",
@@ -205690,6 +205690,19 @@
         }
       },
       "Hash": "3c4447ead56608c6ed04900704cd59ffda488caf2165068164838ea2308e79bc"
+    },
+    "in:d96f2af8-ddf3-46db-94c9-55c05a8a070d": {
+      "Key": "d96f2af8-ddf3-46db-94c9-55c05a8a070d",
+      "Name": "Challenge 0826",
+      "URL": "https://www.intigriti.com/programs/intigriti/challenge0826/detail",
+      "InScope": {
+        "https://challenge-0826.challenges.intigriti.io": {
+          "ID": "https://challenge-0826.challenges.intigriti.io",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "04dd941a7e459b7a67833882299671bda52a67c90d27eaeb782dbe6ef9e7fadc"
     },
     "in:dd9dba85-e047-42f3-b59e-9328c7d49672": {
       "Key": "dd9dba85-e047-42f3-b59e-9328c7d49672",
