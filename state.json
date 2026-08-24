@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T11:41:57Z",
+  "captured_at": "2026-08-24T13:09:17Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24959,7 +24959,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ba4835da4d4fd59e30e9184e401507474cd2359fbe6f46550b1746264b085c2d"
+      "Hash": "90b50ae4ddfae9c839761a1ab9f27606cf41a1f1cb7e6c0d24fb96067dce3fb2"
     },
     "h1:allegion": {
       "Key": "allegion",
@@ -26945,7 +26945,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a2a256b176ad6333072b5ba8ead3557e3ce7bfb5720a54f24391f16b5c635e8d"
+      "Hash": "6a7ff7ac839a2e93f2a9441aa2f126932b82c990ca5f2ad8cb80898c83891870"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -28527,7 +28527,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e18ff43d8fecb69cee11aac3f681ee71253dae7e73178fd49223ac51d12cedc9"
+      "Hash": "8ce6183bde591ee7c317540b9874cd2277a0582c53ae3b372bf56d65533f7bee"
     },
     "h1:att": {
       "Key": "att",
@@ -30983,8 +30983,8 @@
           "ID": "Amazon Translate",
           "Type": "OTHER"
         },
-        "Amazon VPC Lattice": {
-          "ID": "Amazon VPC Lattice",
+        "Amazon VPC ": {
+          "ID": "Amazon VPC ",
           "Type": "OTHER"
         },
         "Amazon Verified Permissions": {
@@ -31250,7 +31250,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0d145dbb489b9f98d7741250927eb1a0a5e0574f555d568cc76e791517e8851f"
+      "Hash": "d3aded4760b86e3acfa811dc8ce8a5c316238027c885d3e0fe420c649840f6a9"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -32345,7 +32345,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6bb79292cd138de77d6bee5c2578ccb26ce0d7f8fce5eee6892598f6ff97f0f5"
+      "Hash": "b123ea861d1c3c35f586bf97aad891eb9200c270c070b68a33c62cf5386f29b5"
     },
     "h1:bumble": {
       "Key": "bumble",
@@ -32575,7 +32575,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0559e88c49047b0393fc43b94014c1bc29de59f9923963e3f7d93e0918004dc8"
+      "Hash": "89a3f99228c2e22a1b8187fb49e4c37d92465dcffc65dc5a143d539580be6bf5"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -68089,7 +68089,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "890b9fd978f29c65206ff11df078f776d94ea6e882e6e1f8b5d5f94375a1bc14"
+      "Hash": "4a88376dcac3973fed9778e73cb0e920ed1cb150fedbd5d0d5b50db1fae44ea3"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -68339,7 +68339,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "61ae9e3b860c5c28515e6be6f2375457ff491fa500c0423f716a9c21e1b9c9f4"
+      "Hash": "8278daaf9541bc6d2867a78c115b49830ef202a2b5b5fb19d6ed2ffa3937f5ec"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -91511,7 +91511,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "282a9ac26a19676ab09d468fc6942ca9df562849e28bbbd78f1c6c421486cc65"
+      "Hash": "a99742168823c9c2299b10218a3c800f8236860da45653e64cd558e0cff8d1c9"
     },
     "h1:defectdojo": {
       "Key": "defectdojo",
@@ -96772,7 +96772,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "93dca8ea47d6a3f288a3b8fd492067d6a23877d2781a82e6b6926d19bc376218"
+      "Hash": "f6651d41ff453b570a7a77c7450c187623aba007b3cc12efb742e17386cbc3ca"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -100009,7 +100009,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "71bb1e2224ab2c55d17f673abfae2905d321b6443462d23bece4614bb3c4a46c"
+      "Hash": "14c08311d2f8b23fb6f6a5de24a24ff211643359cb5ef3c0ae9e92974fe1faaf"
     },
     "h1:essity": {
       "Key": "essity",
@@ -146795,7 +146795,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e237d5bbe5224983257eb56ec300db87bc208a05e2bae95ce457d003df6a556e"
+      "Hash": "a6d10a22b6fd0e65e0f98878a80f9a01caf32557384b5dd85016c84f31b08f1b"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -147829,7 +147829,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d61f3c36f340efd8abcf810ff877c8494d9dc3990f36b84bc5f6e3250f8e7eb0"
+      "Hash": "2437e1039bc7751864774302389634fc6a9364eaec028d51c567579258ebe717"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -150934,36 +150934,6 @@
       },
       "Hash": "aa71b5a7da0742dcbcf9f2e2faea575e62b69c258f0dfc027d92cc7c206ee7b1"
     },
-    "h1:homebargains": {
-      "Key": "homebargains",
-      "Name": "Home Bargains",
-      "URL": "https://hackerone.com/homebargains",
-      "InScope": {
-        "https://hackerone-m1rtuq8orz.hbstaging.website/": {
-          "ID": "https://hackerone-m1rtuq8orz.hbstaging.website/",
-          "Type": "URL"
-        },
-        "https://signin-hackerone.hbstaging.website/": {
-          "ID": "https://signin-hackerone.hbstaging.website/",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {
-        "*.home.bargains": {
-          "ID": "*.home.bargains",
-          "Type": "WILDCARD"
-        },
-        "*.homebargains.co.uk": {
-          "ID": "*.homebargains.co.uk",
-          "Type": "WILDCARD"
-        },
-        "*.tjmorris.co.uk": {
-          "ID": "*.tjmorris.co.uk",
-          "Type": "WILDCARD"
-        }
-      },
-      "Hash": "beab606fff17e514a2194bfa31228622ec9b04dc1f29d951d7136c2c540bd814"
-    },
     "h1:hostinger": {
       "Key": "hostinger",
       "Name": "hostinger ",
@@ -151878,7 +151848,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b254abef48330262a84c6bc9bef9e291e842543756265d46e030c8d8615d40cb"
+      "Hash": "838da21d50f249cf9305ee390f571e1a2f50a7f9eb0c9fccb1ca169f9ebb475c"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -169146,7 +169116,7 @@
       "URL": "https://hackerone.com/kraken-tech",
       "InScope": {},
       "OutScope": {},
-      "Hash": "56c1db31301c1be97545e1686dc8bf6b01fe11f92aad542ba026ce8598866224"
+      "Hash": "b3a902f56942d1a38ef7bd59be9e1d6048245a45b7833751f8445f7cf1494f7e"
     },
     "h1:krisp": {
       "Key": "krisp",
@@ -175135,6 +175105,10 @@
           "ID": "*.hypermint.com",
           "Type": "WILDCARD"
         },
+        "*.iron.xyz": {
+          "ID": "*.iron.xyz",
+          "Type": "WILDCARD"
+        },
         "*.moonpay.com": {
           "ID": "*.moonpay.com",
           "Type": "WILDCARD"
@@ -175282,7 +175256,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6ed6aca77715c35c8aee11ca14f97845ee46d94417c49432940ddf404b7bd38d"
+      "Hash": "07f339a3ed4fd5b961614ef53475bd9404bd004010983447f4976a58eb9a02cd"
     },
     "h1:moov": {
       "Key": "moov",
@@ -182415,7 +182389,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7a5dc990a4b9bb214a192f391d8aa3d9fe9c6d01dde1a8d7429ece267efba51c"
+      "Hash": "733191252904f1906d506ac9387a039922fe69ecb559be3ac7b287250dde6a6c"
     },
     "h1:palantir_public": {
       "Key": "palantir_public",
@@ -185111,7 +185085,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "893751444966981db95a333879ae82cc8a25c863073c870b88970af4c5c70602"
+      "Hash": "2c80fdfcf62a80ea8bb44412fbeb8c5d1b2b05061f09e5e04ff258928c06ddf8"
     },
     "h1:prism_vdp": {
       "Key": "prism_vdp",
@@ -193035,7 +193009,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6d79e7859b7db2fa75038cc8aed7b0d3bb31f4651363c9cfaa475d220d60b666"
+      "Hash": "78d27f8f62413718bbcf1761438cebed2fb175a06ff51373dc87e972dae0a5a9"
     },
     "h1:uber": {
       "Key": "uber",
@@ -196213,7 +196187,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "75f8590ce7bd323506fd85c229c354a0caed97d5c832510a4138e20c5f6956d1"
+      "Hash": "0f82f25f68439cd5603cf68dfad0fccdb282a54b2c1ebb872dd7cef361fb0e66"
     },
     "h1:whatnot": {
       "Key": "whatnot",
@@ -197198,7 +197172,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d953b3819b241e0f2ec4c714bf6890e951d31db0d69b193684adb2af9706cd76"
+      "Hash": "5fec04966fa0508914db7851620639aa6ec690ea22000b87567821a15d969654"
     },
     "h1:yuga_labs": {
       "Key": "yuga_labs",
@@ -201504,6 +201478,52 @@
       },
       "OutScope": {},
       "Hash": "ca0c160d17e90a49ff9c71a3d35af84dc37da1d88a11d1d468f9b2f1c9c44e5b"
+    },
+    "in:64f80113-969e-4c55-9649-8a044487941c": {
+      "Key": "64f80113-969e-4c55-9649-8a044487941c",
+      "Name": "PDQ bug bounty program",
+      "URL": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "InScope": {
+        "https://a.simplemdm.com/": {
+          "ID": "https://a.simplemdm.com/",
+          "Type": "url"
+        },
+        "https://app.pdq.com/": {
+          "ID": "https://app.pdq.com/",
+          "Type": "url"
+        },
+        "https://auth2.pdq.com/": {
+          "ID": "https://auth2.pdq.com/",
+          "Type": "url"
+        },
+        "https://library.pdq.com/": {
+          "ID": "https://library.pdq.com/",
+          "Type": "url"
+        },
+        "https://portal.pdq.com/": {
+          "ID": "https://portal.pdq.com/",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "https://*.pdq.com/": {
+          "ID": "https://*.pdq.com/",
+          "Type": "wildcard"
+        },
+        "https://*.pdq.tools/": {
+          "ID": "https://*.pdq.tools/",
+          "Type": "wildcard"
+        },
+        "https://*.simplemdm.com/ ": {
+          "ID": "https://*.simplemdm.com/ ",
+          "Type": "wildcard"
+        },
+        "https://*.smartdeploy.com/ ": {
+          "ID": "https://*.smartdeploy.com/ ",
+          "Type": "wildcard"
+        }
+      },
+      "Hash": "4fa9f97456ab76e20a594fdc52aeb4a83f46f14d92708334ed1914565df11e85"
     },
     "in:6558543a-236f-4e98-91a3-4536e39b9c1e": {
       "Key": "6558543a-236f-4e98-91a3-4536e39b9c1e",
