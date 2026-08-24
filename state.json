@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T05:22:43Z",
+  "captured_at": "2026-08-24T06:06:31Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26337,7 +26337,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8cc008c7ebb60c15edaf11c45dfacaae8c2f3444a0cc3bcca781118d34694d96"
+      "Hash": "c2bdc881d455525ec73b1ab54ba8ef7703994db9d3ec7273a5548bd2c7f67698"
     },
     "h1:amazonvrp": {
       "Key": "amazonvrp",
@@ -26945,7 +26945,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "ffa9ab521a10c45d9e1e63d2848abd23892017da2ef34560a7d1ef85b8757139"
+      "Hash": "98732a5e13dc3d4d4488d62414f38c0dd6494fc1227b09f94b457579a15fde99"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -31562,7 +31562,7 @@
       "URL": "https://hackerone.com/beiersdorf",
       "InScope": {},
       "OutScope": {},
-      "Hash": "8e78f2f54a10f6c50048af50e38a61b406efadcbcc42ac1a385ea21e83dca0ba"
+      "Hash": "64cfa01ae6c668c95e6331751b33d29e4045ada32e13d4bd4ada48df115cd595"
     },
     "h1:bestbuy": {
       "Key": "bestbuy",
@@ -100011,6 +100011,1939 @@
       },
       "Hash": "71bb1e2224ab2c55d17f673abfae2905d321b6443462d23bece4614bb3c4a46c"
     },
+    "h1:essity": {
+      "Key": "essity",
+      "Name": "Essity",
+      "URL": "https://hackerone.com/essity",
+      "InScope": {
+        "http://s0005226.ecdomain.net/cgi-bin/lansaweb?wam=kwgtn01": {
+          "ID": "http://s0005226.ecdomain.net/cgi-bin/lansaweb?wam=kwgtn01",
+          "Type": "URL"
+        },
+        "http://tena-check.at": {
+          "ID": "http://tena-check.at",
+          "Type": "URL"
+        },
+        "http://tena-check.ch": {
+          "ID": "http://tena-check.ch",
+          "Type": "URL"
+        },
+        "https://360.familiainstitucional.com": {
+          "ID": "https://360.familiainstitucional.com",
+          "Type": "URL"
+        },
+        "https://api.essity.com/identifi/logger/v1": {
+          "ID": "https://api.essity.com/identifi/logger/v1",
+          "Type": "URL"
+        },
+        "https://api.essity.com/tvd/ble-device-install": {
+          "ID": "https://api.essity.com/tvd/ble-device-install",
+          "Type": "URL"
+        },
+        "https://api.essity.com/tvd/sales-guide": {
+          "ID": "https://api.essity.com/tvd/sales-guide",
+          "Type": "URL"
+        },
+        "https://api.vision.torkglobal.com/connect": {
+          "ID": "https://api.vision.torkglobal.com/connect",
+          "Type": "URL"
+        },
+        "https://app-eu.workfrontfusion.com/": {
+          "ID": "https://app-eu.workfrontfusion.com/",
+          "Type": "URL"
+        },
+        "https://apps.apple.com/ar/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/ar/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/bo/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/bo/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/cl/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/cl/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/co/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/co/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/de/app/tork-legacy-install/id6756050241": {
+          "ID": "https://apps.apple.com/de/app/tork-legacy-install/id6756050241",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/dk/app/libero-klubben/id544034483?l=da": {
+          "ID": "https://apps.apple.com/dk/app/libero-klubben/id544034483?l=da",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/do/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/do/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/ec/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/ec/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/fi/app/liberokerho-raskaus-ja-vauv/id544034483?l=fi": {
+          "ID": "https://apps.apple.com/fi/app/liberokerho-raskaus-ja-vauv/id544034483?l=fi",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/no/app/liberoklubben-gravid-baby/id544034483": {
+          "ID": "https://apps.apple.com/no/app/liberoklubben-gravid-baby/id544034483",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/pe/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/pe/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/py/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/py/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/se/app/liberoklubben-gravid-baby/id544034483": {
+          "ID": "https://apps.apple.com/se/app/liberoklubben-gravid-baby/id544034483",
+          "Type": "URL"
+        },
+        "https://apps.apple.com/se/app/libresse-menskalender/id6736515500?l=en-GB": {
+          "ID": "https://apps.apple.com/se/app/libresse-menskalender/id6736515500?l=en-GB",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/us/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/us/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/us/app/tork-vision-install/id6753860641": {
+          "ID": "https://apps.apple.com/us/app/tork-vision-install/id6753860641",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/uy/app/nosotras-v-app/id1577849733": {
+          "ID": "https://apps.apple.com/uy/app/nosotras-v-app/id1577849733",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://babybrandcenter.essity.com": {
+          "ID": "https://babybrandcenter.essity.com",
+          "Type": "URL"
+        },
+        "https://bodyform.co.uk": {
+          "ID": "https://bodyform.co.uk",
+          "Type": "URL"
+        },
+        "https://brand.tena.com": {
+          "ID": "https://brand.tena.com",
+          "Type": "URL"
+        },
+        "https://brandzone.essity.com": {
+          "ID": "https://brandzone.essity.com",
+          "Type": "URL"
+        },
+        "https://ccevaluation.tena.com/": {
+          "ID": "https://ccevaluation.tena.com/",
+          "Type": "URL"
+        },
+        "https://cinder.app.essity.com/": {
+          "ID": "https://cinder.app.essity.com/",
+          "Type": "URL"
+        },
+        "https://dedicatoame.it/": {
+          "ID": "https://dedicatoame.it/",
+          "Type": "URL"
+        },
+        "https://delta-cast.be": {
+          "ID": "https://delta-cast.be",
+          "Type": "URL"
+        },
+        "https://delta-cast.co.uk": {
+          "ID": "https://delta-cast.co.uk",
+          "Type": "URL"
+        },
+        "https://delta-cast.com.au": {
+          "ID": "https://delta-cast.com.au",
+          "Type": "URL"
+        },
+        "https://delta-cast.de": {
+          "ID": "https://delta-cast.de",
+          "Type": "URL"
+        },
+        "https://delta-cast.dk": {
+          "ID": "https://delta-cast.dk",
+          "Type": "URL"
+        },
+        "https://delta-cast.fi": {
+          "ID": "https://delta-cast.fi",
+          "Type": "URL"
+        },
+        "https://delta-cast.nl": {
+          "ID": "https://delta-cast.nl",
+          "Type": "URL"
+        },
+        "https://delta-cast.no": {
+          "ID": "https://delta-cast.no",
+          "Type": "URL"
+        },
+        "https://delta-cast.se": {
+          "ID": "https://delta-cast.se",
+          "Type": "URL"
+        },
+        "https://delta-cast.us": {
+          "ID": "https://delta-cast.us",
+          "Type": "URL"
+        },
+        "https://demakup.com/at": {
+          "ID": "https://demakup.com/at",
+          "Type": "URL"
+        },
+        "https://demakup.com/be-fr": {
+          "ID": "https://demakup.com/be-fr",
+          "Type": "URL"
+        },
+        "https://demakup.com/be-nl": {
+          "ID": "https://demakup.com/be-nl",
+          "Type": "URL"
+        },
+        "https://demakup.com/de": {
+          "ID": "https://demakup.com/de",
+          "Type": "URL"
+        },
+        "https://demakup.com/es": {
+          "ID": "https://demakup.com/es",
+          "Type": "URL"
+        },
+        "https://demakup.com/fr": {
+          "ID": "https://demakup.com/fr",
+          "Type": "URL"
+        },
+        "https://demakup.com/gr": {
+          "ID": "https://demakup.com/gr",
+          "Type": "URL"
+        },
+        "https://demakup.com/it": {
+          "ID": "https://demakup.com/it",
+          "Type": "URL"
+        },
+        "https://demakup.com/nl": {
+          "ID": "https://demakup.com/nl",
+          "Type": "URL"
+        },
+        "https://demakup.com/pt": {
+          "ID": "https://demakup.com/pt",
+          "Type": "URL"
+        },
+        "https://essity.co.uk": {
+          "ID": "https://essity.co.uk",
+          "Type": "URL"
+        },
+        "https://essity.com": {
+          "ID": "https://essity.com",
+          "Type": "URL"
+        },
+        "https://essity.de": {
+          "ID": "https://essity.de",
+          "Type": "URL"
+        },
+        "https://essity.es": {
+          "ID": "https://essity.es",
+          "Type": "URL"
+        },
+        "https://essity.fr": {
+          "ID": "https://essity.fr",
+          "Type": "URL"
+        },
+        "https://essity.it": {
+          "ID": "https://essity.it",
+          "Type": "URL"
+        },
+        "https://essity.mx": {
+          "ID": "https://essity.mx",
+          "Type": "URL"
+        },
+        "https://essity.nl": {
+          "ID": "https://essity.nl",
+          "Type": "URL"
+        },
+        "https://essity.se": {
+          "ID": "https://essity.se",
+          "Type": "URL"
+        },
+        "https://essityab.my.workfront.com/": {
+          "ID": "https://essityab.my.workfront.com/",
+          "Type": "URL"
+        },
+        "https://essitybrandworld.essity.com": {
+          "ID": "https://essitybrandworld.essity.com",
+          "Type": "URL"
+        },
+        "https://essityusa.com": {
+          "ID": "https://essityusa.com",
+          "Type": "URL"
+        },
+        "https://extranet.hms.essity.co.za/": {
+          "ID": "https://extranet.hms.essity.co.za/",
+          "Type": "URL"
+        },
+        "https://globalmediabank.essity.com": {
+          "ID": "https://globalmediabank.essity.com",
+          "Type": "URL"
+        },
+        "https://infohub.app.essity.com/": {
+          "ID": "https://infohub.app.essity.com/",
+          "Type": "URL"
+        },
+        "https://infohub.essity.com/en-gb/search": {
+          "ID": "https://infohub.essity.com/en-gb/search",
+          "Type": "URL"
+        },
+        "https://jobst-austria.at": {
+          "ID": "https://jobst-austria.at",
+          "Type": "URL"
+        },
+        "https://jobst.be": {
+          "ID": "https://jobst.be",
+          "Type": "URL"
+        },
+        "https://jobst.co.uk": {
+          "ID": "https://jobst.co.uk",
+          "Type": "URL"
+        },
+        "https://jobst.co.za": {
+          "ID": "https://jobst.co.za",
+          "Type": "URL"
+        },
+        "https://jobst.com": {
+          "ID": "https://jobst.com",
+          "Type": "URL"
+        },
+        "https://jobst.com.au": {
+          "ID": "https://jobst.com.au",
+          "Type": "URL"
+        },
+        "https://jobst.cz": {
+          "ID": "https://jobst.cz",
+          "Type": "URL"
+        },
+        "https://jobst.de": {
+          "ID": "https://jobst.de",
+          "Type": "URL"
+        },
+        "https://jobst.fi": {
+          "ID": "https://jobst.fi",
+          "Type": "URL"
+        },
+        "https://jobst.nl": {
+          "ID": "https://jobst.nl",
+          "Type": "URL"
+        },
+        "https://jobst.pl": {
+          "ID": "https://jobst.pl",
+          "Type": "URL"
+        },
+        "https://jobst.se": {
+          "ID": "https://jobst.se",
+          "Type": "URL"
+        },
+        "https://jobstcanada.com": {
+          "ID": "https://jobstcanada.com",
+          "Type": "URL"
+        },
+        "https://jobstcanada.com/fr": {
+          "ID": "https://jobstcanada.com/fr",
+          "Type": "URL"
+        },
+        "https://leaukoplast.ca/fr": {
+          "ID": "https://leaukoplast.ca/fr",
+          "Type": "URL"
+        },
+        "https://leukoplast.at": {
+          "ID": "https://leukoplast.at",
+          "Type": "URL"
+        },
+        "https://leukoplast.be": {
+          "ID": "https://leukoplast.be",
+          "Type": "URL"
+        },
+        "https://leukoplast.ca": {
+          "ID": "https://leukoplast.ca",
+          "Type": "URL"
+        },
+        "https://leukoplast.ch/fr": {
+          "ID": "https://leukoplast.ch/fr",
+          "Type": "URL"
+        },
+        "https://leukoplast.ch/it": {
+          "ID": "https://leukoplast.ch/it",
+          "Type": "URL"
+        },
+        "https://leukoplast.co.id": {
+          "ID": "https://leukoplast.co.id",
+          "Type": "URL"
+        },
+        "https://leukoplast.co.uk": {
+          "ID": "https://leukoplast.co.uk",
+          "Type": "URL"
+        },
+        "https://leukoplast.com": {
+          "ID": "https://leukoplast.com",
+          "Type": "URL"
+        },
+        "https://leukoplast.com.au": {
+          "ID": "https://leukoplast.com.au",
+          "Type": "URL"
+        },
+        "https://leukoplast.com.mx": {
+          "ID": "https://leukoplast.com.mx",
+          "Type": "URL"
+        },
+        "https://leukoplast.de": {
+          "ID": "https://leukoplast.de",
+          "Type": "URL"
+        },
+        "https://leukoplast.dk": {
+          "ID": "https://leukoplast.dk",
+          "Type": "URL"
+        },
+        "https://leukoplast.es": {
+          "ID": "https://leukoplast.es",
+          "Type": "URL"
+        },
+        "https://leukoplast.fi": {
+          "ID": "https://leukoplast.fi",
+          "Type": "URL"
+        },
+        "https://leukoplast.hu": {
+          "ID": "https://leukoplast.hu",
+          "Type": "URL"
+        },
+        "https://leukoplast.it": {
+          "ID": "https://leukoplast.it",
+          "Type": "URL"
+        },
+        "https://leukoplast.nl": {
+          "ID": "https://leukoplast.nl",
+          "Type": "URL"
+        },
+        "https://leukoplast.no": {
+          "ID": "https://leukoplast.no",
+          "Type": "URL"
+        },
+        "https://leukoplast.pl": {
+          "ID": "https://leukoplast.pl",
+          "Type": "URL"
+        },
+        "https://leukoplast.pt": {
+          "ID": "https://leukoplast.pt",
+          "Type": "URL"
+        },
+        "https://leukoplast.se": {
+          "ID": "https://leukoplast.se",
+          "Type": "URL"
+        },
+        "https://leukoplast.sk": {
+          "ID": "https://leukoplast.sk",
+          "Type": "URL"
+        },
+        "https://leukoplast.us": {
+          "ID": "https://leukoplast.us",
+          "Type": "URL"
+        },
+        "https://leukotape.nl/": {
+          "ID": "https://leukotape.nl/",
+          "Type": "URL"
+        },
+        "https://libero.com": {
+          "ID": "https://libero.com",
+          "Type": "URL"
+        },
+        "https://libero.dk": {
+          "ID": "https://libero.dk",
+          "Type": "URL"
+        },
+        "https://libero.fi": {
+          "ID": "https://libero.fi",
+          "Type": "URL"
+        },
+        "https://libero.hu": {
+          "ID": "https://libero.hu",
+          "Type": "URL"
+        },
+        "https://libero.no": {
+          "ID": "https://libero.no",
+          "Type": "URL"
+        },
+        "https://libero.pt": {
+          "ID": "https://libero.pt",
+          "Type": "URL"
+        },
+        "https://libero.se": {
+          "ID": "https://libero.se",
+          "Type": "URL"
+        },
+        "https://libresse.bg": {
+          "ID": "https://libresse.bg",
+          "Type": "URL"
+        },
+        "https://libresse.co.za": {
+          "ID": "https://libresse.co.za",
+          "Type": "URL"
+        },
+        "https://libresse.com": {
+          "ID": "https://libresse.com",
+          "Type": "URL"
+        },
+        "https://libresse.dk": {
+          "ID": "https://libresse.dk",
+          "Type": "URL"
+        },
+        "https://libresse.fi": {
+          "ID": "https://libresse.fi",
+          "Type": "URL"
+        },
+        "https://libresse.gr": {
+          "ID": "https://libresse.gr",
+          "Type": "URL"
+        },
+        "https://libresse.hr": {
+          "ID": "https://libresse.hr",
+          "Type": "URL"
+        },
+        "https://libresse.hu": {
+          "ID": "https://libresse.hu",
+          "Type": "URL"
+        },
+        "https://libresse.nl": {
+          "ID": "https://libresse.nl",
+          "Type": "URL"
+        },
+        "https://libresse.no": {
+          "ID": "https://libresse.no",
+          "Type": "URL"
+        },
+        "https://libresse.ro": {
+          "ID": "https://libresse.ro",
+          "Type": "URL"
+        },
+        "https://libresse.rs": {
+          "ID": "https://libresse.rs",
+          "Type": "URL"
+        },
+        "https://libresse.se": {
+          "ID": "https://libresse.se",
+          "Type": "URL"
+        },
+        "https://libresse.ua": {
+          "ID": "https://libresse.ua",
+          "Type": "URL"
+        },
+        "https://lotushygiene.com": {
+          "ID": "https://lotushygiene.com",
+          "Type": "URL"
+        },
+        "https://lotushygiene.com/dk": {
+          "ID": "https://lotushygiene.com/dk",
+          "Type": "URL"
+        },
+        "https://lotushygiene.com/fi": {
+          "ID": "https://lotushygiene.com/fi",
+          "Type": "URL"
+        },
+        "https://lotushygiene.com/fr": {
+          "ID": "https://lotushygiene.com/fr",
+          "Type": "URL"
+        },
+        "https://lotushygiene.com/no": {
+          "ID": "https://lotushygiene.com/no",
+          "Type": "URL"
+        },
+        "https://lotushygiene.com/se": {
+          "ID": "https://lotushygiene.com/se",
+          "Type": "URL"
+        },
+        "https://medical.essity.ca": {
+          "ID": "https://medical.essity.ca",
+          "Type": "URL"
+        },
+        "https://medical.essity.co.uk": {
+          "ID": "https://medical.essity.co.uk",
+          "Type": "URL"
+        },
+        "https://medical.essity.co.za": {
+          "ID": "https://medical.essity.co.za",
+          "Type": "URL"
+        },
+        "https://medical.essity.com.au/": {
+          "ID": "https://medical.essity.com.au/",
+          "Type": "URL"
+        },
+        "https://medical.essity.de": {
+          "ID": "https://medical.essity.de",
+          "Type": "URL"
+        },
+        "https://medical.essity.fr": {
+          "ID": "https://medical.essity.fr",
+          "Type": "URL"
+        },
+        "https://medical.essity.nl": {
+          "ID": "https://medical.essity.nl",
+          "Type": "URL"
+        },
+        "https://medical.essityusa.com": {
+          "ID": "https://medical.essityusa.com",
+          "Type": "URL"
+        },
+        "https://medicalbrandworld.essity.com": {
+          "ID": "https://medicalbrandworld.essity.com",
+          "Type": "URL"
+        },
+        "https://mft.essity.com": {
+          "ID": "https://mft.essity.com",
+          "Type": "URL"
+        },
+        "https://mysaba.com": {
+          "ID": "https://mysaba.com",
+          "Type": "URL"
+        },
+        "https://nana-me.com": {
+          "ID": "https://nana-me.com",
+          "Type": "URL"
+        },
+        "https://nana.be": {
+          "ID": "https://nana.be",
+          "Type": "URL"
+        },
+        "https://nana.fr": {
+          "ID": "https://nana.fr",
+          "Type": "URL"
+        },
+        "https://nuevatienda.tork.cl": {
+          "ID": "https://nuevatienda.tork.cl",
+          "Type": "URL"
+        },
+        "https://okay.eu": {
+          "ID": "https://okay.eu",
+          "Type": "URL"
+        },
+        "https://okay.eu/fr": {
+          "ID": "https://okay.eu/fr",
+          "Type": "URL"
+        },
+        "https://okay.eu/fr-be": {
+          "ID": "https://okay.eu/fr-be",
+          "Type": "URL"
+        },
+        "https://okay.eu/nl-be": {
+          "ID": "https://okay.eu/nl-be",
+          "Type": "URL"
+        },
+        "https://papercircle.torkglobal.com/": {
+          "ID": "https://papercircle.torkglobal.com/",
+          "Type": "URL"
+        },
+        "https://pe.products.essity.com": {
+          "ID": "https://pe.products.essity.com",
+          "Type": "URL"
+        },
+        "https://pim.essity.com": {
+          "ID": "https://pim.essity.com",
+          "Type": "URL"
+        },
+        "https://pim.essity.com/scacandaportal": {
+          "ID": "https://pim.essity.com/scacandaportal",
+          "Type": "URL"
+        },
+        "https://play.google.com/store/apps/details?id=com.essity.femcare.period.tracker\u0026pli=1": {
+          "ID": "https://play.google.com/store/apps/details?id=com.essity.femcare.period.tracker\u0026pli=1",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.essity.torklegacyinstall": {
+          "ID": "https://play.google.com/store/apps/details?id=com.essity.torklegacyinstall",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.essity.torkvisioninstall": {
+          "ID": "https://play.google.com/store/apps/details?id=com.essity.torkvisioninstall",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nixonnixon.libero": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nixonnixon.libero",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nixonnixon.libero\u0026hl=da": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nixonnixon.libero\u0026hl=da",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nixonnixon.libero\u0026hl=fi": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nixonnixon.libero\u0026hl=fi",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nixonnixon.libero\u0026hl=no": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nixonnixon.libero\u0026hl=no",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=AR\u0026hl=es_AR": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=AR\u0026hl=es_AR",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=BO\u0026hl=es_BO": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=BO\u0026hl=es_BO",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=CL\u0026hl=es_CL": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=CL\u0026hl=es_CL",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=CO\u0026hl=es_CO": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=CO\u0026hl=es_CO",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=DO\u0026hl=es_DO": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=DO\u0026hl=es_DO",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=EC\u0026hl=es_EC": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=EC\u0026hl=es_EC",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=PE\u0026hl=es_PE": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=PE\u0026hl=es_PE",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=PY\u0026hl=es_PY": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=PY\u0026hl=es_PY",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=US\u0026hl=es_US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=US\u0026hl=es_US",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=UY\u0026hl=es_UY": {
+          "ID": "https://play.google.com/store/apps/details?id=com.nolapp\u0026gl=UY\u0026hl=es_UY",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "https://plenty.com/at/": {
+          "ID": "https://plenty.com/at/",
+          "Type": "URL"
+        },
+        "https://plenty.com/ch/": {
+          "ID": "https://plenty.com/ch/",
+          "Type": "URL"
+        },
+        "https://plenty.com/en": {
+          "ID": "https://plenty.com/en",
+          "Type": "URL"
+        },
+        "https://portal.vision.torkglobal.com": {
+          "ID": "https://portal.vision.torkglobal.com",
+          "Type": "URL"
+        },
+        "https://saba-centroamerica.com": {
+          "ID": "https://saba-centroamerica.com",
+          "Type": "URL"
+        },
+        "https://saba.com.mx": {
+          "ID": "https://saba.com.mx",
+          "Type": "URL"
+        },
+        "https://saprodweu01ecpdps01ui.z6.web.core.windows.net/": {
+          "ID": "https://saprodweu01ecpdps01ui.z6.web.core.windows.net/",
+          "Type": "URL"
+        },
+        "https://shop.bodyform.co.uk/": {
+          "ID": "https://shop.bodyform.co.uk/",
+          "Type": "URL"
+        },
+        "https://shop.libresse.de/": {
+          "ID": "https://shop.libresse.de/",
+          "Type": "URL"
+        },
+        "https://shop.libresse.dk/": {
+          "ID": "https://shop.libresse.dk/",
+          "Type": "URL"
+        },
+        "https://shop.libresse.fi/": {
+          "ID": "https://shop.libresse.fi/",
+          "Type": "URL"
+        },
+        "https://shop.libresse.no/": {
+          "ID": "https://shop.libresse.no/",
+          "Type": "URL"
+        },
+        "https://shop.libresse.se": {
+          "ID": "https://shop.libresse.se",
+          "Type": "URL"
+        },
+        "https://shop.nana.fr": {
+          "ID": "https://shop.nana.fr",
+          "Type": "URL"
+        },
+        "https://shop.tena.co.uk/": {
+          "ID": "https://shop.tena.co.uk/",
+          "Type": "URL"
+        },
+        "https://shop.tena.de/": {
+          "ID": "https://shop.tena.de/",
+          "Type": "URL"
+        },
+        "https://shop.tena.fr/": {
+          "ID": "https://shop.tena.fr/",
+          "Type": "URL"
+        },
+        "https://tempo-world.com": {
+          "ID": "https://tempo-world.com",
+          "Type": "URL"
+        },
+        "https://tempo-world.com/de-at": {
+          "ID": "https://tempo-world.com/de-at",
+          "Type": "URL"
+        },
+        "https://tempo-world.com/de-de": {
+          "ID": "https://tempo-world.com/de-de",
+          "Type": "URL"
+        },
+        "https://tempo-world.com/it": {
+          "ID": "https://tempo-world.com/it",
+          "Type": "URL"
+        },
+        "https://tempo-world.com/nl-nl": {
+          "ID": "https://tempo-world.com/nl-nl",
+          "Type": "URL"
+        },
+        "https://tena-me.com/ar": {
+          "ID": "https://tena-me.com/ar",
+          "Type": "URL"
+        },
+        "https://tena-me.com/en": {
+          "ID": "https://tena-me.com/en",
+          "Type": "URL"
+        },
+        "https://tena-me.com/fr": {
+          "ID": "https://tena-me.com/fr",
+          "Type": "URL"
+        },
+        "https://tena.at": {
+          "ID": "https://tena.at",
+          "Type": "URL"
+        },
+        "https://tena.be/fr": {
+          "ID": "https://tena.be/fr",
+          "Type": "URL"
+        },
+        "https://tena.be/nl": {
+          "ID": "https://tena.be/nl",
+          "Type": "URL"
+        },
+        "https://tena.bg": {
+          "ID": "https://tena.bg",
+          "Type": "URL"
+        },
+        "https://tena.ca": {
+          "ID": "https://tena.ca",
+          "Type": "URL"
+        },
+        "https://tena.ch/de": {
+          "ID": "https://tena.ch/de",
+          "Type": "URL"
+        },
+        "https://tena.ch/fr": {
+          "ID": "https://tena.ch/fr",
+          "Type": "URL"
+        },
+        "https://tena.ch/it": {
+          "ID": "https://tena.ch/it",
+          "Type": "URL"
+        },
+        "https://tena.co.jp": {
+          "ID": "https://tena.co.jp",
+          "Type": "URL"
+        },
+        "https://tena.co.uk": {
+          "ID": "https://tena.co.uk",
+          "Type": "URL"
+        },
+        "https://tena.co.za": {
+          "ID": "https://tena.co.za",
+          "Type": "URL"
+        },
+        "https://tena.com": {
+          "ID": "https://tena.com",
+          "Type": "URL"
+        },
+        "https://tena.com.mt": {
+          "ID": "https://tena.com.mt",
+          "Type": "URL"
+        },
+        "https://tena.com.tr": {
+          "ID": "https://tena.com.tr",
+          "Type": "URL"
+        },
+        "https://tena.de": {
+          "ID": "https://tena.de",
+          "Type": "URL"
+        },
+        "https://tena.dk": {
+          "ID": "https://tena.dk",
+          "Type": "URL"
+        },
+        "https://tena.ee": {
+          "ID": "https://tena.ee",
+          "Type": "URL"
+        },
+        "https://tena.es": {
+          "ID": "https://tena.es",
+          "Type": "URL"
+        },
+        "https://tena.fi": {
+          "ID": "https://tena.fi",
+          "Type": "URL"
+        },
+        "https://tena.fr": {
+          "ID": "https://tena.fr",
+          "Type": "URL"
+        },
+        "https://tena.gr": {
+          "ID": "https://tena.gr",
+          "Type": "URL"
+        },
+        "https://tena.hr": {
+          "ID": "https://tena.hr",
+          "Type": "URL"
+        },
+        "https://tena.hu": {
+          "ID": "https://tena.hu",
+          "Type": "URL"
+        },
+        "https://tena.ie": {
+          "ID": "https://tena.ie",
+          "Type": "URL"
+        },
+        "https://tena.it": {
+          "ID": "https://tena.it",
+          "Type": "URL"
+        },
+        "https://tena.lt": {
+          "ID": "https://tena.lt",
+          "Type": "URL"
+        },
+        "https://tena.lv": {
+          "ID": "https://tena.lv",
+          "Type": "URL"
+        },
+        "https://tena.nl": {
+          "ID": "https://tena.nl",
+          "Type": "URL"
+        },
+        "https://tena.no": {
+          "ID": "https://tena.no",
+          "Type": "URL"
+        },
+        "https://tena.nu": {
+          "ID": "https://tena.nu",
+          "Type": "URL"
+        },
+        "https://tena.pl": {
+          "ID": "https://tena.pl",
+          "Type": "URL"
+        },
+        "https://tena.pt": {
+          "ID": "https://tena.pt",
+          "Type": "URL"
+        },
+        "https://tena.ro": {
+          "ID": "https://tena.ro",
+          "Type": "URL"
+        },
+        "https://tena.rs": {
+          "ID": "https://tena.rs",
+          "Type": "URL"
+        },
+        "https://tena.si": {
+          "ID": "https://tena.si",
+          "Type": "URL"
+        },
+        "https://tena.sk": {
+          "ID": "https://tena.sk",
+          "Type": "URL"
+        },
+        "https://tena.ua/ru": {
+          "ID": "https://tena.ua/ru",
+          "Type": "URL"
+        },
+        "https://tena.ua/ua": {
+          "ID": "https://tena.ua/ua",
+          "Type": "URL"
+        },
+        "https://tena.ua/uk": {
+          "ID": "https://tena.ua/uk",
+          "Type": "URL"
+        },
+        "https://tena.us": {
+          "ID": "https://tena.us",
+          "Type": "URL"
+        },
+        "https://tenacz.cz": {
+          "ID": "https://tenacz.cz",
+          "Type": "URL"
+        },
+        "https://tenanet.tenaprofessionals.ca": {
+          "ID": "https://tenanet.tenaprofessionals.ca",
+          "Type": "URL"
+        },
+        "https://tenanet.tenaprofessionals.us/": {
+          "ID": "https://tenanet.tenaprofessionals.us/",
+          "Type": "URL"
+        },
+        "https://tenaprofessional.com.au": {
+          "ID": "https://tenaprofessional.com.au",
+          "Type": "URL"
+        },
+        "https://tork-ca.easyorder.eu/easyorder/index": {
+          "ID": "https://tork-ca.easyorder.eu/easyorder/index",
+          "Type": "URL"
+        },
+        "https://tork-de.easyorder.eu/easyorder/index": {
+          "ID": "https://tork-de.easyorder.eu/easyorder/index",
+          "Type": "URL"
+        },
+        "https://tork-fr.easyorder.eu/easyorder/index": {
+          "ID": "https://tork-fr.easyorder.eu/easyorder/index",
+          "Type": "URL"
+        },
+        "https://tork-gbi.easyorder.eu/easyorder/index": {
+          "ID": "https://tork-gbi.easyorder.eu/easyorder/index",
+          "Type": "URL"
+        },
+        "https://tork-it.easyorder.eu/easyorder/index": {
+          "ID": "https://tork-it.easyorder.eu/easyorder/index",
+          "Type": "URL"
+        },
+        "https://webapi-prodweu01-ecp-dps.azurewebsites.net/": {
+          "ID": "https://webapi-prodweu01-ecp-dps.azurewebsites.net/",
+          "Type": "URL"
+        },
+        "https://webapi-prodweu03-ecp-tork.azurewebsites.net/": {
+          "ID": "https://webapi-prodweu03-ecp-tork.azurewebsites.net/",
+          "Type": "URL"
+        },
+        "https://webapi-prodweu03-ecp.azurewebsites.net/": {
+          "ID": "https://webapi-prodweu03-ecp.azurewebsites.net/",
+          "Type": "URL"
+        },
+        "https://www.actimove.co.uk": {
+          "ID": "https://www.actimove.co.uk",
+          "Type": "URL"
+        },
+        "https://www.actimove.com": {
+          "ID": "https://www.actimove.com",
+          "Type": "URL"
+        },
+        "https://www.actimove.com.au": {
+          "ID": "https://www.actimove.com.au",
+          "Type": "URL"
+        },
+        "https://www.actimove.dk": {
+          "ID": "https://www.actimove.dk",
+          "Type": "URL"
+        },
+        "https://www.actimove.es": {
+          "ID": "https://www.actimove.es",
+          "Type": "URL"
+        },
+        "https://www.actimove.gr": {
+          "ID": "https://www.actimove.gr",
+          "Type": "URL"
+        },
+        "https://www.actimove.hr": {
+          "ID": "https://www.actimove.hr",
+          "Type": "URL"
+        },
+        "https://www.actimove.hu/": {
+          "ID": "https://www.actimove.hu/",
+          "Type": "URL"
+        },
+        "https://www.actimove.it": {
+          "ID": "https://www.actimove.it",
+          "Type": "URL"
+        },
+        "https://www.actimove.no": {
+          "ID": "https://www.actimove.no",
+          "Type": "URL"
+        },
+        "https://www.actimove.pl": {
+          "ID": "https://www.actimove.pl",
+          "Type": "URL"
+        },
+        "https://www.actimove.si": {
+          "ID": "https://www.actimove.si",
+          "Type": "URL"
+        },
+        "https://www.actimove.us": {
+          "ID": "https://www.actimove.us",
+          "Type": "URL"
+        },
+        "https://www.colhogar.com/": {
+          "ID": "https://www.colhogar.com/",
+          "Type": "URL"
+        },
+        "https://www.colhogar.com/es/": {
+          "ID": "https://www.colhogar.com/es/",
+          "Type": "URL"
+        },
+        "https://www.colhogar.com/pt/": {
+          "ID": "https://www.colhogar.com/pt/",
+          "Type": "URL"
+        },
+        "https://www.cosy.co.at": {
+          "ID": "https://www.cosy.co.at",
+          "Type": "URL"
+        },
+        "https://www.cushelle.com": {
+          "ID": "https://www.cushelle.com",
+          "Type": "URL"
+        },
+        "https://www.cutimed.co.uk": {
+          "ID": "https://www.cutimed.co.uk",
+          "Type": "URL"
+        },
+        "https://www.cutimed.com": {
+          "ID": "https://www.cutimed.com",
+          "Type": "URL"
+        },
+        "https://www.cutimed.com.au": {
+          "ID": "https://www.cutimed.com.au",
+          "Type": "URL"
+        },
+        "https://www.cutimed.cz/": {
+          "ID": "https://www.cutimed.cz/",
+          "Type": "URL"
+        },
+        "https://www.cutimed.de": {
+          "ID": "https://www.cutimed.de",
+          "Type": "URL"
+        },
+        "https://www.cutimed.dk": {
+          "ID": "https://www.cutimed.dk",
+          "Type": "URL"
+        },
+        "https://www.cutimed.es": {
+          "ID": "https://www.cutimed.es",
+          "Type": "URL"
+        },
+        "https://www.cutimed.it": {
+          "ID": "https://www.cutimed.it",
+          "Type": "URL"
+        },
+        "https://www.cutimed.nl": {
+          "ID": "https://www.cutimed.nl",
+          "Type": "URL"
+        },
+        "https://www.cutimed.no": {
+          "ID": "https://www.cutimed.no",
+          "Type": "URL"
+        },
+        "https://www.cutimed.se": {
+          "ID": "https://www.cutimed.se",
+          "Type": "URL"
+        },
+        "https://www.cutimed.sk": {
+          "ID": "https://www.cutimed.sk",
+          "Type": "URL"
+        },
+        "https://www.cutimed.us": {
+          "ID": "https://www.cutimed.us",
+          "Type": "URL"
+        },
+        "https://www.cutimedcanada.com": {
+          "ID": "https://www.cutimedcanada.com",
+          "Type": "URL"
+        },
+        "https://www.cutimedcanada.com/fr": {
+          "ID": "https://www.cutimedcanada.com/fr",
+          "Type": "URL"
+        },
+        "https://www.danke.de": {
+          "ID": "https://www.danke.de",
+          "Type": "URL"
+        },
+        "https://www.delta-cast.com/": {
+          "ID": "https://www.delta-cast.com/",
+          "Type": "URL"
+        },
+        "https://www.demakup.com": {
+          "ID": "https://www.demakup.com",
+          "Type": "URL"
+        },
+        "https://www.demakup.com/uk-ie/": {
+          "ID": "https://www.demakup.com/uk-ie/",
+          "Type": "URL"
+        },
+        "https://www.edet.nl/": {
+          "ID": "https://www.edet.nl/",
+          "Type": "URL"
+        },
+        "https://www.familia.com.co": {
+          "ID": "https://www.familia.com.co",
+          "Type": "URL"
+        },
+        "https://www.familia.com.do": {
+          "ID": "https://www.familia.com.do",
+          "Type": "URL"
+        },
+        "https://www.familia.com.ec": {
+          "ID": "https://www.familia.com.ec",
+          "Type": "URL"
+        },
+        "https://www.familia.com.pr": {
+          "ID": "https://www.familia.com.pr",
+          "Type": "URL"
+        },
+        "https://www.feh.at": {
+          "ID": "https://www.feh.at",
+          "Type": "URL"
+        },
+        "https://www.grupofamilia.com": {
+          "ID": "https://www.grupofamilia.com",
+          "Type": "URL"
+        },
+        "https://www.jobst-mx.com": {
+          "ID": "https://www.jobst-mx.com",
+          "Type": "URL"
+        },
+        "https://www.jobst-usa.com": {
+          "ID": "https://www.jobst-usa.com",
+          "Type": "URL"
+        },
+        "https://www.jobst.cl": {
+          "ID": "https://www.jobst.cl",
+          "Type": "URL"
+        },
+        "https://www.jobstbrasil.com": {
+          "ID": "https://www.jobstbrasil.com",
+          "Type": "URL"
+        },
+        "https://www.jobstcac.com": {
+          "ID": "https://www.jobstcac.com",
+          "Type": "URL"
+        },
+        "https://www.jobstfrance.com/": {
+          "ID": "https://www.jobstfrance.com/",
+          "Type": "URL"
+        },
+        "https://www.leukoplast-cac.com": {
+          "ID": "https://www.leukoplast-cac.com",
+          "Type": "URL"
+        },
+        "https://www.leukoplast.be/fr": {
+          "ID": "https://www.leukoplast.be/fr",
+          "Type": "URL"
+        },
+        "https://www.leukoplast.ch/de": {
+          "ID": "https://www.leukoplast.ch/de",
+          "Type": "URL"
+        },
+        "https://www.leukoplast.cl": {
+          "ID": "https://www.leukoplast.cl",
+          "Type": "URL"
+        },
+        "https://www.leukoplast.co": {
+          "ID": "https://www.leukoplast.co",
+          "Type": "URL"
+        },
+        "https://www.leukoplast.com.mx": {
+          "ID": "https://www.leukoplast.com.mx",
+          "Type": "URL"
+        },
+        "https://www.leukoplast.cz": {
+          "ID": "https://www.leukoplast.cz",
+          "Type": "URL"
+        },
+        "https://www.leukoplastbrasil.com": {
+          "ID": "https://www.leukoplastbrasil.com",
+          "Type": "URL"
+        },
+        "https://www.lotusbaby.fr": {
+          "ID": "https://www.lotusbaby.fr",
+          "Type": "URL"
+        },
+        "https://www.lotushygiene.com/be-fr/": {
+          "ID": "https://www.lotushygiene.com/be-fr/",
+          "Type": "URL"
+        },
+        "https://www.lotushygiene.com/be-nl/": {
+          "ID": "https://www.lotushygiene.com/be-nl/",
+          "Type": "URL"
+        },
+        "https://www.medical.essitylatam.com/": {
+          "ID": "https://www.medical.essitylatam.com/",
+          "Type": "URL"
+        },
+        "https://www.monbienetrerecompense.fr/": {
+          "ID": "https://www.monbienetrerecompense.fr/",
+          "Type": "URL"
+        },
+        "https://www.nana-me.com/ar-ae/": {
+          "ID": "https://www.nana-me.com/ar-ae/",
+          "Type": "URL"
+        },
+        "https://www.nana-me.com/ar-jo/": {
+          "ID": "https://www.nana-me.com/ar-jo/",
+          "Type": "URL"
+        },
+        "https://www.nana-me.com/ar-kw/": {
+          "ID": "https://www.nana-me.com/ar-kw/",
+          "Type": "URL"
+        },
+        "https://www.nana-me.com/ar-lb/": {
+          "ID": "https://www.nana-me.com/ar-lb/",
+          "Type": "URL"
+        },
+        "https://www.nana-me.com/en-ae/": {
+          "ID": "https://www.nana-me.com/en-ae/",
+          "Type": "URL"
+        },
+        "https://www.nana-me.com/en-jo/": {
+          "ID": "https://www.nana-me.com/en-jo/",
+          "Type": "URL"
+        },
+        "https://www.nana-me.com/en-kw/": {
+          "ID": "https://www.nana-me.com/en-kw/",
+          "Type": "URL"
+        },
+        "https://www.nana-me.com/en-lb/": {
+          "ID": "https://www.nana-me.com/en-lb/",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.cl": {
+          "ID": "https://www.nosotrasonline.cl",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com": {
+          "ID": "https://www.nosotrasonline.com",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com.ar": {
+          "ID": "https://www.nosotrasonline.com.ar",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com.bo": {
+          "ID": "https://www.nosotrasonline.com.bo",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com.co": {
+          "ID": "https://www.nosotrasonline.com.co",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com.do": {
+          "ID": "https://www.nosotrasonline.com.do",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com.ec": {
+          "ID": "https://www.nosotrasonline.com.ec",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com.pe": {
+          "ID": "https://www.nosotrasonline.com.pe",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com.pr": {
+          "ID": "https://www.nosotrasonline.com.pr",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com.py": {
+          "ID": "https://www.nosotrasonline.com.py",
+          "Type": "URL"
+        },
+        "https://www.nosotrasonline.com.uy": {
+          "ID": "https://www.nosotrasonline.com.uy",
+          "Type": "URL"
+        },
+        "https://www.nuvenia.it": {
+          "ID": "https://www.nuvenia.it",
+          "Type": "URL"
+        },
+        "https://www.papelregio.com/": {
+          "ID": "https://www.papelregio.com/",
+          "Type": "URL"
+        },
+        "https://www.pequenin.com": {
+          "ID": "https://www.pequenin.com",
+          "Type": "URL"
+        },
+        "https://www.pequenin.com.bo": {
+          "ID": "https://www.pequenin.com.bo",
+          "Type": "URL"
+        },
+        "https://www.pequenin.com.co": {
+          "ID": "https://www.pequenin.com.co",
+          "Type": "URL"
+        },
+        "https://www.pequenin.com.do": {
+          "ID": "https://www.pequenin.com.do",
+          "Type": "URL"
+        },
+        "https://www.pequenin.com.ec": {
+          "ID": "https://www.pequenin.com.ec",
+          "Type": "URL"
+        },
+        "https://www.saba-centroamerica.com/cr/": {
+          "ID": "https://www.saba-centroamerica.com/cr/",
+          "Type": "URL"
+        },
+        "https://www.saba-centroamerica.com/gt/": {
+          "ID": "https://www.saba-centroamerica.com/gt/",
+          "Type": "URL"
+        },
+        "https://www.saba-centroamerica.com/hn/": {
+          "ID": "https://www.saba-centroamerica.com/hn/",
+          "Type": "URL"
+        },
+        "https://www.saba-centroamerica.com/ni/": {
+          "ID": "https://www.saba-centroamerica.com/ni/",
+          "Type": "URL"
+        },
+        "https://www.saba-centroamerica.com/pa/": {
+          "ID": "https://www.saba-centroamerica.com/pa/",
+          "Type": "URL"
+        },
+        "https://www.saba-centroamerica.com/sv/": {
+          "ID": "https://www.saba-centroamerica.com/sv/",
+          "Type": "URL"
+        },
+        "https://www.tempo-world.com/de-ch/": {
+          "ID": "https://www.tempo-world.com/de-ch/",
+          "Type": "URL"
+        },
+        "https://www.tempo-world.com/fr-be/": {
+          "ID": "https://www.tempo-world.com/fr-be/",
+          "Type": "URL"
+        },
+        "https://www.tempo-world.com/nl-be/": {
+          "ID": "https://www.tempo-world.com/nl-be/",
+          "Type": "URL"
+        },
+        "https://www.tena-check.com": {
+          "ID": "https://www.tena-check.com",
+          "Type": "URL"
+        },
+        "https://www.tena-check.de": {
+          "ID": "https://www.tena-check.de",
+          "Type": "URL"
+        },
+        "https://www.tena-check.de/": {
+          "ID": "https://www.tena-check.de/",
+          "Type": "URL"
+        },
+        "https://www.tena.at/fachkraefte": {
+          "ID": "https://www.tena.at/fachkraefte",
+          "Type": "URL"
+        },
+        "https://www.tena.be/fr/professionnels": {
+          "ID": "https://www.tena.be/fr/professionnels",
+          "Type": "URL"
+        },
+        "https://www.tena.be/nl/professionals": {
+          "ID": "https://www.tena.be/nl/professionals",
+          "Type": "URL"
+        },
+        "https://www.tena.ca/en/professionals": {
+          "ID": "https://www.tena.ca/en/professionals",
+          "Type": "URL"
+        },
+        "https://www.tena.ca/fr/professionnels": {
+          "ID": "https://www.tena.ca/fr/professionnels",
+          "Type": "URL"
+        },
+        "https://www.tena.ch/de/fachkraeftehandel": {
+          "ID": "https://www.tena.ch/de/fachkraeftehandel",
+          "Type": "URL"
+        },
+        "https://www.tena.ch/fr/professionnels": {
+          "ID": "https://www.tena.ch/fr/professionnels",
+          "Type": "URL"
+        },
+        "https://www.tena.ch/it/professionisti": {
+          "ID": "https://www.tena.ch/it/professionisti",
+          "Type": "URL"
+        },
+        "https://www.tena.co.jp/professionals": {
+          "ID": "https://www.tena.co.jp/professionals",
+          "Type": "URL"
+        },
+        "https://www.tena.co.uk/professionals": {
+          "ID": "https://www.tena.co.uk/professionals",
+          "Type": "URL"
+        },
+        "https://www.tena.co.za/professionals": {
+          "ID": "https://www.tena.co.za/professionals",
+          "Type": "URL"
+        },
+        "https://www.tena.com.bo": {
+          "ID": "https://www.tena.com.bo",
+          "Type": "URL"
+        },
+        "https://www.tena.com.co": {
+          "ID": "https://www.tena.com.co",
+          "Type": "URL"
+        },
+        "https://www.tena.com.do": {
+          "ID": "https://www.tena.com.do",
+          "Type": "URL"
+        },
+        "https://www.tena.com.ec": {
+          "ID": "https://www.tena.com.ec",
+          "Type": "URL"
+        },
+        "https://www.tena.com.mt/professionals": {
+          "ID": "https://www.tena.com.mt/professionals",
+          "Type": "URL"
+        },
+        "https://www.tena.com.mx": {
+          "ID": "https://www.tena.com.mx",
+          "Type": "URL"
+        },
+        "https://www.tena.com.pe": {
+          "ID": "https://www.tena.com.pe",
+          "Type": "URL"
+        },
+        "https://www.tena.com.pr": {
+          "ID": "https://www.tena.com.pr",
+          "Type": "URL"
+        },
+        "https://www.tena.de/fachkraefte": {
+          "ID": "https://www.tena.de/fachkraefte",
+          "Type": "URL"
+        },
+        "https://www.tena.dk/professionelle": {
+          "ID": "https://www.tena.dk/professionelle",
+          "Type": "URL"
+        },
+        "https://www.tena.es/profesionales": {
+          "ID": "https://www.tena.es/profesionales",
+          "Type": "URL"
+        },
+        "https://www.tena.fi/ammattihoitajat": {
+          "ID": "https://www.tena.fi/ammattihoitajat",
+          "Type": "URL"
+        },
+        "https://www.tena.fr/professionnels": {
+          "ID": "https://www.tena.fr/professionnels",
+          "Type": "URL"
+        },
+        "https://www.tena.hr/profesionalci": {
+          "ID": "https://www.tena.hr/profesionalci",
+          "Type": "URL"
+        },
+        "https://www.tena.hu/szakemberek": {
+          "ID": "https://www.tena.hu/szakemberek",
+          "Type": "URL"
+        },
+        "https://www.tena.in/": {
+          "ID": "https://www.tena.in/",
+          "Type": "URL"
+        },
+        "https://www.tena.it/professionisti": {
+          "ID": "https://www.tena.it/professionisti",
+          "Type": "URL"
+        },
+        "https://www.tena.lt/specialistai": {
+          "ID": "https://www.tena.lt/specialistai",
+          "Type": "URL"
+        },
+        "https://www.tena.nl/professionals": {
+          "ID": "https://www.tena.nl/professionals",
+          "Type": "URL"
+        },
+        "https://www.tena.no/helsepersonell": {
+          "ID": "https://www.tena.no/helsepersonell",
+          "Type": "URL"
+        },
+        "https://www.tena.nu/vardpersonal": {
+          "ID": "https://www.tena.nu/vardpersonal",
+          "Type": "URL"
+        },
+        "https://www.tena.pl/profesjonalisci": {
+          "ID": "https://www.tena.pl/profesjonalisci",
+          "Type": "URL"
+        },
+        "https://www.tena.pt/profissionais": {
+          "ID": "https://www.tena.pt/profissionais",
+          "Type": "URL"
+        },
+        "https://www.tena.ro/profesionisti": {
+          "ID": "https://www.tena.ro/profesionisti",
+          "Type": "URL"
+        },
+        "https://www.tena.rs/profesionalninegovatelji": {
+          "ID": "https://www.tena.rs/profesionalninegovatelji",
+          "Type": "URL"
+        },
+        "https://www.tena.si/strokovnidelavci": {
+          "ID": "https://www.tena.si/strokovnidelavci",
+          "Type": "URL"
+        },
+        "https://www.tena.sk/profesionali": {
+          "ID": "https://www.tena.sk/profesionali",
+          "Type": "URL"
+        },
+        "https://www.tena.ua/ru/uhodprinederzhanii": {
+          "ID": "https://www.tena.ua/ru/uhodprinederzhanii",
+          "Type": "URL"
+        },
+        "https://www.tena.ua/uk/uhodprinederzhanii": {
+          "ID": "https://www.tena.ua/uk/uhodprinederzhanii",
+          "Type": "URL"
+        },
+        "https://www.tena.us/professionals": {
+          "ID": "https://www.tena.us/professionals",
+          "Type": "URL"
+        },
+        "https://www.tenacz.cz/proodborniky": {
+          "ID": "https://www.tenacz.cz/proodborniky",
+          "Type": "URL"
+        },
+        "https://www.tenadirect.co.uk/": {
+          "ID": "https://www.tenadirect.co.uk/",
+          "Type": "URL"
+        },
+        "https://www.tenadirect.it/": {
+          "ID": "https://www.tenadirect.it/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.at": {
+          "ID": "https://www.tenanet.at",
+          "Type": "URL"
+        },
+        "https://www.tenanet.be/": {
+          "ID": "https://www.tenanet.be/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.ch/": {
+          "ID": "https://www.tenanet.ch/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.co.uk/": {
+          "ID": "https://www.tenanet.co.uk/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.com.tr/": {
+          "ID": "https://www.tenanet.com.tr/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.cz/": {
+          "ID": "https://www.tenanet.cz/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.de": {
+          "ID": "https://www.tenanet.de",
+          "Type": "URL"
+        },
+        "https://www.tenanet.dk/": {
+          "ID": "https://www.tenanet.dk/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.fi/": {
+          "ID": "https://www.tenanet.fi/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.it/": {
+          "ID": "https://www.tenanet.it/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.nl/": {
+          "ID": "https://www.tenanet.nl/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.pl/": {
+          "ID": "https://www.tenanet.pl/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.pt/": {
+          "ID": "https://www.tenanet.pt/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.se/": {
+          "ID": "https://www.tenanet.se/",
+          "Type": "URL"
+        },
+        "https://www.tenanet.sk/": {
+          "ID": "https://www.tenanet.sk/",
+          "Type": "URL"
+        },
+        "https://www.tenaprofessional.com.au/professional": {
+          "ID": "https://www.tenaprofessional.com.au/professional",
+          "Type": "URL"
+        },
+        "https://www.tenashop.de/": {
+          "ID": "https://www.tenashop.de/",
+          "Type": "URL"
+        },
+        "https://www.tenashop.fr/": {
+          "ID": "https://www.tenashop.fr/",
+          "Type": "URL"
+        },
+        "https://www.tork.bo": {
+          "ID": "https://www.tork.bo",
+          "Type": "URL"
+        },
+        "https://www.tork.co.uk/connect": {
+          "ID": "https://www.tork.co.uk/connect",
+          "Type": "URL"
+        },
+        "https://www.tork.com.py": {
+          "ID": "https://www.tork.com.py",
+          "Type": "URL"
+        },
+        "https://www.tork.de/connect": {
+          "ID": "https://www.tork.de/connect",
+          "Type": "URL"
+        },
+        "https://www.tork.fr/connect": {
+          "ID": "https://www.tork.fr/connect",
+          "Type": "URL"
+        },
+        "https://www.tork.it/connect": {
+          "ID": "https://www.tork.it/connect",
+          "Type": "URL"
+        },
+        "https://www.tork.mx": {
+          "ID": "https://www.tork.mx",
+          "Type": "URL"
+        },
+        "https://www.tork.pe": {
+          "ID": "https://www.tork.pe",
+          "Type": "URL"
+        },
+        "https://www.torkcr.com": {
+          "ID": "https://www.torkcr.com",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/ae/en": {
+          "ID": "https://www.torkglobal.com/ae/en",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/at/de": {
+          "ID": "https://www.torkglobal.com/at/de",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/au/en": {
+          "ID": "https://www.torkglobal.com/au/en",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/be/de": {
+          "ID": "https://www.torkglobal.com/be/de",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/be/fr": {
+          "ID": "https://www.torkglobal.com/be/fr",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/be/nl": {
+          "ID": "https://www.torkglobal.com/be/nl",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/ca/en": {
+          "ID": "https://www.torkglobal.com/ca/en",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/ca/fr": {
+          "ID": "https://www.torkglobal.com/ca/fr",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/ch/de": {
+          "ID": "https://www.torkglobal.com/ch/de",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/ch/fr": {
+          "ID": "https://www.torkglobal.com/ch/fr",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/cz/cs": {
+          "ID": "https://www.torkglobal.com/cz/cs",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/de/de": {
+          "ID": "https://www.torkglobal.com/de/de",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/dk/da": {
+          "ID": "https://www.torkglobal.com/dk/da",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/ee/et": {
+          "ID": "https://www.torkglobal.com/ee/et",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/es/es": {
+          "ID": "https://www.torkglobal.com/es/es",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/fi/fi": {
+          "ID": "https://www.torkglobal.com/fi/fi",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/fr/fr": {
+          "ID": "https://www.torkglobal.com/fr/fr",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/gb/en": {
+          "ID": "https://www.torkglobal.com/gb/en",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/gr/el": {
+          "ID": "https://www.torkglobal.com/gr/el",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/hr/hr": {
+          "ID": "https://www.torkglobal.com/hr/hr",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/hu/hu": {
+          "ID": "https://www.torkglobal.com/hu/hu",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/ie/en": {
+          "ID": "https://www.torkglobal.com/ie/en",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/in/en": {
+          "ID": "https://www.torkglobal.com/in/en",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/it/it": {
+          "ID": "https://www.torkglobal.com/it/it",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/kz/ru": {
+          "ID": "https://www.torkglobal.com/kz/ru",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/lt/lt": {
+          "ID": "https://www.torkglobal.com/lt/lt",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/lv/lv": {
+          "ID": "https://www.torkglobal.com/lv/lv",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/nl/nl": {
+          "ID": "https://www.torkglobal.com/nl/nl",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/no/no": {
+          "ID": "https://www.torkglobal.com/no/no",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/nz/en": {
+          "ID": "https://www.torkglobal.com/nz/en",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/pl/pl": {
+          "ID": "https://www.torkglobal.com/pl/pl",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/pt/pt": {
+          "ID": "https://www.torkglobal.com/pt/pt",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/ro/ro": {
+          "ID": "https://www.torkglobal.com/ro/ro",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/se/sv": {
+          "ID": "https://www.torkglobal.com/se/sv",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/si/sl": {
+          "ID": "https://www.torkglobal.com/si/sl",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/sk/sk": {
+          "ID": "https://www.torkglobal.com/sk/sk",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/tn/fr": {
+          "ID": "https://www.torkglobal.com/tn/fr",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/tr/tr": {
+          "ID": "https://www.torkglobal.com/tr/tr",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/ua/uk": {
+          "ID": "https://www.torkglobal.com/ua/uk",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/us/en": {
+          "ID": "https://www.torkglobal.com/us/en",
+          "Type": "URL"
+        },
+        "https://www.torkglobal.com/za/en": {
+          "ID": "https://www.torkglobal.com/za/en",
+          "Type": "URL"
+        },
+        "https://www.torkusa.com/connect": {
+          "ID": "https://www.torkusa.com/connect",
+          "Type": "URL"
+        },
+        "https://www.velvettissues.com": {
+          "ID": "https://www.velvettissues.com",
+          "Type": "URL"
+        },
+        "https://zewa.net": {
+          "ID": "https://zewa.net",
+          "Type": "URL"
+        },
+        "https://zewa.net/at": {
+          "ID": "https://zewa.net/at",
+          "Type": "URL"
+        },
+        "https://zewa.net/bg": {
+          "ID": "https://zewa.net/bg",
+          "Type": "URL"
+        },
+        "https://zewa.net/cz": {
+          "ID": "https://zewa.net/cz",
+          "Type": "URL"
+        },
+        "https://zewa.net/de": {
+          "ID": "https://zewa.net/de",
+          "Type": "URL"
+        },
+        "https://zewa.net/ee": {
+          "ID": "https://zewa.net/ee",
+          "Type": "URL"
+        },
+        "https://zewa.net/gr": {
+          "ID": "https://zewa.net/gr",
+          "Type": "URL"
+        },
+        "https://zewa.net/hr": {
+          "ID": "https://zewa.net/hr",
+          "Type": "URL"
+        },
+        "https://zewa.net/hu": {
+          "ID": "https://zewa.net/hu",
+          "Type": "URL"
+        },
+        "https://zewa.net/lt/": {
+          "ID": "https://zewa.net/lt/",
+          "Type": "URL"
+        },
+        "https://zewa.net/lv": {
+          "ID": "https://zewa.net/lv",
+          "Type": "URL"
+        },
+        "https://zewa.net/ro": {
+          "ID": "https://zewa.net/ro",
+          "Type": "URL"
+        },
+        "https://zewa.net/rs": {
+          "ID": "https://zewa.net/rs",
+          "Type": "URL"
+        },
+        "https://zewa.net/ua": {
+          "ID": "https://zewa.net/ua",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {},
+      "Hash": "b1bc04b3f6fcb25573d71490b536c0269f26259cfad911f174b87f9e48e8dfab"
+    },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
       "Name": " Esteé  Lauder",
@@ -144953,7 +146886,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "edbd4bfff47bfd494bc2752310e04e4b68b0f2790f9c4e334ff07fbb2dad097d"
+      "Hash": "6c3441e34ce726a2235e77d838c148350ef529003722614b9fcaa068f4167d31"
     },
     "h1:flutteruki": {
       "Key": "flutteruki",
@@ -145925,7 +147858,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fdc02089a4ca80ece13e7e62eaad3a689497f860988ef592126c7aeb326d38f9"
+      "Hash": "461b33464e605ffced2e26f77ca49cc0cadaba80d8442003b7f7ea33e1564dca"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -150035,7 +151968,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f818933ef74365e93fb0ea69ada61a151810f9a978df44903032cbe18480283a"
+      "Hash": "f9908fe14f1e94255151fc3090d6418a74ebfdacfbee5cd4cd9470b2820097b6"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -167928,7 +169861,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a64beb0f71ef680bf30c4abf8cb6052ec823aee8189672a7374b1dbdd81fdd85"
+      "Hash": "0de4c1fccb98efcd5236096398c01414d9b76803d986c01d8fef0def4c4977a7"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -183693,7 +185626,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8638b17086dba8d5df7508f85c3366cc972368f85424d7294035227c0f860057"
+      "Hash": "1a212c3fa29cccb755304edfd4e0996eaa507754bf67b826bae2e2448280ce0a"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -186087,7 +188020,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e2dcaf1e6addc625732641654d6e92f5b0f6a2cbde5089de7e32bb9e322ea47c"
+      "Hash": "f79124596d6d00f8891064a1e2e8b0184f1b209ca0f029a60006e24bb1c70f50"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
@@ -188970,7 +190903,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "40e275c3bd222df4bf8c238ae0c036dd537fcf0446366cb009df407d21fa7678"
+      "Hash": "316b9a0cf57776bdf97e296f35af008aafcfe972cffb2228261d9b66fa3ee3a5"
     },
     "h1:tenable": {
       "Key": "tenable",
