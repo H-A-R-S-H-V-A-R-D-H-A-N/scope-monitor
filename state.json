@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T13:09:17Z",
+  "captured_at": "2026-08-24T14:22:32Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -13846,14 +13846,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1211109/user-management-and-license-optimizer-for-jira-confluence?hosting=cloud\u0026tab=overview",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=datacenter\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=datacenter\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=server\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=server\u0026tab=overview",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1212129/saml-single-sign-on-sso-confluence?hosting=datacenter\u0026tab=overview": {
           "ID": "https://marketplace.atlassian.com/apps/1212129/saml-single-sign-on-sso-confluence?hosting=datacenter\u0026tab=overview",
           "Type": "other"
@@ -13868,18 +13860,6 @@
         },
         "https://marketplace.atlassian.com/apps/1212130/saml-single-sign-on-sso-jira-saml-sso?hosting=server\u0026tab=overview": {
           "ID": "https://marketplace.atlassian.com/apps/1212130/saml-single-sign-on-sso-jira-saml-sso?hosting=server\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=datacenter\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=datacenter\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=server\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=server\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216514/google-analytics-for-confluence-free?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1216514/google-analytics-for-confluence-free?hosting=cloud\u0026tab=overview",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1217045/saml-single-sign-on-sso-bitbucket?hosting=datacenter\u0026tab=overview": {
@@ -14006,10 +13986,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1224142/monday-com-for-confluence?hosting=cloud\u0026tab=overview",
           "Type": "website"
         },
-        "https://marketplace.atlassian.com/apps/1224156/miro-embed-for-confluence?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1224156/miro-embed-for-confluence?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
         "https://marketplace.atlassian.com/apps/1224457/aws-load-balancer-authentication-cognito-compatible-jira?hosting=server": {
           "ID": "https://marketplace.atlassian.com/apps/1224457/aws-load-balancer-authentication-cognito-compatible-jira?hosting=server",
           "Type": "website"
@@ -14026,24 +14002,12 @@
           "ID": "https://marketplace.atlassian.com/apps/1224459/aws-sso-alb-amazon-cognito-authentication-for-confluence?hosting=datacenter\u0026tab=overview",
           "Type": "website"
         },
-        "https://marketplace.atlassian.com/apps/1224602/smartsheet-for-confluence?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1224602/smartsheet-for-confluence?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1224606/microsoft-power-bi-embed-for-confluence?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1224606/microsoft-power-bi-embed-for-confluence?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
         "https://marketplace.atlassian.com/apps/1224678/monday-com-for-jira?hosting=cloud\u0026tab=overview": {
           "ID": "https://marketplace.atlassian.com/apps/1224678/monday-com-for-jira?hosting=cloud\u0026tab=overview",
           "Type": "website"
         },
         "https://marketplace.atlassian.com/apps/1225346/hubspot-crm-for-confluence-hubspot-integration?hosting=cloud\u0026tab=overview": {
           "ID": "https://marketplace.atlassian.com/apps/1225346/hubspot-crm-for-confluence-hubspot-integration?hosting=cloud\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1225465/pdf-embed-for-confluence?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1225465/pdf-embed-for-confluence?hosting=cloud\u0026tab=overview",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1226752/google-translation-automation-for-jira-issue-language?hosting=cloud\u0026tab=overview": {
@@ -14077,7 +14041,7 @@
           "Type": "website"
         }
       },
-      "Hash": "c8111543ee55677ec17f69141006478e055dadb9c064542d3fb6975ba259348d"
+      "Hash": "2ad9b3ab593d7a6b763d62dc47b68359ff34e69de7dab588c1ffb9dfa481e6da"
     },
     "bc:SAP Invitational Bug Bounty Program": {
       "Key": "SAP Invitational Bug Bounty Program",
@@ -31554,7 +31518,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4fc1b4c2ba826c6bb1e01d133cc57f447ac08f777a5a23cc0cf5913f5fded131"
+      "Hash": "3c0906427eae12b651ee966fca0e0656ffe7676f0df87db1d3c532264f216943"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -33012,7 +32976,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "815d6ef3b78d1edf8f2ea8ca74ae2da1bb2a57c82d698ec5ae48a1d9f774a7d3"
+      "Hash": "ab5c8eaf1f170bef489fb2560ad10e0eda3b3f28e6a1a4a82231cae6e353dad3"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -68089,7 +68053,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "4a88376dcac3973fed9778e73cb0e920ed1cb150fedbd5d0d5b50db1fae44ea3"
+      "Hash": "d5e56e9b6648aedb98bf08930b5169d35f852cec958503b6c169b958ea4d41e5"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -152285,7 +152249,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d16e8918b0bfbb28b577d02961b25cb11bc4816634f50c6c7de67f14d2851a31"
+      "Hash": "ddf6e1a402bf6a9bb73e0ed30aa51f163dc11a5ddfc96397989dffc731b5d474"
     },
     "h1:hypr-corp": {
       "Key": "hypr-corp",
@@ -170347,7 +170311,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "759e5bf8ed122480ed7beff5428b219c05ef198b6510725f12f93a551956efb4"
+      "Hash": "213ca19cf1f656e0da49d8a2b803543d1f1f1cf705c1622b94265f5623bbec80"
     },
     "h1:lowes": {
       "Key": "lowes",
@@ -178110,7 +178074,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9275d675b68395338e8c468491e0a9ab1441daccf701794e03305cdc262ae90b"
+      "Hash": "fa39cab668e3d291853b4b70bf30d4ed502acf512a796b5a924b7f3bc72cf50e"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -182846,7 +182810,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b4e5b487c4912bde13a0b5f9803642b3ff0c01458c90cfb27d030bb417babf12"
+      "Hash": "0a7a4be0abfafea5d89670c9fd462cff88e653a830aa0fefa539d07d316146bd"
     },
     "h1:peloton": {
       "Key": "peloton",
@@ -184421,7 +184385,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ecffec20d421b9ebbc1fb6fccd64b13e83b5ab4b4347e9a8a552b082c21c1cf8"
+      "Hash": "d8f62b8f1bc0920d0bdd75c6dcd5fdd38fc145833429ad5b3a32473b33d70175"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -188272,7 +188236,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b2b8658c3048abadcdaac85075ef6fea86c8c1738bf7be1ee6aaaeb8aecadbdf"
+      "Hash": "2e3e7c40154f2b51024da1130ea0554a8586f6c711ad3055e1a7181def795764"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -193009,7 +192973,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "78d27f8f62413718bbcf1761438cebed2fb175a06ff51373dc87e972dae0a5a9"
+      "Hash": "6d79e7859b7db2fa75038cc8aed7b0d3bb31f4651363c9cfaa475d220d60b666"
     },
     "h1:uber": {
       "Key": "uber",
@@ -196322,6 +196286,72 @@
       },
       "Hash": "82f6d00cacf38c6887ac6eca6a94d5df33cb2de328add3768f7856e15f1d1cb9"
     },
+    "h1:wickr": {
+      "Key": "wickr",
+      "Name": "Wickr",
+      "URL": "https://hackerone.com/wickr",
+      "InScope": {
+        "Wickr Me Android": {
+          "ID": "Wickr Me Android",
+          "Type": "OTHER"
+        },
+        "Wickr Me Linux": {
+          "ID": "Wickr Me Linux",
+          "Type": "OTHER"
+        },
+        "Wickr Me OS X": {
+          "ID": "Wickr Me OS X",
+          "Type": "OTHER"
+        },
+        "Wickr Me Windows": {
+          "ID": "Wickr Me Windows",
+          "Type": "OTHER"
+        },
+        "Wickr Me iOS": {
+          "ID": "Wickr Me iOS",
+          "Type": "OTHER"
+        },
+        "Wickr Pro Android": {
+          "ID": "Wickr Pro Android",
+          "Type": "OTHER"
+        },
+        "Wickr Pro Linux": {
+          "ID": "Wickr Pro Linux",
+          "Type": "OTHER"
+        },
+        "Wickr Pro OS X": {
+          "ID": "Wickr Pro OS X",
+          "Type": "OTHER"
+        },
+        "Wickr Pro Windows": {
+          "ID": "Wickr Pro Windows",
+          "Type": "OTHER"
+        },
+        "Wickr Pro iOS": {
+          "ID": "Wickr Pro iOS",
+          "Type": "OTHER"
+        },
+        "Wickr Pro/Wickr Me (all related technical components) (up to)": {
+          "ID": "Wickr Pro/Wickr Me (all related technical components) (up to)",
+          "Type": "OTHER"
+        },
+        "admin.wickr.com": {
+          "ID": "admin.wickr.com",
+          "Type": "URL"
+        },
+        "www.wickr.com": {
+          "ID": "www.wickr.com",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {
+        "support.wickr.com": {
+          "ID": "support.wickr.com",
+          "Type": "URL"
+        }
+      },
+      "Hash": "43ae92b37c33030549e1f64e6483bc60b483e93b4e8e887e1f366743e3259779"
+    },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
       "Name": "WisdomTree, Inc.",
@@ -196468,7 +196498,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "259ba95d86f875f98b1b06b1e0339ebed6a3f476f8aec549f5b0c47cc862cbe7"
+      "Hash": "a9455fa033d065535bb834fc72a83af80b87cd50df4bff873b05b2c08c5357d5"
     },
     "h1:wordpress": {
       "Key": "wordpress",
@@ -206456,6 +206486,200 @@
       },
       "OutScope": {},
       "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
+    },
+    "in:ed04d1ef-1aa3-49dd-92f1-06f50f9756b9": {
+      "Key": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
+      "Name": "TrueLayer",
+      "URL": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "InScope": {
+        "*.truelayer.cloud": {
+          "ID": "*.truelayer.cloud",
+          "Type": "wildcard"
+        },
+        "*.truelayer.com": {
+          "ID": "*.truelayer.com",
+          "Type": "wildcard"
+        },
+        "*.truelayer.io": {
+          "ID": "*.truelayer.io",
+          "Type": "wildcard"
+        },
+        "C# SDK": {
+          "ID": "C# SDK",
+          "Type": "other"
+        },
+        "Java SDK": {
+          "ID": "Java SDK",
+          "Type": "other"
+        },
+        "PHP SDK": {
+          "ID": "PHP SDK",
+          "Type": "other"
+        },
+        "React Native SDK": {
+          "ID": "React Native SDK",
+          "Type": "other"
+        },
+        "Rust SDK": {
+          "ID": "Rust SDK",
+          "Type": "other"
+        },
+        "TrueLayer for Magento (Magento plugin)": {
+          "ID": "TrueLayer for Magento (Magento plugin)",
+          "Type": "other"
+        },
+        "TrueLayer for WooCommerce (WordPress plugin)": {
+          "ID": "TrueLayer for WooCommerce (WordPress plugin)",
+          "Type": "other"
+        },
+        "Web SDK": {
+          "ID": "Web SDK",
+          "Type": "other"
+        },
+        "api.mtls.truelayer[-sandbox].com": {
+          "ID": "api.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "api.truelayer[-sandbox].com": {
+          "ID": "api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "app.truelayer[-sandbox].com": {
+          "ID": "app.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.mtls.truelayer[-sandbox].com": {
+          "ID": "auth.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.truelayer[-sandbox].com": {
+          "ID": "auth.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console-backend.truelayer[-sandbox].com": {
+          "ID": "console-backend.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console.truelayer[-sandbox].com": {
+          "ID": "console.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "iOS SDK": {
+          "ID": "iOS SDK",
+          "Type": "other"
+        },
+        "login-api.truelayer[-sandbox].com": {
+          "ID": "login-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "login.truelayer[-sandbox].com": {
+          "ID": "login.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "onboarding-api.truelayer.com": {
+          "ID": "onboarding-api.truelayer.com",
+          "Type": "url"
+        },
+        "pay-api.truelayer[-sandbox].com": {
+          "ID": "pay-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "pay.truelayer[-sandbox].com": {
+          "ID": "pay.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "paydirect.truelayer[-sandbox].com": {
+          "ID": "paydirect.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payment.truelayer[-sandbox].com": {
+          "ID": "payment.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payments-experience-api.truelayer[-sandbox].com": {
+          "ID": "payments-experience-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "sftp.reports.truelayer.com": {
+          "ID": "sftp.reports.truelayer.com",
+          "Type": "url"
+        },
+        "shop-pay-app-api.truelayer.com": {
+          "ID": "shop-pay-app-api.truelayer.com",
+          "Type": "url"
+        },
+        "shopify-admin.truelayer.com": {
+          "ID": "shopify-admin.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer-signing": {
+          "ID": "truelayer-signing",
+          "Type": "other"
+        },
+        "user-authentication-api.truelayer[-sandbox].com": {
+          "ID": "user-authentication-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "users-api.truelayer.com": {
+          "ID": "users-api.truelayer.com",
+          "Type": "url"
+        },
+        "webhooks.truelayer[-sandbox].com": {
+          "ID": "webhooks.truelayer[-sandbox].com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "banks.truelayer.com": {
+          "ID": "banks.truelayer.com",
+          "Type": "url"
+        },
+        "careers.truelayer.com": {
+          "ID": "careers.truelayer.com",
+          "Type": "url"
+        },
+        "docs.houston.truelayer.com": {
+          "ID": "docs.houston.truelayer.com",
+          "Type": "url"
+        },
+        "docs.truelayer.com": {
+          "ID": "docs.truelayer.com",
+          "Type": "url"
+        },
+        "https://truelayer.com/contact/": {
+          "ID": "https://truelayer.com/contact/",
+          "Type": "url"
+        },
+        "index.truelayer.com": {
+          "ID": "index.truelayer.com",
+          "Type": "url"
+        },
+        "info.truelayer.com": {
+          "ID": "info.truelayer.com",
+          "Type": "url"
+        },
+        "signin.truelayer.com": {
+          "ID": "signin.truelayer.com",
+          "Type": "url"
+        },
+        "status.truelayer.com": {
+          "ID": "status.truelayer.com",
+          "Type": "url"
+        },
+        "support.truelayer.com": {
+          "ID": "support.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer.zendesk.com": {
+          "ID": "truelayer.zendesk.com",
+          "Type": "url"
+        },
+        "trust.truelayer.com": {
+          "ID": "trust.truelayer.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "7a2d0cc76bc6ebd6a98c958be9db862155e3f0590e73ca1efa314cee5b156d4d"
     },
     "in:ee2612e7-e188-492f-9bb2-ba48651523de": {
       "Key": "ee2612e7-e188-492f-9bb2-ba48651523de",
