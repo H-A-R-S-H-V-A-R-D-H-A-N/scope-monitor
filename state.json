@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T19:38:48Z",
+  "captured_at": "2026-08-24T20:44:17Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -505,6 +505,10 @@
           "ID": "Aiven for Valkey",
           "Type": "other"
         },
+        "Third-party dependency versions": {
+          "ID": "Third-party dependency versions",
+          "Type": "other"
+        },
         "http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/": {
           "ID": "http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/",
           "Type": "other"
@@ -600,7 +604,7 @@
           "Type": "website"
         }
       },
-      "Hash": "b6b4cae9a2333c44f6d07adda8546569b7ad9ee0a7e4e3d52708254ecaad9340"
+      "Hash": "10fd797d50220d267ea835c59dc323064e162fdac94f09cac1981d1a58450927"
     },
     "bc:AppFox": {
       "Key": "AppFox",
@@ -32237,7 +32241,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1ac632893e357257e0142cc597de7e4155cf298d83ae9c0a08db5e94acdabf54"
+      "Hash": "abc53e469b78817a50deab08d83fc6f69751402fcaad8047355af42ac0548e81"
     },
     "h1:brightspeed": {
       "Key": "brightspeed",
@@ -89199,7 +89203,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cf8a2c0d6ccc72ee2f8344f844088ef0a5353c4b30328a3bf7b09ad85575c6b2"
+      "Hash": "6ad71410ad0f23e2e86ad0c4c47fce00d804f1d99f0e3e52b7e8c7b6c7f83dda"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -169919,7 +169923,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dfe8b345881ede724403ee6ce6fe959db627b5f0b151014abea730b932f8e7c1"
+      "Hash": "8e5e7ee1e933b332eb9020e3fd6da4945ce570aca436e8f3def38bc5016e8015"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -182276,7 +182280,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "44b56e45eb4908c8e1b979a12b305021d7fc882a14a0dd01552becda829ef171"
+      "Hash": "81b7b5297cfd48430c30466af8e901c4335657c5686167766cd9e4fda95da93b"
     },
     "h1:owox": {
       "Key": "owox",
@@ -193468,7 +193472,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "55cdb2d5bebb03cec2eea6d781b217b31911d87a1a894f8fb84a028c6995f59d"
+      "Hash": "0d4e6f2c6288ae43167eabdbeb04d1fa3bf3424d345a666ef3c0b236a7ab00d5"
     },
     "h1:unico_idtech": {
       "Key": "unico_idtech",
@@ -195546,10 +195550,6 @@
           "ID": "www.visa.com.br",
           "Type": "URL"
         },
-        "www.visa.com.cn": {
-          "ID": "www.visa.com.cn",
-          "Type": "URL"
-        },
         "www.visa.com.cy": {
           "ID": "www.visa.com.cy",
           "Type": "URL"
@@ -195734,20 +195734,12 @@
           "ID": "www.visaeurope.ch",
           "Type": "URL"
         },
-        "www.visaeurope.es": {
-          "ID": "www.visaeurope.es",
-          "Type": "URL"
-        },
         "www.visaeurope.lu": {
           "ID": "www.visaeurope.lu",
           "Type": "URL"
         },
         "www.visaeurope.si": {
           "ID": "www.visaeurope.si",
-          "Type": "URL"
-        },
-        "www.visainfinite.ca": {
-          "ID": "www.visainfinite.ca",
           "Type": "URL"
         },
         "www.visaitalia.com": {
@@ -195758,21 +195750,13 @@
           "ID": "www.visakorea.com",
           "Type": "URL"
         },
-        "www.visamiddleeast.com": {
-          "ID": "www.visamiddleeast.com",
-          "Type": "URL"
-        },
         "www.visasoutheasteurope.com": {
           "ID": "www.visasoutheasteurope.com",
-          "Type": "URL"
-        },
-        "www.yellowpepper.com": {
-          "ID": "www.yellowpepper.com",
           "Type": "URL"
         }
       },
       "OutScope": {},
-      "Hash": "dca7d176af59153ee96a939621857a8baf6ad27bf2981de4f09e17b50a6ee433"
+      "Hash": "a45f5795d4eb299b0471afd2369d93cf196b3fb0b992e83271ee3fe657615f90"
     },
     "h1:vodafone": {
       "Key": "vodafone",
