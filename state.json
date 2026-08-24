@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T18:55:06Z",
+  "captured_at": "2026-08-24T19:38:48Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -28675,7 +28675,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4e57f3ff879bba4d19f3459b38b215634c2705dac1dc4524201a8cd0ed80d43b"
+      "Hash": "36d69f220e9ed797edfa444790e447b58a2313fbe02f6bf9ce4137f3931ba4de"
     },
     "h1:autodesk": {
       "Key": "autodesk",
@@ -32085,7 +32085,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7cb8fe505d1cd496dbe7a6fe74a8ce7f02e66b81e0feb9b29b82757a29f6905d"
+      "Hash": "421e802564a289ae1961ce3efdc1e73106a96b1d34fef4eb094a2a65e2d5a87f"
     },
     "h1:bose_vdp": {
       "Key": "bose_vdp",
@@ -67786,7 +67786,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "189deff8efc56bc2d1de5153de6ecbdde33e9d795de6334cf020b4d5abe3a655"
+      "Hash": "b63e5cccb69414341065f42404a459bab14856696b773522200f7f32f1ac741d"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -96325,7 +96325,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fe219053a2bf154feb4062badc8d4f2947a7d81b51ec894f2f44157e1e8bb2a1"
+      "Hash": "d98047f2adc8069ebe7a5e272755de6c9c48c3032c914f7dfd1f6f9f2cde789d"
     },
     "h1:disney": {
       "Key": "disney",
@@ -107275,7 +107275,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a5cd735391d8dbc20b48c02c67a2d1380a1802f2d3b8c864695fe770dff0e9c6"
+      "Hash": "beba32c60bebb20029d1116393a995450654f22e6c2b77343a6da8431a5b90b6"
     },
     "h1:figma": {
       "Key": "figma",
@@ -147855,7 +147855,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "db4f51c4f7a9571c5c78eaa83bf72caa878b45748c1284ba46f6493855dc7e4e"
+      "Hash": "e69af9dce049bf310b1664c8d1ede567985db1dd4ae76d23d3f2836086d18a68"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -195066,10 +195066,6 @@
           "ID": "cw.visa.com",
           "Type": "URL"
         },
-        "cybersourcebouncebacks.visa.com": {
-          "ID": "cybersourcebouncebacks.visa.com",
-          "Type": "URL"
-        },
         "developer.authorize.net": {
           "ID": "developer.authorize.net",
           "Type": "URL"
@@ -195306,16 +195302,8 @@
           "ID": "info.cybersource.com",
           "Type": "URL"
         },
-        "kino.visa.pl": {
-          "ID": "kino.visa.pl",
-          "Type": "URL"
-        },
         "merchantsignage.visa.com": {
           "ID": "merchantsignage.visa.com",
-          "Type": "URL"
-        },
-        "merchantsignageap.visa.com": {
-          "ID": "merchantsignageap.visa.com",
           "Type": "URL"
         },
         "merchantsignageca.visa.com": {
@@ -195328,10 +195316,6 @@
         },
         "merchantsignageglobal.visa.com": {
           "ID": "merchantsignageglobal.visa.com",
-          "Type": "URL"
-        },
-        "merchantsignagejp.visa.com": {
-          "ID": "merchantsignagejp.visa.com",
           "Type": "URL"
         },
         "my.visa.fr": {
@@ -195788,7 +195772,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e0a41ff1f55af419be9a965446082eb8fc1228662691fa672016bd6beec09bed"
+      "Hash": "dca7d176af59153ee96a939621857a8baf6ad27bf2981de4f09e17b50a6ee433"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -206395,12 +206379,16 @@
           "ID": "com.dropbox.paper",
           "Type": "android"
         },
+        "community.dropbox.com": {
+          "ID": "community.dropbox.com",
+          "Type": "url"
+        },
         "replay.dropbox.com": {
           "ID": "replay.dropbox.com",
           "Type": "url"
         }
       },
-      "Hash": "a797146e221080d7cc530536855037d62696759f4dfad59d35cef0054ceb4b39"
+      "Hash": "d774782324ebb34db8d09183ba1e8b458de00d0d7774bfcac4a6fc66daf7fb06"
     },
     "in:e6386eb8-ce59-43b5-98b6-f1590cafdceb": {
       "Key": "e6386eb8-ce59-43b5-98b6-f1590cafdceb",
