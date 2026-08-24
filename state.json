@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T21:39:35Z",
+  "captured_at": "2026-08-24T22:39:28Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -1230,96 +1230,24 @@
           "ID": "Third Party Marketplace Apps",
           "Type": "website"
         },
-        "https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1210950/atlassian-plugin-sdk-windows?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1210950/atlassian-plugin-sdk-windows?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1210951/atlassian-plugin-sdk-mac-os-x?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1210951/atlassian-plugin-sdk-mac-os-x?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211500/bitbucket-server-backup-client?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211500/bitbucket-server-backup-client?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211542/atlassian-rest-api-browser?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211542/atlassian-rest-api-browser?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1211596/whos-looking-for-jira-cloud?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1211596/whos-looking-for-jira-cloud?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211619/reviewer-suggester-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211619/reviewer-suggester-for-bitbucket-server?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud": {
@@ -1330,56 +1258,16 @@
           "ID": "https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1212137/assets?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1212137/assets?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1212137/insight-asset-management?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1212137/insight-asset-management?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud": {
@@ -1390,20 +1278,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1214509/entity-property-tool-for-jira?hosting=cloud": {
@@ -1426,68 +1302,24 @@
           "ID": "https://marketplace.atlassian.com/apps/1214668/insight-discovery?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1214899/thready-give-tomcat-threads-a-name?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1214899/thready-give-tomcat-threads-a-name?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215089/bulk-delete-review-files-for-crucible?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215089/bulk-delete-review-files-for-crucible?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1215460/automation-for-jira-server?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1215460/automation-for-jira-server?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud": {
@@ -1498,32 +1330,12 @@
           "ID": "https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=cloud": {
@@ -1534,36 +1346,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216128/look-and-feel-for-fisheye-and-crucible?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1216128/look-and-feel-for-fisheye-and-crucible?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216136/after-deployment-trigger-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1216136/after-deployment-trigger-for-bamboo?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216357/atlassian-team-playbook-blueprints?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1216357/atlassian-team-playbook-blueprints?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud": {
@@ -1590,16 +1374,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1217661/jira-cloud-for-crm-official?hosting=cloud": {
@@ -1610,100 +1386,40 @@
           "ID": "https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1217750/insight-jira-bitbucket-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1217750/insight-jira-bitbucket-integration?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217750/insight-jira-bitbucket-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217750/insight-jira-bitbucket-integration?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1217751/insight-tempo-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1217751/insight-tempo-integration?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1217751/insight-tempo-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217751/insight-tempo-integration?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217957/vfs-for-git-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1217957/vfs-for-git-for-bitbucket-server?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1218011/trello-connector-for-jira-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1218011/trello-connector-for-jira-server?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1218118/release-plugin-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1218118/release-plugin-for-bitbucket-server?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud": {
@@ -1726,36 +1442,16 @@
           "ID": "https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1219311/atlassian-cloud-for-gmail?hosting=cloud": {
@@ -1766,20 +1462,12 @@
           "ID": "https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1219472/mandatory-reviewers-for-crucible?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219472/mandatory-reviewers-for-crucible?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud": {
@@ -1794,10 +1482,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1219561/insight-servicenow-integration?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1219561/insight-servicenow-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219561/insight-servicenow-integration?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud",
           "Type": "other"
@@ -1806,60 +1490,28 @@
           "ID": "https://marketplace.atlassian.com/apps/1219632/insight-device42-integration?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1219632/insight-device42-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219632/insight-device42-integration?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219706/conditional-tasks-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219706/conditional-tasks-for-bamboo?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1220353/insight-nvd-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1220353/insight-nvd-integration?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1220353/insight-nvd-integration?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1220353/insight-nvd-integration?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1220382/jira-cloud-for-google-sheets-official?hosting=cloud": {
@@ -1878,20 +1530,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud": {
@@ -1902,20 +1542,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1221251/opsgenie-incident-timeline?hosting=cloud": {
@@ -1930,10 +1558,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1221430/troubleshooting-and-support-crowd?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1221430/troubleshooting-and-support-crowd?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud",
           "Type": "other"
@@ -1946,10 +1570,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud",
           "Type": "other"
@@ -1958,16 +1578,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud": {
@@ -1978,32 +1590,12 @@
           "ID": "https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud": {
@@ -2034,16 +1626,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter\u0026tab=overview": {
           "ID": "https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud": {
@@ -2052,10 +1636,6 @@
         },
         "https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=cloud": {
@@ -2100,10 +1680,6 @@
         },
         "https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1230671/extension-point-finder-for-confluence?hosting=cloud": {
@@ -2218,60 +1794,12 @@
           "ID": "https://marketplace.atlassian.com/apps/1235496/jira-board-buddy?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/602870/continuous-plugin-deployment-for-bamboo?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/602870/continuous-plugin-deployment-for-bamboo?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=cloud": {
@@ -2280,14 +1808,6 @@
         },
         "https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server",
           "Type": "other"
         },
         "https://trello.com/power-ups/55a5d915446f517774210001/box": {
@@ -2421,7 +1941,7 @@
           "Type": "website"
         }
       },
-      "Hash": "e14aa1c47443768544ef545fbe488d81820efdd4a6b4f2914de565183753efdd"
+      "Hash": "a3c0abefed760f4198763709ff61367ddebf37962c7b5cdba925d8f2de7cabd5"
     },
     "bc:Aurory Managed Bug Bounty Engagement (Public)": {
       "Key": "Aurory Managed Bug Bounty Engagement (Public)",
@@ -150933,7 +150453,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aa71b5a7da0742dcbcf9f2e2faea575e62b69c258f0dfc027d92cc7c206ee7b1"
+      "Hash": "e296bd2fec12cdb9ca2558304f116c88a727a096b88574958cb9470d2bd861c0"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -175455,7 +174975,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "901b32e8a1311908d3ca942ba93861260af24b26fb76b0daf44a6935f93a14f2"
+      "Hash": "0882cda848a5273dda7e79128cb5f653e58940d5fbdfa5864390df5801c769f4"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -186996,7 +186516,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "384ee6fb49479b0304de515bd7e82532abd58cf975b007d22edd1727876ee0c8"
+      "Hash": "9b0026ecaf9ca2c6f5f16f79534ddcc3dcc927670c621751c958d6faf5d9fbff"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -194991,7 +194511,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4502d4d60ddc8acb42f28c8e0dbffb24a9299e5e463fe0d306957335585f4a22"
+      "Hash": "132f708a1a3cb9e4e12aa7849b010b04e4f32176886620275e9e6bbf90dc9c3d"
     },
     "h1:visa": {
       "Key": "visa",
@@ -195446,10 +194966,6 @@
           "ID": "www.cybersource.com",
           "Type": "URL"
         },
-        "www.mz.visa.com": {
-          "ID": "www.mz.visa.com",
-          "Type": "URL"
-        },
         "www.practicalbusinessskills.org": {
           "ID": "www.practicalbusinessskills.org",
           "Type": "URL"
@@ -195484,10 +195000,6 @@
         },
         "www.visa.cn": {
           "ID": "www.visa.cn",
-          "Type": "URL"
-        },
-        "www.visa.co.ao": {
-          "ID": "www.visa.co.ao",
           "Type": "URL"
         },
         "www.visa.co.cr": {
@@ -195582,16 +195094,8 @@
           "ID": "www.visa.com.kz",
           "Type": "URL"
         },
-        "www.visa.com.lc": {
-          "ID": "www.visa.com.lc",
-          "Type": "URL"
-        },
         "www.visa.com.lk": {
           "ID": "www.visa.com.lk",
-          "Type": "URL"
-        },
-        "www.visa.com.ms": {
-          "ID": "www.visa.com.ms",
           "Type": "URL"
         },
         "www.visa.com.mx": {
@@ -195752,7 +195256,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "06932af9f8323f4c37dbbf57077372a272d1fed29b122c9af8518da428e6ee19"
+      "Hash": "de1339840695858be8ade546585d88ef542a81bbbda0c1aa7c40e926dfbdff09"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -196469,7 +195973,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "82f6d00cacf38c6887ac6eca6a94d5df33cb2de328add3768f7856e15f1d1cb9"
+      "Hash": "b9bb136e4004c4fd5868779352b05e523cc321422783d4403b7ca031ac898ba0"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -196535,7 +196039,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "37c5aa2fe2892737c0ae2f9f4a0cdfff243428f6ba2f2e14ffe593322539717a"
+      "Hash": "43e58522c552c7e85d2549a2f68821f1b1fb295b793d5031bb3cae7f1b8caad6"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
