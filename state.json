@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-24T15:19:46Z",
+  "captured_at": "2026-08-24T16:07:04Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -32188,6 +32188,35 @@
       },
       "OutScope": {},
       "Hash": "fbabe2a32361b18e61f187fe813048c80a2def8639022bd520a42f561f3ef581"
+    },
+    "h1:brave": {
+      "Key": "brave",
+      "Name": "Brave Software",
+      "URL": "https://hackerone.com/brave",
+      "InScope": {
+        "Brave Browser Desktop": {
+          "ID": "Brave Browser Desktop",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "Brave websites": {
+          "ID": "Brave websites",
+          "Type": "OTHER"
+        },
+        "com.brave.browser": {
+          "ID": "com.brave.browser",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.brave.ios.browser": {
+          "ID": "com.brave.ios.browser",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://github.com/brave/*, https://github.com/brave-intl/*": {
+          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {},
+      "Hash": "03ee2643a50868cd0925f226805a5b4ed08ff9251267077ad83b8704086c8d5b"
     },
     "h1:braze_inc": {
       "Key": "braze_inc",
@@ -88814,6 +88843,10 @@
           "ID": "https://github.com/cloudflare/moq-rs",
           "Type": "SOURCE_CODE"
         },
+        "https://github.com/cloudflare/pp-browser-extension": {
+          "ID": "https://github.com/cloudflare/pp-browser-extension",
+          "Type": "SOURCE_CODE"
+        },
         "https://github.com/cloudflare/privacy-gateway-server-go": {
           "ID": "https://github.com/cloudflare/privacy-gateway-server-go",
           "Type": "SOURCE_CODE"
@@ -88859,7 +88892,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dbace58666a7331d3485f86abb69c24cdb5fc5e8eb0d6775abcdacdf94ee4b47"
+      "Hash": "eecb7132ad399c542179309410e8d9cd5854ea0d5d07105753c3184fa96ab31e"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -101906,7 +101939,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b1bc04b3f6fcb25573d71490b536c0269f26259cfad911f174b87f9e48e8dfab"
+      "Hash": "032579309f94c9c247a72f30e0c4a69117230445079aeea2e6028d71c7ff4c6b"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -152002,10 +152035,6 @@
           "ID": "hyatt.com",
           "Type": "URL"
         },
-        "jira.hyattdev.com": {
-          "ID": "jira.hyattdev.com",
-          "Type": "URL"
-        },
         "login.www.vaxvacationaccess.com": {
           "ID": "login.www.vaxvacationaccess.com",
           "Type": "URL"
@@ -152184,7 +152213,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "528569d8a90575aa1df933aa44dfedb1e99a262f29c9acf3006637e94d670743"
+      "Hash": "254811180fbc8a0cf0c7bc7bb3f304a140f30add8d1293850ec13dcb14658b9c"
     },
     "h1:hyland_software": {
       "Key": "hyland_software",
@@ -171745,7 +171774,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4fe621fad3cee539c03dcb3a3b1e6b40484936ea45596751344ac605557fa588"
+      "Hash": "9c9c57eb17a5181af75f1ee9b27cddd4d58d38526941f2fce0b325ce09661703"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -180740,7 +180769,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "37da89f3ec3f6269c89955ab75dc498cb0c7213550b100e95c31f346440b50ac"
+      "Hash": "8dffaf65f8cb2c31899d2889fa2572495c215583846cdc676b68060a042e725b"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -185842,7 +185871,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f70915231fbfe66cf2a9afb70b861b5c525c1f99f46eb8494e7cc205c050dd43"
+      "Hash": "f2d178342aa3228f6d2cf50d051a96b685d0594eed6594c0ae04d98d80deecd7"
     },
     "h1:regions_financial": {
       "Key": "regions_financial",
@@ -187812,7 +187841,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "381af2c2030c884b1ac575c122a621b7c541dfa5a389072a66cc264c3f392b83"
+      "Hash": "ea76fe956695d5bee8291f2123ddd67e4bfb6b2ee8241a479ff0a6a41825287f"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -187882,7 +187911,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e451e69452ddfb52d94aed37908789a70ca86cbacf9df652e15c79875976a6d8"
+      "Hash": "868d6e633beebce95988ac10c8b5e98a8c0ec3c2782b0162b6a8aa8eb91a45ba"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -194977,6 +195006,10 @@
           "ID": "admin-portal.api-xperience.com",
           "Type": "URL"
         },
+        "africa.visa.com": {
+          "ID": "africa.visa.com",
+          "Type": "URL"
+        },
         "api.prod.innovexperiments.com": {
           "ID": "api.prod.innovexperiments.com",
           "Type": "URL"
@@ -195009,8 +195042,16 @@
           "ID": "bq.visa.com",
           "Type": "URL"
         },
+        "by.visa.com": {
+          "ID": "by.visa.com",
+          "Type": "URL"
+        },
         "capability.prod.innovexperiments.com": {
           "ID": "capability.prod.innovexperiments.com",
+          "Type": "URL"
+        },
+        "cis.visa.com": {
+          "ID": "cis.visa.com",
           "Type": "URL"
         },
         "codeofconduct.visa.com": {
@@ -195237,6 +195278,10 @@
           "ID": "https://solutions.visaacceptance.com/subscription",
           "Type": "URL"
         },
+        "https://usa.visa.com/gateway/api": {
+          "ID": "https://usa.visa.com/gateway/api",
+          "Type": "URL"
+        },
         "https://www.myvisacardportal.com/enbd/en_ae/landing/": {
           "ID": "https://www.myvisacardportal.com/enbd/en_ae/landing/",
           "Type": "URL"
@@ -195259,6 +195304,10 @@
         },
         "info.cybersource.com": {
           "ID": "info.cybersource.com",
+          "Type": "URL"
+        },
+        "kino.visa.pl": {
+          "ID": "kino.visa.pl",
           "Type": "URL"
         },
         "merchantsignage.visa.com": {
@@ -195289,12 +195338,20 @@
           "ID": "my.visa.fr",
           "Type": "URL"
         },
+        "myanmar.visa.com": {
+          "ID": "myanmar.visa.com",
+          "Type": "URL"
+        },
         "myvu.visauniversity.com": {
           "ID": "myvu.visauniversity.com",
           "Type": "URL"
         },
         "releasor.payworks.com/": {
           "ID": "releasor.payworks.com/",
+          "Type": "URL"
+        },
+        "rs.visa.com": {
+          "ID": "rs.visa.com",
           "Type": "URL"
         },
         "sandbox.authorize.net": {
@@ -195307,6 +195364,10 @@
         },
         "sap.api-xperience.com": {
           "ID": "sap.api-xperience.com",
+          "Type": "URL"
+        },
+        "sr.visa.com": {
+          "ID": "sr.visa.com",
           "Type": "URL"
         },
         "survey.visa.com": {
@@ -195349,8 +195410,16 @@
           "ID": "visa.com.jm",
           "Type": "URL"
         },
+        "visa.com.mx": {
+          "ID": "visa.com.mx",
+          "Type": "URL"
+        },
         "visa.com.ru": {
           "ID": "visa.com.ru",
+          "Type": "URL"
+        },
+        "visa.in": {
+          "ID": "visa.in",
           "Type": "URL"
         },
         "visainnovationprogram.com": {
@@ -195389,6 +195458,10 @@
           "ID": "www.fraedom.com",
           "Type": "URL"
         },
+        "www.mz.visa.com": {
+          "ID": "www.mz.visa.com",
+          "Type": "URL"
+        },
         "www.practicalbusinessskills.org": {
           "ID": "www.practicalbusinessskills.org",
           "Type": "URL"
@@ -195407,6 +195480,22 @@
         },
         "www.trialpay.com": {
           "ID": "www.trialpay.com",
+          "Type": "URL"
+        },
+        "www.visa.be": {
+          "ID": "www.visa.be",
+          "Type": "URL"
+        },
+        "www.visa.ca": {
+          "ID": "www.visa.ca",
+          "Type": "URL"
+        },
+        "www.visa.cl": {
+          "ID": "www.visa.cl",
+          "Type": "URL"
+        },
+        "www.visa.cn": {
+          "ID": "www.visa.cn",
           "Type": "URL"
         },
         "www.visa.co.ao": {
@@ -195457,6 +195546,10 @@
           "ID": "www.visa.co.ve",
           "Type": "URL"
         },
+        "www.visa.com": {
+          "ID": "www.visa.com",
+          "Type": "URL"
+        },
         "www.visa.com.az": {
           "ID": "www.visa.com.az",
           "Type": "URL"
@@ -195485,8 +195578,16 @@
           "ID": "www.visa.com.hk",
           "Type": "URL"
         },
+        "www.visa.com.hn": {
+          "ID": "www.visa.com.hn",
+          "Type": "URL"
+        },
         "www.visa.com.hr": {
           "ID": "www.visa.com.hr",
+          "Type": "URL"
+        },
+        "www.visa.com.jm": {
+          "ID": "www.visa.com.jm",
           "Type": "URL"
         },
         "www.visa.com.kh": {
@@ -195549,16 +195650,136 @@
           "ID": "www.visa.com.vn",
           "Type": "URL"
         },
+        "www.visa.cz": {
+          "ID": "www.visa.cz",
+          "Type": "URL"
+        },
+        "www.visa.de": {
+          "ID": "www.visa.de",
+          "Type": "URL"
+        },
+        "www.visa.dk": {
+          "ID": "www.visa.dk",
+          "Type": "URL"
+        },
+        "www.visa.dm": {
+          "ID": "www.visa.dm",
+          "Type": "URL"
+        },
+        "www.visa.ee": {
+          "ID": "www.visa.ee",
+          "Type": "URL"
+        },
+        "www.visa.es": {
+          "ID": "www.visa.es",
+          "Type": "URL"
+        },
+        "www.visa.fi": {
+          "ID": "www.visa.fi",
+          "Type": "URL"
+        },
         "www.visa.fr": {
           "ID": "www.visa.fr",
+          "Type": "URL"
+        },
+        "www.visa.gr": {
+          "ID": "www.visa.gr",
+          "Type": "URL"
+        },
+        "www.visa.hu": {
+          "ID": "www.visa.hu",
+          "Type": "URL"
+        },
+        "www.visa.ie": {
+          "ID": "www.visa.ie",
+          "Type": "URL"
+        },
+        "www.visa.is": {
+          "ID": "www.visa.is",
+          "Type": "URL"
+        },
+        "www.visa.lt": {
+          "ID": "www.visa.lt",
+          "Type": "URL"
+        },
+        "www.visa.lv": {
+          "ID": "www.visa.lv",
+          "Type": "URL"
+        },
+        "www.visa.mn": {
+          "ID": "www.visa.mn",
+          "Type": "URL"
+        },
+        "www.visa.nl": {
+          "ID": "www.visa.nl",
+          "Type": "URL"
+        },
+        "www.visa.no": {
+          "ID": "www.visa.no",
+          "Type": "URL"
+        },
+        "www.visa.pl": {
+          "ID": "www.visa.pl",
+          "Type": "URL"
+        },
+        "www.visa.pt": {
+          "ID": "www.visa.pt",
+          "Type": "URL"
+        },
+        "www.visa.ro": {
+          "ID": "www.visa.ro",
+          "Type": "URL"
+        },
+        "www.visa.se": {
+          "ID": "www.visa.se",
+          "Type": "URL"
+        },
+        "www.visa.sk": {
+          "ID": "www.visa.sk",
+          "Type": "URL"
+        },
+        "www.visabg.com": {
+          "ID": "www.visabg.com",
+          "Type": "URL"
+        },
+        "www.visaeurope.at": {
+          "ID": "www.visaeurope.at",
+          "Type": "URL"
+        },
+        "www.visaeurope.ch": {
+          "ID": "www.visaeurope.ch",
+          "Type": "URL"
+        },
+        "www.visaeurope.es": {
+          "ID": "www.visaeurope.es",
+          "Type": "URL"
+        },
+        "www.visaeurope.lu": {
+          "ID": "www.visaeurope.lu",
+          "Type": "URL"
+        },
+        "www.visaeurope.si": {
+          "ID": "www.visaeurope.si",
           "Type": "URL"
         },
         "www.visainfinite.ca": {
           "ID": "www.visainfinite.ca",
           "Type": "URL"
         },
+        "www.visaitalia.com": {
+          "ID": "www.visaitalia.com",
+          "Type": "URL"
+        },
+        "www.visakorea.com": {
+          "ID": "www.visakorea.com",
+          "Type": "URL"
+        },
         "www.visamiddleeast.com": {
           "ID": "www.visamiddleeast.com",
+          "Type": "URL"
+        },
+        "www.visasoutheasteurope.com": {
+          "ID": "www.visasoutheasteurope.com",
           "Type": "URL"
         },
         "www.yellowpepper.com": {
@@ -195567,7 +195788,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fa3114ace351ac07639b174a7a9b2677cdbd141272a56495592c5164a1c46ea6"
+      "Hash": "e0a41ff1f55af419be9a965446082eb8fc1228662691fa672016bd6beec09bed"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -196498,7 +196719,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a9455fa033d065535bb834fc72a83af80b87cd50df4bff873b05b2c08c5357d5"
+      "Hash": "259ba95d86f875f98b1b06b1e0339ebed6a3f476f8aec549f5b0c47cc862cbe7"
     },
     "h1:wordpress": {
       "Key": "wordpress",
