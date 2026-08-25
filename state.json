@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T16:17:06Z",
+  "captured_at": "2026-08-25T17:08:16Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -1944,17 +1944,9 @@
           "ID": "https://app.aurory.io",
           "Type": "website"
         },
-        "https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane\u0026hl=en_CA": {
-          "ID": "https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane\u0026hl=en_CA",
-          "Type": "android"
-        },
         "https://store.epicgames.com/en-US/p/amiko-legends-a5986d": {
           "ID": "https://store.epicgames.com/en-US/p/amiko-legends-a5986d",
           "Type": "other"
-        },
-        "https://testflight.apple.com/join/FuaxsScP": {
-          "ID": "https://testflight.apple.com/join/FuaxsScP",
-          "Type": "ios"
         }
       },
       "OutScope": {
@@ -1966,16 +1958,16 @@
           "ID": "https://blog.aurory.io ",
           "Type": "website"
         },
-        "https://docs.aurory.io/": {
-          "ID": "https://docs.aurory.io/",
-          "Type": "website"
-        },
         "https://sentry.io/welcome/": {
           "ID": "https://sentry.io/welcome/",
           "Type": "website"
+        },
+        "wss://ws.aurorynet.dev.aurory.io": {
+          "ID": "wss://ws.aurorynet.dev.aurory.io",
+          "Type": "website"
         }
       },
-      "Hash": "0d38ec8c80c58fb50a3be76cc6f8ec1122ebf8d56a5d75ccf3151e1634ad2083"
+      "Hash": "51b108f417b226bcb65f489818d713e16b7140fa71e958a2351da35f0d0109d5"
     },
     "bc:Auth0 by Okta": {
       "Key": "Auth0 by Okta",
@@ -67848,7 +67840,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8278daaf9541bc6d2867a78c115b49830ef202a2b5b5fb19d6ed2ffa3937f5ec"
+      "Hash": "9fa18b8f580aa6444401673bc6fbcfa3241c3a255234a49465eb587ae1cd155b"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -95975,7 +95967,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "59aeecc708ff672919cbb5aaf76bb4900df0d2def2177e16e58e1fd39f620305"
+      "Hash": "2c8a68b3458ea9f8e31b65f4eb25ce43e945bc11bfbb465e7e5cb2834f03524a"
     },
     "h1:django": {
       "Key": "django",
@@ -152580,7 +152572,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cf2b1f7295eacc75a1f451cfa84551ad7ecb46355cddb8e93819cb20a7668777"
+      "Hash": "64b6adfb5621f03349ddd43dfc3e95928fc85a5df501c0be153c7c74642d0399"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -173024,6 +173016,10 @@
           "ID": "help.moderntreasury.com",
           "Type": "URL"
         },
+        "http://app.moderntreasury.com/tell_us_more": {
+          "ID": "http://app.moderntreasury.com/tell_us_more",
+          "Type": "URL"
+        },
         "ph.moderntreasury.com": {
           "ID": "ph.moderntreasury.com",
           "Type": "URL"
@@ -173037,7 +173033,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "836fd6abb8c2cee0f8048e347b3eb3dfc99f325f8ed1ce717d152664545b09f4"
+      "Hash": "07de25e99b47615d5d9d39a576ccc9976e219cb254673a175e80ab06526c4005"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -174452,7 +174448,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "40a00d91cb6f23ecdd622ffedb206b2295cf25bc4428b25f899f021d4d8786b9"
+      "Hash": "006e0e2eeba71c073aaec7997d5fae62ca89b9c47c83658056952206d404d185"
     },
     "h1:monero": {
       "Key": "monero",
@@ -179382,7 +179378,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1c565467244a2c77823a7c9d8ba4ef8b663112692bc9206f47e15f3106dfb221"
+      "Hash": "61a3dfa1fddc1a298da54c970c26e511d01ec17a78f81973e62aa004b16aaf43"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -181792,7 +181788,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "67434aff6b9686a7beb0487446bd446bb19a7ed9a96be2f85913731c9ba970fd"
+      "Hash": "9d6c3f78af9ec9050ce617cb2427e601bed002cf3b3e32c12f10a897867af7a0"
     },
     "h1:owox": {
       "Key": "owox",
@@ -182092,7 +182088,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "02bb7da019a510a2fc70359d7ece03a63969fdeb3a7c5c5451c69701c3686789"
+      "Hash": "6526558ac72dd89806f3698832d486b2bce401eb63fdfd90e609d8b081c6d421"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -189665,7 +189661,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "5f91bf4cd159f6fc7c5a2bc76546c673a4570951c6e2a64387bdf5207d14e5c0"
+      "Hash": "7c635987fc8a09ede6eaa8331f480a7803a92ed1bedbcbded84a2425e64cc97e"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -190969,7 +190965,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e6e95a4ea4acb8010859928b29a0f4db21eb13bc902503f0e7c42b6e713c9cde"
+      "Hash": "99c0364737b8368ec9be65fac201d32ca9fa4e69294ebb4afff4e93f5a31fa18"
     },
     "h1:tomtom": {
       "Key": "tomtom",
@@ -192620,7 +192616,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f64f0072e5cca10923603adc1acf3da13619ad5fc3812200b593de9d54998dfe"
+      "Hash": "17ddc8b5ae98637b76ae331d044e652c88f6479dd612e5e931b468a586c2be24"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -193662,7 +193658,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "35bc5116e1bc45fee5fd0358ad5c03cfff4af504254e61de8b3292725ed584cc"
+      "Hash": "cf4c73d184ca75484e8d936da42d6db0c2ec74de99bbcdfd5773f4d94722c33b"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -196457,7 +196453,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f0c5972039ab37122405adf6d0e1ba7ad07ad9cec914efd4d0e12329a3706378"
+      "Hash": "1983d94d9f10643bf6caaf0fc529943124ff36c4dcd5b14bfc38df0de6a6b7bc"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
@@ -196900,7 +196896,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "17c95950ebf183bb3578cad9a7171b0d04b3d09450b36c4ba5073f4d5282cb00"
+      "Hash": "26557071663bf6c093b9b4d519821ec0f310a76caefbc276dbe5340b85fb202a"
     },
     "h1:yuga_labs": {
       "Key": "yuga_labs",
