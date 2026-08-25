@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T11:37:57Z",
+  "captured_at": "2026-08-25T13:07:30Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18349,7 +18349,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "a56610539664a20376c1e4e0b8cf46d3d0e06424e532ab5bc071385952f86eee"
+      "Hash": "b5d12ea7153073af08fe8450b4938e9366f67bd6198a8a84e6884be4d8b0c24e"
     },
     "h1:6sense-vdp": {
       "Key": "6sense-vdp",
@@ -28434,7 +28434,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ba248ea296c32e28848aee7be09c5a52ac576e421472ac13d2e4e43e8d1f157f"
+      "Hash": "b14b70593072c0dbcfe623c6d1114d59ca3d216c6a757c2495587596835d0bbf"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -169077,7 +169077,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "0f082683b219541b90e9042edd10f5d323b74c06dedefb2f042f649ee1a96a68"
+      "Hash": "cafbc341062374d275d2c5dd1bc44c3ec733b56589aa789a1aa82b99c2147ee2"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -169868,7 +169868,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "30112e0c55945e089a03239fd6694cefa82c9b299fe8708ec334bc0aebe1b418"
+      "Hash": "1693406f940e5e3413f1b1a7bd9df8ac39304b1894fe78190dc61a46c4fc212c"
     },
     "h1:lowes": {
       "Key": "lowes",
@@ -171302,7 +171302,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9c9c57eb17a5181af75f1ee9b27cddd4d58d38526941f2fce0b325ce09661703"
+      "Hash": "4fe621fad3cee539c03dcb3a3b1e6b40484936ea45596751344ac605557fa588"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -180375,7 +180375,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e804cc4f335582d01d36c0a3bb01dd60828eaf72db2a458175f76649061f8f74"
+      "Hash": "69e8e1aa8e1c941f2e361dfa512832ea21a663c6560378f0ffe601104a416b48"
     },
     "h1:nutanix": {
       "Key": "nutanix",
@@ -187457,7 +187457,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "cc798b77fe605f3da0d2fcd95728a6c03a26086bcb9f7892c553622a212c4da4"
+      "Hash": "df321e62b45016a0f3e9dfaeab81bf1d7386b7463c454b10da06b43ee4a6f2de"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -188922,7 +188922,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f62049d0727fcef37a81383894374e4bcd24459c328b4d34551447295a25eb49"
+      "Hash": "cdcd703f99dcb8d8625a4d8c4e525fd1a845e9248ab2dc5dd4398d2498e669e0"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -190373,7 +190373,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cb2536dfe1664f5d2e5a438b9a8952c064c14a59a0c802a1effc8e9121e0b4b2"
+      "Hash": "ddb49df4ac7d4cb62fbced6a4d2fc3acfe9ed5dda3bc064790119e3ad9e37d15"
     },
     "h1:temu": {
       "Key": "temu",
@@ -192730,7 +192730,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac38771f83bbc0258a087187f8625cc929bdbad511726af2e2211cf32369685e"
+      "Hash": "783ffda30801d26cba43222d4ff35c28725f2223e04cb7d080f348e90a49ab1d"
     },
     "h1:ui": {
       "Key": "ui",
@@ -195881,7 +195881,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e34b5d17e212966ef237275aaf91941190ed72a2c6b553034cc7d81e05b9eca5"
+      "Hash": "430e2b22fd3f46603cb6c4f9c12757713eecd1c8047a9e9c97a933588c29b3dc"
     },
     "h1:who-covid-19-mobile-app": {
       "Key": "who-covid-19-mobile-app",
@@ -199420,6 +199420,10 @@
       "Name": "European Space Agency (ESA) VDP",
       "URL": "https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail",
       "InScope": {
+        "activities.esa.int": {
+          "ID": "activities.esa.int",
+          "Type": "url"
+        },
         "astronauts.esa.int": {
           "ID": "astronauts.esa.int",
           "Type": "url"
@@ -199430,6 +199434,10 @@
         },
         "blogs.esa.int": {
           "ID": "blogs.esa.int",
+          "Type": "url"
+        },
+        "bluedocs.esa.int": {
+          "ID": "bluedocs.esa.int",
           "Type": "url"
         },
         "bookdiscoveresalive-acc.esa.int": {
@@ -199464,25 +199472,65 @@
           "ID": "dlmultimedia.esa.int",
           "Type": "url"
         },
+        "doing-business.sso.esa.int": {
+          "ID": "doing-business.sso.esa.int",
+          "Type": "url"
+        },
         "download.esa.int": {
           "ID": "download.esa.int",
+          "Type": "url"
+        },
+        "dst.esa.int": {
+          "ID": "dst.esa.int",
           "Type": "url"
         },
         "eo4sd.esa.int": {
           "ID": "eo4sd.esa.int",
           "Type": "url"
         },
+        "eris.esa.int": {
+          "ID": "eris.esa.int",
+          "Type": "url"
+        },
+        "esa-p.sso.esa.int": {
+          "ID": "esa-p.sso.esa.int",
+          "Type": "url"
+        },
         "esamultimedia.esa.int": {
           "ID": "esamultimedia.esa.int",
+          "Type": "url"
+        },
+        "esastar-ecm.sso.esa.int": {
+          "ID": "esastar-ecm.sso.esa.int",
+          "Type": "url"
+        },
+        "esastar-emr.sso.esa.int": {
+          "ID": "esastar-emr.sso.esa.int",
+          "Type": "url"
+        },
+        "esastar-esamatch-ext.sso.esa.int": {
+          "ID": "esastar-esamatch-ext.sso.esa.int",
+          "Type": "url"
+        },
+        "esastar-publication-ext.sso.esa.int": {
+          "ID": "esastar-publication-ext.sso.esa.int",
           "Type": "url"
         },
         "estracknow.esa.int": {
           "ID": "estracknow.esa.int",
           "Type": "url"
         },
+        "financereports.esa.int": {
+          "ID": "financereports.esa.int",
+          "Type": "url"
+        },
         "https://github.com/ESA": {
           "ID": "https://github.com/ESA",
           "Type": ""
+        },
+        "industrialreturn.esa.int": {
+          "ID": "industrialreturn.esa.int",
+          "Type": "url"
         },
         "iptvdec.esoc.esa.int": {
           "ID": "iptvdec.esoc.esa.int",
@@ -199506,6 +199554,26 @@
         },
         "outpost42.esa.int": {
           "ID": "outpost42.esa.int",
+          "Type": "url"
+        },
+        "pol-acc2.esa.int": {
+          "ID": "pol-acc2.esa.int",
+          "Type": "url"
+        },
+        "pol-ftp-xml.esoc.esa.int": {
+          "ID": "pol-ftp-xml.esoc.esa.int",
+          "Type": "url"
+        },
+        "pol-ftp.esoc.esa.int": {
+          "ID": "pol-ftp.esoc.esa.int",
+          "Type": "url"
+        },
+        "pol-sftp-ext.esoc.esa.int": {
+          "ID": "pol-sftp-ext.esoc.esa.int",
+          "Type": "url"
+        },
+        "pol-web-acc2-mfa.esoc.esa.int": {
+          "ID": "pol-web-acc2-mfa.esoc.esa.int",
           "Type": "url"
         },
         "rosetta-acc.esa.int": {
@@ -199566,7 +199634,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e3cb494ba0201871e2365d369e4ede71c4889b3789dff49f6fc279d595df8bcf"
+      "Hash": "591fde6c66b23aa5d1b977f3bdef593cde72ed39a81dee8972c90415d8cdd34f"
     },
     "in:2cf03670-6a2d-4ac7-8b1e-2e0d84338204": {
       "Key": "2cf03670-6a2d-4ac7-8b1e-2e0d84338204",
