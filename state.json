@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T18:01:02Z",
+  "captured_at": "2026-08-25T18:53:43Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23855,7 +23855,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1c60e33da2b1f15706072c44a82cf7134211843ef24a09e4ecd1a065d4e43946"
+      "Hash": "6e51d88ff8d9e895b65ac9a02873e61170710c1e284b421fc227edc1dafc64ca"
     },
     "h1:aeromexico_vdp": {
       "Key": "aeromexico_vdp",
@@ -150437,7 +150437,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e296bd2fec12cdb9ca2558304f116c88a727a096b88574958cb9470d2bd861c0"
+      "Hash": "3904a8e671d687ee52f3fd23587079dc7b9dc0c9c39b4225ed339d08b3fefaa8"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -183445,7 +183445,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7c5b46494fe7bfa6485b8322b8e255e699e4dcba574b5a5be75ab79817811b04"
+      "Hash": "48e8ee95390e6f88d1529e4857befffb9717697e61a57c27dee6c9ce47b21c77"
     },
     "h1:picsart": {
       "Key": "picsart",
@@ -190193,6 +190193,10 @@
           "ID": "articles.alpha.canada.ca",
           "Type": "URL"
         },
+        "auth.cdssandbox.xyz": {
+          "ID": "auth.cdssandbox.xyz",
+          "Type": "URL"
+        },
         "auth.signin-connexion.canada.ca": {
           "ID": "auth.signin-connexion.canada.ca",
           "Type": "URL"
@@ -190268,7 +190272,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b1cfac2bb7f9d3c1cd785dffc8ddfec6acd1fe7f91abb04268c75bd9955b5fae"
+      "Hash": "ea179a7c75ab90f6f91d5134cd2e644ee61c9d46fdd82c7d0258055e672fe67a"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -193177,7 +193181,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "19f08dcd06289b8fec73374299d717b37832d4134f10ea4214f2962e2016e12b"
+      "Hash": "f22a79ca63b3a6015c0bcaed4eea8ddb470d52d5ec29a05c2270c4219d946170"
     },
     "h1:urbancompany": {
       "Key": "urbancompany",
@@ -194547,24 +194551,8 @@
           "ID": "askpeopleteam.visa.com",
           "Type": "URL"
         },
-        "aw.visa.com": {
-          "ID": "aw.visa.com",
-          "Type": "URL"
-        },
-        "bb.visa.com": {
-          "ID": "bb.visa.com",
-          "Type": "URL"
-        },
         "bd.visa.com": {
           "ID": "bd.visa.com",
-          "Type": "URL"
-        },
-        "bm.visa.com": {
-          "ID": "bm.visa.com",
-          "Type": "URL"
-        },
-        "bq.visa.com": {
-          "ID": "bq.visa.com",
           "Type": "URL"
         },
         "by.visa.com": {
@@ -194585,10 +194573,6 @@
         },
         "console.tink.com": {
           "ID": "console.tink.com",
-          "Type": "URL"
-        },
-        "cw.visa.com": {
-          "ID": "cw.visa.com",
           "Type": "URL"
         },
         "developer.authorize.net": {
@@ -194635,10 +194619,6 @@
           "ID": "garp.visa.com",
           "Type": "URL"
         },
-        "ht.visa.com": {
-          "ID": "ht.visa.com",
-          "Type": "URL"
-        },
         "http://myvisainfinite.com/suntrust/en_us/home.html": {
           "ID": "http://myvisainfinite.com/suntrust/en_us/home.html",
           "Type": "URL"
@@ -194657,6 +194637,10 @@
         },
         "https://ebctest.cybersource.com/boarding/v1/templates": {
           "ID": "https://ebctest.cybersource.com/boarding/v1/templates",
+          "Type": "URL"
+        },
+        "https://ebctest.cybersource.com/bos": {
+          "ID": "https://ebctest.cybersource.com/bos",
           "Type": "URL"
         },
         "https://ebctest.cybersource.com/casemanagement": {
@@ -194883,10 +194867,6 @@
           "ID": "sap.api-xperience.com",
           "Type": "URL"
         },
-        "sr.visa.com": {
-          "ID": "sr.visa.com",
-          "Type": "URL"
-        },
         "survey.visa.com": {
           "ID": "survey.visa.com",
           "Type": "URL"
@@ -194933,10 +194913,6 @@
         },
         "visa.com.ru": {
           "ID": "visa.com.ru",
-          "Type": "URL"
-        },
-        "visa.in": {
-          "ID": "visa.in",
           "Type": "URL"
         },
         "visainnovationprogram.com": {
@@ -195261,7 +195237,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4381b1029f5a4f13697b2a4415f389dd4bccefcb072b3abcbc73543aa9b0f153"
+      "Hash": "10ffdc55006eccb950cf8b62a83d56190f18bbf533c7a69510c60881069950d9"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -196314,7 +196290,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e2a063c86a50cb8c45db1dfb765f0277ba1c51c4f909b429560b0a517c1d8d53"
+      "Hash": "b21173c53a9b11e5210adf188c0e5334f55b08e446f7d4601ba252f006b446cc"
     },
     "h1:worklytics": {
       "Key": "worklytics",
