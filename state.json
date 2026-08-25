@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T21:38:34Z",
+  "captured_at": "2026-08-25T22:39:58Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -88090,7 +88090,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e5d1e558dc08e66d9de8f061e7de1b6beae4fc3b5e4596779bc77dfc178b81b3"
+      "Hash": "88e4e4101f98b893b3e37d2d880bb1591e7e2db2201cf0ba47de45454994e89f"
     },
     "h1:cloudflare": {
       "Key": "cloudflare",
@@ -88400,7 +88400,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c53c254ec4024b8313824363e65886ba74d65d3a88369ff6ded6b6d1b726ea13"
+      "Hash": "2ab6961cc1d5f0f32648e05da51dbbee694b2e99a7e0af2d43ee59c0e8cd68a0"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -179663,7 +179663,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d4e37d69125f771a4d881523a74811577444aaa7011678eb27907b11b230210f"
+      "Hash": "54f68758215cdad31dc374ffc3a0bf18d5f2636f6186167dc6b472af52103e2d"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -183640,7 +183640,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0f37196a1afd62d7a975fd7789f25ce9875d3268b0c16ecc26c1cc52ad7130bc"
+      "Hash": "d080cb125fb17a4edccec127756f5f9388bda1d5d67f30faa7c930253f4c0ca0"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -189250,7 +189250,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "418c6739ef93ff26a6f4c4651619086cfe1765a9a885c428f31404c200f8a956"
+      "Hash": "9aaa4bdec9a9dfda16fef61481b6098b6ecd581c7136e28df8a259cbe9248357"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -194795,10 +194795,6 @@
           "ID": "images.demand.cybersource.com",
           "Type": "URL"
         },
-        "infinite.visa.fr": {
-          "ID": "infinite.visa.fr",
-          "Type": "URL"
-        },
         "info.authorize.net": {
           "ID": "info.authorize.net",
           "Type": "URL"
@@ -194917,10 +194913,6 @@
         },
         "www.authorize.net": {
           "ID": "www.authorize.net",
-          "Type": "URL"
-        },
-        "www.cardinalcommerce.com": {
-          "ID": "www.cardinalcommerce.com",
           "Type": "URL"
         },
         "www.currencycloud.com": {
@@ -195217,7 +195209,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f1efb45ee8dcb109c04f36dd3591dd21bb1452bf73b63bbce725233d4ca1b5b0"
+      "Hash": "a255a2c2e1237002feba5a4a81b90689fa2fe4188f75caa9a53eb96a92adbbe7"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -195934,7 +195926,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "39522d068e78a88fd405e5eb5516ef3bf5be90bd377a0f281d37f5b6acf84757"
+      "Hash": "ac5237fb86c098d688db35a1532a8edb26bde2cf25a63ddc25f7a20885eadf60"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -196270,7 +196262,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b21173c53a9b11e5210adf188c0e5334f55b08e446f7d4601ba252f006b446cc"
+      "Hash": "e2a063c86a50cb8c45db1dfb765f0277ba1c51c4f909b429560b0a517c1d8d53"
     },
     "h1:worklytics": {
       "Key": "worklytics",
