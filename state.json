@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T20:40:57Z",
+  "captured_at": "2026-08-25T21:38:34Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -3339,16 +3339,16 @@
           "ID": "All Chime Assets",
           "Type": "website"
         },
-        "http://app-qa.chime.com/users/sign_in": {
-          "ID": "http://app-qa.chime.com/users/sign_in",
-          "Type": "website"
-        },
         "http://member-qa.chime.com/enroll": {
           "ID": "http://member-qa.chime.com/enroll",
           "Type": "website"
         },
         "https://*.chime.com": {
           "ID": "https://*.chime.com",
+          "Type": "website"
+        },
+        "https://app-qa.chime.com/login": {
+          "ID": "https://app-qa.chime.com/login",
           "Type": "website"
         },
         "https://app.chime.com": {
@@ -3402,7 +3402,7 @@
           "Type": "website"
         }
       },
-      "Hash": "f61262d29354d40485a682dfd992361cb8a8c14ff72508353577b67cf17f15a9"
+      "Hash": "396868f096181c8ff98f570993681770ece2c819b2e1d908c3c1b5230f448848"
     },
     "bc:Chipotle Managed Bug Bounty Engagement": {
       "Key": "Chipotle Managed Bug Bounty Engagement",
@@ -187503,7 +187503,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f79124596d6d00f8891064a1e2e8b0184f1b209ca0f029a60006e24bb1c70f50"
+      "Hash": "4e33261f8de6ee1377493fa0c46f1e3f89e2f9496f9a19e43dfc316f397aa862"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
@@ -191132,21 +191132,13 @@
       "Name": "Tor",
       "URL": "https://hackerone.com/torproject",
       "InScope": {
-        "Tor": {
-          "ID": "Tor",
-          "Type": "OTHER"
-        },
         "Tor Browser": {
           "ID": "Tor Browser",
           "Type": "OTHER"
-        },
-        "https://gitlab.torproject.org/tpo/core/arti": {
-          "ID": "https://gitlab.torproject.org/tpo/core/arti",
-          "Type": "SOURCE_CODE"
         }
       },
       "OutScope": {},
-      "Hash": "2c600f3f3344127fd6ba621c73a56e8175ca83e8e69f2429aedc130c7dbe9292"
+      "Hash": "27d23191ff6fb34775551198ecfcd70613736ae6e160ca8394635047f48cffcf"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -193838,7 +193830,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7a3cd52cceb18d032d8dc3c8934997b7a33ec96a69ee7cacb608bde523fc71f5"
+      "Hash": "8dd7566e9fd7ba55a578437970077b4675eef462df5ecf02219a3a35b55598fa"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
@@ -194883,10 +194875,6 @@
           "ID": "vasdemos.visa.com",
           "Type": "URL"
         },
-        "vdam.visa.com": {
-          "ID": "vdam.visa.com",
-          "Type": "URL"
-        },
         "vgov.catalogue.digitalcontrolroom.com": {
           "ID": "vgov.catalogue.digitalcontrolroom.com",
           "Type": "URL"
@@ -195123,10 +195111,6 @@
           "ID": "www.visa.dk",
           "Type": "URL"
         },
-        "www.visa.dm": {
-          "ID": "www.visa.dm",
-          "Type": "URL"
-        },
         "www.visa.ee": {
           "ID": "www.visa.ee",
           "Type": "URL"
@@ -195233,7 +195217,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6f5a9a54cf8573e1fdf1d74839794a7e00c9a58ce078d157e9c7f376e026b48f"
+      "Hash": "f1efb45ee8dcb109c04f36dd3591dd21bb1452bf73b63bbce725233d4ca1b5b0"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -201242,52 +201226,6 @@
       },
       "OutScope": {},
       "Hash": "ca0c160d17e90a49ff9c71a3d35af84dc37da1d88a11d1d468f9b2f1c9c44e5b"
-    },
-    "in:64f80113-969e-4c55-9649-8a044487941c": {
-      "Key": "64f80113-969e-4c55-9649-8a044487941c",
-      "Name": "PDQ bug bounty program",
-      "URL": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "InScope": {
-        "https://a.simplemdm.com/": {
-          "ID": "https://a.simplemdm.com/",
-          "Type": "url"
-        },
-        "https://app.pdq.com/": {
-          "ID": "https://app.pdq.com/",
-          "Type": "url"
-        },
-        "https://auth2.pdq.com/": {
-          "ID": "https://auth2.pdq.com/",
-          "Type": "url"
-        },
-        "https://library.pdq.com/": {
-          "ID": "https://library.pdq.com/",
-          "Type": "url"
-        },
-        "https://portal.pdq.com/": {
-          "ID": "https://portal.pdq.com/",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "https://*.pdq.com/": {
-          "ID": "https://*.pdq.com/",
-          "Type": "wildcard"
-        },
-        "https://*.pdq.tools/": {
-          "ID": "https://*.pdq.tools/",
-          "Type": "wildcard"
-        },
-        "https://*.simplemdm.com/ ": {
-          "ID": "https://*.simplemdm.com/ ",
-          "Type": "wildcard"
-        },
-        "https://*.smartdeploy.com/ ": {
-          "ID": "https://*.smartdeploy.com/ ",
-          "Type": "wildcard"
-        }
-      },
-      "Hash": "4fa9f97456ab76e20a594fdc52aeb4a83f46f14d92708334ed1914565df11e85"
     },
     "in:6558543a-236f-4e98-91a3-4536e39b9c1e": {
       "Key": "6558543a-236f-4e98-91a3-4536e39b9c1e",
