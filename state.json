@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T14:24:37Z",
+  "captured_at": "2026-08-25T15:24:53Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -27862,7 +27862,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "54e2fddcff06083686b7eeaf40681debbc9ee920f60f08a8a451b8f81809c478"
+      "Hash": "f8789e914036f2c0669d7af9bd2c7c3b3db38fa3661a0350c9c0f19b53e9a568"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -27911,10 +27911,6 @@
         },
         "https://ca-roa.medeco.com": {
           "ID": "https://ca-roa.medeco.com",
-          "Type": "URL"
-        },
-        "https://centriosappstore.com": {
-          "ID": "https://centriosappstore.com",
           "Type": "URL"
         },
         "https://controlid.com.br": {
@@ -28019,7 +28015,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8ce6183bde591ee7c317540b9874cd2277a0582c53ae3b372bf56d65533f7bee"
+      "Hash": "262d98594ab1d4f1a64aa68f725bff075b7a0433ac18ab853d726a4ee140c8a3"
     },
     "h1:att": {
       "Key": "att",
@@ -31046,7 +31042,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3c0906427eae12b651ee966fca0e0656ffe7676f0df87db1d3c532264f216943"
+      "Hash": "4fc1b4c2ba826c6bb1e01d133cc57f447ac08f777a5a23cc0cf5913f5fded131"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -67847,7 +67843,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "57a0cb5dc6749f5cb1e40677edda4ec673bd8680020f2d4fbbf9a84d3d073234"
+      "Hash": "0cab1cdf933f9503e7e2fa3b735c1cbba5717c2a0db680bf0a000d1ec2bc3e88"
     },
     "h1:citi_group": {
       "Key": "citi_group",
@@ -89663,7 +89659,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d38b3563e321555f3bfc191bfe3e9b25e2603a894a2d92228590a6b223a162b"
+      "Hash": "c03548dfbf8a9e28824940815bd52e3e51582d8d3974790dc2c62d070b7896e4"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -90994,7 +90990,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f4c7d8d773079b46f6d204810dcfb7af3cb92c9aa4592d3ab17292ba1bb4643c"
+      "Hash": "398c014b98eaac53a770fa07b5c345ae53a5cc2f1270dfda20d60ab60e6e6ffb"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -147148,7 +147144,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dd6d78a9cfeecc3998a8c8cc2a2c8ae62bfd6c1e33cc0e8b1dfb3be1a490fe76"
+      "Hash": "1cc65fdb74260ec72f2555525be1e5f17682e72765fa990d95582768fb05f39e"
     },
     "h1:formassembly": {
       "Key": "formassembly",
@@ -147383,7 +147379,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f53f5c5949232b106091b927087b614911a49b1f6b95c3b0c9267b7b3fb9be7d"
+      "Hash": "e69af9dce049bf310b1664c8d1ede567985db1dd4ae76d23d3f2836086d18a68"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -152539,7 +152535,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3bd38115251e16ffe7d1b289cb9cbf36e57de1a6c15c61c91c40828533b41c8a"
+      "Hash": "8508352d89e5e72cbf7d27ce4d8312c81213e4a2f5b90048019008698d06f44b"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -152690,7 +152686,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a5e14be983b5dcc437c599f300e2d04729669c1f8c2e87b69f71ca5a036c3602"
+      "Hash": "1aec126aa517e201b5555c0b2e828b307a910437fb883c4e95084fe4f90a9991"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -167891,7 +167887,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d651ec98f76ea02382d358c3b5d5628cbf55ad815ec79a652d5398b3101b520b"
+      "Hash": "2786f1d930d9bb48471d0ea44172c7af6750115e59a70c944d7f04b4d365feb6"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -172185,7 +172181,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0e32e9f67f2635b848158c147aba8e9c3e796b634b43e158642fbe7e99ec692e"
+      "Hash": "26e0a2d5bb71266429f45ce09be9eefeabcf4fbe63c45c08989f7280d26137f5"
     },
     "h1:mod_supply_chain_vdp": {
       "Key": "mod_supply_chain_vdp",
@@ -173011,7 +173007,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4b9ab9c9f1465cf4d09fefb6ef75cf5672f49ebb76410158249e72e82cb888a7"
+      "Hash": "10604c82ab2b55d8cee98381ae30772c6a524a12591ee2a97f25632faf07c33d"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -179394,7 +179390,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "61a3dfa1fddc1a298da54c970c26e511d01ec17a78f81973e62aa004b16aaf43"
+      "Hash": "1c565467244a2c77823a7c9d8ba4ef8b663112692bc9206f47e15f3106dfb221"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -184302,7 +184298,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9796b95504d5c99162c28f4c22b2763aa6dd21d7df3a9fd320758e98739ad1ca"
+      "Hash": "4e1ba4be2d398512ccd3b4bd6b4979f2b48dd708b2f293e09d67701db58ee27b"
     },
     "h1:portswigger": {
       "Key": "portswigger",
@@ -187025,7 +187021,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c40f1c6156c990efbaadaa035a7f38062c423b6ae92fe226477eb3540882a363"
+      "Hash": "8d68ca0c3649519e95022692811b7bf225773eda36646d9f45fe2e7df2bdb8d3"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -187847,7 +187843,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "125161a10189e77f940f1504541ad3f1b841dcf875be79ce2c6c6ff723ab6aa0"
+      "Hash": "c49445a5f75891e5efd58dd00ea8b0b4f96fd63a26c077ee63a7ef35013e908b"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -189368,7 +189364,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "c077d189b95f04b2685d5eca8d324d825ba380e52a9ad7e50b9f2f940355e164"
+      "Hash": "60868ee3131985c829dca060796fd206752f1a5951c050a09b5f0b3c52538d16"
     },
     "h1:streak_com": {
       "Key": "streak_com",
@@ -190402,7 +190398,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "418f1bda5e2c59707e940523ec9952839a47b19c3cc72ff67d587993d90d20f1"
+      "Hash": "1db8bae9726ec90ea11a7cb120c6a795d2bae84ff5a791c7a7de8edc05ee9696"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -192632,7 +192628,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "17ddc8b5ae98637b76ae331d044e652c88f6479dd612e5e931b468a586c2be24"
+      "Hash": "f64f0072e5cca10923603adc1acf3da13619ad5fc3812200b593de9d54998dfe"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -195753,7 +195749,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "606e7b5d487f68ebf9136a76675fb532f2e7e5f4bd7969c5c919e1b1a1769a64"
+      "Hash": "af5cc382962585d53d9e0034531194ddaa13cdcd0e631c46b7945b0cf86886d3"
     },
     "h1:wellhive": {
       "Key": "wellhive",
