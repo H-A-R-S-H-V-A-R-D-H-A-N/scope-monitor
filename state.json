@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T07:04:28Z",
+  "captured_at": "2026-08-25T07:55:25Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18717,6 +18717,10 @@
           "ID": "maestro.8x8.cloud",
           "Type": "URL"
         },
+        "map.8x8.com": {
+          "ID": "map.8x8.com",
+          "Type": "URL"
+        },
         "mcp.8x8.com": {
           "ID": "mcp.8x8.com",
           "Type": "URL"
@@ -18920,7 +18924,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8ffaa05442ff660050c7a3055dcebd35336873a6beb4f1cdc434d53098c55105"
+      "Hash": "f3142fc185694fdb8842a50b4d7ea1caf0365053bcf47d56e4e53cd331bcb8a1"
     },
     "h1:abb": {
       "Key": "abb",
@@ -185284,7 +185288,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7bf5df1721fac4bce5231647d0fb3bde89a6ea55d57d27327132f7e2d96b6cb1"
+      "Hash": "fade0b054b3b9f0185f80fb27c0ee6f0ebf326f3005ade73e7dc006dba18df61"
     },
     "h1:redis-vdp": {
       "Key": "redis-vdp",
@@ -193657,7 +193661,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "c296046cfba162af70fae015d332f95d19ec2d2b4ac2da8c1fef8b06eda01bb1"
+      "Hash": "cb7de9853e7a53bd1ec25c3208235a8db1a501127e68f0d0c1959e6fb90e51dd"
     },
     "h1:vendasta": {
       "Key": "vendasta",
