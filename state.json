@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-25T18:53:43Z",
+  "captured_at": "2026-08-25T19:41:13Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -96831,7 +96831,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "32e0d19f4d7bedb4e5b0ce7ed9414edc34f337848b55f86108d1e84c6b35f253"
+      "Hash": "73a4ca8507a7d269b346e136bca07e13ed1362cb62d2b13655b09086abdf9225"
     },
     "h1:elastic": {
       "Key": "elastic",
@@ -194615,10 +194615,6 @@
           "ID": "forms.cybersource.com",
           "Type": "URL"
         },
-        "garp.visa.com": {
-          "ID": "garp.visa.com",
-          "Type": "URL"
-        },
         "http://myvisainfinite.com/suntrust/en_us/home.html": {
           "ID": "http://myvisainfinite.com/suntrust/en_us/home.html",
           "Type": "URL"
@@ -195237,7 +195233,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "10ffdc55006eccb950cf8b62a83d56190f18bbf533c7a69510c60881069950d9"
+      "Hash": "6f5a9a54cf8573e1fdf1d74839794a7e00c9a58ce078d157e9c7f376e026b48f"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -195858,7 +195854,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "430e2b22fd3f46603cb6c4f9c12757713eecd1c8047a9e9c97a933588c29b3dc"
+      "Hash": "e34b5d17e212966ef237275aaf91941190ed72a2c6b553034cc7d81e05b9eca5"
     },
     "h1:who-covid-19-mobile-app": {
       "Key": "who-covid-19-mobile-app",
