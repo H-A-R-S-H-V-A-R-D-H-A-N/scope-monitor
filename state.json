@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-26T11:39:18Z",
+  "captured_at": "2026-08-26T13:11:54Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -1944,8 +1944,12 @@
           "ID": "https://app.aurory.io",
           "Type": "website"
         },
-        "https://store.epicgames.com/en-US/p/amiko-legends-a5986d": {
-          "ID": "https://store.epicgames.com/en-US/p/amiko-legends-a5986d",
+        "https://store.epicgames.com/p/amiko-arena-a5986d": {
+          "ID": "https://store.epicgames.com/p/amiko-arena-a5986d",
+          "Type": "other"
+        },
+        "https://store.steampowered.com/app/4245930/Amiko_Legends/": {
+          "ID": "https://store.steampowered.com/app/4245930/Amiko_Legends/",
           "Type": "other"
         }
       },
@@ -1967,7 +1971,7 @@
           "Type": "website"
         }
       },
-      "Hash": "51b108f417b226bcb65f489818d713e16b7140fa71e958a2351da35f0d0109d5"
+      "Hash": "89e6ea720ce54558fc98abf50ed88de59e1405183d73b4f9f0bcff545db8b677"
     },
     "bc:Auth0 by Okta": {
       "Key": "Auth0 by Okta",
@@ -87983,7 +87987,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f7477a7e0b6186d10d3203e681324cc5730f299993865ec24cd7757421d51a87"
+      "Hash": "7a721eb71b1638d1e341e2942896c34f2fcff01de9e53b72137d861ab8acf0e3"
     },
     "h1:clear": {
       "Key": "clear",
@@ -90974,7 +90978,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "398c014b98eaac53a770fa07b5c345ae53a5cc2f1270dfda20d60ab60e6e6ffb"
+      "Hash": "a762571fff1dc90b4525033656555c7e4f2972fe8c7908f0cd2753cf38cf5bd4"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -106891,7 +106895,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "38b4c66568b73a9e2aee98f20ec4ec457371ef2e2a4f1b77d03bbdc7ae76da92"
+      "Hash": "09ef09fbc0c6a831de80b9d5fc0f0f03687dd62f7259bf70cac84eb88d2fde7e"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -147359,7 +147363,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "db4f51c4f7a9571c5c78eaa83bf72caa878b45748c1284ba46f6493855dc7e4e"
+      "Hash": "d506d13b60b4929cc08e302ff9a5eb4eae96649a09047a81b44f58223b9481e2"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -171171,7 +171175,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a3d49e0ee132498a7340894655f8f61176c15089d5cafd16471fff730647778d"
+      "Hash": "146cf8e01141b8f69ffc91b598d88dd518c548309d25ca538cc55cd6be82dd81"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -181968,7 +181972,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "424b5d46d2c2002b3fbe7b9c32c41e6e693a7ba2bd1cc5a8789df0d46eafc475"
+      "Hash": "a7c85e84858dc12bf01e280c3c16dbbb873f6046e232143a3586301f67deac8d"
     },
     "h1:palo_alto_software": {
       "Key": "palo_alto_software",
@@ -182084,7 +182088,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6526558ac72dd89806f3698832d486b2bce401eb63fdfd90e609d8b081c6d421"
+      "Hash": "4ff68d79dbd7002b2c28eb0993dd3070258cab6ee59c23a7438dc7fb9a0d8c7d"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -196670,7 +196674,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6f043a6fdb3e32fbaffaea20bd9a0a2f900ac7bcb4b87d12d26d6f638428d62d"
+      "Hash": "35a3a8c7691841e8addc499b8ea0457108f607880c480a24c2b1ebd6e2267d65"
     },
     "h1:xvideos": {
       "Key": "xvideos",
