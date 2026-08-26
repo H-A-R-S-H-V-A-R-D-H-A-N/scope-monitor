@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-26T16:56:12Z",
+  "captured_at": "2026-08-26T19:16:51Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18337,7 +18337,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "fb170eece68a7c11415be260eb9d6ccee95137caf6c07efe48b5716ffb1836b3"
+      "Hash": "ca382db15f283972b90fd2fbf92c8a3a8ac4502c25706b00b317b38292c628f0"
     },
     "h1:6sense-vdp": {
       "Key": "6sense-vdp",
@@ -23859,7 +23859,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e51d88ff8d9e895b65ac9a02873e61170710c1e284b421fc227edc1dafc64ca"
+      "Hash": "1c60e33da2b1f15706072c44a82cf7134211843ef24a09e4ecd1a065d4e43946"
     },
     "h1:aeromexico_vdp": {
       "Key": "aeromexico_vdp",
@@ -31030,7 +31030,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3c0906427eae12b651ee966fca0e0656ffe7676f0df87db1d3c532264f216943"
+      "Hash": "4fc1b4c2ba826c6bb1e01d133cc57f447ac08f777a5a23cc0cf5913f5fded131"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31064,7 +31064,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "24f5afef4c3f991c8b6bba5d923bade3f6860052e3f4caab546419c2263926cd"
+      "Hash": "8806ecea267ba9fd24115857f3779deba05fbe0f2cc8418bcad479725b523527"
     },
     "h1:bill_vdp": {
       "Key": "bill_vdp",
@@ -32080,7 +32080,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d450497d79ebe61d703e793d3e39d48bc28ff1ae764bffeb47433cffc1f20a90"
+      "Hash": "bd016119945f20f79c95185050cf816d0d40fcc0939b7c4be1826823f58ba9e1"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -67594,7 +67594,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "9999d6a72dec4fdeddf9ea23584cde8a9f1bd326bb3f8919faa69cb4e31b419c"
+      "Hash": "63054d154d444c5d72729a1f221ebb7c1816c89abc4bf0d501366b0f03610581"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -67844,7 +67844,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9fa18b8f580aa6444401673bc6fbcfa3241c3a255234a49465eb587ae1cd155b"
+      "Hash": "e9618c72d56664ee03e5d3bc68dde41d8a0a7b02a286b3fd9ec5cf47ce5e30df"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -88907,7 +88907,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "5a90c0d650fd9c79c8528293d55ad10f97f3df2c6f7693fdd9672693bac3aae9"
+      "Hash": "eadefb947c3cc0aac1aede84d08577306c7047f12b71998796e196ef82f8a91c"
     },
     "h1:corebridge_financial": {
       "Key": "corebridge_financial",
@@ -103619,7 +103619,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "07f9352b88ea1db3f0d045312d992a0b7ec34506a5579b5824442822c34e3e32"
+      "Hash": "162e8e589a1fe67f8c352a24a7ebb017754353044c062b3cea4ef8c32716bbbe"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -106899,7 +106899,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "09ef09fbc0c6a831de80b9d5fc0f0f03687dd62f7259bf70cac84eb88d2fde7e"
+      "Hash": "38b4c66568b73a9e2aee98f20ec4ec457371ef2e2a4f1b77d03bbdc7ae76da92"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -131442,10 +131442,6 @@
           "ID": "http://secure-greenvillefederal.com",
           "Type": "URL"
         },
-        "http://secure-haninfcu.com": {
-          "ID": "http://secure-haninfcu.com",
-          "Type": "URL"
-        },
         "http://secure-heartlandcu.com": {
           "ID": "http://secure-heartlandcu.com",
           "Type": "URL"
@@ -133040,10 +133036,6 @@
         },
         "http://test-gfender.wgiftcard.com": {
           "ID": "http://test-gfender.wgiftcard.com",
-          "Type": "URL"
-        },
-        "http://test-lowellfive.com": {
-          "ID": "http://test-lowellfive.com",
           "Type": "URL"
         },
         "http://test-lyonsbank.com": {
@@ -146189,7 +146181,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3f6d2e34846c1c19c9fc4725875517963aa14509ff44ffc555021684921a33e3"
+      "Hash": "c90a63777dae1a5e125461baf7aed2c391c179c63bed60dcfa2847b3d5c2f4b5"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -146353,7 +146345,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "639f5468142ea051138bd45c560c132a2ae52373036cc045a26733656038885e"
+      "Hash": "afab32f1342b3e5a517e6003ccf550644e0af067a57dbc489e1001b82a28afb5"
     },
     "h1:floqast": {
       "Key": "floqast",
@@ -147980,7 +147972,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "889d0db809ec4276406042a9564cd79016460c75d5270e6e8103bc6eed8595d4"
+      "Hash": "2d77f90ee163bf3cf85f861e8ff9461072788cc2f6867fb9e292bdb113c70fe7"
     },
     "h1:gocardless_bbp": {
       "Key": "gocardless_bbp",
@@ -167676,7 +167668,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "06e29bb2e87aef3407beec244f3caedb72e8b2114ce0d5bd15fe6fa9a21cc416"
+      "Hash": "550edcde03a7fcddfe34e5ccc488fe7a35187b14d0fb7450d6724cafe53372aa"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -168042,7 +168034,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cc4f014abe2fd6b1e67114e8f7d344e8409657541a9be9c7758fd02eaf1a58f4"
+      "Hash": "82337e78ca6a63971f5e42d76b018a6a2813772462cd3fe320ac6dc53fe0d865"
     },
     "h1:khanacademy": {
       "Key": "khanacademy",
@@ -169061,7 +169053,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "0f082683b219541b90e9042edd10f5d323b74c06dedefb2f042f649ee1a96a68"
+      "Hash": "cafbc341062374d275d2c5dd1bc44c3ec733b56589aa789a1aa82b99c2147ee2"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -177644,7 +177636,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e57400b4d0d98af9fdc096fbfd16898046afcc324f5ce145e827df31e66f13e9"
+      "Hash": "b4db49cce38878bd3a7b6cec5815a8fd328397c6dbd9642664c011a0306d9fba"
     },
     "h1:myndr": {
       "Key": "myndr",
@@ -180465,7 +180457,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7c1a1c4c758a52f5d51fc9e5ccd7dc0e2dfd4fa17e664a141b5b53b691294050"
+      "Hash": "376d2861050512b14b04611ea3283a615d6aa5cc0a181687bb21549db7c326d6"
     },
     "h1:oaknorth_bank": {
       "Key": "oaknorth_bank",
@@ -183380,7 +183372,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "09a2b7e0e979c46627b67bc673208361a5efa6784231bcf8a2b9f9d85cff29b1"
+      "Hash": "029c3f54774cdc8650afd8e08f6ede8e10bc379f93891b65022860cbf9449b96"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -183930,7 +183922,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d8f62b8f1bc0920d0bdd75c6dcd5fdd38fc145833429ad5b3a32473b33d70175"
+      "Hash": "27f524ffddd096f57c89098456a4884fe37625e6ed3de5d3e98379436150701b"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -187357,7 +187349,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "f261a293607054933ae11f4cc54fb3767b6ba0343fc75cd45cfde3903892b2e6"
+      "Hash": "e84cccf5d2cf49f9e64f07b54e98603d64437308242cfe32ff0ceb29395907fa"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -188910,7 +188902,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "78d4f57d42373991210bc2724f3c0829561fd90d208f69ab7a4782369b3b3813"
+      "Hash": "24eea4adc589a23b3e1a3fe61a1b4a17ae0b8f81e6ec24156d7be3fd72ac3ee6"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -189942,7 +189934,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5e3dd897107151a337a7e01b9ea3449ca77bba4e2a4c0e1c0cf663e3cc0dd612"
+      "Hash": "de2472d2a5980d413fcd29d045afa64d359738126cb0560ad726a058129a709d"
     },
     "h1:superhuman": {
       "Key": "superhuman",
@@ -190688,7 +190680,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fdaeadd740c19c4c1bcca886c7af359733998ea396966f1bff44e0bc617a8559"
+      "Hash": "efcc2962692f424d17608d6a96eecf9b82d54bc69e8aa4504f77d5e5947d3f14"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -190998,7 +190990,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d09a632642883be352854d5d5897e562644c779675709e941622b94963259848"
+      "Hash": "4cd13892f5c066b28cbcc1eead31876f21401f3339572b1bbc6d29cb68ece8a0"
     },
     "h1:toolsforhumanity": {
       "Key": "toolsforhumanity",
@@ -194226,7 +194218,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "969eabcd132f43ec03b15069469e69dee4e0f59177b009329315d756f151ed1e"
+      "Hash": "aeb8d9670bc5a27de894e89553658beaccd00fcc5bf61efda084d56f205b061d"
     },
     "h1:vimeo": {
       "Key": "vimeo",
@@ -194535,10 +194527,6 @@
           "ID": "africa.visa.com",
           "Type": "URL"
         },
-        "api.prod.innovexperiments.com": {
-          "ID": "api.prod.innovexperiments.com",
-          "Type": "URL"
-        },
         "app.demand.cybersource.com": {
           "ID": "app.demand.cybersource.com",
           "Type": "URL"
@@ -194601,10 +194589,6 @@
         },
         "ebctest.cybersource.com": {
           "ID": "ebctest.cybersource.com",
-          "Type": "URL"
-        },
-        "experience.prod.innovexperiments.com": {
-          "ID": "experience.prod.innovexperiments.com",
           "Type": "URL"
         },
         "forms.cybersource.com": {
@@ -195213,7 +195197,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bf6e3fc9306d34279b4a67f9a31571027fd9b2ede920e826f4f10a95b000e8ba"
+      "Hash": "8e3b65023b38a6c645818b4c34518656b0a2cda7a9f77d6d65d83b73ae89aeff"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -195930,7 +195914,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac5237fb86c098d688db35a1532a8edb26bde2cf25a63ddc25f7a20885eadf60"
+      "Hash": "4924f90fc55ec94d027d5440dbe11970bd7fd36e59340d91165807dc82d2bfa8"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -196786,7 +196770,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "073c06808c5be479d18c85abea581c9ea5b5ffd6e25d72e60796b1e9e5e0b552"
+      "Hash": "a15dd01e2753c1513071eb4b4296f48950f83c09783dde58ca866a54e24b4f07"
     },
     "h1:yoti": {
       "Key": "yoti",
@@ -204669,128 +204653,6 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
