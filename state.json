@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-26T14:22:21Z",
+  "captured_at": "2026-08-26T16:04:00Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -30726,7 +30726,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "2160521cb89be2759e0e363b9d15a2b06df58adc59a3afe6c72106c30d99d672"
+      "Hash": "edfd4a297538e1029303d48132bddfc114b7fc7d860e39ef5acf70a3cf596383"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31030,7 +31030,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4fc1b4c2ba826c6bb1e01d133cc57f447ac08f777a5a23cc0cf5913f5fded131"
+      "Hash": "3c0906427eae12b651ee966fca0e0656ffe7676f0df87db1d3c532264f216943"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -67298,7 +67298,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6a2eef825f5de3f5599740ccaf7ff9f67fef76421e578ec74de224a48e93c201"
+      "Hash": "a24160514b15c818b1a582b91c1280d9352dfa216d5680018876207a0f5c9167"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -89647,7 +89647,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2904f1be187b5949a300ede0139cadacf31d2dd474415de3875d6a0e0f3c468f"
+      "Hash": "06e70da27b7721bbef6a016dcdcaf30c280771010f9f21956b683f4db01b9025"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -96169,7 +96169,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6424533fdc13b56d3b899e07f6e2bbcb3963617fa5dfae577a5e998b09a16202"
+      "Hash": "c1d6624f52bcc838c3168d398a44bedb5438fff22f8cda63060855a82856ce2f"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -99518,7 +99518,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "14c08311d2f8b23fb6f6a5de24a24ff211643359cb5ef3c0ae9e92974fe1faaf"
+      "Hash": "b1ebc79898faf510265c89f911f60dd1db30cb4258eb67c47ae38e0c52746a99"
     },
     "h1:essity": {
       "Key": "essity",
@@ -106774,6 +106774,10 @@
         }
       },
       "OutScope": {
+        "http://cloud.e.comerica.com": {
+          "ID": "http://cloud.e.comerica.com",
+          "Type": "URL"
+        },
         "http://smallbusiness.comerica.com": {
           "ID": "http://smallbusiness.comerica.com",
           "Type": "URL"
@@ -106783,7 +106787,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6ed443fb29c0ca5b00451e6e7203f50f48e00e299d972de16c5107c964c3141a"
+      "Hash": "3dfea4aeb902279f33ad03732112194eb4f2e6a999ea4ae753fc1622f2dbdaa8"
     },
     "h1:figma": {
       "Key": "figma",
@@ -151853,7 +151857,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b341db038ec6cbc9f5bda3b69ae420f1c9c2f253465d63a367f652d59c78ea90"
+      "Hash": "b72947ee8b2d4bc7716e368ecd85b1804bf12e0ffef0b8dbca7010c18a2522a9"
     },
     "h1:inditex": {
       "Key": "inditex",
@@ -152519,7 +152523,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8508352d89e5e72cbf7d27ce4d8312c81213e4a2f5b90048019008698d06f44b"
+      "Hash": "3bd38115251e16ffe7d1b289cb9cbf36e57de1a6c15c61c91c40828533b41c8a"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -159248,7 +159252,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f9db44e2d19f9fda813c2b7689f3b6a8a3be35d1e15347d65e0e55e7956de248"
+      "Hash": "b610ac5d612cbd7a617ffc95c46b097a95549ca7958d689082443905c52caeaf"
     },
     "h1:jetblue": {
       "Key": "jetblue",
@@ -167709,7 +167713,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4c402bd0ee0005869a39f66733a55f85069feec11f6161d6819cb94e42b8eb79"
+      "Hash": "402fb01b5b469fec2c3829f3994292497f4268a4a678b7158328d527b4d3b01c"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -179663,7 +179667,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "03d662b1a75f59030a193312d84a220d7b9fb30054d143c9797c22b442947745"
+      "Hash": "1b94b0a66e191ffd3ac2424851305decd3293cf52f85df7f6f9a860aa0a8af21"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -183392,7 +183396,7 @@
       "URL": "https://hackerone.com/phabricator",
       "InScope": {},
       "OutScope": {},
-      "Hash": "ba8b29c5da17ba2701d1b4a3b736b6afe528d0f84a9ce82312f212e3d94e2fb9"
+      "Hash": "6796fd9e4fc63567bf80df2d062daedd25d8799dfd97acbf7ac69bb04240b46e"
     },
     "h1:phonepe_vdp": {
       "Key": "phonepe_vdp",
@@ -191138,7 +191142,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c502cde07a50a626c32ec25f78f591c139b778cc9ba85f99cc04a1c1f41376e6"
+      "Hash": "361d9194b0ca3b18248b799bfcedd2058d290385f5081f48837252d9e4cf9a16"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -192070,7 +192074,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "22fb20a164f659728cd7b81c7efb7d7b600f1d034230bbc3930354c599005cf8"
+      "Hash": "be12842e70940888cd0b629c1c9a98c19577f063b91872018665a0243b321892"
     },
     "h1:truecaller": {
       "Key": "truecaller",
@@ -192510,7 +192514,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "509b16c68a1af11289b532645be49b0b53f5a798a6a26b6c1f9e85920e535f7e"
+      "Hash": "9d36ec0ed3b3e4dfa0242ff6ee8531ca62e8ce7bb5da17d8a4f9efd72200f663"
     },
     "h1:uber": {
       "Key": "uber",
@@ -195992,7 +195996,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "96131f718f29e61bb26d6e63819425b0ddc5602d105bf2ac53131b042fab5c09"
+      "Hash": "0efc56899b0f52081a111722960736f33f9d64a694b6c1ca3c736525644e2664"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
