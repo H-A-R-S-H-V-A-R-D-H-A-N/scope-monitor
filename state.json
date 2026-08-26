@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-26T01:54:31Z",
+  "captured_at": "2026-08-26T03:15:02Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -167871,7 +167871,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "eb9588712e3f9fd0b25f6345b751c4ce735c0f49b97fc33b86e0b54c50f34798"
+      "Hash": "d651ec98f76ea02382d358c3b5d5628cbf55ad815ec79a652d5398b3101b520b"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -169818,7 +169818,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "98e0310a61a2141b5842504fbd9844f1d35a84b4369cf041ee261a2b70e9fd7a"
+      "Hash": "ed8eaa0462f868dcf408690918b655eef342b607a352e206893f14c53abd2bdd"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -180281,7 +180281,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "025face4a4876a16d8f1d45f977c0d75ca468555f0dabaa43fd26849e9595070"
+      "Hash": "37da89f3ec3f6269c89955ab75dc498cb0c7213550b100e95c31f346440b50ac"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -181788,7 +181788,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "9d6c3f78af9ec9050ce617cb2427e601bed002cf3b3e32c12f10a897867af7a0"
+      "Hash": "d4157fdafde07e7de661bed169f67ee1da8316e1b5803495f5e1b25f1d3b43a7"
     },
     "h1:owox": {
       "Key": "owox",
@@ -193654,7 +193654,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "cf4c73d184ca75484e8d936da42d6db0c2ec74de99bbcdfd5773f4d94722c33b"
+      "Hash": "35bc5116e1bc45fee5fd0358ad5c03cfff4af504254e61de8b3292725ed584cc"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -193830,7 +193830,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "be211fe51dc94e279f553534718cbffd0d4f702a1e28de81214a0d5b7c16688c"
+      "Hash": "b94c006c9f5c7b2d8f03fb080b32dfab34f7e06f9b7165a478b20cd2d3b1b65b"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
@@ -196262,7 +196262,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e2a063c86a50cb8c45db1dfb765f0277ba1c51c4f909b429560b0a517c1d8d53"
+      "Hash": "b21173c53a9b11e5210adf188c0e5334f55b08e446f7d4601ba252f006b446cc"
     },
     "h1:worklytics": {
       "Key": "worklytics",
