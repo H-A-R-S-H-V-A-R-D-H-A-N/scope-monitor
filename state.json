@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-26T16:04:00Z",
+  "captured_at": "2026-08-26T16:56:12Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23565,7 +23565,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9266dc75f0a987cc1412ae6f69f0f3c24a6474a61069aa348256c891b16a3b01"
+      "Hash": "87b2598ba31ffe7696c7d8a30e021a78e7c6cb4392f57de6cf3f7b5e49aa36b2"
     },
     "h1:adobe": {
       "Key": "adobe",
@@ -23955,7 +23955,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "7e0127cc4aa8ddb81d8b2c93a3c0455bd05180b589080ec38532d7e2bf9e64d3"
+      "Hash": "b0a7031726b96f747cfa236e62b67d540dcc24c0d9f6215b4c56100fc14eb3dd"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -24318,7 +24318,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a4fbd00fd4dbff7cb712d00ccc5936253daad77ab794237d31f1fcc2ed831860"
+      "Hash": "785297aa5abd6bde37df065ea20b839736c442fa8f3b095c03d7a2dbfa653ad9"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -31064,7 +31064,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "8806ecea267ba9fd24115857f3779deba05fbe0f2cc8418bcad479725b523527"
+      "Hash": "24f5afef4c3f991c8b6bba5d923bade3f6860052e3f4caab546419c2263926cd"
     },
     "h1:bill_vdp": {
       "Key": "bill_vdp",
@@ -31122,7 +31122,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "a4adb2bc3ce259f198fca5abced690924c6ef6f83503acfe0393945d79dc4dc6"
+      "Hash": "2786cda33d38a45bc503870a9447a1c2aafaaf6db4002e4e79cd631b0b78f29b"
     },
     "h1:bitwarden": {
       "Key": "bitwarden",
@@ -96111,7 +96111,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1d6fe6a76411b7713214555072e4649d2d9e7886297f9e0b1242024a6a3c8090"
+      "Hash": "491408323484074e11b3f3834b2e7322afd3c115de712defc16410a371d038f3"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -151357,7 +151357,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "694915a4c8e14d29076524f79c17667295f64e9ba8fc5e7ce7be327d3d386f7a"
+      "Hash": "73dfbe7f866a0311e713463a412ca58f7d96c935dd63dad9df9180d1d2d81ca2"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -168371,7 +168371,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "db923fdc22d7d2d2508efb1c1e2c99776d22401f7e773017a31c8117166c6dfe"
+      "Hash": "5dabf489ed0bbe87f2553986f2d538082b75f40b1b358dd3d135d23859c7e72d"
     },
     "h1:klarna": {
       "Key": "klarna",
@@ -187013,7 +187013,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d68ca0c3649519e95022692811b7bf225773eda36646d9f45fe2e7df2bdb8d3"
+      "Hash": "b1bc3bcb5d47b3dfc8e09d2b3bf96e3faac322baf5fe56a0750050c21d52c7a5"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -189254,7 +189254,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "ce68acf14f494448431dd6760c4cffee16611e1c70bc692706a02ab1475d143e"
+      "Hash": "7bb3a321a23e94807153d97bd3c03dd650259f1fb1e4887cf9011cf7f829e449"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -190080,7 +190080,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7ec7eb58b7678ad7c50a4a175b049812ecd8f837dd924c31c1c79ddfa35ee40b"
+      "Hash": "5f2d60e4dc971928502204c583bef360ced9231caf5d4cbd02b310c591099ad9"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -195702,7 +195702,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fd42f02e095d822be7a4b835742c30664c0b8bec7c350f346d36ff101d6f976e"
+      "Hash": "28e110a04479e24d374e54d760cda4d7c5fbe473c64682aec175d07e961eea6b"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -196786,7 +196786,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a15dd01e2753c1513071eb4b4296f48950f83c09783dde58ca866a54e24b4f07"
+      "Hash": "073c06808c5be479d18c85abea581c9ea5b5ffd6e25d72e60796b1e9e5e0b552"
     },
     "h1:yoti": {
       "Key": "yoti",
