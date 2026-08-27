@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-26T22:28:54Z",
+  "captured_at": "2026-08-27T03:32:28Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -2920,6 +2920,39 @@
       },
       "Hash": "ac283b8d75df40d389209c7b60174f4e565837fbccb2d80cab61ce2bed9d9310"
     },
+    "bc:BrizoIT": {
+      "Key": "BrizoIT",
+      "Name": "BrizoIT",
+      "URL": "https://bugcrowd.com/engagements/brizoit",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1217938/company-calendar-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217938/company-calendar-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1217938/company-calendar-planner-for-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217938/company-calendar-planner-for-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview\u0026hosting=datacenter": {
+          "ID": "https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview\u0026hosting=datacenter",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "0c65adf3fa51f8a24096aeba09387104593e89891f96af1b2f358e5942c7aa8a"
+    },
     "bc:Broken Build Bug Bounty": {
       "Key": "Broken Build Bug Bounty",
       "Name": "Broken Build Bug Bounty",
@@ -3139,6 +3172,67 @@
         }
       },
       "Hash": "c358ac8518a449c64e6571297246a5f1367be5b3eac12f9a1748a31f791c3e19"
+    },
+    "bc:Caelor Group": {
+      "Key": "Caelor Group",
+      "Name": "Caelor Group",
+      "URL": "https://bugcrowd.com/engagements/caelor-group-market",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1221754/translator-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221754/translator-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1222649/macrosuite-easy-html-button-hide-content-divider-tabs?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1222649/macrosuite-easy-html-button-hide-content-divider-tabs?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1223471/trophies-for-confluence-gamification?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1223471/trophies-for-confluence-gamification?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1223472/trophies-for-jira-gamification?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1223472/trophies-for-jira-gamification?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224103/cards-panels?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224103/cards-panels?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224724/todo-checklist-with-forge?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224724/todo-checklist-with-forge?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225145/image-editor-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1225145/image-editor-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225290/moscow-agile-prioritization-with-forge?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1225290/moscow-agile-prioritization-with-forge?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225724/email-confluence-page?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1225724/email-confluence-page?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227112/eisenhower-task-management-todo-priority-matrix-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227112/eisenhower-task-management-todo-priority-matrix-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1230161/linksy-advanced-issue-linking?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1230161/linksy-advanced-issue-linking?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1230540/cosmos-intranet-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1230540/cosmos-intranet-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1231591/shoppie-assets-integrated-shop-for-jsm?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1231591/shoppie-assets-integrated-shop-for-jsm?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "71b0d96e298c5aab989d1a704b535b9e5dd1e598e557a21cae5facd38403cf90"
     },
     "bc:Canva": {
       "Key": "Canva",
@@ -5037,6 +5131,19 @@
       },
       "OutScope": {},
       "Hash": "983dbe19839573be074df02964b5f3373e56150c2d761cc7ff176c03a88e4408"
+    },
+    "bc:FindOut InfoVis AB - Marketplace Bug Bounty Program": {
+      "Key": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
+      "Name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
+      "URL": "https://bugcrowd.com/engagements/FindOut-infovis",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "6d3a29f3e66a30b77699947d5e20997450e797d363f00a127d41130c8c26f1f0"
     },
     "bc:Fireblocks MPC Managed Bug Bounty Engagement": {
       "Key": "Fireblocks MPC Managed Bug Bounty Engagement",
@@ -7673,6 +7780,43 @@
       "OutScope": {},
       "Hash": "f9167c23179610aa7fad532c1740ca3b0e71e89e4a987097f200660c62dc67c7"
     },
+    "bc:META-INF": {
+      "Key": "META-INF",
+      "Name": "META-INF",
+      "URL": "https://bugcrowd.com/engagements/metainfkft",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1219628/glass-project-documentation-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219628/glass-project-documentation-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1229346/marketplace-integration-for-jira?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1229346/marketplace-integration-for-jira?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/4977/email-this-issue?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/4977/email-this-issue?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "95de649cec6dc7fb418317202f22d2410cc2dfb993aa0da73ded4a63ccea1712"
+    },
     "bc:MGM China Holdings Limited Managed Bug Bounty Program": {
       "Key": "MGM China Holdings Limited Managed Bug Bounty Program",
       "Name": "MGM China Holdings Limited Managed Bug Bounty Program",
@@ -8939,6 +9083,19 @@
         }
       },
       "Hash": "f51d468c164b1053fe7fe3d69e2a8a17d0d9d1ff8ba3e8bbe9acbf20ef65d617"
+    },
+    "bc:Navarambh": {
+      "Key": "Navarambh",
+      "Name": "Navarambh",
+      "URL": "https://bugcrowd.com/engagements/navarambh",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1222843/aio-tests-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1222843/aio-tests-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "57471a0462579e5ddc2829dcbbaaa9449f13eb5a4e615aa1de297b195ecbdfd4"
     },
     "bc:Nemetschek": {
       "Key": "Nemetschek",
@@ -23464,7 +23621,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d41fd6e3cae6ff23b47e1b2f0bc0b8a4783a445d19842027f0681c8fbacd1b3f"
+      "Hash": "dca1412d44ec4d978b32e6e99eae4f7e87e6c4707cee2295d2dd142f9e54146c"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -23859,7 +24016,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1c60e33da2b1f15706072c44a82cf7134211843ef24a09e4ecd1a065d4e43946"
+      "Hash": "6e51d88ff8d9e895b65ac9a02873e61170710c1e284b421fc227edc1dafc64ca"
     },
     "h1:aeromexico_vdp": {
       "Key": "aeromexico_vdp",
@@ -32080,7 +32237,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bd016119945f20f79c95185050cf816d0d40fcc0939b7c4be1826823f58ba9e1"
+      "Hash": "d450497d79ebe61d703e793d3e39d48bc28ff1ae764bffeb47433cffc1f20a90"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -106899,7 +107056,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "38b4c66568b73a9e2aee98f20ec4ec457371ef2e2a4f1b77d03bbdc7ae76da92"
+      "Hash": "09ef09fbc0c6a831de80b9d5fc0f0f03687dd62f7259bf70cac84eb88d2fde7e"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -167668,7 +167825,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "550edcde03a7fcddfe34e5ccc488fe7a35187b14d0fb7450d6724cafe53372aa"
+      "Hash": "06e29bb2e87aef3407beec244f3caedb72e8b2114ce0d5bd15fe6fa9a21cc416"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -170078,7 +170235,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c9c131c3b2d5e8cb315ba5dc806bedb98ac7c7f6bbff321fc3db7bea7b21b3f6"
+      "Hash": "240c3203c6c90d4a596e1dafbc9e4a94938bf2cf5788eceee6f8fb271ac4ad4a"
     },
     "h1:malwarebytes": {
       "Key": "malwarebytes",
@@ -174959,7 +175116,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2459c13cc271827c005a79f96be73be500ed2a3c4acfe52d12f6b16fd04ec6c5"
+      "Hash": "3bc56e3286bad29b8ed7e21f963d30868f12c2cdd301d6706af7d71906b625ed"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -179395,7 +179552,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "787b5410f223ddcb559bcf3994aecac17a760040b18acb0023e0e0f03077e311"
+      "Hash": "2986f39994c789b231099dc888feba9533ecfa9dedf27485c22212d61dbbc288"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -182282,7 +182439,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2b9364db646c7bc854eac45d4bbc01d5529b90d8df77a85f6427bcbb97b8811c"
+      "Hash": "170d121b75dc5d253b6b7221c4b94e3c5d5d6c6d08df310146342a85ea0c67a1"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -185072,7 +185229,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "392701c4f36c3d0ece6cebcbb522101127b4a0a6a6c120baa4965ced09f7a8c9"
+      "Hash": "7a48e957175582164faacc236f10a1b674b753e61758207ff20b47427b55bd2f"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -187419,7 +187576,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e451e69452ddfb52d94aed37908789a70ca86cbacf9df652e15c79875976a6d8"
+      "Hash": "46dcaaf807f74f496fa7863b16b2f1d476f43bf9392c922ffc6a790d897ab461"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -188672,7 +188829,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b437e0e4a76f2c5a90c1a703b74c9e8009db82cc7e9990af72a389366061365"
+      "Hash": "347a2e69a1a30dfa76d8901147e744e7413e5192555aa65c89fafdfe74002004"
     },
     "h1:snapchat": {
       "Key": "snapchat",
@@ -188902,7 +189059,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "24eea4adc589a23b3e1a3fe61a1b4a17ae0b8f81e6ec24156d7be3fd72ac3ee6"
+      "Hash": "e14ef99e9abf9f3a7b2093aaa5a5973aef919eec7a65c0d469875cde5c78992d"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -189220,7 +189377,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cfb3bd12803b472fa4b678ab1bc781c85af71e8696a85d824ee502f4f29b8357"
+      "Hash": "09b8cc1b8d563567bbafe493e8ef1bea0fab67c7aed8bfaefb2cca748edab6e4"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -189246,7 +189403,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7bb3a321a23e94807153d97bd3c03dd650259f1fb1e4887cf9011cf7f829e449"
+      "Hash": "4ab83340318ea8e7656cd1690672e22fbbf3c3f26e8a4813e7af3d538a4a585b"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -190386,7 +190543,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "316b9a0cf57776bdf97e296f35af008aafcfe972cffb2228261d9b66fa3ee3a5"
+      "Hash": "40e275c3bd222df4bf8c238ae0c036dd537fcf0446366cb009df407d21fa7678"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -191873,7 +192030,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "75b4b386ee1d40a6c7557a5f2562cb7210903cfe6b2aad5a79c5a20674569ab5"
+      "Hash": "e3a26233d52514dd5f02031178273b4b225bd97b67e3d684254448d5c5fa384c"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -192972,7 +193129,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac0b32b112b1c8d3bfd9ff06d6425d5274835eed18feba60f623a3140f2c5656"
+      "Hash": "c8ec5c9e51474395d2a5722a5fc14139cff5ef791e78b1963a8a85d4db3802e2"
     },
     "h1:unico_idtech": {
       "Key": "unico_idtech",
@@ -193499,7 +193656,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cef27067150d94fc30d2ed0211df568ae8850594e157225c49fd859c33399d4c"
+      "Hash": "561272966f0f25ba0a87e162ec5d07566d423aa97ca33d7e23f9ddbef00de531"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -193512,7 +193669,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "94a8a63710e734d822def237f114ddc35562146016cbf146722a7cae8bc02839"
+      "Hash": "9a707c6f3af652d7cdc898c1d8586d648f8ffb956d2e7a77669873c880d98db2"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -196869,7 +197026,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "68549ba40e816cd006f256a7b2016864726703a7e2a0f1ff70fec16b42e1b1af"
+      "Hash": "7b909fc938e71f31eda7ee5b1d859ec62620c973388e21434c200d04c44a8020"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
