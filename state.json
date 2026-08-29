@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-29T15:17:46Z",
+  "captured_at": "2026-08-29T18:49:33Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -657,9 +657,13 @@
         "https://appliger.com/": {
           "ID": "https://appliger.com/",
           "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1219112/easy-issue-templates-for-jira?hosting=datacenter": {
+          "ID": "https://marketplace.atlassian.com/apps/1219112/easy-issue-templates-for-jira?hosting=datacenter",
+          "Type": "other"
         }
       },
-      "Hash": "566de9ffdca6142913ed130c1822aa7d5d16409c5a478e77cbaefe2cd8e6611f"
+      "Hash": "0d931f11e67141d3bfc054a28852203655820b8d1c3906d5a09429664c9548c2"
     },
     "bc:Appliances - Barracuda Networks, Inc.": {
       "Key": "Appliances - Barracuda Networks, Inc.",
@@ -26288,7 +26292,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "8fac7ba28d3a3b99137129875df145cdd96cf3e771116a4efbc2c301f69125a0"
+      "Hash": "01a63ef4c1c5efe53dabf89278d660a722a45a0ff58c5a0b1b4174e86e531199"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -31460,7 +31464,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "421e802564a289ae1961ce3efdc1e73106a96b1d34fef4eb094a2a65e2d5a87f"
+      "Hash": "666434667bda8063c57c74a6f59cf18afa8149386fcedacc3946d734c5581237"
     },
     "h1:bose_vdp": {
       "Key": "bose_vdp",
@@ -88834,7 +88838,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d7ad5ff41494ca387db6064f8f497b46caae11fbfe9047fcf7d4582039628de6"
+      "Hash": "a98dca6d39dd879b18a9e2d6688afb78bd06c451621c963f438353281a7f62c4"
     },
     "h1:costco": {
       "Key": "costco",
@@ -96115,7 +96119,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cf53ef0a46f49867e1bc767f8fc57cd960ddb8bc26d80d62d349d981501a8e61"
+      "Hash": "c580a8630a62ed0b4dfbc2447aca1deb413102e97d57469a269fcf8b5184c5ff"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -96971,7 +96975,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6f34a17270f31db5ac6a002f249fd8c0363e373594e7ea6d3025a404ec3c4464"
+      "Hash": "7f0d3448b5869b4d3e0939b45934ec795481c91f42d99e8a12e78a4723277641"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -167510,7 +167514,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3015636f81c498f6cbdece5441b785d1029a6835b9ff07fbe49520a70d9069ed"
+      "Hash": "8ce9637c690f700cef4235c9661207af0e236d71414fefc0dc8309703eccf219"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -167709,7 +167713,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "53a4725f7162c8cd7b6dded850f4b48107a4f63933c39b6698bb65751d092f96"
+      "Hash": "debff18f035e1e4127d0d78ca63077073d48f5d45c7d7bbeeba829307738768f"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -171898,7 +171902,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "eabe6bee804bec82f6b8b8fad16e5d84e963ba5bbf4aaa8aa9f3574c57fdb70e"
+      "Hash": "1ca6e00d2effbd34928cecd07a21e5afb0471f241b38d8a016d1021e8544beae"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -174294,7 +174298,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d2bac29ea52213929fdbe35cab89e80b572d09cfab42ea63a0e2cfdeabbcccef"
+      "Hash": "1d134733cb389eb30a9932c9984184ee18b523d84281b129939c671f552a6418"
     },
     "h1:monero": {
       "Key": "monero",
@@ -174445,7 +174449,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5fb2ff15a0d37de1d8e40742c746277a80d23e09aa7e118f8809d12b0955c20a"
+      "Hash": "c1eca8c5e248dac98f85e88a8ee7a0ad65596bfc36a86a50e9bae07e432e3816"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -174607,7 +174611,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "42f498f1ca31270c4228c0866c2f43cdc0932b3349ebb780f5a18f886f957839"
+      "Hash": "f6d66b8b10f24cd1812226230bd53aafd6b2a16ef3705bdb3757a808e773fe66"
     },
     "h1:moov": {
       "Key": "moov",
@@ -174809,7 +174813,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0597dcca620c2166fda77d3e08e29021d00266ae4941512d98b4df9404817f8e"
+      "Hash": "6a9efbee37a6d968cc5e7e8d0148fd85eebd293de63a8789adb62797a49f2a3e"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -177469,7 +177473,7 @@
       "URL": "https://hackerone.com/mueller_water_products_vdp",
       "InScope": {},
       "OutScope": {},
-      "Hash": "99fa30c0c2980fd403f9a4eadbf280603aa00b86df0dfc7aa0be742543955e81"
+      "Hash": "a86b69938f9977e3cb1e8f51c0ba2012b09a07a6ef804768500b06547862ad43"
     },
     "h1:mufg-vdp": {
       "Key": "mufg-vdp",
@@ -184718,7 +184722,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "db445d358d7e49fa5b4183a6a8733bc9b344c2b930a7a89b0b4947f5959ff754"
+      "Hash": "83006b74bf7030f30029509d527c54f2201cd4acd9fef0af5dc2cdee50706a94"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -184902,7 +184906,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4d7f11db8f7a9bada68c2d51ccb551946da9196f259448b9c385bb46bc4340f9"
+      "Hash": "05e0ffb5eb29158457c763d301990b7fc305843823a66921846ef5236e14495d"
     },
     "h1:r3": {
       "Key": "r3",
@@ -188797,7 +188801,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "aa898d75ea494bab35463ea8a7525df17c2688848a865ed592f31ec88c173608"
+      "Hash": "c7b62259799e26cc9bfaee5ccba8a48bb15307329455ceec0900a703eef7f2e3"
     },
     "h1:spotify": {
       "Key": "spotify",
@@ -189946,7 +189950,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "746664fa2d16ce44bd64426c58613adad30497433bfacd1f53056c14e3b33b6c"
+      "Hash": "3e644d57d6b14d7c573c3451a227eac590b84127b39c1416a956672b74e4125c"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -195796,7 +195800,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e35406389ef37709c5b590ebf8b4da4d53b213cc3ce1a3406086ec9ffdfbb161"
+      "Hash": "f5abdee880fd63c0ca31205c90eb1d3fd9664625a81a744b62d305547e136926"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -196132,7 +196136,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f0c27c1344fe1f7dd39c94896c62f8070d23b87cd500a3af9585b2ee6adbf950"
+      "Hash": "1f5f07656aa441367425a2e1804590c9f5cd0a7d799a917761dd102195289d9c"
     },
     "h1:worklytics": {
       "Key": "worklytics",
