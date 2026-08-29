@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-29T18:49:33Z",
+  "captured_at": "2026-08-29T21:41:37Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -5626,55 +5626,6 @@
         }
       },
       "Hash": "92c9b10ecafeac8e443c5747522937a6b689d204eae6b24539a138bf32bdb10d"
-    },
-    "bc:Hypixel Studios Managed Bug Bounty Engagement": {
-      "Key": "Hypixel Studios Managed Bug Bounty Engagement",
-      "Name": "Hypixel Studios Managed Bug Bounty Engagement",
-      "URL": "https://bugcrowd.com/engagements/hypixel-studios-mbb-og",
-      "InScope": {
-        "3rd Party Integrations (Hytale-side issues only)": {
-          "ID": "3rd Party Integrations (Hytale-side issues only)",
-          "Type": "website"
-        },
-        "Hypixel Public APIs": {
-          "ID": "Hypixel Public APIs",
-          "Type": "api"
-        },
-        "Hytale Game Client": {
-          "ID": "Hytale Game Client",
-          "Type": "website"
-        },
-        "Hytale Game Server": {
-          "ID": "Hytale Game Server",
-          "Type": "other"
-        },
-        "Hytale Launcher": {
-          "ID": "Hytale Launcher",
-          "Type": "website"
-        },
-        "http://arcanitegames.ca/": {
-          "ID": "http://arcanitegames.ca/",
-          "Type": "website"
-        },
-        "https://accounts.hytale.com/login": {
-          "ID": "https://accounts.hytale.com/login",
-          "Type": "website"
-        },
-        "https://hytale.com/": {
-          "ID": "https://hytale.com/",
-          "Type": "website"
-        },
-        "https://hytale.dev/": {
-          "ID": "https://hytale.dev/",
-          "Type": "website"
-        },
-        "https://store.hytale.com/": {
-          "ID": "https://store.hytale.com/",
-          "Type": "website"
-        }
-      },
-      "OutScope": {},
-      "Hash": "1727339d41cbfb9c9370fd978069ce1aebc27218ad276350ef469ed734c17ebb"
     },
     "bc:Ibotta": {
       "Key": "Ibotta",
@@ -30593,7 +30544,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "00cc965e80880074cae9041157fa9a18bae30ebf8fe209cab1fb76dd4ec25243"
+      "Hash": "c22b899d4ba6d21171f2f5e69534b7aaa82b80e89c05eaa21e7f9d225bcc00a7"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -88838,7 +88789,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a98dca6d39dd879b18a9e2d6688afb78bd06c451621c963f438353281a7f62c4"
+      "Hash": "ee49372f8765f0018d1dad00ccbc136667869497b19a1d5c17a72675bcaca337"
     },
     "h1:costco": {
       "Key": "costco",
@@ -89627,7 +89578,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "be464d5584aa70f7b913e775fd4acdd3599a5d784e452cbb51bd0b52d5c7b99a"
+      "Hash": "c63bce637e356f137c183750b9b147c563001b8013a176f32ea6c2eb06b701d1"
     },
     "h1:curl": {
       "Key": "curl",
@@ -90871,7 +90822,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "430c250dc61b6ac8b4335169a85a4f2ba5a3384e03bcc4999d9d0cf4a0025aee"
+      "Hash": "eb90fbaed75d26cf394da6bbf27391e7519944d8c34f2d88c1b67b6e8b49cba9"
     },
     "h1:deptofdefense": {
       "Key": "deptofdefense",
@@ -151281,7 +151232,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "63eb6b4e0f0a1b58aef6f5ab820ae8c6471b06e3b88fbdb2117709ca5cdb84ee"
+      "Hash": "a6817d70148e644f65489f078db4c3fd272e2f68bf9964b5cb8532e6a7c0a36b"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -152239,7 +152190,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f7320783fdc4974180e703747bd7fd065f14212293ca0c084247fc0699f23b41"
+      "Hash": "6b7306b95cfd487b470c871b34b371389f8c8dd4ab02d36ac3ab5eae0d13e321"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -169660,7 +169611,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "d68929e2ea315c9fbbf3ff44681762acf6608cf0c5af6f529af903a991893835"
+      "Hash": "99e72e658a8167e743622ec186218cb326517f8a898007202d5e69ab46df32ad"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -170114,7 +170065,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b6e61abaff94105817bd4d626055fb94c027e9f25b298cb0a4345d5b7ab00f4"
+      "Hash": "afa50e37410022a61fe9d1e6804222f9451c79207603aa9886496a50942b6d5c"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -171017,7 +170968,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "20c093b6d0664cf2417eaba3bf621bd62e05493910967c110755b8bbc42b88d9"
+      "Hash": "a204b71ea3176fe5634b0f0b6a97d0a0ce6a02420982f2caab97e1fd7fb0fe3c"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -191788,7 +191739,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "283f353ee79a8e034bf5825238456d3e0e47cfeeaeaa686011e0f8b8b15a9dff"
+      "Hash": "f95ab5e0ff7ea66ae4f7ffcd91f7f216e801b7d87a171abf0b294c2b4503df2f"
     },
     "h1:trendyol": {
       "Key": "trendyol",
@@ -191948,7 +191899,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "be12842e70940888cd0b629c1c9a98c19577f063b91872018665a0243b321892"
+      "Hash": "31da7668b9a61c2c6dfababf64196ade09a66c6c4c2028ff2f80a9f3f4f178cb"
     },
     "h1:truecaller": {
       "Key": "truecaller",
