@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-30T11:50:25Z",
+  "captured_at": "2026-08-30T16:36:51Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -14337,6 +14337,44 @@
       },
       "Hash": "83e05d6eb202cd3f20ad2f5fa80db59abd5a5a55b5e650e6cf11a50b6c73fff8"
     },
+    "bc:Sky UK/ROI Vulnerability Disclosure Program": {
+      "Key": "Sky UK/ROI Vulnerability Disclosure Program",
+      "Name": "Sky UK/ROI Vulnerability Disclosure Program",
+      "URL": "https://bugcrowd.com/engagements/sky-plc-mbb-og",
+      "InScope": {
+        "All internet facing Sky UK/ROI assets": {
+          "ID": "All internet facing Sky UK/ROI assets",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "*skybet.com": {
+          "ID": "*skybet.com",
+          "Type": "other"
+        },
+        "*skybroadband.com": {
+          "ID": "*skybroadband.com",
+          "Type": "other"
+        },
+        "*skynews.com.au": {
+          "ID": "*skynews.com.au",
+          "Type": "other"
+        },
+        "*skynewsarabia.com": {
+          "ID": "*skynewsarabia.com",
+          "Type": "other"
+        },
+        "All internet facing Sky DACH assets": {
+          "ID": "All internet facing Sky DACH assets",
+          "Type": "website"
+        },
+        "All internet facing Sky Italy assets ": {
+          "ID": "All internet facing Sky Italy assets ",
+          "Type": "website"
+        }
+      },
+      "Hash": "81d133888d38b06c28fafc98ba399469973901d2cb81c33cbeceb48ec6e113b5"
+    },
     "bc:Skyscanner": {
       "Key": "Skyscanner",
       "Name": "Skyscanner",
@@ -18492,12 +18530,20 @@
           "ID": "*-vpn.8x8.com",
           "Type": "WILDCARD"
         },
+        "*.8x8.cloud": {
+          "ID": "*.8x8.cloud",
+          "Type": "WILDCARD"
+        },
         "*.8x8.co.uk": {
           "ID": "*.8x8.co.uk",
           "Type": "WILDCARD"
         },
         "*.8x8.com": {
           "ID": "*.8x8.com",
+          "Type": "WILDCARD"
+        },
+        "*.8x8.engineering": {
+          "ID": "*.8x8.engineering",
           "Type": "WILDCARD"
         },
         "*.8x8.id": {
@@ -18592,6 +18638,18 @@
           "ID": "*.labs.8x8.com",
           "Type": "WILDCARD"
         },
+        "*.mavenlab.com": {
+          "ID": "*.mavenlab.com",
+          "Type": "WILDCARD"
+        },
+        "*.moobicast.com": {
+          "ID": "*.moobicast.com",
+          "Type": "WILDCARD"
+        },
+        "*.moobidesk.com": {
+          "ID": "*.moobidesk.com",
+          "Type": "WILDCARD"
+        },
         "*.ociadmin.cloud.8x8.com": {
           "ID": "*.ociadmin.cloud.8x8.com",
           "Type": "WILDCARD"
@@ -18651,10 +18709,6 @@
         "8x8-work": {
           "ID": "8x8-work",
           "Type": "APPLE_STORE_APP_ID"
-        },
-        "8x8.cloud": {
-          "ID": "8x8.cloud",
-          "Type": "URL"
         },
         "8x8.my.site.com": {
           "ID": "8x8.my.site.com",
@@ -18758,6 +18812,10 @@
         },
         "apps.8x8.com": {
           "ID": "apps.8x8.com",
+          "Type": "URL"
+        },
+        "bridge.8x8.com": {
+          "ID": "bridge.8x8.com",
           "Type": "URL"
         },
         "callroute.com": {
@@ -18934,18 +18992,6 @@
           "ID": "*.bell.ca",
           "Type": "WILDCARD"
         },
-        "*.mavenlab.com": {
-          "ID": "*.mavenlab.com",
-          "Type": "WILDCARD"
-        },
-        "*.moobicast.com": {
-          "ID": "*.moobicast.com",
-          "Type": "WILDCARD"
-        },
-        "*.moobidesk.com": {
-          "ID": "*.moobidesk.com",
-          "Type": "WILDCARD"
-        },
         "*.msteams.8x8.com": {
           "ID": "*.msteams.8x8.com",
           "Type": "WILDCARD"
@@ -19035,7 +19081,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "83b8243e4e54b9ffb0f7e631f50f3e91fb8f64b0a9cfdb3b36c8092b5ca530c0"
+      "Hash": "600452e637e2645894e6b77af63d61ecd0e2478c809899ad72787e3a10ab0619"
     },
     "h1:abb": {
       "Key": "abb",
@@ -23784,7 +23830,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "e4ef0e8759db0059937e8cdc74c0919de452be76b86ecb46c49a217665607f8d"
+      "Hash": "7e0127cc4aa8ddb81d8b2c93a3c0455bd05180b589080ec38532d7e2bf9e64d3"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -24806,7 +24852,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d667db450181e5172774ef699809684e50c242fcbea3b8f9ca970553ff634367"
+      "Hash": "5fef4da765ff4bc444bc24b54b810db7a7f82fe16c42b79119d3d5db17cf430d"
     },
     "h1:alohi": {
       "Key": "alohi",
@@ -67631,7 +67677,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a646d3eeacc9954fce40e00dc73c458779d36fd51a978a74a8065c82b65692cd"
+      "Hash": "f515d87e5ee3700671e9c8a4b569193ac4e183fb1544b89e8866579358d67997"
     },
     "h1:citi_group": {
       "Key": "citi_group",
@@ -101247,7 +101293,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "97f360bfb4917739539c5271fb83ad4dfda665b7cf7fc2620623d59b160dd269"
+      "Hash": "360a0b435d79cda893eda93341782f1b3b0897e184df0b70bbfa4e6034330285"
     },
     "h1:estee-lauder": {
       "Key": "estee-lauder",
@@ -147942,7 +147988,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "776a6ed9ae70b20e4376bc4ab00008c0cc95948d9c08d805ff57a9e5c2b20ab2"
+      "Hash": "a9ccfeceddf1c238e611c6d66112cc0b51f2d5dc885c701c8f62fad32505855d"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -148744,7 +148790,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "47b6a97686d45017867c409bd8704abc7e72f9fafb732f4b0a033b1be0021402"
+      "Hash": "205dbb00ae8488187bb2c25f7417473ca34bf00ea5cbc92fb07f91dc511c716c"
     },
     "h1:hack_the_box": {
       "Key": "hack_the_box",
@@ -168110,7 +168156,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b9635b9d0d21b197611147502a34d9a3cd283e668f5515afe6c0e4315570be4"
+      "Hash": "ab7e6ab49fd534d9a0b1e008aa2bd7295cf5be98e79973ade90cb18187cf8e1a"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -168861,7 +168907,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "724cb4be30a97b9825344055ab18f33f7fb9358d7bd030c71a01820ad9cc6d9f"
+      "Hash": "edfdd3e6ea5ab7496953c79a8e4ccd58ba0228a499fd048e2bbc0744e3a29bfa"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -169886,7 +169932,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "78793c5d7649d7d35bb8d042f51a0f15b14008506f32d9df2adeb9bc2067f11b"
+      "Hash": "9dc2674fcfa4a5fb843e16145378a544f677facdabb123d644bb2e7402713f30"
     },
     "h1:malwarebytes": {
       "Key": "malwarebytes",
@@ -172845,7 +172891,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2a09b235b3ac8bef37e7b06921ab68f676fa24dfc5908745133aaa768d044a82"
+      "Hash": "9f60b7abc76a94f11a1fa4e20642e3d2326c7f3a549443b2574476d377752d93"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -188742,7 +188788,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a9c741ec01fd5d798b8ade48a920ac7649d1955e7eb78fa4f6ad0b3d60329301"
+      "Hash": "b86e4e123eb416ca71510acf0a5437b1b2f180b15105f196726dcb5c8eff5260"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -189188,7 +189234,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "98c05d6b56e37eeb5805ce0ab427ea2e8c482ad61fb3e8917d6b017057dcb4fd"
+      "Hash": "1884432f06f25cc0cb2716d6691b1880c941082b028c6e9efe8e53088b62fe8e"
     },
     "h1:streak_com": {
       "Key": "streak_com",
@@ -192816,7 +192862,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "af4bdf43fa61ad3c07ab5371cdcac90994b1db540c17ff067fd1981f6ce9c899"
+      "Hash": "3c1997c49bf876dd51df86cb92110ab2a45d279313e80fd801c6fdc097198fcb"
     },
     "h1:unico_idtech": {
       "Key": "unico_idtech",
@@ -193051,7 +193097,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f8b2289ca34ee29c1eb647d7cb5b27b63862e8de090d21b3fa4874f8950c079b"
+      "Hash": "896562eefa66613e6056cf35de7f5586346beda74a847ca7600bb7a6b2e4b5c3"
     },
     "h1:us-department-of-state": {
       "Key": "us-department-of-state",
@@ -196237,7 +196283,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b0d52d1f5ca9501ff4a085c94729c0ec0fd06e410f00eb0fb0bbcb4b0123b96e"
+      "Hash": "7b100f9356eba615b58cb1b821dbdaa7662ca91b543a63602ef4bbcee9a7d007"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
