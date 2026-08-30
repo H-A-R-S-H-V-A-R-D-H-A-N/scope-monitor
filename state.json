@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-30T16:36:51Z",
+  "captured_at": "2026-08-30T19:27:02Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -13452,56 +13452,6 @@
       "OutScope": {},
       "Hash": "febcca2978199917cfc40cba8f9c5fff819fbfa0c328387811c7eb4cc5c1a419"
     },
-    "bc:Requirement Yogi (Bug bounty)": {
-      "Key": "Requirement Yogi (Bug bounty)",
-      "Name": "Requirement Yogi (Bug bounty)",
-      "URL": "https://bugcrowd.com/engagements/requirement-yogi",
-      "InScope": {
-        "https://api.requirementyogi.com": {
-          "ID": "https://api.requirementyogi.com",
-          "Type": "api"
-        },
-        "https://app.requirementyogi.com": {
-          "ID": "https://app.requirementyogi.com",
-          "Type": "website"
-        },
-        "https://auth.requirementyogi.com": {
-          "ID": "https://auth.requirementyogi.com",
-          "Type": "website"
-        },
-        "https://confluence.requirementyogi.com": {
-          "ID": "https://confluence.requirementyogi.com",
-          "Type": "website"
-        },
-        "https://jira.requirementyogi.com": {
-          "ID": "https://jira.requirementyogi.com",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1212523/requirements-yogi?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1212523/requirements-yogi?hosting=cloud",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1214094/requirement-yogi-for-jira?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1214094/requirement-yogi-for-jira?hosting=cloud",
-          "Type": "website"
-        },
-        "https://ww1.requirementyogi.cloud": {
-          "ID": "https://ww1.requirementyogi.cloud",
-          "Type": "website"
-        },
-        "https://ww2.requirementyogi.cloud": {
-          "ID": "https://ww2.requirementyogi.cloud",
-          "Type": "website"
-        }
-      },
-      "OutScope": {
-        "https://docs.requirementyogi.com": {
-          "ID": "https://docs.requirementyogi.com",
-          "Type": "website"
-        }
-      },
-      "Hash": "42d6dc0bc668c9f72aab00c4ecabc7b04f733ebc59420bf0465df95e2060381d"
-    },
     "bc:Resolution": {
       "Key": "Resolution",
       "Name": "Resolution",
@@ -18338,7 +18288,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3c239b50c62b520bf07bb76e2d463ca257dcd7759463a51865a12bebbdcafa26"
+      "Hash": "32d65380a15e2b04ad0a1f5b3a9714a7492de808ff31f9c9c76b78cd837dde1f"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -27878,7 +27828,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9dd0db415d787a6516d951d185f5c2e153e685e3511b3041699c87dd9cd46313"
+      "Hash": "7250ee934fa8761ab843372cf524d37a295a7499ddfbb40d2dbda23659a72dc4"
     },
     "h1:att": {
       "Key": "att",
@@ -87940,7 +87890,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b4af2efb3c584e9001904b1a1db58d43bea0cc6111d243e435ae55f542096c53"
+      "Hash": "90619cf09015b65c5eed91b7d8bfcb1a65fff801beecc7eec6a85d6b627637e2"
     },
     "h1:cloudflare": {
       "Key": "cloudflare",
@@ -103465,7 +103415,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4d280c7d54b5c58956389ed2042b1cdfc4386c109a69b90a9686eacb17edc0b2"
+      "Hash": "853331d1e67a517509daa38925a38ce00358a7fa4007095f5db341b66656745f"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -146676,7 +146626,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "612cbcf18c367c75817f32ca671d99190724494fac47fef4faac2e1c284716e2"
+      "Hash": "86c360b95beeaf6a096432bad0b754855bfaad215e8d828621b3f95d1bb18d48"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -148110,7 +148060,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "05dc81acb141c146113a20e028a43f07ea7e2bdb2e9aab2f5ea5f81fe510fef7"
+      "Hash": "a03c8950648fe2c0d8e6512b4bf67f4da33c8cac065a8a2a98d0053c40789673"
     },
     "h1:goldmansachs": {
       "Key": "goldmansachs",
@@ -152361,7 +152311,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "17ccaf6c94cf6eefc55a198fa5cfbe6b5905d38a6794a76da58a43d9afc26453"
+      "Hash": "ce761c4f0aa9e82ab2617f71c42ec931c3c9a7d708ef575299659fbd3cac0445"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -169277,7 +169227,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "faab8b6698fbd37fc24c02ca4660285877b8b7b83e61ea83e096f927442de15a"
+      "Hash": "e220a6815f5bbdfbf4ba9dc09ae0418f847adb08f7181ca34148944d62f049db"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -169668,7 +169618,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "b84cd8f0bd731c3f744e804de4e5b7a7def6e4bbab3dd7f2a36759ce6c0b9bda"
+      "Hash": "99e72e658a8167e743622ec186218cb326517f8a898007202d5e69ab46df32ad"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -182164,7 +182114,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e3ae3e9861a7daafee13d14e75bfacd7837ab49e5bce5103d8e0f4f68ee73b61"
+      "Hash": "b6b332bfa068b33626f02c07bbf4ac37e66fac9448173a56808a9b9638441af2"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -187231,7 +187181,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "1c6c3b1f92995c53526dac8a5dd8d40e204346ae61b1e5ad12469546bc00185e"
+      "Hash": "c53fa04ec0e1da1ddd00f45b4adbfbd6c31cf41d4e7db0dabd1562f231a7444d"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -190158,7 +190108,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "57dddf5ec1b3f8093994deeae573ba5b9a1e46a6b757e25821fe3aa380fd2a90"
+      "Hash": "85afd8cf24abbb317ac41de94329dac0411a41e0c160da219f0b142bab370c37"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -190838,7 +190788,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5e1082f78e523ef1508224f5cb2ed906f7c5a88bdc90aa61e969e6add0d51152"
+      "Hash": "e7dd86f0ebb18072ad9936d1b2c657988a8fa68e85e660f4dee7014835662423"
     },
     "h1:tines_automation_vdp": {
       "Key": "tines_automation_vdp",
@@ -190855,7 +190805,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0fb9b6ae48e8549e9ca8c5403a9a8f6aaf5615dc8ccde5708b12b1a850bdc9c6"
+      "Hash": "cf040afef4a251b77a40ad49352bafdfedee629af76056982614766aff2cea6c"
     },
     "h1:tomtom": {
       "Key": "tomtom",
@@ -193749,7 +193699,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cab340fdca81ebaaaeb308a61b68ec66aff7039404251ee261b265a8d8e8b15d"
+      "Hash": "20fee8417ae91364fd6f0fbb6bd0a55f2e66dd2a99bda0343ca25bc916e47f2d"
     },
     "h1:versioncake": {
       "Key": "versioncake",
