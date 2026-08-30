@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-30T19:27:02Z",
+  "captured_at": "2026-08-30T22:02:14Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -13452,6 +13452,56 @@
       "OutScope": {},
       "Hash": "febcca2978199917cfc40cba8f9c5fff819fbfa0c328387811c7eb4cc5c1a419"
     },
+    "bc:Requirement Yogi (Bug bounty)": {
+      "Key": "Requirement Yogi (Bug bounty)",
+      "Name": "Requirement Yogi (Bug bounty)",
+      "URL": "https://bugcrowd.com/engagements/requirement-yogi",
+      "InScope": {
+        "https://api.requirementyogi.com": {
+          "ID": "https://api.requirementyogi.com",
+          "Type": "api"
+        },
+        "https://app.requirementyogi.com": {
+          "ID": "https://app.requirementyogi.com",
+          "Type": "website"
+        },
+        "https://auth.requirementyogi.com": {
+          "ID": "https://auth.requirementyogi.com",
+          "Type": "website"
+        },
+        "https://confluence.requirementyogi.com": {
+          "ID": "https://confluence.requirementyogi.com",
+          "Type": "website"
+        },
+        "https://jira.requirementyogi.com": {
+          "ID": "https://jira.requirementyogi.com",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1212523/requirements-yogi?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1212523/requirements-yogi?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1214094/requirement-yogi-for-jira?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1214094/requirement-yogi-for-jira?hosting=cloud",
+          "Type": "website"
+        },
+        "https://ww1.requirementyogi.cloud": {
+          "ID": "https://ww1.requirementyogi.cloud",
+          "Type": "website"
+        },
+        "https://ww2.requirementyogi.cloud": {
+          "ID": "https://ww2.requirementyogi.cloud",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "https://docs.requirementyogi.com": {
+          "ID": "https://docs.requirementyogi.com",
+          "Type": "website"
+        }
+      },
+      "Hash": "42d6dc0bc668c9f72aab00c4ecabc7b04f733ebc59420bf0465df95e2060381d"
+    },
     "bc:Resolution": {
       "Key": "Resolution",
       "Name": "Resolution",
@@ -26250,7 +26300,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "4be571548847bd25244b1352bbc685cf6636d113dd9615675127a69b1258c83c"
+      "Hash": "6d8d1cfebb991adb62bf6bfeab045b230f243d3c1f0c94e6cf22c7cc6bbf4ccc"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -146626,7 +146676,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "86c360b95beeaf6a096432bad0b754855bfaad215e8d828621b3f95d1bb18d48"
+      "Hash": "612cbcf18c367c75817f32ca671d99190724494fac47fef4faac2e1c284716e2"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -159150,7 +159200,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2ce4d1c37c50d0e7e1c65bdde744accf2616382f5cf6c63f40cbc303a0b9634f"
+      "Hash": "381ebc8b0a28bb673fbaa11c1bed9a467d5018a99d6795e8c619dfbeeef7e536"
     },
     "h1:john-deere": {
       "Key": "john-deere",
@@ -168857,7 +168907,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "edfdd3e6ea5ab7496953c79a8e4ccd58ba0228a499fd048e2bbc0744e3a29bfa"
+      "Hash": "724cb4be30a97b9825344055ab18f33f7fb9358d7bd030c71a01820ad9cc6d9f"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -174407,7 +174457,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "94668cc893838de1a29bbf7a575d230f325aab35d4abe80402fc8e994e9cf7a0"
+      "Hash": "c935c3a66169bad98a568170b88cb8a1274f10f92c2e37168e76cf01c9599d80"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -186332,7 +186382,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "37551250725306bfb705cde5202f98350b956291cd3004fbd01254c3ae317516"
+      "Hash": "987341764ce65f9f735fa15dc618fd9a454805769d48df277d2f2d554c7f7f8e"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -187663,7 +187713,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "10868fdea75d1d9b103f8c8f229c63a5828a62a5c833cf58a532d8973c3f3383"
+      "Hash": "1718bdbc2a1670d99e5d5aae734e2684d48e4fed7a5aac85b255815496090950"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -188082,7 +188132,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a0db10fe31182c421e8b2ff04d8401a439520dbbcacc53a9c37ecc924ac02133"
+      "Hash": "dabb417c00bdf1ee30fccf605eda04b15b578390f69a6efd30f04705ab27fdb7"
     },
     "h1:six-group": {
       "Key": "six-group",
@@ -189056,7 +189106,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "39dd4ec117bd9fd964af32eede44155a7712a15613afd6e641da034919b8dec8"
+      "Hash": "6ec2f80019b3382f38c401c27f915cf3f277a7b5390ca5834d00d3d25ef6e3cc"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -195530,7 +195580,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a085b3c8b85e89351034f2ec4874dca204fc5a3bac9641300f3e634e91e55098"
+      "Hash": "842f27fc1555878bb5d23fc8d9c122b71a85bb4e88cd822dbd2782ad40de983e"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -199912,23 +199962,6 @@
         }
       },
       "Hash": "6e88399f5d7869ca7bb793a8d1a6ea339afaf8117f69cda018e271fd7681491f"
-    },
-    "in:4352dcef-dfc5-4d74-8fd8-9bef5aa16f18": {
-      "Key": "4352dcef-dfc5-4d74-8fd8-9bef5aa16f18",
-      "Name": "Skoda Auto Bug Bounty Program",
-      "URL": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-      "InScope": {
-        "cz.skodaauto.myskoda": {
-          "ID": "cz.skodaauto.myskoda",
-          "Type": "android"
-        },
-        "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810": {
-          "ID": "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
-          "Type": "ios"
-        }
-      },
-      "OutScope": {},
-      "Hash": "21ebc168c0727b9a9ba07aa934aa5bda56e63b15023c301f897ba7eceaaa9ff1"
     },
     "in:43c4b274-ccbd-4ea2-8047-d40b0b4205ac": {
       "Key": "43c4b274-ccbd-4ea2-8047-d40b0b4205ac",
