@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-30T00:14:27Z",
+  "captured_at": "2026-08-30T05:45:46Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -8590,207 +8590,6 @@
       },
       "OutScope": {},
       "Hash": "b3e47d4ff8bafb53280672ad9680f5c9da7db9bf501e9355082fdda1cf6035ff"
-    },
-    "bc:Monash University Bug Bounty": {
-      "Key": "Monash University Bug Bounty",
-      "Name": "Monash University Bug Bounty",
-      "URL": "https://bugcrowd.com/engagements/monash-mbb",
-      "InScope": {
-        " mix.monash.edu ": {
-          "ID": " mix.monash.edu ",
-          "Type": "api"
-        },
-        "eassessment.monash.edu": {
-          "ID": "eassessment.monash.edu",
-          "Type": "website"
-        },
-        "http://apps.connect.monash.edu/": {
-          "ID": "http://apps.connect.monash.edu/",
-          "Type": "website"
-        },
-        "http://pay.monashcollege.edu.au/": {
-          "ID": "http://pay.monashcollege.edu.au/",
-          "Type": "website"
-        },
-        "https://*.gp.monash.edu": {
-          "ID": "https://*.gp.monash.edu",
-          "Type": "website"
-        },
-        "https://account-registration.monash.edu/": {
-          "ID": "https://account-registration.monash.edu/",
-          "Type": "website"
-        },
-        "https://agent.apps.monash.edu/": {
-          "ID": "https://agent.apps.monash.edu/",
-          "Type": "website"
-        },
-        "https://alumni-friends.monash.edu": {
-          "ID": "https://alumni-friends.monash.edu",
-          "Type": "website"
-        },
-        "https://apps.apple.com/au/app/monash-bsafe/id1462241951": {
-          "ID": "https://apps.apple.com/au/app/monash-bsafe/id1462241951",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/ky/app/m-space/id6761056432": {
-          "ID": "https://apps.apple.com/ky/app/m-space/id6761056432",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/us/app/monash-study/id1462126829": {
-          "ID": "https://apps.apple.com/us/app/monash-study/id1462126829",
-          "Type": "ios"
-        },
-        "https://cms.mobile.monash/ ": {
-          "ID": "https://cms.mobile.monash/ ",
-          "Type": "website"
-        },
-        "https://collections.monash.edu/": {
-          "ID": "https://collections.monash.edu/",
-          "Type": "website"
-        },
-        "https://compulsoryunits.monash.edu/": {
-          "ID": "https://compulsoryunits.monash.edu/",
-          "Type": "website"
-        },
-        "https://connect.monash.edu": {
-          "ID": "https://connect.monash.edu",
-          "Type": "website"
-        },
-        "https://equella.monash.edu": {
-          "ID": "https://equella.monash.edu",
-          "Type": "website"
-        },
-        "https://evigilation.monash.edu": {
-          "ID": "https://evigilation.monash.edu",
-          "Type": "website"
-        },
-        "https://fileshare.ze.monash.edu": {
-          "ID": "https://fileshare.ze.monash.edu",
-          "Type": "website"
-        },
-        "https://formative.eassessment.monash.edu/": {
-          "ID": "https://formative.eassessment.monash.edu/",
-          "Type": "website"
-        },
-        "https://forms.apps.monash.edu/": {
-          "ID": "https://forms.apps.monash.edu/",
-          "Type": "website"
-        },
-        "https://identity.monash.edu": {
-          "ID": "https://identity.monash.edu",
-          "Type": "website"
-        },
-        "https://identity.monash.edu/": {
-          "ID": "https://identity.monash.edu/",
-          "Type": "website"
-        },
-        "https://ims.monash.edu": {
-          "ID": "https://ims.monash.edu",
-          "Type": "website"
-        },
-        "https://interviews.monash.edu/": {
-          "ID": "https://interviews.monash.edu/",
-          "Type": "website"
-        },
-        "https://mids.monash.edu/": {
-          "ID": "https://mids.monash.edu/",
-          "Type": "website"
-        },
-        "https://mlivetickets.monash.edu": {
-          "ID": "https://mlivetickets.monash.edu",
-          "Type": "website"
-        },
-        "https://mobile.monash/ ": {
-          "ID": "https://mobile.monash/ ",
-          "Type": "website"
-        },
-        "https://monash.app.nutrip.com": {
-          "ID": "https://monash.app.nutrip.com",
-          "Type": "website"
-        },
-        "https://monashcollege.edu.au": {
-          "ID": "https://monashcollege.edu.au",
-          "Type": "website"
-        },
-        "https://move.monash.edu/": {
-          "ID": "https://move.monash.edu/",
-          "Type": "website"
-        },
-        "https://myapp.monash.edu/": {
-          "ID": "https://myapp.monash.edu/",
-          "Type": "website"
-        },
-        "https://online.monash.edu/": {
-          "ID": "https://online.monash.edu/",
-          "Type": "website"
-        },
-        "https://partner.apps.monash.edu": {
-          "ID": "https://partner.apps.monash.edu",
-          "Type": "website"
-        },
-        "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share": {
-          "ID": "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=com.scu.bsafe": {
-          "ID": "https://play.google.com/store/apps/details?id=com.scu.bsafe",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=edu.monash.monashmobile": {
-          "ID": "https://play.google.com/store/apps/details?id=edu.monash.monashmobile",
-          "Type": "android"
-        },
-        "https://research.monash.edu/": {
-          "ID": "https://research.monash.edu/",
-          "Type": "website"
-        },
-        "https://researchmgt.monash.edu/": {
-          "ID": "https://researchmgt.monash.edu/",
-          "Type": "website"
-        },
-        "https://shop.monash.edu/": {
-          "ID": "https://shop.monash.edu/",
-          "Type": "website"
-        },
-        "https://staff.monash": {
-          "ID": "https://staff.monash",
-          "Type": "website"
-        },
-        "https://status.mobile.monash/": {
-          "ID": "https://status.mobile.monash/",
-          "Type": "website"
-        },
-        "https://student.monash": {
-          "ID": "https://student.monash",
-          "Type": "website"
-        },
-        "https://studentplacements.monash.edu": {
-          "ID": "https://studentplacements.monash.edu",
-          "Type": "website"
-        },
-        "https://unihub.monash.edu/": {
-          "ID": "https://unihub.monash.edu/",
-          "Type": "website"
-        },
-        "https://www.monash.edu": {
-          "ID": "https://www.monash.edu",
-          "Type": "website"
-        },
-        "https://www.monashprofessional.edu.au/": {
-          "ID": "https://www.monashprofessional.edu.au/",
-          "Type": "website"
-        },
-        "mix-dev.monash.edu/*": {
-          "ID": "mix-dev.monash.edu/*",
-          "Type": "api"
-        },
-        "mix-qat.monash.edu/*": {
-          "ID": "mix-qat.monash.edu/*",
-          "Type": "api"
-        }
-      },
-      "OutScope": {},
-      "Hash": "dac404403426b7edfb207193dd93b18fd697d8e9f3472b46e967aaa5126a4c12"
     },
     "bc:Moneytree KK": {
       "Key": "Moneytree KK",
@@ -23625,7 +23424,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "188c2d5f4aeaa2d9889eb2a62cd47e0f4a35245e68e3bd2e06de7d6482ac7457"
+      "Hash": "2d58956372ce5e90486030d4c009797647b595eea6b2372097fa95c3877ba690"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -31918,7 +31717,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "16187c65e4589ded76f4877c051f9d12710bac8b68ae24503bd7958300194582"
+      "Hash": "25e471271f715221b5c4cefe9ea8e461070fe4e537e7f464fa9f04c2291110a5"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -105877,7 +105676,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5fc75d931985425563b1eba7634cedc3266ed684eed896b32bc7d14a68d0b502"
+      "Hash": "f29708dd9986410b472277f88d38b316a958ed3c5a9be29e829fdf1fc5c10168"
     },
     "h1:fertitta_entertainment": {
       "Key": "fertitta_entertainment",
@@ -150121,7 +149920,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "801bf1d4ca267f822f826021d904137afb85ead4b876ad23ec8d7524042d6bb6"
+      "Hash": "cb436ee05f6a6383b71bb2f357544edc9e6423adbd0ade2c14497ee7b56a023f"
     },
     "h1:hilton": {
       "Key": "hilton",
@@ -152239,7 +152038,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6b7306b95cfd487b470c871b34b371389f8c8dd4ab02d36ac3ab5eae0d13e321"
+      "Hash": "bc12f0ba8a9c9a687ba3a0911efdae135035b298a4c2b321d4279d71da615c8b"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -174611,7 +174410,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f6d66b8b10f24cd1812226230bd53aafd6b2a16ef3705bdb3757a808e773fe66"
+      "Hash": "42f498f1ca31270c4228c0866c2f43cdc0932b3349ebb780f5a18f886f957839"
     },
     "h1:moov": {
       "Key": "moov",
@@ -195704,7 +195503,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e7316ec134339a05f6b115244ced75ef20ed123b3a8138f02f3fc7e1e7c2c56e"
+      "Hash": "8bd5bee6873b51a7b70f8063a54175036c70af1235de109b3eb6f2aba5c883b2"
     },
     "h1:who-covid-19-mobile-app": {
       "Key": "who-covid-19-mobile-app",
