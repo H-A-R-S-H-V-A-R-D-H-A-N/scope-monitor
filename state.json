@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-29T21:41:37Z",
+  "captured_at": "2026-08-30T00:14:27Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -5626,6 +5626,55 @@
         }
       },
       "Hash": "92c9b10ecafeac8e443c5747522937a6b689d204eae6b24539a138bf32bdb10d"
+    },
+    "bc:Hypixel Studios Managed Bug Bounty Engagement": {
+      "Key": "Hypixel Studios Managed Bug Bounty Engagement",
+      "Name": "Hypixel Studios Managed Bug Bounty Engagement",
+      "URL": "https://bugcrowd.com/engagements/hypixel-studios-mbb-og",
+      "InScope": {
+        "3rd Party Integrations (Hytale-side issues only)": {
+          "ID": "3rd Party Integrations (Hytale-side issues only)",
+          "Type": "website"
+        },
+        "Hypixel Public APIs": {
+          "ID": "Hypixel Public APIs",
+          "Type": "api"
+        },
+        "Hytale Game Client": {
+          "ID": "Hytale Game Client",
+          "Type": "website"
+        },
+        "Hytale Game Server": {
+          "ID": "Hytale Game Server",
+          "Type": "other"
+        },
+        "Hytale Launcher": {
+          "ID": "Hytale Launcher",
+          "Type": "website"
+        },
+        "http://arcanitegames.ca/": {
+          "ID": "http://arcanitegames.ca/",
+          "Type": "website"
+        },
+        "https://accounts.hytale.com/login": {
+          "ID": "https://accounts.hytale.com/login",
+          "Type": "website"
+        },
+        "https://hytale.com/": {
+          "ID": "https://hytale.com/",
+          "Type": "website"
+        },
+        "https://hytale.dev/": {
+          "ID": "https://hytale.dev/",
+          "Type": "website"
+        },
+        "https://store.hytale.com/": {
+          "ID": "https://store.hytale.com/",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "1727339d41cbfb9c9370fd978069ce1aebc27218ad276350ef469ed734c17ebb"
     },
     "bc:Ibotta": {
       "Key": "Ibotta",
@@ -67620,7 +67669,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f515d87e5ee3700671e9c8a4b569193ac4e183fb1544b89e8866579358d67997"
+      "Hash": "a646d3eeacc9954fce40e00dc73c458779d36fd51a978a74a8065c82b65692cd"
     },
     "h1:citi_group": {
       "Key": "citi_group",
@@ -90767,7 +90816,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "07d724e9eaee8fafb0abe2191faa84a0fbbc09a341d82698ad019319edb82c45"
+      "Hash": "2694339542ab0eb6a1143b39544731da16f72df407299c9df55a9a42e4349d17"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -104393,7 +104442,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "042f3213cd35ad6fed4f4cad60a1d6dc317309373e0bc1444949ddf819c13933"
+      "Hash": "beec47594fa75c2f11063f9311999503c7c5ba7e6006cb2f968133309172de16"
     },
     "h1:fastly-vdp": {
       "Key": "fastly-vdp",
@@ -106688,7 +106737,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e2709501f12fac51b1c073ef7aa47629de06956a3bc1b042c2291750d6d605dd"
+      "Hash": "30e339a5ee783ed0ac4c40ca6e72271fec03ecebf17dfdd6d1c56edab3b5ec9b"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -146085,7 +146134,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bf178913f38e410271c9651bb44a0cb60ec95b9f10df1bc7ce5ca85ffe6d259c"
+      "Hash": "47e1b19707f90ee425b919906c91cde69b289e02c0ecdf0bc3653b11c06c9e79"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -150222,7 +150271,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "521cc5cc6349aa9c148d5c0bdde6b5fd88b2c1d57695662c89c6a11072112613"
+      "Hash": "ab529179138a3ae152ebd0e8c8d56f459b6b6f27a30b09c4d67942c28999c427"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -169129,7 +169178,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "308e7030b783a7d3985dd3ace62d62ffb9113670e1d1e4ee5c00152f068798b5"
+      "Hash": "592c20f9b60e09f3241199b2d74f61ab06e8df371a015f15bce3b265ff001ccc"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -170968,7 +171017,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a204b71ea3176fe5634b0f0b6a97d0a0ce6a02420982f2caab97e1fd7fb0fe3c"
+      "Hash": "035f24ce58e026d434e0ca64694b3e6f23dea68eb7022ecfe39a18e268d89c14"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -183747,7 +183796,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cca393c2cbd4daa678783af3b5cdf329bfa54d495d0da0d9e8b5fe2c1c4d3a23"
+      "Hash": "2916b8c11cca11ac66bd185819e0ee4e60825f2501e6bfc9e2a9273145a60288"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -190101,7 +190150,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "85afd8cf24abbb317ac41de94329dac0411a41e0c160da219f0b142bab370c37"
+      "Hash": "57dddf5ec1b3f8093994deeae573ba5b9a1e46a6b757e25821fe3aa380fd2a90"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -195368,7 +195417,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c58fb04bd41093314b6b60fca657b3dbb9f2f6e40fd2bb5a0e6fae16a2eff712"
+      "Hash": "e12820dddea5c7fc4f266c12b7fdf8248a2517510819f14f006ec80b280ff569"
     },
     "h1:vodafone_oman": {
       "Key": "vodafone_oman",
@@ -204779,91 +204828,6 @@
       },
       "OutScope": {},
       "Hash": "d51e28caf92f8c6c953939c67294e1936e2bd977e27ea4a199455d913ed0ac4d"
-    },
-    "in:d14eedce-607d-4233-995d-30dbc7de8f23": {
-      "Key": "d14eedce-607d-4233-995d-30dbc7de8f23",
-      "Name": "Delen Private Bank",
-      "URL": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
-      "InScope": {
-        "api.digital.delen.be ": {
-          "ID": "api.digital.delen.be ",
-          "Type": "url"
-        },
-        "api.digital.delen.lu ": {
-          "ID": "api.digital.delen.lu ",
-          "Type": "url"
-        },
-        "app.delen.be ": {
-          "ID": "app.delen.be ",
-          "Type": "url"
-        },
-        "app.delen.ch ": {
-          "ID": "app.delen.ch ",
-          "Type": "url"
-        },
-        "app.delen.lu ": {
-          "ID": "app.delen.lu ",
-          "Type": "url"
-        },
-        "auth.digital.delen.be ": {
-          "ID": "auth.digital.delen.be ",
-          "Type": "url"
-        },
-        "auth.digital.delen.lu ": {
-          "ID": "auth.digital.delen.lu ",
-          "Type": "url"
-        },
-        "be.delen.digital": {
-          "ID": "be.delen.digital",
-          "Type": "android"
-        },
-        "delen/id1064839588": {
-          "ID": "delen/id1064839588",
-          "Type": "ios"
-        },
-        "login.delen.be ": {
-          "ID": "login.delen.be ",
-          "Type": "url"
-        },
-        "login.delen.ch ": {
-          "ID": "login.delen.ch ",
-          "Type": "url"
-        },
-        "login.delen.lu ": {
-          "ID": "login.delen.lu ",
-          "Type": "url"
-        },
-        "login.oyens.com": {
-          "ID": "login.oyens.com",
-          "Type": "url"
-        },
-        "status.delen.be ": {
-          "ID": "status.delen.be ",
-          "Type": "url"
-        },
-        "sts.delen.be ": {
-          "ID": "sts.delen.be ",
-          "Type": "url"
-        },
-        "www.cadelam.be ": {
-          "ID": "www.cadelam.be ",
-          "Type": "url"
-        },
-        "www.cadelux.lu/en ": {
-          "ID": "www.cadelux.lu/en ",
-          "Type": "url"
-        },
-        "www.delen.bank": {
-          "ID": "www.delen.bank",
-          "Type": "url"
-        },
-        "www.delen.be/en ": {
-          "ID": "www.delen.be/en ",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "154ce7ce544b3f1aec1c65b86b296e68552b0fa2f18107510971315829e075db"
     },
     "in:d3bee5a5-9107-4e71-8d94-ab5098f2005c": {
       "Key": "d3bee5a5-9107-4e71-8d94-ab5098f2005c",
