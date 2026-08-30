@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-30T05:45:46Z",
+  "captured_at": "2026-08-30T11:50:25Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -8591,6 +8591,207 @@
       "OutScope": {},
       "Hash": "b3e47d4ff8bafb53280672ad9680f5c9da7db9bf501e9355082fdda1cf6035ff"
     },
+    "bc:Monash University Bug Bounty": {
+      "Key": "Monash University Bug Bounty",
+      "Name": "Monash University Bug Bounty",
+      "URL": "https://bugcrowd.com/engagements/monash-mbb",
+      "InScope": {
+        " mix.monash.edu ": {
+          "ID": " mix.monash.edu ",
+          "Type": "api"
+        },
+        "eassessment.monash.edu": {
+          "ID": "eassessment.monash.edu",
+          "Type": "website"
+        },
+        "http://apps.connect.monash.edu/": {
+          "ID": "http://apps.connect.monash.edu/",
+          "Type": "website"
+        },
+        "http://pay.monashcollege.edu.au/": {
+          "ID": "http://pay.monashcollege.edu.au/",
+          "Type": "website"
+        },
+        "https://*.gp.monash.edu": {
+          "ID": "https://*.gp.monash.edu",
+          "Type": "website"
+        },
+        "https://account-registration.monash.edu/": {
+          "ID": "https://account-registration.monash.edu/",
+          "Type": "website"
+        },
+        "https://agent.apps.monash.edu/": {
+          "ID": "https://agent.apps.monash.edu/",
+          "Type": "website"
+        },
+        "https://alumni-friends.monash.edu": {
+          "ID": "https://alumni-friends.monash.edu",
+          "Type": "website"
+        },
+        "https://apps.apple.com/au/app/monash-bsafe/id1462241951": {
+          "ID": "https://apps.apple.com/au/app/monash-bsafe/id1462241951",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/ky/app/m-space/id6761056432": {
+          "ID": "https://apps.apple.com/ky/app/m-space/id6761056432",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/us/app/monash-study/id1462126829": {
+          "ID": "https://apps.apple.com/us/app/monash-study/id1462126829",
+          "Type": "ios"
+        },
+        "https://cms.mobile.monash/ ": {
+          "ID": "https://cms.mobile.monash/ ",
+          "Type": "website"
+        },
+        "https://collections.monash.edu/": {
+          "ID": "https://collections.monash.edu/",
+          "Type": "website"
+        },
+        "https://compulsoryunits.monash.edu/": {
+          "ID": "https://compulsoryunits.monash.edu/",
+          "Type": "website"
+        },
+        "https://connect.monash.edu": {
+          "ID": "https://connect.monash.edu",
+          "Type": "website"
+        },
+        "https://equella.monash.edu": {
+          "ID": "https://equella.monash.edu",
+          "Type": "website"
+        },
+        "https://evigilation.monash.edu": {
+          "ID": "https://evigilation.monash.edu",
+          "Type": "website"
+        },
+        "https://fileshare.ze.monash.edu": {
+          "ID": "https://fileshare.ze.monash.edu",
+          "Type": "website"
+        },
+        "https://formative.eassessment.monash.edu/": {
+          "ID": "https://formative.eassessment.monash.edu/",
+          "Type": "website"
+        },
+        "https://forms.apps.monash.edu/": {
+          "ID": "https://forms.apps.monash.edu/",
+          "Type": "website"
+        },
+        "https://identity.monash.edu": {
+          "ID": "https://identity.monash.edu",
+          "Type": "website"
+        },
+        "https://identity.monash.edu/": {
+          "ID": "https://identity.monash.edu/",
+          "Type": "website"
+        },
+        "https://ims.monash.edu": {
+          "ID": "https://ims.monash.edu",
+          "Type": "website"
+        },
+        "https://interviews.monash.edu/": {
+          "ID": "https://interviews.monash.edu/",
+          "Type": "website"
+        },
+        "https://mids.monash.edu/": {
+          "ID": "https://mids.monash.edu/",
+          "Type": "website"
+        },
+        "https://mlivetickets.monash.edu": {
+          "ID": "https://mlivetickets.monash.edu",
+          "Type": "website"
+        },
+        "https://mobile.monash/ ": {
+          "ID": "https://mobile.monash/ ",
+          "Type": "website"
+        },
+        "https://monash.app.nutrip.com": {
+          "ID": "https://monash.app.nutrip.com",
+          "Type": "website"
+        },
+        "https://monashcollege.edu.au": {
+          "ID": "https://monashcollege.edu.au",
+          "Type": "website"
+        },
+        "https://move.monash.edu/": {
+          "ID": "https://move.monash.edu/",
+          "Type": "website"
+        },
+        "https://myapp.monash.edu/": {
+          "ID": "https://myapp.monash.edu/",
+          "Type": "website"
+        },
+        "https://online.monash.edu/": {
+          "ID": "https://online.monash.edu/",
+          "Type": "website"
+        },
+        "https://partner.apps.monash.edu": {
+          "ID": "https://partner.apps.monash.edu",
+          "Type": "website"
+        },
+        "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share": {
+          "ID": "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.scu.bsafe": {
+          "ID": "https://play.google.com/store/apps/details?id=com.scu.bsafe",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=edu.monash.monashmobile": {
+          "ID": "https://play.google.com/store/apps/details?id=edu.monash.monashmobile",
+          "Type": "android"
+        },
+        "https://research.monash.edu/": {
+          "ID": "https://research.monash.edu/",
+          "Type": "website"
+        },
+        "https://researchmgt.monash.edu/": {
+          "ID": "https://researchmgt.monash.edu/",
+          "Type": "website"
+        },
+        "https://shop.monash.edu/": {
+          "ID": "https://shop.monash.edu/",
+          "Type": "website"
+        },
+        "https://staff.monash": {
+          "ID": "https://staff.monash",
+          "Type": "website"
+        },
+        "https://status.mobile.monash/": {
+          "ID": "https://status.mobile.monash/",
+          "Type": "website"
+        },
+        "https://student.monash": {
+          "ID": "https://student.monash",
+          "Type": "website"
+        },
+        "https://studentplacements.monash.edu": {
+          "ID": "https://studentplacements.monash.edu",
+          "Type": "website"
+        },
+        "https://unihub.monash.edu/": {
+          "ID": "https://unihub.monash.edu/",
+          "Type": "website"
+        },
+        "https://www.monash.edu": {
+          "ID": "https://www.monash.edu",
+          "Type": "website"
+        },
+        "https://www.monashprofessional.edu.au/": {
+          "ID": "https://www.monashprofessional.edu.au/",
+          "Type": "website"
+        },
+        "mix-dev.monash.edu/*": {
+          "ID": "mix-dev.monash.edu/*",
+          "Type": "api"
+        },
+        "mix-qat.monash.edu/*": {
+          "ID": "mix-qat.monash.edu/*",
+          "Type": "api"
+        }
+      },
+      "OutScope": {},
+      "Hash": "dac404403426b7edfb207193dd93b18fd697d8e9f3472b46e967aaa5126a4c12"
+    },
     "bc:Moneytree KK": {
       "Key": "Moneytree KK",
       "Name": "Moneytree KK",
@@ -14136,44 +14337,6 @@
       },
       "Hash": "83e05d6eb202cd3f20ad2f5fa80db59abd5a5a55b5e650e6cf11a50b6c73fff8"
     },
-    "bc:Sky UK/ROI Vulnerability Disclosure Program": {
-      "Key": "Sky UK/ROI Vulnerability Disclosure Program",
-      "Name": "Sky UK/ROI Vulnerability Disclosure Program",
-      "URL": "https://bugcrowd.com/engagements/sky-plc-mbb-og",
-      "InScope": {
-        "All internet facing Sky UK/ROI assets": {
-          "ID": "All internet facing Sky UK/ROI assets",
-          "Type": "website"
-        }
-      },
-      "OutScope": {
-        "*skybet.com": {
-          "ID": "*skybet.com",
-          "Type": "other"
-        },
-        "*skybroadband.com": {
-          "ID": "*skybroadband.com",
-          "Type": "other"
-        },
-        "*skynews.com.au": {
-          "ID": "*skynews.com.au",
-          "Type": "other"
-        },
-        "*skynewsarabia.com": {
-          "ID": "*skynewsarabia.com",
-          "Type": "other"
-        },
-        "All internet facing Sky DACH assets": {
-          "ID": "All internet facing Sky DACH assets",
-          "Type": "website"
-        },
-        "All internet facing Sky Italy assets ": {
-          "ID": "All internet facing Sky Italy assets ",
-          "Type": "website"
-        }
-      },
-      "Hash": "81d133888d38b06c28fafc98ba399469973901d2cb81c33cbeceb48ec6e113b5"
-    },
     "bc:Skyscanner": {
       "Key": "Skyscanner",
       "Name": "Skyscanner",
@@ -18318,7 +18481,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3d79855aaf83d4a45689e6dfcae4a3dce9ef087d480792fd113c62dff4476705"
+      "Hash": "96c9f8c9aa62fdade5236681e60f881b8186fb7104a46bd3f5c72061db8e235b"
     },
     "h1:8x8-bounty": {
       "Key": "8x8-bounty",
@@ -23179,7 +23342,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cc2d72aef9ef0463c6de3fe172fffaa58bb677d49b976df6bfa9cc1b7a745a59"
+      "Hash": "92536f5235c9225f0bcdf6726aba2f4ce4ae343f99afa59547755b8a39d6c31d"
     },
     "h1:abercrombie_fitch_bbp": {
       "Key": "abercrombie_fitch_bbp",
@@ -23525,7 +23688,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "db344d12c82ffafbcec11e14f41d7855462450418db6edfe6c25cb64881b5dc8"
+      "Hash": "9912b7bb9e6f4446a337e36ccbd01b59d7e78f00c9ab3724e0593be7e5faa0fd"
     },
     "h1:aeromexico_vdp": {
       "Key": "aeromexico_vdp",
@@ -23902,7 +24065,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "17d692951da3fd455d9769fcae9829c0d0cf3530507e4a96eda8e7521fed3362"
+      "Hash": "f502e8c63c473cee71015f033c5df5b5e6f59e513aaa4f61effbc0543a011f23"
     },
     "h1:airtable": {
       "Key": "airtable",
@@ -25933,7 +26096,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "5da9a7a508908ad51fb00de0e5dd4c649a8d2de85c93f08e28be509ab6d8fcea"
+      "Hash": "8a0d501c39b72fb263d21486180e55dea278abf265c85afc7bbe384a44f4821f"
     },
     "h1:amazonvrp-devices": {
       "Key": "amazonvrp-devices",
@@ -26091,7 +26254,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "01a63ef4c1c5efe53dabf89278d660a722a45a0ff58c5a0b1b4174e86e531199"
+      "Hash": "4be571548847bd25244b1352bbc685cf6636d113dd9615675127a69b1258c83c"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -26203,7 +26366,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "a44ed2310aef7c6ffa3499624ec26d7ffce34c0624dfdfb941c86a97ffe64c0a"
+      "Hash": "d17a3837d7799e2875f5bbb9f5b18350b1736c602b81558acbe69efa28cd5b9a"
     },
     "h1:anthropic-cyber-jailbreak": {
       "Key": "anthropic-cyber-jailbreak",
@@ -27340,7 +27503,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1ba8772e62de7bdd11a4e0b3f541fa0d944af14ba869479c54c6e51dd0613feb"
+      "Hash": "d74762da72698270eb0700b5b1f18129485c46aefbc1799f0bcab1c4115da540"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -27516,7 +27679,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e00b6c67a59c344422a9a7a8cc0116d3f11b87b31c3a57616a1783a5c12b50fc"
+      "Hash": "d7cb148355f93e12265acb7a5420a6d99dcb01d7bcf7d2696cfab024f626a1d7"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -27779,7 +27942,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "34a3cf50f7e0aed3d89220454fe9c391239e1282a369f2dac64d2e898d54b3fc"
+      "Hash": "d738fd00e3d8aa3622fc0bde732a7428b8d6cb2f6dd922f4ed17a707331f39cc"
     },
     "h1:audible": {
       "Key": "audible",
@@ -28174,7 +28337,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c158c8ce5b7576a9436141e453dc7bb2e2eb826149d985bd4e513e70a8f60cb9"
+      "Hash": "a2509f0aee8badf9a3eb239422c033dbb9691c5ea1bf9abea2850fb4f6280419"
     },
     "h1:aws_vdp": {
       "Key": "aws_vdp",
@@ -30392,7 +30555,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "c22b899d4ba6d21171f2f5e69534b7aaa82b80e89c05eaa21e7f9d225bcc00a7"
+      "Hash": "a499626e89f1264ff9b21951f90cce464f3de4d64df69de3fa8814557ec8c58a"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -30647,7 +30810,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3845aecd1b169bb91475357460f1a0a8a542f0559b090a8d5a7c5e05cb5e13bb"
+      "Hash": "379f686e39a9cfccddedba6dec94e20291bab7b003a1b1ec612db3ac023d9cc3"
     },
     "h1:bcny": {
       "Key": "bcny",
@@ -31717,7 +31880,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "25e471271f715221b5c4cefe9ea8e461070fe4e537e7f464fa9f04c2291110a5"
+      "Hash": "000c140dbd8b777f948d9209375541f09ff539c151ce8db8c284da2a43b9bd59"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -67231,7 +67394,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "98636262a152a9eb73069932de236843afa89484a43111e19072dcb391494e7c"
+      "Hash": "853d3c58335969abbbd41db4e79ca4acecfe080bd6bdc99c0b0c60fc846197f5"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -88518,7 +88681,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "da188617563701d2e2432404776b4f15de5eaa6a82725366704005ff28623fd3"
+      "Hash": "b7bc5e73f6a802ff5f3f40e1792a23ea3e7bed6f06e5a7d74b9b11d107bfff8e"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -89112,7 +89275,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "257c4443994ba59756410477b5310de6b0275680f735ec09fa7bfad731bec147"
+      "Hash": "328ece58bdfef50eba685ef24f71ff582bc4b559ba93ecb4313851ca6152e0b5"
     },
     "h1:crypto": {
       "Key": "crypto",
@@ -90657,7 +90820,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c660732f4489bd8fc9accd42e4f344e8c0b9857f75da9f504080a8f9cd44ea77"
+      "Hash": "164d48c4abba4a2bbaa0b62ee4c000e1a2fdaeefbf38e261dd43173c783ba008"
     },
     "h1:defectdojo": {
       "Key": "defectdojo",
@@ -90678,7 +90841,7 @@
       "URL": "https://hackerone.com/deptofdefense",
       "InScope": {},
       "OutScope": {},
-      "Hash": "1ad3c60e6e2a339815f0a0b0a24e38e28427a22d50c7438fbcaba1d284d5145b"
+      "Hash": "185f6442b50c9ab92f80932f6604addea9fc9f7a837d34d4781ecd3222a0eb15"
     },
     "h1:deribit": {
       "Key": "deribit",
@@ -96430,7 +96593,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cc2f2d9a30fa4035aa22f78805997ca4afdb185c87818083041e58837eda3fa3"
+      "Hash": "1d6baae1a0ca6f640c5562d51e9d5a16675396382676d185741c6368936368b7"
     },
     "h1:eero": {
       "Key": "eero",
@@ -96472,7 +96635,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "08dcd821bc079655e0b437ba3add427f3bf4c7dda38c046991de302637e0e28a"
+      "Hash": "911c08ef369d5a32c980cff2db85f251c3d13b070c2f7354549f1ca5f6399a88"
     },
     "h1:elastic": {
       "Key": "elastic",
@@ -96774,7 +96937,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7f0d3448b5869b4d3e0939b45934ec795481c91f42d99e8a12e78a4723277641"
+      "Hash": "67316bf075e990141982348fa4694393f24974bcb1b34a25e42bfa47eb7aa8ad"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -97603,7 +97766,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b50c312c4fb6b63cc5c61359a081c53ed3f705a056e326532c2e5bc82dbfb68"
+      "Hash": "7e5d9bbe9dfc6093af8a38cb19d2d93dd45000227f9b8c874d40a0754d6eb201"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -99155,7 +99318,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "14c08311d2f8b23fb6f6a5de24a24ff211643359cb5ef3c0ae9e92974fe1faaf"
+      "Hash": "56706bcc1494a67ec69a5101cab207c77e7a2d5993575ec8ad4511994da1a818"
     },
     "h1:essity": {
       "Key": "essity",
@@ -103183,7 +103346,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "83004b8822c7d75f7a1f7894606ff24e5b76fb140052bb456c0877148ed10d12"
+      "Hash": "7e4272d6668ba63b13d6f0d2c1e62407010e4617566e14e4d1e9511c1249b168"
     },
     "h1:eufy_security": {
       "Key": "eufy_security",
@@ -103256,7 +103419,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "853331d1e67a517509daa38925a38ce00358a7fa4007095f5db341b66656745f"
+      "Hash": "4d280c7d54b5c58956389ed2042b1cdfc4386c109a69b90a9686eacb17edc0b2"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -103792,7 +103955,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d6875cd461bf44358ee784064d475ff70734affd911b9db963bd644a4373c3dc"
+      "Hash": "df9cea18e223612f63482c491e4c0d5df911ce23ecab01497df69c5439044464"
     },
     "h1:expediagroup_bbp": {
       "Key": "expediagroup_bbp",
@@ -106536,7 +106699,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "30e339a5ee783ed0ac4c40ca6e72271fec03ecebf17dfdd6d1c56edab3b5ec9b"
+      "Hash": "a06240eb621ff27b9f9903374b30e302222ef43f8d50cdc8b12389ea030ab21d"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -145818,7 +145981,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2af397530493389447105ac63c982332ac02f58cf3896c35ec37cbc8a3cf3107"
+      "Hash": "90fedcc6e462e47b257911ff39c37d1720eb69f4e2d3e8625d1bffd20499a116"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -146467,7 +146630,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8a22f75e334e50677d5040ca68c83b2ffb91eb9d7a490da5c7bb607ab01a1340"
+      "Hash": "612cbcf18c367c75817f32ca671d99190724494fac47fef4faac2e1c284716e2"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -146996,7 +147159,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "abe888d6854d19ea601527dd52da15e89cb71613a35a51355f831dcfd62079c4"
+      "Hash": "a7a386aa0617c804bd9432f3bc479f696d5944fade17c97488a670094f6ae1b2"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -147045,7 +147208,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a5a862c4e1c56653234f6e4a0d2f9b5d254da197ee9e6f269dcf4d687cf13ee0"
+      "Hash": "fe046f707912ed954ebb03b6ca7fc5e484bd10b790baaf054d462bed1ee28c15"
     },
     "h1:github": {
       "Key": "github",
@@ -147211,7 +147374,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3eeb3f6cad7a155e46e516b708838d11e7dc8fe13d8eb6451790790599097136"
+      "Hash": "4f1f678e58037fc43de5ebd575e7f1a70f033e9a66bd984b808b7a4ed616b3ac"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -147779,7 +147942,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "67cfd3d4e20e4c1a75bd4c1bdf5bd8fe40443db7784b4782b656198155385bf7"
+      "Hash": "776a6ed9ae70b20e4376bc4ab00008c0cc95948d9c08d805ff57a9e5c2b20ab2"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -147901,7 +148064,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c346dab9052d4a628162eb57413254a86892284db583d7c4567be9120729d242"
+      "Hash": "05dc81acb141c146113a20e028a43f07ea7e2bdb2e9aab2f5ea5f81fe510fef7"
     },
     "h1:goldmansachs": {
       "Key": "goldmansachs",
@@ -148531,7 +148694,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "36ed574600395f464c39a42ad3ce575a11b9bdc87fea3910779c420a4e16b623"
+      "Hash": "28289e741e54fa87757fa85de6b1ea3f612b4cd1edc1330ebb33e00fedd1b361"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -149907,7 +150070,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "571ed2a64859c4b3a1172bf038924ca696835e7037c24ca29dd225ef02fcf9eb"
+      "Hash": "4cb77ab3071027ed4fd3e91cefcba3079334c837143e66e1a1f37f11d86734a7"
     },
     "h1:hexagon_vdp": {
       "Key": "hexagon_vdp",
@@ -150986,7 +151149,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9497cdae75ae1b28cfb2c08fe304d88469e74e7aac70eede9158fc1d12e474af"
+      "Hash": "fa68aa890da48cf2d59cc0c030ea370649403d4286eee1e55676f62254e2719c"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -151486,7 +151649,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5e3d1694aa0f1e81b438415f24f01ad2dff2439efd04a5f100ea45e5a00e9b77"
+      "Hash": "b4e34fa821618049fec29137a2faa9d8d347bdfc6234c4814227ed4b6ca513f6"
     },
     "h1:inditex": {
       "Key": "inditex",
@@ -152009,7 +152172,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4c2c38d86d9ddee003f4a67247d819d9a39ddbae9ebdd6dc6dc27b0f6fd021cf"
+      "Hash": "33c01ca103c283f68177a386007f9ce339336c0b072d6c5093c8f42acfc38855"
     },
     "h1:informatica": {
       "Key": "informatica",
@@ -152038,7 +152201,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bc12f0ba8a9c9a687ba3a0911efdae135035b298a4c2b321d4279d71da615c8b"
+      "Hash": "2201531bfaa9172f8841a8ac432404aac218654bb022417c42472d139ecde3d7"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -152303,7 +152466,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "72331c8660dac0fa985d4309338c61aed2880a7339f5493573e6363849ba0a09"
+      "Hash": "09799653a950df04344ca3ace126a118850304f04daab4a9db449386afca7bdb"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -158312,7 +158475,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d2e15d3571b2dc4aee7d627bb065f75d3cdef6e1e94deac137fd5a62fddbfd17"
+      "Hash": "c290789e7735ceb403056decdd5611dec2a34a39af054fc3d3ffa9596d2d1e9d"
     },
     "h1:ips": {
       "Key": "ips",
@@ -167947,7 +168110,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2eb8c779f6eceb7a55c3513e1e2e49c0e0201d3352f83e6951f33ceea3ab3d46"
+      "Hash": "8b9635b9d0d21b197611147502a34d9a3cd283e668f5515afe6c0e4315570be4"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -169459,7 +169622,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "99e72e658a8167e743622ec186218cb326517f8a898007202d5e69ab46df32ad"
+      "Hash": "b84cd8f0bd731c3f744e804de4e5b7a7def6e4bbab3dd7f2a36759ce6c0b9bda"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -169913,7 +170076,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "afa50e37410022a61fe9d1e6804222f9451c79207603aa9886496a50942b6d5c"
+      "Hash": "6b5340c174aa9a761be8032343d6bcc00d632d54914bfa11efc4bb894847c791"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -170816,7 +170979,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "035f24ce58e026d434e0ca64694b3e6f23dea68eb7022ecfe39a18e268d89c14"
+      "Hash": "a204b71ea3176fe5634b0f0b6a97d0a0ce6a02420982f2caab97e1fd7fb0fe3c"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -170931,7 +171094,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "26b62dcb03c2cd80471da78592f0fa57eb1e7a5627875eb123833e29578b9436"
+      "Hash": "9ec129bb7dcae79ddd740e1e01bfaec6cc8d011e4e07da3492065f10faac4371"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -172682,7 +172845,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4c4ac997ed6cb7a127a32ced163d91acd5759eb31a482d8b3b556c94f6d79a43"
+      "Hash": "2a09b235b3ac8bef37e7b06921ab68f676fa24dfc5908745133aaa768d044a82"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -174248,7 +174411,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c1eca8c5e248dac98f85e88a8ee7a0ad65596bfc36a86a50e9bae07e432e3816"
+      "Hash": "94668cc893838de1a29bbf7a575d230f325aab35d4abe80402fc8e994e9cf7a0"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -174410,7 +174573,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "42f498f1ca31270c4228c0866c2f43cdc0932b3349ebb780f5a18f886f957839"
+      "Hash": "4b3e7390dc6791409ae4a6cd7b20e078d808647b6390ce901051728feec49ec8"
     },
     "h1:moov": {
       "Key": "moov",
@@ -179214,7 +179377,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "181ba611d641892ed32d0ab1d0098428250dd56ab4f3e5ffc31661ef534f8a8e"
+      "Hash": "cfe283225c336764a1fcd5e69289e3cab8fd6f6063c1cbc082aca1e42ba1f219"
     },
     "h1:netlify": {
       "Key": "netlify",
@@ -179801,7 +179964,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c52772b8b419c3501da6d99e00b48eb623eccb16edc43b1f6b53609fb65e1326"
+      "Hash": "8c3c1aef6f75dc437f9fe93c6d55f0a672c696c6df552b0ed3994ede7a18d0d5"
     },
     "h1:nintendo": {
       "Key": "nintendo",
@@ -180008,7 +180171,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9fef452c2f82c1fef43ec85b049dc7a976dc27bf8108406edc5988196d2b028e"
+      "Hash": "5374d8d325cfd9a90cb6ad1527ab563d249de20fa9a4f59f0f8fd0733729602c"
     },
     "h1:nutanix": {
       "Key": "nutanix",
@@ -180441,7 +180604,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0009f066824fe2923856ac501b4378d775bcba7900787c852d17068a0ebfc99e"
+      "Hash": "38714febd06ff5823fc22590505dbdceb536a3a387f59319bc0658bdb9fc4474"
     },
     "h1:oportun_vdp": {
       "Key": "oportun_vdp",
@@ -181641,7 +181804,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "439aa1d18d67efa929bb3570c39755620cfdd6bafcfbb7eb66c88fe0a2fa4bfc"
+      "Hash": "2cf8b6ff6e8ad10807be50a0e4bdbac1e30d2a6fd51fe79952cc60f5a6f27aa0"
     },
     "h1:palo_alto_software": {
       "Key": "palo_alto_software",
@@ -181955,7 +182118,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9dd1b9ad5f800bebf8cf8e5f841a9227bd4e2f667cae15a8a33d9e945c238204"
+      "Hash": "e3ae3e9861a7daafee13d14e75bfacd7837ab49e5bce5103d8e0f4f68ee73b61"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -183114,7 +183277,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7c5b46494fe7bfa6485b8322b8e255e699e4dcba574b5a5be75ab79817811b04"
+      "Hash": "640babb705da8f73b7119d5324e7295435e1aa19517a2140e06a8e6404391b54"
     },
     "h1:picsart": {
       "Key": "picsart",
@@ -183465,7 +183628,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b86a8ce88bcb8652e4ab1e4107144f4537e04e6459e928bcdf4346078d2e3ca5"
+      "Hash": "d6c0b8e25b241e54d94530abd9be6afd2c2030ec72e55647b3910c9decebdf5d"
     },
     "h1:planet-labs": {
       "Key": "planet-labs",
@@ -183490,7 +183653,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ca39c8010c8c67d33431baa8b8aad88c26dad5707928faa5e87287e35d3dd227"
+      "Hash": "82a6bce8d9d3aaef545900b29925a05c7c81f6e05d26bf05950218b147c41a50"
     },
     "h1:playstation": {
       "Key": "playstation",
@@ -183595,7 +183758,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2916b8c11cca11ac66bd185819e0ee4e60825f2501e6bfc9e2a9273145a60288"
+      "Hash": "257bdcd6e7fd205a8ca9e71e29b544ccff400d6fea78b0c88cc758584d04af74"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -183955,7 +184118,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "71af6034cba25074420190f7f80223a4ee256058f81638f0c2a552ca4b6e745c"
+      "Hash": "9a645c9f36c0ae75c4c66e7d5c1d5dfb7f34a1a1b827faebdac8d82bf1245d24"
     },
     "h1:portswigger": {
       "Key": "portswigger",
@@ -184450,7 +184613,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c672391e564cd61e5ee9522b64c504f95f960ffd53b5f4b8b4fefd7ecf9abfef"
+      "Hash": "a1f92ec3e64406a79c8267e36522baa326a6ff9de0f0d5fce292a3ff7fa1792e"
     },
     "h1:productboard": {
       "Key": "productboard",
@@ -184941,7 +185104,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9a3717655c6814c22371d9b3637d6355ae9f38466c956329428a6352aa8955c7"
+      "Hash": "bb6a3e95945b1d465ee18fa4dc2ef60f9fc84ed577d4d97df720c6b5b7d57d86"
     },
     "h1:redis-vdp": {
       "Key": "redis-vdp",
@@ -185666,7 +185829,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9f8877777108fec867e9a69f00903fa7cfc508009f0370e4e4eb68601ab0e728"
+      "Hash": "e6082ea2fe5970641ef06e02685e9d5e58bba4ba55c567b8f925aa2ec8352438"
     },
     "h1:resmed": {
       "Key": "resmed",
@@ -186173,7 +186336,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "1dd5dac352bda1740f440dd0d28c763580dabd99df4d22001a23796ec1f89fc0"
+      "Hash": "37551250725306bfb705cde5202f98350b956291cd3004fbd01254c3ae317516"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -186278,7 +186441,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1020723932f77865eaea0e4b661853f3d3a1eef57eb0ac5a0eb72c2c7737f2e0"
+      "Hash": "c394d18df3fe471571f5e84107273ae22812665d80c57902831f8a035c8556eb"
     },
     "h1:ro": {
       "Key": "ro",
@@ -186678,7 +186841,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7f32d8ae5cc3f3c7d9b58336b6d8d4be9800598ee9e28e992d850470bc2c74af"
+      "Hash": "53943669e4c733d331ff94ef03c66c593b2ce830731fc0608d83233918018a8d"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -186980,7 +187143,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5548fd5f8674bd26b86634640f4cdd8e9e7c79411c2b81d5abb72ea08bd11c6f"
+      "Hash": "9d996143e77d9747f5a676fd914e308756bacba92fd4fc2ddb4e1e75e10e93ce"
     },
     "h1:roblox": {
       "Key": "roblox",
@@ -187022,7 +187185,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "3b5a0ab641d716f40e0d268886a44a7d2b8737ebf6314a2bc747acf80d53344a"
+      "Hash": "1c6c3b1f92995c53526dac8a5dd8d40e204346ae61b1e5ad12469546bc00185e"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -187110,7 +187273,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "1ee47f273a589f2e8d5a68d1c0f010761e8e14e8ee4c49c19eb33324f05ac352"
+      "Hash": "c90202dd74850896419af4470d48430102d498a8716d506fea9565527ae667da"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -187359,7 +187522,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f6ebc0cfcc628b011279e7ed71056dcbebd50a3b255d50b6c84f92e4e4a0e0c7"
+      "Hash": "60ad463600a6417b0be7f03441664c09a37c5086d3b5ec835399bc1cc45d870e"
     },
     "h1:semrush": {
       "Key": "semrush",
@@ -187450,7 +187613,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "66d1183aa76284a32a1718301e6528aaf2688554480bcd9738c73b6dc8f19eaa"
+      "Hash": "b3f73e6984f0a7e65d5e7e73d85031b20e1a0937eac7ea6d57ab79f192667c85"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -187634,7 +187797,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a3dc4e972599a66d705c7f8918d48a485411b78228dd9bbbdfc1e19a5abd6fce"
+      "Hash": "edec127fe77bb8e40430c12ad0d3e80efa034c1f88e11d1eba589c55df8b080d"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -188810,7 +188973,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6ff6ced813d340b04752cbc1349f6c109ddc3937f9b0d1ca7f44174e1adc5b71"
+      "Hash": "bc43f1c56c139bd99fe809124deb98e48ca71854b91447d953df8189684efffe"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -189025,7 +189188,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "95ee86c31c7622f5a07670960298e30ca6dab620b74f5d79492f94d729130467"
+      "Hash": "98c05d6b56e37eeb5805ce0ab427ea2e8c482ad61fb3e8917d6b017057dcb4fd"
     },
     "h1:streak_com": {
       "Key": "streak_com",
@@ -189611,7 +189774,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2054c6536cf737b8d2abca3b9236821381c37a6201df13a0189d62e1212183da"
+      "Hash": "bce7d8d1819fb9381fb1f4c95e2cac02cdcaae97a30095c4b48e9aff7d615cc4"
     },
     "h1:superhuman": {
       "Key": "superhuman",
@@ -190361,7 +190524,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e3fa80b451436ff1bb3e465be6b8747f3a1ae13eb0491c77376046a7d409dfee"
+      "Hash": "be4b1025aed2b9a0909c7eaf993b4837afa7db518acb6be0d0bb6d2009353fc4"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -191957,7 +192120,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "69be1722a916736449b36504fd5248ca81827955ade32be704e2279a30a29678"
+      "Hash": "c5c8596247f01894e974b0d970d9ff291f8fcaa4d662e7c8017c10c6f1a390a5"
     },
     "h1:twilio": {
       "Key": "twilio",
@@ -192289,7 +192452,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ff829a83fd8f3b8783091ff7189438eb2c0cd7d1d0cb5101ceebdec406b51297"
+      "Hash": "1461e5b9b5ef2f1fb54f0acfa61ec2fa3fe7c6b8d83972754a7eb624e93717a1"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -192387,7 +192550,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "120b88750b557eeeadb34cc470aa69f427e6d260a3e2cfd72200e8440167b63b"
+      "Hash": "808095079563129468cdad9471be52ca37983d783e638ee7eb60f3af288c4bf9"
     },
     "h1:ui": {
       "Key": "ui",
@@ -192993,7 +193156,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a85ca45b3cb9d1073a4c272e1bd2689e03514091048b0e70782272b1af41c8a9"
+      "Hash": "d0ec1ececfee18f0e827cc147dedf5ff0adce5d8853a69e23809e7e4e9810080"
     },
     "h1:usps": {
       "Key": "usps",
@@ -193180,7 +193343,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0012a8eda2999db6f3d49b1f36b73f977f80039eb785201140d1b36ecffe65e9"
+      "Hash": "8b83301ff265406a2a62f2daeae2d4b6ad752a3a12a51d313f56f0749687a5a8"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -193507,7 +193670,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c8180ea9d255d9287bfa563e5c433dc45dbaa58641c4e7925a5e9abac1d3319a"
+      "Hash": "fd57221f7afb1d1b2f88eddbbca214ca0b5eb9fd89baf7c2544f443766b61947"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
@@ -193540,7 +193703,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a2df2ceb42ddffb22c2426a57a8094072da99c9f323154924c85cdd31b48a5a9"
+      "Hash": "cab340fdca81ebaaaeb308a61b68ec66aff7039404251ee261b265a8d8e8b15d"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -194185,7 +194348,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "594b6ef6a99ad544dce440a52425eebd1ff3794b4c89bf224a4621a264c954d8"
+      "Hash": "6be9acadff5a37ee93e5fc4941d77bffe0d134977302a2cb50ee94b9eb63a360"
     },
     "h1:visa": {
       "Key": "visa",
@@ -195253,7 +195416,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7d5ede11762868271d26084fa94c91b6e10e7fa4d1168488580a049b4bb43675"
+      "Hash": "93d65a028945cf88de78b65b8b2524e651ad0979f51e93163500e524c41c2f42"
     },
     "h1:vueling_vdp": {
       "Key": "vueling_vdp",
@@ -195329,7 +195492,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b11ac413fafc77aa57783e7b2530b3527f488c141f5552be6b56ac28db10807d"
+      "Hash": "e0c5313dc5c9b6268d5f0a856374b7d0b419b9ea7ccd9064d95032c963c84e3a"
     },
     "h1:wealthsimple": {
       "Key": "wealthsimple",
@@ -195466,7 +195629,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d42c033b9a8830454a998a167be7d3faeaf0b3ff3330007a9a487f6024c02021"
+      "Hash": "1ff444733af2846914f929c92ed70b30f731841f660c13cd391299915ca4ea36"
     },
     "h1:whatnot": {
       "Key": "whatnot",
@@ -195599,7 +195762,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f5abdee880fd63c0ca31205c90eb1d3fd9664625a81a744b62d305547e136926"
+      "Hash": "8087234c161c1fd4f42eeda509ad423ad51f08259af156bd154b4401ce75eb97"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -195813,7 +195976,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6c28410e154ceea2834db6bd176b005545d3ba848dac69841594e096a6abb4f9"
+      "Hash": "c9b922f13c8c131a0e0c52c87565d086a9f202d681831f121104e87bcd7ebb87"
     },
     "h1:wordpress": {
       "Key": "wordpress",
@@ -196347,7 +196510,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6dd311d7fe8c2aa398cafca56646d76d37ab1ff7de6e78c249ecd109faf5ee1a"
+      "Hash": "1320265d2dbddb8e04e8b3af3a601411250a65c4ab42d1791dfb76a9efe57bb7"
     },
     "h1:xvideos": {
       "Key": "xvideos",
@@ -197219,7 +197382,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ba46c9d0a21a997e103a3bef156a67a5e4d576e21ff1acb3320d635e1709396a"
+      "Hash": "85345202c400e601edf02c33893b138aaa93d81e818cd85e6d7ef2accb91e4e6"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -198170,96 +198333,6 @@
       },
       "OutScope": {},
       "Hash": "216b47d1074068f2a12f862fa08bc5718d1955f08803ceda6d284ed7224ed81f"
-    },
-    "in:0fd1d85b-2d33-4966-b5a0-caabfda5108e": {
-      "Key": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
-      "Name": "Ninja Kiwi Games Bug Bounty program",
-      "URL": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "InScope": {
-        "*.ninjakiwi.me": {
-          "ID": "*.ninjakiwi.me",
-          "Type": "wildcard"
-        },
-        "*.nkstatic.com": {
-          "ID": "*.nkstatic.com",
-          "Type": "wildcard"
-        },
-        "*.souparea.com": {
-          "ID": "*.souparea.com",
-          "Type": "wildcard"
-        },
-        "alerts.ninjakiwi.com": {
-          "ID": "alerts.ninjakiwi.com",
-          "Type": "url"
-        },
-        "analytics.ninjakiwi.com": {
-          "ID": "analytics.ninjakiwi.com",
-          "Type": "url"
-        },
-        "api.ninjakiwi.com": {
-          "ID": "api.ninjakiwi.com",
-          "Type": "url"
-        },
-        "battles.tv": {
-          "ID": "battles.tv",
-          "Type": "url"
-        },
-        "boomer2.ninjakiwi.com": {
-          "ID": "boomer2.ninjakiwi.com",
-          "Type": "url"
-        },
-        "ct.ninjakiwi.com": {
-          "ID": "ct.ninjakiwi.com",
-          "Type": "url"
-        },
-        "data.ninjakiwi.com": {
-          "ID": "data.ninjakiwi.com",
-          "Type": "url"
-        },
-        "guts.ninjakiwi.com": {
-          "ID": "guts.ninjakiwi.com",
-          "Type": "url"
-        },
-        "mynk-dash.ninjakiwi.com": {
-          "ID": "mynk-dash.ninjakiwi.com",
-          "Type": "url"
-        },
-        "mynk.ninjakiwi.com": {
-          "ID": "mynk.ninjakiwi.com",
-          "Type": "url"
-        },
-        "ninja.kiwi": {
-          "ID": "ninja.kiwi",
-          "Type": "url"
-        },
-        "ninjakiwi.com": {
-          "ID": "ninjakiwi.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "icarusadmin.ninjakiwi.com": {
-          "ID": "icarusadmin.ninjakiwi.com",
-          "Type": "url"
-        },
-        "rancher.ninjakiwi.com": {
-          "ID": "rancher.ninjakiwi.com",
-          "Type": "url"
-        },
-        "rancher.ninjakiwi.me": {
-          "ID": "rancher.ninjakiwi.me",
-          "Type": "url"
-        },
-        "store.ninjakiwi.com": {
-          "ID": "store.ninjakiwi.com",
-          "Type": "url"
-        },
-        "support.ninjakiwi.com": {
-          "ID": "support.ninjakiwi.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "81dc8548db8a520a1d4ff298cd873a5a6af3d9d18e4010f582a579872707d915"
     },
     "in:104ed53e-3c29-4d16-b89a-d322c9df5e9a": {
       "Key": "104ed53e-3c29-4d16-b89a-d322c9df5e9a",
