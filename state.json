@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-31T13:37:56Z",
+  "captured_at": "2026-08-31T19:59:04Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -7783,43 +7783,6 @@
       },
       "OutScope": {},
       "Hash": "f9167c23179610aa7fad532c1740ca3b0e71e89e4a987097f200660c62dc67c7"
-    },
-    "bc:META-INF": {
-      "Key": "META-INF",
-      "Name": "META-INF",
-      "URL": "https://bugcrowd.com/engagements/metainfkft",
-      "InScope": {
-        "https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-confluence?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-confluence?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1219628/glass-project-documentation-for-jira?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1219628/glass-project-documentation-for-jira?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1229346/marketplace-integration-for-jira?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1229346/marketplace-integration-for-jira?tab=overview\u0026hosting=cloud",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview\u0026hosting=cloud",
-          "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/4977/email-this-issue?hosting=cloud\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/4977/email-this-issue?hosting=cloud\u0026tab=overview",
-          "Type": "website"
-        }
-      },
-      "OutScope": {},
-      "Hash": "95de649cec6dc7fb418317202f22d2410cc2dfb993aa0da73ded4a63ccea1712"
     },
     "bc:MGM China Holdings Limited Managed Bug Bounty Program": {
       "Key": "MGM China Holdings Limited Managed Bug Bounty Program",
@@ -23830,7 +23793,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "7e0127cc4aa8ddb81d8b2c93a3c0455bd05180b589080ec38532d7e2bf9e64d3"
+      "Hash": "66bab04989c0d6555980c26ab98ee3f6ab0bd8261627ceb29ba2673e4863298c"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -24314,7 +24277,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3cf53135172e967f178f9e9d0caf3e426a83470623ff353642ae0b71f28de62a"
+      "Hash": "96ab991158b5ce5830d21bc20095934ffa8d90ac946b1815f3679c468a1d25cd"
     },
     "h1:allegion": {
       "Key": "allegion",
@@ -30601,7 +30564,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "bd62837a179306508503bebdafa2a19d7d05d491ef4fc15b8df55658e0ea9251"
+      "Hash": "7a7f7b3d48d5ab62f50bf04d79dc0ac65e9851dfea265eb8025df6c34ca6fa3a"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -30905,7 +30868,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "39f4834e16cbd7285cf1239ca5df0430bbc6e04ceeb6ea11c837de308cc43397"
+      "Hash": "4fc1b4c2ba826c6bb1e01d133cc57f447ac08f777a5a23cc0cf5913f5fded131"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31513,7 +31476,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cc7b8a9247b6d8ccec5d575ee87d0145938792fbaae17960cd3c6b70e3facb81"
+      "Hash": "8bf68ff9160b9ef7cee085dc5a0c79a35c85514aaded3f7770d682eafa81e7d1"
     },
     "h1:box_private": {
       "Key": "box_private",
@@ -31575,6 +31538,35 @@
       },
       "OutScope": {},
       "Hash": "8ea0e3c2e34bb79871c0bd4482ce055dc9017e2b17c5b0170e2ddcb93c012f81"
+    },
+    "h1:brave": {
+      "Key": "brave",
+      "Name": "Brave Software",
+      "URL": "https://hackerone.com/brave",
+      "InScope": {
+        "Brave Browser Desktop": {
+          "ID": "Brave Browser Desktop",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "Brave websites": {
+          "ID": "Brave websites",
+          "Type": "OTHER"
+        },
+        "com.brave.browser": {
+          "ID": "com.brave.browser",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.brave.ios.browser": {
+          "ID": "com.brave.ios.browser",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://github.com/brave/*, https://github.com/brave-intl/*": {
+          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {},
+      "Hash": "f2124e560f994984687dd3450e2e13b47ec7d015831c315f3d8d851183d4083b"
     },
     "h1:braze_inc": {
       "Key": "braze_inc",
@@ -67707,7 +67699,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "85f5aff1809114705debfb5cb37cfd2359ed61162afe878d08466fe364912433"
+      "Hash": "e76b9359f7d2b3814e6abfcc2fba8c125530ef3918855d0caa87441432734915"
     },
     "h1:clarivate": {
       "Key": "clarivate",
@@ -88325,7 +88317,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e58b37ec7b22511f6822d4219a1b8e2ee80688fd998be4691de3fe8afe845db9"
+      "Hash": "393dcbbd1ebbad92a0d1aadb4d34966a9f8e50bfaf7ba516889350dfc3fc448a"
     },
     "h1:cognizant": {
       "Key": "cognizant",
@@ -88727,7 +88719,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b7bc5e73f6a802ff5f3f40e1792a23ea3e7bed6f06e5a7d74b9b11d107bfff8e"
+      "Hash": "6182c5612fdf61ba7108c89ed4a6bfc5780d132691c50b3702d85b78f79e6e23"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -89493,7 +89485,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "89326d4ced9fac1178b6ebb5890cdf3827e13536fe958eae87088c8a6397356b"
+      "Hash": "d62de54da7339ec839dedc6225e4d099c439e128940d633257f186933aaf0727"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -90879,7 +90871,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "eb90fbaed75d26cf394da6bbf27391e7519944d8c34f2d88c1b67b6e8b49cba9"
+      "Hash": "430c250dc61b6ac8b4335169a85a4f2ba5a3384e03bcc4999d9d0cf4a0025aee"
     },
     "h1:deptofdefense": {
       "Key": "deptofdefense",
@@ -95683,7 +95675,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b5a39956bd36d0cf0c69ce2308a6f3caeea54d67cdccdf4a1a73d527d70068ff"
+      "Hash": "49fc4d7d4642ae832d064f75f00bdde58aef1ee3fc2c680b3d8f2214fab43999"
     },
     "h1:disney": {
       "Key": "disney",
@@ -95817,7 +95809,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c9661964408e624f354fa7be6a17f252954a3ef1ca67cb97da801627e099b1eb"
+      "Hash": "5cd02383c0d8beb28c2a1dadefd73a3b2be909775fcb2cd90b6da6a68fdddcc2"
     },
     "h1:django": {
       "Key": "django",
@@ -96015,7 +96007,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f1743921c5b961cb337ed452e326772d3171ba8a35e86e6f611d8c79978d418b"
+      "Hash": "05ea4ea00b81b5f6944e34702bd2558cc53a2d0621109a2efeb55fb339c5ccd3"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -97812,7 +97804,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4f79f6f0aae17fec91400cfb8ad64c496bee3fdde5bbb76ab109fab34d859dbf"
+      "Hash": "8b50c312c4fb6b63cc5c61359a081c53ed3f705a056e326532c2e5bc82dbfb68"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -103186,7 +103178,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f6f9b0877bb0f47c2ca5599630634a38c6fe15f38f37e46bacad45cea27a3d52"
+      "Hash": "c8cfa967c873f3e9d3168b2e5e95c67aaf637d18dd49fc360d0ed87dc6100ac5"
     },
     "h1:eternal": {
       "Key": "eternal",
@@ -103519,7 +103511,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c0b73a07a49a25d17afe40351635bc71f914514a90b60046ecfa7c6f39b0035d"
+      "Hash": "07a7a1b9991897ed2c02eb6c48476bf2a93da7499c8d7d7126baa14e50c984b0"
     },
     "h1:exness": {
       "Key": "exness",
@@ -146970,7 +146962,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cf5fcb751e57e7066eb1a54ce2da464f4ea1c8eef2a25368184f87e81b13673c"
+      "Hash": "45be0aa0dd49c90fcd58ac912f6559744370158fe103904a62b7e95627877057"
     },
     "h1:formassembly": {
       "Key": "formassembly",
@@ -147205,7 +147197,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "632dd8f106451da5be6357b62f62ad90c363a4239d498e26a5a4be71dce1c550"
+      "Hash": "a5fcaee1c7fec95c39851b79cd226251715e58ed7a1c03e105a435e41194eae2"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -148110,7 +148102,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a03c8950648fe2c0d8e6512b4bf67f4da33c8cac065a8a2a98d0053c40789673"
+      "Hash": "05dc81acb141c146113a20e028a43f07ea7e2bdb2e9aab2f5ea5f81fe510fef7"
     },
     "h1:goldmansachs": {
       "Key": "goldmansachs",
@@ -148560,7 +148552,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "83e4181ccf3999f40beddc69b6d50cb38384e7c50ff1c52168637167ba42a10b"
+      "Hash": "33038f5f38da6acdb71ee4e3ef754e276230c07713e6ecec099d2dd675b44c5d"
     },
     "h1:greenhouse": {
       "Key": "greenhouse",
@@ -148740,7 +148732,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "28289e741e54fa87757fa85de6b1ea3f612b4cd1edc1330ebb33e00fedd1b361"
+      "Hash": "fd6bfdc8edd6abdd548bd00fbb1dcd59720b20a982db74cc185ba871de482c78"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -151195,7 +151187,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9542a208c5a49def4d97ff8cf0228f6669f9362459f32993c1d71e520300dedc"
+      "Hash": "1590dd0b84ebb89bcef898bb290c38a98ac32c9ff2afda39c75c3f01131e1e38"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -151289,7 +151281,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "594c1645236733d1ec8611c346b8a5ab24ef8a32c9eb7efd6d2755671204b509"
+      "Hash": "9eaa725093a4ecd422ef25aa29196cbc487dfb98028a3fc715b6907a1dcd0263"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -160883,6 +160875,10 @@
           "ID": "cpanel.unimil.com.br",
           "Type": "URL"
         },
+        "cr-platform-devl.supplymgmt-compliance-risk-devl-vpn2.us.e15.c01.johndeerecloud.com": {
+          "ID": "cr-platform-devl.supplymgmt-compliance-risk-devl-vpn2.us.e15.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
         "create-organization-app.deere.com": {
           "ID": "create-organization-app.deere.com",
           "Type": "URL"
@@ -164211,6 +164207,10 @@
           "ID": "qual.harvestprofit.com",
           "Type": "URL"
         },
+        "qual.r2visitorservices.deere.com": {
+          "ID": "qual.r2visitorservices.deere.com",
+          "Type": "URL"
+        },
         "query-xml.deere.com": {
           "ID": "query-xml.deere.com",
           "Type": "URL"
@@ -164625,6 +164625,10 @@
         },
         "service-api.expertconnect.deere.com": {
           "ID": "service-api.expertconnect.deere.com",
+          "Type": "URL"
+        },
+        "service.deere.com": {
+          "ID": "service.deere.com",
           "Type": "URL"
         },
         "service.monosem.com": {
@@ -167522,7 +167526,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8ce9637c690f700cef4235c9661207af0e236d71414fefc0dc8309703eccf219"
+      "Hash": "1287f97bc3c28113cc38b893aebf084c92daf9a2c63411af7d56843dd476198e"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -168156,7 +168160,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b9635b9d0d21b197611147502a34d9a3cd283e668f5515afe6c0e4315570be4"
+      "Hash": "ab7e6ab49fd534d9a0b1e008aa2bd7295cf5be98e79973ade90cb18187cf8e1a"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -168405,7 +168409,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0785c264a3c54103cde145a30e0615579e452064bc136d5f6d89f6d9e42e3bb0"
+      "Hash": "689ef93b4f2f26f101d55cb877053893dcb3496d08c43a49ccd8dcdcc06229e0"
     },
     "h1:klarna": {
       "Key": "klarna",
@@ -168479,7 +168483,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "810eb8b4b7c8bbfa964ae6342676ab3bbd0445e68ada2cd2ccf56aaf1dcafb62"
+      "Hash": "258091fc78e2987b5d1b6dc39a5e07b2a11395341633b294de29313e1c94175c"
     },
     "h1:koho": {
       "Key": "koho",
@@ -169172,7 +169176,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dd370895e1f9fa92f9b7083c9fde5370aa778f61b205725fd61132fd8044867b"
+      "Hash": "5543ea1e409a46e1d8acdce84a7f4018ecd402f16e98bef9989078aa02436557"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -169465,7 +169469,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e220a6815f5bbdfbf4ba9dc09ae0418f847adb08f7181ca34148944d62f049db"
+      "Hash": "b8817681dc1ae3f54830e489184d4ee1ad1e169a051633442abec91330092343"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -169856,7 +169860,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "99e72e658a8167e743622ec186218cb326517f8a898007202d5e69ab46df32ad"
+      "Hash": "b84cd8f0bd731c3f744e804de4e5b7a7def6e4bbab3dd7f2a36759ce6c0b9bda"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -171213,7 +171217,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "030095dcec678f609d17e05071f385fbcf5bc6a6a7166d17c7dc077bd471d642"
+      "Hash": "54f280f277546f9ebf6a218e3c260fe7ccfc9b78798dd3dcd845d284514218c6"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -171462,7 +171466,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1deec270f11e3559ae486f56bee27cfff74092336598d715c15b09e471414613"
+      "Hash": "d295273400c2623a60a3c16fa6be0347b1657aa10edcec9667018fa8bfb13bc9"
     },
     "h1:mendix": {
       "Key": "mendix",
@@ -171918,7 +171922,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f23a30c256cb69d3ab3d7f391a5ccfd990524237a45d640c456d79671a44a211"
+      "Hash": "2aacb88d63f4160fd8a6b2918a96c9cf86e07059d8fee3e8469a36ce4891cfc8"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -178317,6 +178321,10 @@
           "ID": "cweb-slot6-preview-ott-dev.nba.com",
           "Type": "URL"
         },
+        "data-test.nba.com": {
+          "ID": "data-test.nba.com",
+          "Type": "URL"
+        },
         "delaware-dev.gleague.nba.com": {
           "ID": "delaware-dev.gleague.nba.com",
           "Type": "URL"
@@ -178367,6 +178375,10 @@
         },
         "dream.wnba.com": {
           "ID": "dream.wnba.com",
+          "Type": "URL"
+        },
+        "dwhreports.nba.com": {
+          "ID": "dwhreports.nba.com",
           "Type": "URL"
         },
         "ec2-redirect-west.nba.com": {
@@ -178445,6 +178457,10 @@
           "ID": "gatoradetrainingcenter.nba.com",
           "Type": "URL"
         },
+        "gldatacenter.nba.com": {
+          "ID": "gldatacenter.nba.com",
+          "Type": "URL"
+        },
         "gleague-dev.nba.com": {
           "ID": "gleague-dev.nba.com",
           "Type": "URL"
@@ -178507,6 +178523,10 @@
         },
         "greensboro.gleague.nba.com": {
           "ID": "greensboro.gleague.nba.com",
+          "Type": "URL"
+        },
+        "hoop.nba.com": {
+          "ID": "hoop.nba.com",
           "Type": "URL"
         },
         "hoopsfortroops.nba.com": {
@@ -178921,6 +178941,22 @@
           "ID": "nbameeting.nba.com",
           "Type": "URL"
         },
+        "nbatickets-dev.nba.com": {
+          "ID": "nbatickets-dev.nba.com",
+          "Type": "URL"
+        },
+        "nbatickets-qa.nba.com": {
+          "ID": "nbatickets-qa.nba.com",
+          "Type": "URL"
+        },
+        "nbatickets.nba.com": {
+          "ID": "nbatickets.nba.com",
+          "Type": "URL"
+        },
+        "nbavideo.nba.com": {
+          "ID": "nbavideo.nba.com",
+          "Type": "URL"
+        },
         "northernarizona-dev.gleague.nba.com": {
           "ID": "northernarizona-dev.gleague.nba.com",
           "Type": "URL"
@@ -178935,6 +178971,18 @@
         },
         "nycbasketball.nba.com": {
           "ID": "nycbasketball.nba.com",
+          "Type": "URL"
+        },
+        "official-dev.nba.com": {
+          "ID": "official-dev.nba.com",
+          "Type": "URL"
+        },
+        "official-qa.nba.com": {
+          "ID": "official-qa.nba.com",
+          "Type": "URL"
+        },
+        "official.nba.com": {
+          "ID": "official.nba.com",
           "Type": "URL"
         },
         "oklahomacity-dev.gleague.nba.com": {
@@ -178965,6 +179013,14 @@
           "ID": "pdfroster.nba.com",
           "Type": "URL"
         },
+        "peopleanalyticsportal.nba.com": {
+          "ID": "peopleanalyticsportal.nba.com",
+          "Type": "URL"
+        },
+        "playerhealthvideo.nba.com": {
+          "ID": "playerhealthvideo.nba.com",
+          "Type": "URL"
+        },
         "portland-dev.wnba.com": {
           "ID": "portland-dev.wnba.com",
           "Type": "URL"
@@ -178975,6 +179031,22 @@
         },
         "portland.wnba.com": {
           "ID": "portland.wnba.com",
+          "Type": "URL"
+        },
+        "pr-dev.nba.com": {
+          "ID": "pr-dev.nba.com",
+          "Type": "URL"
+        },
+        "pr-qa.nba.com": {
+          "ID": "pr-qa.nba.com",
+          "Type": "URL"
+        },
+        "pr.nba.com": {
+          "ID": "pr.nba.com",
+          "Type": "URL"
+        },
+        "ptiw.nba.com": {
+          "ID": "ptiw.nba.com",
           "Type": "URL"
         },
         "qa.stats.nba.com": {
@@ -179047,6 +179119,10 @@
         },
         "santacruz.gleague.nba.com": {
           "ID": "santacruz.gleague.nba.com",
+          "Type": "URL"
+        },
+        "sems.nba.com": {
+          "ID": "sems.nba.com",
           "Type": "URL"
         },
         "siouxfalls-dev.gleague.nba.com": {
@@ -179177,6 +179253,18 @@
           "ID": "stats.wnba.com",
           "Type": "URL"
         },
+        "stockton-dev.gleague.nba.com": {
+          "ID": "stockton-dev.gleague.nba.com",
+          "Type": "URL"
+        },
+        "stockton-qa.gleague.nba.com": {
+          "ID": "stockton-qa.gleague.nba.com",
+          "Type": "URL"
+        },
+        "stockton.gleague.nba.com": {
+          "ID": "stockton.gleague.nba.com",
+          "Type": "URL"
+        },
         "storm-dev.wnba.com": {
           "ID": "storm-dev.wnba.com",
           "Type": "URL"
@@ -179221,12 +179309,32 @@
           "ID": "syndication.nba.com",
           "Type": "URL"
         },
+        "taiwan.nba.com": {
+          "ID": "taiwan.nba.com",
+          "Type": "URL"
+        },
+        "teamapps.nba.com": {
+          "ID": "teamapps.nba.com",
+          "Type": "URL"
+        },
         "teamdirectory.nba.com": {
           "ID": "teamdirectory.nba.com",
           "Type": "URL"
         },
+        "teaminquiry.nba.com": {
+          "ID": "teaminquiry.nba.com",
+          "Type": "URL"
+        },
+        "teamofficelist.nba.com": {
+          "ID": "teamofficelist.nba.com",
+          "Type": "URL"
+        },
         "teamportal.nba.com": {
           "ID": "teamportal.nba.com",
+          "Type": "URL"
+        },
+        "teamvideo.nba.com": {
+          "ID": "teamvideo.nba.com",
           "Type": "URL"
         },
         "tempo-dev.wnba.com": {
@@ -179241,8 +179349,32 @@
           "ID": "tempo.wnba.com",
           "Type": "URL"
         },
+        "texas-dev.gleague.nba.com": {
+          "ID": "texas-dev.gleague.nba.com",
+          "Type": "URL"
+        },
+        "texas-qa.gleague.nba.com": {
+          "ID": "texas-qa.gleague.nba.com",
+          "Type": "URL"
+        },
+        "texas.gleague.nba.com": {
+          "ID": "texas.gleague.nba.com",
+          "Type": "URL"
+        },
         "thisiswhyweplay.nba.com": {
           "ID": "thisiswhyweplay.nba.com",
+          "Type": "URL"
+        },
+        "townhall.nba.com": {
+          "ID": "townhall.nba.com",
+          "Type": "URL"
+        },
+        "tpp.nba.com": {
+          "ID": "tpp.nba.com",
+          "Type": "URL"
+        },
+        "trs.nba.com": {
+          "ID": "trs.nba.com",
           "Type": "URL"
         },
         "valkyries-dev.wnba.com": {
@@ -179281,12 +179413,40 @@
           "ID": "vth.nba.com",
           "Type": "URL"
         },
+        "vttp.nba.com": {
+          "ID": "vttp.nba.com",
+          "Type": "URL"
+        },
         "watch-ng.nba.com": {
           "ID": "watch-ng.nba.com",
           "Type": "URL"
         },
         "watch.global.nba.com": {
           "ID": "watch.global.nba.com",
+          "Type": "URL"
+        },
+        "westchester-dev.gleague.nba.com": {
+          "ID": "westchester-dev.gleague.nba.com",
+          "Type": "URL"
+        },
+        "westchester-qa.gleague.nba.com": {
+          "ID": "westchester-qa.gleague.nba.com",
+          "Type": "URL"
+        },
+        "westchester.gleague.nba.com": {
+          "ID": "westchester.gleague.nba.com",
+          "Type": "URL"
+        },
+        "windycity-dev.gleague.nba.com": {
+          "ID": "windycity-dev.gleague.nba.com",
+          "Type": "URL"
+        },
+        "windycity-qa.gleague.nba.com": {
+          "ID": "windycity-qa.gleague.nba.com",
+          "Type": "URL"
+        },
+        "windycity.gleague.nba.com": {
+          "ID": "windycity.gleague.nba.com",
           "Type": "URL"
         },
         "wings-dev.wnba.com": {
@@ -179303,6 +179463,22 @@
         },
         "wings.wnba.com": {
           "ID": "wings.wnba.com",
+          "Type": "URL"
+        },
+        "wisconsin-dev.gleague.nba.com": {
+          "ID": "wisconsin-dev.gleague.nba.com",
+          "Type": "URL"
+        },
+        "wisconsin-qa.gleague.nba.com": {
+          "ID": "wisconsin-qa.gleague.nba.com",
+          "Type": "URL"
+        },
+        "wisconsin.gleague.nba.com": {
+          "ID": "wisconsin.gleague.nba.com",
+          "Type": "URL"
+        },
+        "wnbabroadcastmanuals.nba.com": {
+          "ID": "wnbabroadcastmanuals.nba.com",
           "Type": "URL"
         },
         "www-all.nba.com": {
@@ -179424,7 +179600,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "74c69cccdb3f745ce2470e951e258604dbe8643dc4e6d13f5bb1033e67f9a18f"
+      "Hash": "ea1235cb0f399bb35f80df97c722c90ed3e02f9df56ad92c04802ddb458cff09"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -182360,7 +182536,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e150fdb2e4683ca81b64eb27787c9f6c198460b521a4392ec75e81b8921788d2"
+      "Hash": "b22ff2e76d5c773f925911101c90e15c0eaebb9658b34a7618ea771e714436dd"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -183450,7 +183626,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2f46596723fe0b772961374a8a1949cf222a2503972ef78cc6424e0734e39cce"
+      "Hash": "37b989ba57b8f9669e2b5b24e54dbf1d6419b2b723a1d509639063357815ab95"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -183808,7 +183984,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "be16efdf4587e11cc3015edb50ec07edbc990d8f1a939f0147c97021d0e17340"
+      "Hash": "7036a802244a069822c4f74e1c52e05f38f98712c81f62edf3712ca505698a8a"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -184781,7 +184957,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "34f3fd90d19384d1d089acdccc36a80c9e5a3d2fd8e837069abac5bb66dd1bbc"
+      "Hash": "29deb2bd13132d5e1fa00056ae0decab946f15d32723fae8e8fa851418d56262"
     },
     "h1:privy-bbp": {
       "Key": "privy-bbp",
@@ -187618,7 +187794,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "71882b9f11d90ec53d14c3692d135242aeef0d0bb60981173e3da3021b7117e7"
+      "Hash": "719ba1b3ebf58ce21e4fb0cacb59e2a2bc79091a7e2df56f0e0f8c300b7a48cf"
     },
     "h1:security": {
       "Key": "security",
@@ -188039,7 +188215,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "edec127fe77bb8e40430c12ad0d3e80efa034c1f88e11d1eba589c55df8b080d"
+      "Hash": "011fdb44f120712fde5cff460c93deb988230ac5efb157493251dcfdd1841b66"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -188754,7 +188930,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7bb7ddcb293d5d4a0bd676d4d27951d912c3f82ec1339f8c13d4bc6dbfc4059b"
+      "Hash": "30fc6730706dcb91bc945e0e96d5d4f039c971367d38e4fb823b5e3f21cf9a10"
     },
     "h1:snapchat": {
       "Key": "snapchat",
@@ -188984,7 +189160,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "9ea263c1e09c46d9101e54f2cfcd0e3d57eb9f923f9962038d9f7e30dcbd60fb"
+      "Hash": "9c37ad0f55a151ef2e03f8168ee7b860bc491ec9492ff4958447d27a46b9dd51"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -189005,7 +189181,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "680672feb250fcbda8aa155628e7cecb5123a85c2ddf461018bb1e129d5daea4"
+      "Hash": "a9a00efcf89a63e3007c05fe3771837657cd90ad2b24438fd7285a9e10c9292e"
     },
     "h1:spotify": {
       "Key": "spotify",
@@ -189215,7 +189391,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dcc24e08b2aa32e4493fe79ef8986c54c9825290e781435b34300f412324f702"
+      "Hash": "155ff5f5ed9214172d86beebd8764f6490510ddcd6385a2ce974a53afbcbc570"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -189302,7 +189478,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6ec2f80019b3382f38c401c27f915cf3f277a7b5390ca5834d00d3d25ef6e3cc"
+      "Hash": "ef3d3fe0b43efea1b9d5098cb75f4a97e1a67ffb1d230a9952e1ca0be74745fa"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -189328,7 +189504,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "72b56770662723c65198e3dff1d1ef4f014b88bd573bf6ec60806636f1af6b21"
+      "Hash": "2379016789d0d263ddc301836313431954e8090a067409dfa8b731dd69810b1d"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -191026,7 +191202,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7dd86f0ebb18072ad9936d1b2c657988a8fa68e85e660f4dee7014835662423"
+      "Hash": "33800041e6ae121b2ebe576dd4de8f463974adb57ce8f45c446c9bebbd57e422"
     },
     "h1:tines_automation_vdp": {
       "Key": "tines_automation_vdp",
@@ -191212,7 +191388,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a5dd86ac91e902b4eeef00fcbd7da0b43c1a648e67905fa4efaa24cc762f7527"
+      "Hash": "bcaafb5b76851231812708511c6ab46fb1f56379c19a21ad45ae611c6cb3b619"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -192198,7 +192374,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "50deec5167618d34a4bfc7488952882ec681764be8fd30d4092aa385cc84b55e"
+      "Hash": "55429ed422db5e956966d32b3248d4cbc34468f7694a6c50d46abcdebec7cd1b"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -192780,7 +192956,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "808095079563129468cdad9471be52ca37983d783e638ee7eb60f3af288c4bf9"
+      "Hash": "02a4109aa0547b1ed65f3c6c9200aec2fd4095d0e714222e609f63cc5118979e"
     },
     "h1:ui": {
       "Key": "ui",
@@ -193243,7 +193419,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a1a73714fa9997edf911fa3be5d8194b2b7a43936a71ad31e51957bbd640ebcf"
+      "Hash": "948081c22bf35ebaf4621bf17e8ce764de1211e4141ee156523e884effecbd13"
     },
     "h1:urbancompany": {
       "Key": "urbancompany",
@@ -193724,7 +193900,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "27f715f5308440c70703f7a9de6d3ae97108d380b31e3fb157e345a699122910"
+      "Hash": "35bc5116e1bc45fee5fd0358ad5c03cfff4af504254e61de8b3292725ed584cc"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -194869,10 +195045,6 @@
           "ID": "info.authorize.net",
           "Type": "URL"
         },
-        "info.cybersource.com": {
-          "ID": "info.cybersource.com",
-          "Type": "URL"
-        },
         "merchantsignage.visa.com": {
           "ID": "merchantsignage.visa.com",
           "Type": "URL"
@@ -195283,7 +195455,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "752aea20527a07e386ef0962df0976a306aaff9511fd9131c95f66e80107bc2a"
+      "Hash": "ea2a35aee3ca9a45611c00ea4bf4b8c685bc330595a1b3499a6cc1e7c683840e"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -196000,7 +196172,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "436023feec20fbcb3cddbbe7b0ddb0b2a118b923308d10ca6f4ce7e0ce76ce94"
+      "Hash": "8087234c161c1fd4f42eeda509ad423ad51f08259af156bd154b4401ce75eb97"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -196066,7 +196238,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "91eb7e1c67b464151140bc2f43311e0af10888800e9c7aef63bbc18f1a7f767c"
+      "Hash": "61cf5e720bff965a7c3ed9b6e694cebbb3d4f7da9e6483a24ae74c64417dc2d1"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
@@ -196951,7 +197123,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7b909fc938e71f31eda7ee5b1d859ec62620c973388e21434c200d04c44a8020"
+      "Hash": "f71f09061d507e076687dddc9ca60e3c9adee5b4cc95877afc8d255009cea393"
     },
     "h1:zabbix": {
       "Key": "zabbix",
@@ -197005,7 +197177,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2c8b29d5c7051c8b9e5f4eb5c529b7c84f6df2ef8c89a9bd8bb72c391df494db"
+      "Hash": "8b63920d7071ccf3547c2e8ccda327a4d6a22abf49f909ccd4e09de14ebb4db7"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -199081,6 +199253,68 @@
         }
       },
       "Hash": "b210cb95a2d4981998d0275ce0f07742017afd48528fd4738734d4e18ab85160"
+    },
+    "in:23f5d877-7948-4740-830c-393e66753fc4": {
+      "Key": "23f5d877-7948-4740-830c-393e66753fc4",
+      "Name": "Monzo Public Bug Bounty Program",
+      "URL": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
+      "InScope": {
+        "*.monzo.com": {
+          "ID": "*.monzo.com",
+          "Type": "wildcard"
+        },
+        "*.prod-ffs.io": {
+          "ID": "*.prod-ffs.io",
+          "Type": "wildcard"
+        },
+        "1052238659": {
+          "ID": "1052238659",
+          "Type": "ios"
+        },
+        "co.uk.getmondo": {
+          "ID": "co.uk.getmondo",
+          "Type": "android"
+        },
+        "monzo.com": {
+          "ID": "monzo.com",
+          "Type": "url"
+        },
+        "www.monzo.com": {
+          "ID": "www.monzo.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.monzo.me": {
+          "ID": "*.monzo.me",
+          "Type": "wildcard"
+        },
+        "*/contact-discovery/*": {
+          "ID": "*/contact-discovery/*",
+          "Type": "wildcard"
+        },
+        "*/inbound-p2p/*": {
+          "ID": "*/inbound-p2p/*",
+          "Type": "wildcard"
+        },
+        "*/p2p/*": {
+          "ID": "*/p2p/*",
+          "Type": "wildcard"
+        },
+        "community.monzo.com": {
+          "ID": "community.monzo.com",
+          "Type": "url"
+        },
+        "login.internal.monzo.com": {
+          "ID": "login.internal.monzo.com",
+          "Type": "url"
+        },
+        "monzo.me": {
+          "ID": "monzo.me",
+          "Type": "url"
+        }
+      },
+      "Hash": "34f3e04d7057420a1711930d503132702f0a587251f682bbd014c16923083459"
     },
     "in:28e0de63-e932-43cf-8a23-5ea24dabd48f": {
       "Key": "28e0de63-e932-43cf-8a23-5ea24dabd48f",
