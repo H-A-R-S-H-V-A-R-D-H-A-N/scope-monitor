@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-01T04:59:20Z",
+  "captured_at": "2026-09-01T10:00:34Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23837,13 +23837,21 @@
       "Name": "Agoda Public",
       "URL": "https://hackerone.com/agoda-public",
       "InScope": {
+        "https://www.agoda.com/account/agodacash": {
+          "ID": "https://www.agoda.com/account/agodacash",
+          "Type": "URL"
+        },
+        "https://www.agoda.com/account/cashback": {
+          "ID": "https://www.agoda.com/account/cashback",
+          "Type": "URL"
+        },
         "https://www.agoda.com/book/": {
           "ID": "https://www.agoda.com/book/",
           "Type": "URL"
         }
       },
       "OutScope": {},
-      "Hash": "c342baf2a2e02a2639ae9f9c0a379f2567c6d17d2dcbd2c7162cdce7938e0121"
+      "Hash": "d25d3ecb14427b6a76945f1145faeaef4a9086b066c2bc07f3ccba33aa64a17e"
     },
     "h1:aig": {
       "Key": "aig",
@@ -23961,7 +23969,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "af36839ff2294c4bf57e538164e50c501c179d537568ffa3d3acdcdca70f7479"
+      "Hash": "6b52d02528ec8ff02c33f57c200a2fa271ec65ceb0a288b75cd9dcd6426f9161"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -31662,7 +31670,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "51007ea8454e62e8afbe3b9285de4a345a4b12edb63e719526b77644c5ca8fb8"
+      "Hash": "df0222f4625ce8c6422bfb5d7dc43e7fa5d41d30d0b2c3539cb35c2da7a1c50e"
     },
     "h1:british_airways_vdp": {
       "Key": "british_airways_vdp",
@@ -31712,7 +31720,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac9f48a8f794274da630b7a0e952848ebb52cfe513d4b26c7f97b1d04a29148a"
+      "Hash": "b8124fc012166ac72468429c199b54cf0cf5c31215ecab866d206baf978a0546"
     },
     "h1:bumba_bbp": {
       "Key": "bumba_bbp",
@@ -67173,7 +67181,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1d223a8fad0f2088d8dbc22a2759553f01fa4f067d6ca83b34d5d3bacd5f2d46"
+      "Hash": "9e29a770641a9f8ceefd4dcc195cc0a21ee0bdd7398c03af8dc8595bd87d9483"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -89142,7 +89150,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d6ab70926c6ffb2335e39affaa3d4e3759eb5279852208b96b5cf4cd37c06620"
+      "Hash": "d0f5457559f1cc335bbe52e6b4328220576f171c7143c85c0c5083724571a75d"
     },
     "h1:coursera": {
       "Key": "coursera",
@@ -95846,7 +95854,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5cd02383c0d8beb28c2a1dadefd73a3b2be909775fcb2cd90b6da6a68fdddcc2"
+      "Hash": "c9661964408e624f354fa7be6a17f252954a3ef1ca67cb97da801627e099b1eb"
     },
     "h1:django": {
       "Key": "django",
@@ -97841,7 +97849,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4f79f6f0aae17fec91400cfb8ad64c496bee3fdde5bbb76ab109fab34d859dbf"
+      "Hash": "8b50c312c4fb6b63cc5c61359a081c53ed3f705a056e326532c2e5bc82dbfb68"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -104272,7 +104280,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "32aabda392149ad4101e26e125bb5c6f23963fd1672d81fddc3942d90ef62df6"
+      "Hash": "117a332658e0594884700f8e2bfea9dd3e574b6b456470089255386d48c12b5b"
     },
     "h1:experian": {
       "Key": "experian",
@@ -146220,7 +146228,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "639f5468142ea051138bd45c560c132a2ae52373036cc045a26733656038885e"
+      "Hash": "a7822adf7c99f349edb3fd3fbe73a40a8773dbf9c561593857cdd7e6a268e73d"
     },
     "h1:floqast": {
       "Key": "floqast",
@@ -146999,7 +147007,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "45be0aa0dd49c90fcd58ac912f6559744370158fe103904a62b7e95627877057"
+      "Hash": "427dc98a8068eb665a8aea7a308ea8e7099eeb948f75d9eaa4561090168c21ff"
     },
     "h1:formassembly": {
       "Key": "formassembly",
@@ -147179,7 +147187,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4586ce80e2ad22e8fd2fbc8478477c0fb25d2548bdb78e6a8736c7e84dcbee28"
+      "Hash": "6ba32765e49f30bd43ba147979101d673cc157dba9097fbb141ad2fd1df7a416"
     },
     "h1:frontegg": {
       "Key": "frontegg",
@@ -151224,7 +151232,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1590dd0b84ebb89bcef898bb290c38a98ac32c9ff2afda39c75c3f01131e1e38"
+      "Hash": "9542a208c5a49def4d97ff8cf0228f6669f9362459f32993c1d71e520300dedc"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -152541,7 +152549,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bac9928436f893cb85247bda2ab680f9b684b5e2d1b76893b4d6664d1e3feab8"
+      "Hash": "09799653a950df04344ca3ace126a118850304f04daab4a9db449386afca7bdb"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -168520,7 +168528,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "258091fc78e2987b5d1b6dc39a5e07b2a11395341633b294de29313e1c94175c"
+      "Hash": "3eaaf114a887c1c4eeaf7c6423a086e5fa251dc41f659c7ea7dc822774ac35ff"
     },
     "h1:koho": {
       "Key": "koho",
@@ -170355,7 +170363,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9ab74f1b9c2c68df4dfbfed69662f3b63a9af421789eb328ecfc2da60665f049"
+      "Hash": "6b5340c174aa9a761be8032343d6bcc00d632d54914bfa11efc4bb894847c791"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -174690,7 +174698,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c935c3a66169bad98a568170b88cb8a1274f10f92c2e37168e76cf01c9599d80"
+      "Hash": "94668cc893838de1a29bbf7a575d230f325aab35d4abe80402fc8e994e9cf7a0"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -175011,7 +175019,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9bad1e87c46724827a10504188cc0a2dd87db26559895533ea6185775bebeb69"
+      "Hash": "7dcdec040966fddfa2797c9b43abdc8a1a1c44eeede878c97f32018b2e313edc"
     },
     "h1:msci": {
       "Key": "msci",
@@ -179926,7 +179934,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e1fd652a3c9f2b4a754ae83fb65ef329506937dfdd497d36f971276804840625"
+      "Hash": "2aef286ed804a712820ba19ba4829031e050bd2f4e8eae0cd6a70f29149c8a6a"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -180544,7 +180552,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "50838e60b830e46286d6e714073adbdf91c49fa684bad84dc44f0648cebcf44c"
+      "Hash": "6a1fc8a7798f10d796e0baef7d42a04a450bd713ef8ae740cacaa3a43512a053"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -184217,7 +184225,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b60b1efdb8c91875c14fe1a2c697e6de720c1577b3f76b076412dd446e9ea87d"
+      "Hash": "85272de58eecf0fd8ad83a1989a5f2acc0ada75bc4e44a99f6f383577e8dc321"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -185327,7 +185335,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cda9e02b9ce87760a1b86a883238fe7fab38b4e9a82867c9555aa8d5baa18e51"
+      "Hash": "85e2c015877ffd2535a951f50d10c52089bc75a9a6df1701faec2e3af06ea7f2"
     },
     "h1:r3": {
       "Key": "r3",
@@ -185400,7 +185408,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b87ab77531fb8326d70c72c7e99db1e70a211d342420cac76213ea901f72654c"
+      "Hash": "e8f6369858a2cbb389e718d59e61928399e3b4a89b7534ac550353143f1040e1"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -187300,7 +187308,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1ef546f2ed8321fb0b9e825d1fa3a61999037ee8a2138c68201e82816f8fc424"
+      "Hash": "53943669e4c733d331ff94ef03c66c593b2ce830731fc0608d83233918018a8d"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -188971,7 +188979,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "30fc6730706dcb91bc945e0e96d5d4f039c971367d38e4fb823b5e3f21cf9a10"
+      "Hash": "a1671a4c6d76b024d2cc5b90aafe8b62c513c58a16a5ba9b8bfcb6f23572f569"
     },
     "h1:snapchat": {
       "Key": "snapchat",
@@ -195867,7 +195875,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "93d65a028945cf88de78b65b8b2524e651ad0979f51e93163500e524c41c2f42"
+      "Hash": "f7585f3650581da34ba51c546dd009ef3c1ea9a12c924b9beca6fca3db7e85e9"
     },
     "h1:vueling_vdp": {
       "Key": "vueling_vdp",
@@ -195985,7 +195993,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "842f27fc1555878bb5d23fc8d9c122b71a85bb4e88cd822dbd2782ad40de983e"
+      "Hash": "a085b3c8b85e89351034f2ec4874dca204fc5a3bac9641300f3e634e91e55098"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -196583,7 +196591,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "60bc7d39ece896ea5c589a3b681aa1e7ce4a57e16fd60ad2869fba103790d4d2"
+      "Hash": "3f5cafd24715c4565d9a7918cad801f242a142683e4354386840810b0193d845"
     },
     "h1:x": {
       "Key": "x",
@@ -196961,7 +196969,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "eccaf0cb8f754b5987b5e12cfee2c62b03df3051b04722e58b1df7a4e2998082"
+      "Hash": "73855510033d5022096df13bbb3ea4d2304783588ca02cd68a4b467e343e1528"
     },
     "h1:xvideos": {
       "Key": "xvideos",
@@ -196999,7 +197007,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "630e2d0f0d362182c6a889669b258e8cc3b0704ee7e98b32399bdf2f2164c4e5"
+      "Hash": "609ea05730802c61946cd6bf52fedfbfc34c34fafff600f6843cd1d4030a3402"
     },
     "h1:yelp": {
       "Key": "yelp",
@@ -197218,7 +197226,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fc804742337a1785635f301fe19729b093b7e4819c87dea3aa19895305b2d9b6"
+      "Hash": "2ab4bca79c1ba5d1305a24b918cce3e1282fc789a675dad73b38bb0dbb5c7d44"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -204350,92 +204358,6 @@
       },
       "Hash": "183338b8fbcc9f3a3f50168e4fd116be4fc950c440e43299862eb9abe7b730cb"
     },
-    "in:afc4415d-c004-4cf8-9a12-e0f18cde6db5": {
-      "Key": "afc4415d-c004-4cf8-9a12-e0f18cde6db5",
-      "Name": "WP Engine Bug Bounty",
-      "URL": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "InScope": {
-        "*. advancedcustomfields.com": {
-          "ID": "*. advancedcustomfields.com",
-          "Type": "wildcard"
-        },
-        "*. bettersearchreplace.com": {
-          "ID": "*. bettersearchreplace.com",
-          "Type": "wildcard"
-        },
-        "*.deliciousbrains.com": {
-          "ID": "*.deliciousbrains.com",
-          "Type": "wildcard"
-        },
-        "*.localwp.com": {
-          "ID": "*.localwp.com",
-          "Type": "wildcard"
-        },
-        "*.nitropack.io": {
-          "ID": "*.nitropack.io",
-          "Type": "wildcard"
-        },
-        "*.studiopress.com": {
-          "ID": "*.studiopress.com",
-          "Type": "wildcard"
-        },
-        "*.wpengine.io": {
-          "ID": "*.wpengine.io",
-          "Type": "wildcard"
-        },
-        "*.wpesvc.net": {
-          "ID": "*.wpesvc.net",
-          "Type": "wildcard"
-        },
-        "WP Engine-developed WordPress Plugins and Themes": {
-          "ID": "WP Engine-developed WordPress Plugins and Themes",
-          "Type": "other"
-        },
-        "https://app.getflywheel.com": {
-          "ID": "https://app.getflywheel.com",
-          "Type": "url"
-        },
-        "https://getflywheel.com": {
-          "ID": "https://getflywheel.com",
-          "Type": "url"
-        },
-        "https://makeshift.film": {
-          "ID": "https://makeshift.film",
-          "Type": "url"
-        },
-        "https://my.wpengine.com": {
-          "ID": "https://my.wpengine.com",
-          "Type": "url"
-        },
-        "https://payments.wpengine.com": {
-          "ID": "https://payments.wpengine.com",
-          "Type": "url"
-        },
-        "https://studiopress.blog": {
-          "ID": "https://studiopress.blog",
-          "Type": "url"
-        },
-        "https://torquemag.io": {
-          "ID": "https://torquemag.io",
-          "Type": "url"
-        },
-        "https://velocitize.com": {
-          "ID": "https://velocitize.com",
-          "Type": "url"
-        },
-        "https://wpengine.com": {
-          "ID": "https://wpengine.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "marketing.nitropack.io": {
-          "ID": "marketing.nitropack.io",
-          "Type": "url"
-        }
-      },
-      "Hash": "fbd90ea7a0d2644c6cfbda18d54e897fb647873775ed3badb7489bd6dddd2c93"
-    },
     "in:afeb2624-ac2e-46bc-b078-b0e018baeb62": {
       "Key": "afeb2624-ac2e-46bc-b078-b0e018baeb62",
       "Name": "Cloudways by DigitalOcean",
@@ -205655,19 +205577,6 @@
         }
       },
       "Hash": "3c4447ead56608c6ed04900704cd59ffda488caf2165068164838ea2308e79bc"
-    },
-    "in:d96f2af8-ddf3-46db-94c9-55c05a8a070d": {
-      "Key": "d96f2af8-ddf3-46db-94c9-55c05a8a070d",
-      "Name": "Challenge 0826",
-      "URL": "https://www.intigriti.com/programs/intigriti/challenge0826/detail",
-      "InScope": {
-        "https://challenge-0826.challenges.intigriti.io": {
-          "ID": "https://challenge-0826.challenges.intigriti.io",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "04dd941a7e459b7a67833882299671bda52a67c90d27eaeb782dbe6ef9e7fadc"
     },
     "in:dd9dba85-e047-42f3-b59e-9328c7d49672": {
       "Key": "dd9dba85-e047-42f3-b59e-9328c7d49672",
