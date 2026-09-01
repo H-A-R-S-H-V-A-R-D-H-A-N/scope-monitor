@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-01T18:25:18Z",
+  "captured_at": "2026-09-01T21:17:53Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -10139,6 +10139,10 @@
           "ID": "Broken Link",
           "Type": "website"
         },
+        "OpenSea Solana Marketplace Program": {
+          "ID": "OpenSea Solana Marketplace Program",
+          "Type": "other"
+        },
         "http://wallet.opensea.io/": {
           "ID": "http://wallet.opensea.io/",
           "Type": "website"
@@ -10173,7 +10177,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bec620a2d1dae32f3356f872382edea4f100400adc7000227335c529865e7409"
+      "Hash": "1f19195718e49c1875740853cffa68595a0251c54ad6382f979d464fa1259746"
     },
     "bc:Opera Public Bug Bounty": {
       "Key": "Opera Public Bug Bounty",
@@ -14765,19 +14769,6 @@
       },
       "Hash": "8eaf5beaf91543999b91d01304456ecf03983dec0cf335b7765a607bda8e31d2"
     },
-    "bc:SpaceX/Starlink": {
-      "Key": "SpaceX/Starlink",
-      "Name": "SpaceX/Starlink",
-      "URL": "https://bugcrowd.com/engagements/spacex",
-      "InScope": {
-        "SpaceX and Starlink assets (target information and rewards detailed above on the brief)": {
-          "ID": "SpaceX and Starlink assets (target information and rewards detailed above on the brief)",
-          "Type": "website"
-        }
-      },
-      "OutScope": {},
-      "Hash": "eca2c456b9ea964ee7a716d5acb976682e909ed3bdc20f8df585fdbb5daf4b80"
-    },
     "bc:Square": {
       "Key": "Square",
       "Name": "Square",
@@ -14991,20 +14982,20 @@
       "Name": "T-Mobile",
       "URL": "https://bugcrowd.com/engagements/t-mobile",
       "InScope": {
-        "Assets labeled as in-scope": {
-          "ID": "Assets labeled as in-scope",
+        "Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)": {
+          "ID": "Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)",
+          "Type": "network"
+        },
+        "Leaked Credentials": {
+          "ID": "Leaked Credentials",
           "Type": "other"
         },
-        "Cellular Network Auth Bypass via Web/Mobile App": {
-          "ID": "Cellular Network Auth Bypass via Web/Mobile App",
-          "Type": "network"
+        "Self-Register Account on T-Mobile Microsoft Entra ID": {
+          "ID": "Self-Register Account on T-Mobile Microsoft Entra ID",
+          "Type": "other"
         },
-        "Full Corporate Network Access or Access to Sensitive Network Segments": {
-          "ID": "Full Corporate Network Access or Access to Sensitive Network Segments",
-          "Type": "network"
-        },
-        "Self Register Account on T-Mobile Microsoft Entra ID": {
-          "ID": "Self Register Account on T-Mobile Microsoft Entra ID",
+        "Subdomain Takeover": {
+          "ID": "Subdomain Takeover",
           "Type": "other"
         },
         "T\u0026P Servers": {
@@ -15042,22 +15033,6 @@
         "https://api.vistarmedia.eu": {
           "ID": "https://api.vistarmedia.eu",
           "Type": "website"
-        },
-        "https://apps.apple.com/us/app/syncup-drive/id1576574297": {
-          "ID": "https://apps.apple.com/us/app/syncup-drive/id1576574297",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/us/app/syncup-kids/id1503394062": {
-          "ID": "https://apps.apple.com/us/app/syncup-kids/id1503394062",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/us/app/syncup-tracker/id1526380335": {
-          "ID": "https://apps.apple.com/us/app/syncup-tracker/id1526380335",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388": {
-          "ID": "https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388",
-          "Type": "ios"
         },
         "https://apps.apple.com/us/app/t-mobile/id561625752": {
           "ID": "https://apps.apple.com/us/app/t-mobile/id561625752",
@@ -15126,10 +15101,6 @@
         "https://digits.t-mobile.com": {
           "ID": "https://digits.t-mobile.com",
           "Type": "website"
-        },
-        "https://digits.t-mobile.com/": {
-          "ID": "https://digits.t-mobile.com/",
-          "Type": "other"
         },
         "https://docker-staging.adstruc.com": {
           "ID": "https://docker-staging.adstruc.com",
@@ -15219,24 +15190,8 @@
           "ID": "https://platform.rc.blis.com",
           "Type": "website"
         },
-        "https://play.google.com/store/apps/details?id=com.tmobile.drive": {
-          "ID": "https://play.google.com/store/apps/details?id=com.tmobile.drive",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=com.tmobile.kids": {
-          "ID": "https://play.google.com/store/apps/details?id=com.tmobile.kids",
-          "Type": "android"
-        },
         "https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile": {
           "ID": "https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=com.tmobile.syncuptag": {
-          "ID": "https://play.google.com/store/apps/details?id=com.tmobile.syncuptag",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=com.tmobile.tuesdays\u0026hl=en_US\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.tmobile.tuesdays\u0026hl=en_US\u0026gl=US",
           "Type": "android"
         },
         "https://privacy.blismedia.com": {
@@ -15350,7 +15305,7 @@
           "Type": "website"
         }
       },
-      "Hash": "d2390b611d9d628635ee71215bbeeb40101d2f5404d427073e14d94813ecf951"
+      "Hash": "a0f5d583c2c184a2352860db22053be93533c36d86b02714a723d8f6890bac4f"
     },
     "bc:TIDAL": {
       "Key": "TIDAL",
@@ -23633,7 +23588,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6ebd7477768700c6628ae097e8eb830a864b4c5696ac160a385e541ccaa862d6"
+      "Hash": "188c2d5f4aeaa2d9889eb2a62cd47e0f4a35245e68e3bd2e06de7d6482ac7457"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -31536,6 +31491,10 @@
           "ID": "Box Drive",
           "Type": "OTHER"
         },
+        "Box Tools": {
+          "ID": "Box Tools",
+          "Type": "OTHER"
+        },
         "account.box.com": {
           "ID": "account.box.com",
           "Type": "URL"
@@ -31582,7 +31541,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8ea0e3c2e34bb79871c0bd4482ce055dc9017e2b17c5b0170e2ddcb93c012f81"
+      "Hash": "3c481cf8b81f8520ca93113221c2df72419aebc6062e8b1da966ef11b6174d29"
     },
     "h1:brave": {
       "Key": "brave",
@@ -151232,7 +151191,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a2c8c8d87580a4789e39fcb43ba3b6fed980247db5ccb8c822798843a600c197"
+      "Hash": "9542a208c5a49def4d97ff8cf0228f6669f9362459f32993c1d71e520300dedc"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -174555,7 +174514,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a77f245fa8c36d30f79aeb975d2716a232d5ee8af73a10c59638376641e50966"
+      "Hash": "73166b280f53993089e6e4097e4eda7292ea099e964a2707f19d8a19276f46be"
     },
     "h1:monero": {
       "Key": "monero",
@@ -179657,7 +179616,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b9868e2c9cfd1bd4961450dc5827429307b556c014f6bfe65fe260651432b88e"
+      "Hash": "6538564732d3657ef9961c9d9293c985ac1304bb6669939f84b92e30faa49759"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -179942,7 +179901,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "167b50f4124cc77889d21b5fa41c9cc3e405b0f694ee76f8eb7501ef15a110d7"
+      "Hash": "1987ff4409626f21d6aac7d1fb89d97c22b39f352ca3ac22cbafdb5244438bbc"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -180991,7 +180950,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0ceba2cff99f605abd4f38945f3daeac5506412b35a54f7f285634dc9ef5cd87"
+      "Hash": "198e6a04eece8b51630785f496b9274bd6cf2f574ed40c6dbca2c0e8def92228"
     },
     "h1:on": {
       "Key": "on",
@@ -182201,7 +182160,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "58917e31cb982d3beef2f2c357c06766495a6ecaa45a6d4e0d28ab508dba3332"
+      "Hash": "3c21c8be2d7c56aac4de74257b6ffb2d822e6e90eed163dbb36c9d82a4c192ec"
     },
     "h1:palantir_public": {
       "Key": "palantir_public",
@@ -183752,7 +183711,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "48e8ee95390e6f88d1529e4857befffb9717697e61a57c27dee6c9ce47b21c77"
+      "Hash": "640babb705da8f73b7119d5324e7295435e1aa19517a2140e06a8e6404391b54"
     },
     "h1:picsart": {
       "Key": "picsart",
@@ -184233,7 +184192,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "85272de58eecf0fd8ad83a1989a5f2acc0ada75bc4e44a99f6f383577e8dc321"
+      "Hash": "b60b1efdb8c91875c14fe1a2c697e6de720c1577b3f76b076412dd446e9ea87d"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -185343,7 +185302,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c13eaf51fee6da3bf20bf9054e8decf67bbdd45a8482417c8287cdb686516320"
+      "Hash": "1ff45b08d52b306fb18c2ba3f417bec3b67b234d804b39594d7245192796c29a"
     },
     "h1:r3": {
       "Key": "r3",
@@ -185383,7 +185342,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "074b88ff7076d2940a521fb236b35bcc5b9caaef325221ea9434e7ad19bc151a"
+      "Hash": "b05ea8a857d308b0286c10168d5309c0a38ce806fc6c3677f4fc846ee098d4e5"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -190379,7 +190338,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ace2de25fa56ef30757dc918d2cf946b5ae77ca10095171368a3ded2b358454b"
+      "Hash": "a70ca1f34692e74a987176b48b0fce586ced381d3a58e60992e503d3d8d4dc1b"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -192176,7 +192135,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1dc5089db3a7bf945f88c0f8bd163165c0173cfe4ddcf86123da0b9f6ea49c6f"
+      "Hash": "4ecf2dcdcfc241a6695768d89009d2c286cd422074b8484615091156642ccf29"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -192365,7 +192324,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "31da7668b9a61c2c6dfababf64196ade09a66c6c4c2028ff2f80a9f3f4f178cb"
+      "Hash": "be12842e70940888cd0b629c1c9a98c19577f063b91872018665a0243b321892"
     },
     "h1:truecaller": {
       "Key": "truecaller",
@@ -195980,6 +195939,14 @@
         }
       },
       "OutScope": {
+        "app.wealthsimple.com": {
+          "ID": "app.wealthsimple.com",
+          "Type": "URL"
+        },
+        "gifts.wealthsimple.com": {
+          "ID": "gifts.wealthsimple.com",
+          "Type": "URL"
+        },
         "groove.wealthsimple.com": {
           "ID": "groove.wealthsimple.com",
           "Type": "URL"
@@ -195988,8 +195955,16 @@
           "ID": "help.wealthsimple.com",
           "Type": "URL"
         },
+        "newsroom.wealthsimple.com": {
+          "ID": "newsroom.wealthsimple.com",
+          "Type": "URL"
+        },
         "schedule.wealthsimple.com": {
           "ID": "schedule.wealthsimple.com",
+          "Type": "URL"
+        },
+        "shop.wealthsimple.com": {
+          "ID": "shop.wealthsimple.com",
           "Type": "URL"
         },
         "start.wealthsimple.com": {
@@ -196017,7 +195992,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8f85619e9637b45a3876576ebbbf3e9edf9a00b6254bc737d2e8263185383f73"
+      "Hash": "da320f7a83f9e1715009e1fb892fe4403bb6352f5c2053f7fc86ba1b55b94083"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -196311,7 +196286,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6d838fad87ecbaa7de08b9acad5f09f3ccaf2600ff75f6e82d1b8db3fc12b450"
+      "Hash": "7cf1fdfc72d5fcdd2c78c436f8a8c1100680929cdb5149958a896fbafd1e3469"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
@@ -197250,7 +197225,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bd04e2345748945d43e7b4849cc42fece99cd9493ac777b37860a96586399e6c"
+      "Hash": "7c3173a753cfe245b2f96f0016a9101951132788151d66a4cf3ee4194fe5a54c"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
