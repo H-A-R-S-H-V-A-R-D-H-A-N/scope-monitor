@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-02T11:41:26Z",
+  "captured_at": "2026-09-02T16:30:20Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -5626,55 +5626,6 @@
         }
       },
       "Hash": "92c9b10ecafeac8e443c5747522937a6b689d204eae6b24539a138bf32bdb10d"
-    },
-    "bc:Hypixel Studios Managed Bug Bounty Engagement": {
-      "Key": "Hypixel Studios Managed Bug Bounty Engagement",
-      "Name": "Hypixel Studios Managed Bug Bounty Engagement",
-      "URL": "https://bugcrowd.com/engagements/hypixel-studios-mbb-og",
-      "InScope": {
-        "3rd Party Integrations (Hytale-side issues only)": {
-          "ID": "3rd Party Integrations (Hytale-side issues only)",
-          "Type": "website"
-        },
-        "Hypixel Public APIs": {
-          "ID": "Hypixel Public APIs",
-          "Type": "api"
-        },
-        "Hytale Game Client": {
-          "ID": "Hytale Game Client",
-          "Type": "website"
-        },
-        "Hytale Game Server": {
-          "ID": "Hytale Game Server",
-          "Type": "other"
-        },
-        "Hytale Launcher": {
-          "ID": "Hytale Launcher",
-          "Type": "website"
-        },
-        "http://arcanitegames.ca/": {
-          "ID": "http://arcanitegames.ca/",
-          "Type": "website"
-        },
-        "https://accounts.hytale.com/login": {
-          "ID": "https://accounts.hytale.com/login",
-          "Type": "website"
-        },
-        "https://hytale.com/": {
-          "ID": "https://hytale.com/",
-          "Type": "website"
-        },
-        "https://hytale.dev/": {
-          "ID": "https://hytale.dev/",
-          "Type": "website"
-        },
-        "https://store.hytale.com/": {
-          "ID": "https://store.hytale.com/",
-          "Type": "website"
-        }
-      },
-      "OutScope": {},
-      "Hash": "1727339d41cbfb9c9370fd978069ce1aebc27218ad276350ef469ed734c17ebb"
     },
     "bc:Ibotta": {
       "Key": "Ibotta",
@@ -23937,7 +23888,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6b52d02528ec8ff02c33f57c200a2fa271ec65ceb0a288b75cd9dcd6426f9161"
+      "Hash": "af36839ff2294c4bf57e538164e50c501c179d537568ffa3d3acdcdca70f7479"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -24169,7 +24120,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "58c15bbaeeeb1f0153ac2d76ce74dcae02c292180898000590347819489c7d84"
+      "Hash": "38dd3e2292b9baebcb0d5936171dd8b0f1d1f4c6e50f6bbb1f8ad548165593ae"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -24290,7 +24241,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f24cc01fb4c3f52788ba7f08cd02a8f97dec9baeb32dc61dcd7bebda871d691f"
+      "Hash": "679fc424e6d917442a81686da6f3b0b53f103c558580e96b12c584be5e066b66"
     },
     "h1:allegion": {
       "Key": "allegion",
@@ -26276,7 +26227,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f2ad9bd07c4dfc833b1d47681ac509bfdef13aa2f6d4dc462450e89cf2a3bace"
+      "Hash": "96c59b4595ab8cc1edb6ea56a53d89c524d977a9819e5d9d2fb5eda2062073ba"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -30577,7 +30528,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "eff3ff98fa47e6cca7121375a87a46c19b1113dbeb25ef0d2b0dccf7403c60a2"
+      "Hash": "ea64e9e8baacc2cd32698053d16d2b20b48b352a7fbcec98c18f745afb3b0a91"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -97825,7 +97776,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8c0bb408380ca918219d28a6dd7cd6b629e558c2d66291e215b811207b0319da"
+      "Hash": "edddd9c90aad28bdbd9b35172980202582f17ce3bae079a4dffefaad2355c0a3"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -146155,7 +146106,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a12accac0ad2bce01f4d02459f92470b73b82212ab99cc9c4553ef1f5ce7d81f"
+      "Hash": "e73b461b504d6401ace0dbcea3a8861f6a6e1c5da4e75d96755d04dc1fc2cbb8"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -147441,7 +147392,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "209643383361399a2a07388918f9cdc94cea90d0ff73021aeffaf3e1dad00416"
+      "Hash": "96353f960654bca4488ebdc356769510a5aa8fca3c42bec34a23b25012b1f812"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -150379,7 +150330,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "6c7917f6fd5797927545ffcc7c433bb1b28051b1a21bfab4e05bb5ab7f28def5"
+      "Hash": "67510abed9dde979578311f890f4a25198a94d11c93340b37bcec3a1368095b6"
     },
     "h1:hpe_vdp": {
       "Key": "hpe_vdp",
@@ -152268,7 +152219,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "038b5a7c503f386ec14feabf489ae1473188ace5673a4f2331bad023ffac6831"
+      "Hash": "9b87be83648717278dea68c1b0389f0b4f093f5b90c71c2b074500284020c9e2"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -162624,6 +162575,10 @@
           "ID": "jdparts.deere.com",
           "Type": "URL"
         },
+        "jdpo-cert.deere.com": {
+          "ID": "jdpo-cert.deere.com",
+          "Type": "URL"
+        },
         "jdpo-devl.deere.com": {
           "ID": "jdpo-devl.deere.com",
           "Type": "URL"
@@ -167563,7 +167518,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "74367479c08118bca0b9142cda35ed7f3ab3d1c5270328a3c4ccf5fe8702f849"
+      "Hash": "e8e34141db097ca4af0c20849e10201dd55149d6fb4181ce6008cc130865e4f9"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -167762,7 +167717,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "2786f1d930d9bb48471d0ea44172c7af6750115e59a70c944d7f04b4d365feb6"
+      "Hash": "d651ec98f76ea02382d358c3b5d5628cbf55ad815ec79a652d5398b3101b520b"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -168019,7 +167974,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "51c8308c65ee79071d0c1f2e42c3f0dcd2e3f41dfc295c170d4c87098eb709e5"
+      "Hash": "6f13fdb76571bc5bd2d678bd6c8606dde27939f89147f6a6b29fcb89ed32b92e"
     },
     "h1:kiwicom": {
       "Key": "kiwicom",
@@ -168446,7 +168401,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c7edb8a3826231e4066484ef2e05e737c6da0ad2231fe52c53fa273ac4c4032d"
+      "Hash": "db9f866b88b371c8d7367152bbe73f530c529f56189563f324ad0e044947866c"
     },
     "h1:klarna": {
       "Key": "klarna",
@@ -168688,7 +168643,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f8869f569d1bb296079aeade23f0785387f7f20b4f42289a493d822e281a5cb4"
+      "Hash": "aac945c80c99250a5d607915af0e251f6c5f7e28a0dd9d7b2d4a03457d8b3996"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -169419,7 +169374,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0b58fd24b1b99b67efd974bb985feda3910d8658227360a8ea0b1d86464b9fd0"
+      "Hash": "d573b5e6fa7768eea5cf7adf488f530fd9242f41b542e3ab9757f1d5b6d08dc1"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -170355,7 +170310,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f0ae272ce1a93ad6e0a3ed31513b5b28141d6f9b32712ddd83de3cc1f226f9bf"
+      "Hash": "18148445605e51f46b8ae52fcae80d3b77f6cf6682435632407b6c9db2aa1e98"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -171258,7 +171213,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "486681f29f80d0dc4000095e727d73523dcad4194adc2498fcebff0f358d867b"
+      "Hash": "94c3683515eb62baa628e5d1285a79bd1a36f2ce919d41712711a5a06c75700c"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -173082,7 +173037,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ee4babdfbb61f000fef518d2e850cf6e6914e029a320f98b5988e14b189895ec"
+      "Hash": "ead12022920e3cce5b939548fd9480d8f2b9124a8476f6aa4bae3a03b6c4d1ab"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -179641,7 +179596,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d9eba5c626f7d7888b9784bcf63b1a805393dd9ab4afb0537150400ab560df05"
+      "Hash": "d940d6b7be6d326eae48f200be79b373f566adeb85d3c447a50d80c08cf49120"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -179662,7 +179617,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "13bf37c1391cb7ee8aa1a36d574a65d4e73fb01ccfd6b4ff7b563634e80b53c1"
+      "Hash": "47fb863a9fd3dceb71dbcda76c8968117624987feb253ee9af1bf6eb487c6e53"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -179926,7 +179881,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8fe802e9d3475096af73c7e220f40e3948921eb6057afc7c73aa4b9b4a2b36e2"
+      "Hash": "c1f5c8205c7faf8b039d11b46a36d23c3bd6f9bb13a23a957f6abc68912e77a2"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -180544,7 +180499,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b8bceafcefe9b00dd0e0fa1372061b780dd44f0544da82915ac4a9a0a0589b47"
+      "Hash": "deff56941f5302c0a2594271cb76e9d108293d9721e1b20f06809c1b50cb6e8d"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -181063,7 +181018,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9175d1cc94d3432e48c7b1365753818fcef6383d63bd3bdaba611f6b2322aad2"
+      "Hash": "386c12fd4d7630f7d21203519e173c532af4464181f24abbbddc97e5058d0dd6"
     },
     "h1:oportun_vdp": {
       "Key": "oportun_vdp",
@@ -182379,7 +182334,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c3c4b363947f444b4f661f72898844b5eba4f25ca7c843f1da8fef1ebbaf085f"
+      "Hash": "e3df0d6b1d6f1e94bc5c06eb0e994b4d9b15ffc7675b51c3dadc243e4ecf45c7"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -182577,7 +182532,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8dfe095627e65aa28fbb5e4bbcb5935f7e90bab5a6332bd6e0f25f662f0b6235"
+      "Hash": "249a9956d454f939c215691270779226fcfca9a4c65d896f825f058b3d7847a2"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -183667,7 +183622,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "37b989ba57b8f9669e2b5b24e54dbf1d6419b2b723a1d509639063357815ab95"
+      "Hash": "a7c6d143656ed234a7ad81b2149d38695e25fe08082edb498eeec0f087be87f2"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -184025,7 +183980,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ff26482d0f515c41664f504d17036a81eef8d65c76dda9b446f4f0e05c4275ce"
+      "Hash": "64d16d49bb509c064c3ff94624142b1225deb6a283e0c1c0cb4e05ddb4f7c4e3"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -185327,7 +185282,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cced15164a132986688d7c617ae65f6a0ac49e05e1bec51874310df5a10ba17a"
+      "Hash": "a84d1b89c53829c3f22a892d0ad4e2679c362a8faa65534bd401c9580a35301f"
     },
     "h1:r3": {
       "Key": "r3",
@@ -185604,7 +185559,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "942b65a17da58f7045b736625d57d457f4e3fc22cc2e8d5ac129677dc81ae843"
+      "Hash": "5e0a0c22365bbdcc8f2fd7011274fc455cf185cfac853bc2134e837291db6950"
     },
     "h1:redox_bbp": {
       "Key": "redox_bbp",
@@ -188053,6 +188008,187 @@
       },
       "Hash": "4781a6a57dc17f84353fdf10787fe9e4274214c49318abea3c5bcad380844d92"
     },
+    "h1:semtech": {
+      "Key": "semtech",
+      "Name": "Semtech",
+      "URL": "https://hackerone.com/semtech",
+      "InScope": {
+        "*.airvantage.net": {
+          "ID": "*.airvantage.net",
+          "Type": "WILDCARD"
+        },
+        "*.loracloud.com": {
+          "ID": "*.loracloud.com",
+          "Type": "WILDCARD"
+        },
+        "*.sierrawireless.com": {
+          "ID": "*.sierrawireless.com",
+          "Type": "WILDCARD"
+        },
+        "*airvantage.net": {
+          "ID": "*airvantage.net",
+          "Type": "WILDCARD"
+        },
+        "*learn.semtech.com": {
+          "ID": "*learn.semtech.com",
+          "Type": "WILDCARD"
+        },
+        "*sierrawireless-com.go-vip.net": {
+          "ID": "*sierrawireless-com.go-vip.net",
+          "Type": "WILDCARD"
+        },
+        "*vpn*.semtech.com": {
+          "ID": "*vpn*.semtech.com",
+          "Type": "WILDCARD"
+        },
+        "Airlink ALEOS": {
+          "ID": "Airlink ALEOS",
+          "Type": "HARDWARE"
+        },
+        "Airlink XR/RX (\u003e=AOS 6.1) ": {
+          "ID": "Airlink XR/RX (\u003e=AOS 6.1) ",
+          "Type": "HARDWARE"
+        },
+        "Any Semtech Hardware Product": {
+          "ID": "Any Semtech Hardware Product",
+          "Type": "HARDWARE"
+        },
+        "Any Semtech Mobile Application": {
+          "ID": "Any Semtech Mobile Application",
+          "Type": "OTHER"
+        },
+        "Any Semtech Software Product": {
+          "ID": "Any Semtech Software Product",
+          "Type": "OTHER"
+        },
+        "LoRa LR": {
+          "ID": "LoRa LR",
+          "Type": "HARDWARE"
+        },
+        "Sierra Wireless Modules": {
+          "ID": "Sierra Wireless Modules",
+          "Type": "HARDWARE"
+        },
+        "autodiscover.semtech.com": {
+          "ID": "autodiscover.semtech.com",
+          "Type": "URL"
+        },
+        "blog*semtech.com": {
+          "ID": "blog*semtech.com",
+          "Type": "WILDCARD"
+        },
+        "br.learn.semtech.com": {
+          "ID": "br.learn.semtech.com",
+          "Type": "URL"
+        },
+        "chat.semtech.com": {
+          "ID": "chat.semtech.com",
+          "Type": "URL"
+        },
+        "collaborate.semtech.com": {
+          "ID": "collaborate.semtech.com",
+          "Type": "URL"
+        },
+        "csm.semtech.com": {
+          "ID": "csm.semtech.com",
+          "Type": "URL"
+        },
+        "customercommunity.sierrawireless.com": {
+          "ID": "customercommunity.sierrawireless.com",
+          "Type": "URL"
+        },
+        "forum.sierrawireless.com": {
+          "ID": "forum.sierrawireless.com",
+          "Type": "URL"
+        },
+        "gitlab.semtech.com": {
+          "ID": "gitlab.semtech.com",
+          "Type": "URL"
+        },
+        "go.semtech.com": {
+          "ID": "go.semtech.com",
+          "Type": "URL"
+        },
+        "help.semtech.com": {
+          "ID": "help.semtech.com",
+          "Type": "URL"
+        },
+        "http://www.airvantage.net": {
+          "ID": "http://www.airvantage.net",
+          "Type": "URL"
+        },
+        "info*semtech.com": {
+          "ID": "info*semtech.com",
+          "Type": "WILDCARD"
+        },
+        "investors.semtech.com": {
+          "ID": "investors.semtech.com",
+          "Type": "URL"
+        },
+        "jira.semtech.com": {
+          "ID": "jira.semtech.com",
+          "Type": "URL"
+        },
+        "m2mconnectivity.com.au": {
+          "ID": "m2mconnectivity.com.au",
+          "Type": "URL"
+        },
+        "m2mone.co.nz": {
+          "ID": "m2mone.co.nz",
+          "Type": "URL"
+        },
+        "m2mone.com.au": {
+          "ID": "m2mone.com.au",
+          "Type": "URL"
+        },
+        "partners.sierrawireless.com": {
+          "ID": "partners.sierrawireless.com",
+          "Type": "URL"
+        },
+        "partnertraining.semtech.com": {
+          "ID": "partnertraining.semtech.com",
+          "Type": "URL"
+        },
+        "qa.airvantage.io": {
+          "ID": "qa.airvantage.io",
+          "Type": "URL"
+        },
+        "saml.semtech.com": {
+          "ID": "saml.semtech.com",
+          "Type": "URL"
+        },
+        "semtech.my.site.com": {
+          "ID": "semtech.my.site.com",
+          "Type": "URL"
+        },
+        "shop.semtech.com": {
+          "ID": "shop.semtech.com",
+          "Type": "URL"
+        },
+        "source.sierrawireless.com": {
+          "ID": "source.sierrawireless.com",
+          "Type": "URL"
+        },
+        "status.sierrawireless.com": {
+          "ID": "status.sierrawireless.com",
+          "Type": "URL"
+        },
+        "stg.semtech.com": {
+          "ID": "stg.semtech.com",
+          "Type": "URL"
+        },
+        "www.semtech.com": {
+          "ID": "www.semtech.com",
+          "Type": "URL"
+        },
+        "www.sierrawireless.com": {
+          "ID": "www.sierrawireless.com",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {},
+      "Hash": "55a03e66af4883eb923f0098f11d1121cca6e49986b5aefa1c440d330bae8e21"
+    },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
       "Name": "ServiceNow Disclosure",
@@ -189222,7 +189358,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ecff3a25a7837254162c09ea2b11ec1610c6dcf38d4a024aec3588ebf56e6823"
+      "Hash": "5e5c5c3babe1871352bf7763b33183bc4db89528108609cec6222a21004792fe"
     },
     "h1:spotify": {
       "Key": "spotify",
@@ -192789,7 +192925,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4c6e746b0212e7b88f17bb8c81a69fbebc641e0834c2cb7400467a67b149fb58"
+      "Hash": "8d344995302d2b0536b6e0291799c79ea4ccb88a7afd746f2fc645ac88bfa493"
     },
     "h1:uber": {
       "Key": "uber",
@@ -192989,7 +193125,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "02a4109aa0547b1ed65f3c6c9200aec2fd4095d0e714222e609f63cc5118979e"
+      "Hash": "c46e8ce834d782d4bc360d145e6655a9bda1b90a2d77e5ba91746b2648519df7"
     },
     "h1:ui": {
       "Key": "ui",
@@ -197088,7 +197224,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c57c8ee8bd132096197cf6453aa2a06c7d5132958c18f7c3dd9ee6136f0ee586"
+      "Hash": "2843857bf897e659fc50c9f5957e235dbd293380bd6694d9040d9a238e06eb84"
     },
     "h1:yoti": {
       "Key": "yoti",
@@ -197237,7 +197373,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "48d81dbe7ff1e7fe67fd0cd87a95436199373133ca3028a0434d943868510a7a"
+      "Hash": "49993f16efa39b6e5bc6f829c02642e2c9ecd55601e771e9d759f289fba2bef8"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -197906,7 +198042,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0410308afb9ed8848e9e2f228c1445b3fcf07529ed9dc6ae7c394140d2cff125"
+      "Hash": "bd6461fe66b86005767748dcce4551f86fe0bfae56ca14670d84556ecef6e924"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -200204,6 +200340,27 @@
       },
       "OutScope": {},
       "Hash": "a747b946cf8b369311d9552c562decf9b36d993e62ee841ee617ee770ed93aec"
+    },
+    "in:2f9642bb-830b-4756-9cbe-391e44175b8a": {
+      "Key": "2f9642bb-830b-4756-9cbe-391e44175b8a",
+      "Name": "Liferay DXP",
+      "URL": "https://www.intigriti.com/programs/liferay/liferaydxp/detail",
+      "InScope": {
+        "Liferay DXP 2024.Q1": {
+          "ID": "Liferay DXP 2024.Q1",
+          "Type": "other"
+        },
+        "Liferay DXP 2025.Q1": {
+          "ID": "Liferay DXP 2025.Q1",
+          "Type": "other"
+        },
+        "Liferay DXP 2026.Q1": {
+          "ID": "Liferay DXP 2026.Q1",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "42db9d1d046addc7a2776b54a9709b19f9256db61b6ed5bec6a4804b88075977"
     },
     "in:30f445f7-ca4c-4130-9434-49add5c6ac74": {
       "Key": "30f445f7-ca4c-4130-9434-49add5c6ac74",
