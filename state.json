@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-01T23:32:35Z",
+  "captured_at": "2026-09-02T01:21:55Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -4627,6 +4627,160 @@
       },
       "OutScope": {},
       "Hash": "193a96229a0b1281cf730815fe0c072c1390aed82a9626b97146907f9b8ab9d2"
+    },
+    "bc:EPAM Systems Managed Bug Bounty Program": {
+      "Key": "EPAM Systems Managed Bug Bounty Program",
+      "Name": "EPAM Systems Managed Bug Bounty Program",
+      "URL": "https://bugcrowd.com/engagements/epam-mbb-og",
+      "InScope": {
+        "*.emakina.at": {
+          "ID": "*.emakina.at",
+          "Type": "website"
+        },
+        "*.emakina.ch": {
+          "ID": "*.emakina.ch",
+          "Type": "website"
+        },
+        "*.emakina.com": {
+          "ID": "*.emakina.com",
+          "Type": "website"
+        },
+        "*.emakina.fr": {
+          "ID": "*.emakina.fr",
+          "Type": "website"
+        },
+        "*.emakina.group": {
+          "ID": "*.emakina.group",
+          "Type": "website"
+        },
+        "*.emakina.nl ": {
+          "ID": "*.emakina.nl ",
+          "Type": "website"
+        },
+        "*.emakina.us": {
+          "ID": "*.emakina.us",
+          "Type": "website"
+        },
+        "In Scope - Points only": {
+          "ID": "In Scope - Points only",
+          "Type": "other"
+        },
+        "Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com": {
+          "ID": "Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com",
+          "Type": "website"
+        },
+        "https://*.epam.com": {
+          "ID": "https://*.epam.com",
+          "Type": "other"
+        },
+        "https://lab.epam.com": {
+          "ID": "https://lab.epam.com",
+          "Type": "website"
+        },
+        "https://opensource.epam.com": {
+          "ID": "https://opensource.epam.com",
+          "Type": "website"
+        },
+        "https://projects.epam.com": {
+          "ID": "https://projects.epam.com",
+          "Type": "website"
+        },
+        "https://www.epam.com/": {
+          "ID": "https://www.epam.com/",
+          "Type": "website"
+        },
+        "open redirect at *.epam.com": {
+          "ID": "open redirect at *.epam.com",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "http://ebn.epam.com/": {
+          "ID": "http://ebn.epam.com/",
+          "Type": "website"
+        },
+        "https://*buddybot.lab.epam.com": {
+          "ID": "https://*buddybot.lab.epam.com",
+          "Type": "website"
+        },
+        "https://admin-ui.preship.gcp.gnrg-osdu.projects.epam.com": {
+          "ID": "https://admin-ui.preship.gcp.gnrg-osdu.projects.epam.com",
+          "Type": "website"
+        },
+        "https://anywhere.epam.com/": {
+          "ID": "https://anywhere.epam.com/",
+          "Type": "website"
+        },
+        "https://apex.lab.epam.com/": {
+          "ID": "https://apex.lab.epam.com/",
+          "Type": "website"
+        },
+        "https://cami.lab.epam.com/": {
+          "ID": "https://cami.lab.epam.com/",
+          "Type": "website"
+        },
+        "https://carbon.epam.com/": {
+          "ID": "https://carbon.epam.com/",
+          "Type": "website"
+        },
+        "https://customersupport.epam.com/": {
+          "ID": "https://customersupport.epam.com/",
+          "Type": "website"
+        },
+        "https://display.epam.com/": {
+          "ID": "https://display.epam.com/",
+          "Type": "website"
+        },
+        "https://ecsd00300769.epam.com/": {
+          "ID": "https://ecsd00300769.epam.com/",
+          "Type": "website"
+        },
+        "https://ellie.lab.epam.com/": {
+          "ID": "https://ellie.lab.epam.com/",
+          "Type": "website"
+        },
+        "https://ethics.epam.com/": {
+          "ID": "https://ethics.epam.com/",
+          "Type": "website"
+        },
+        "https://info.epam.com": {
+          "ID": "https://info.epam.com",
+          "Type": "website"
+        },
+        "https://investors.epam.com/": {
+          "ID": "https://investors.epam.com/",
+          "Type": "website"
+        },
+        "https://profile.epam.com": {
+          "ID": "https://profile.epam.com",
+          "Type": "website"
+        },
+        "https://solutionshub.epam.com/": {
+          "ID": "https://solutionshub.epam.com/",
+          "Type": "website"
+        },
+        "https://support.epam.com/": {
+          "ID": "https://support.epam.com/",
+          "Type": "website"
+        },
+        "https://supportnow.epam.com/": {
+          "ID": "https://supportnow.epam.com/",
+          "Type": "website"
+        },
+        "https://wearecommunity.io/": {
+          "ID": "https://wearecommunity.io/",
+          "Type": "website"
+        },
+        "https://www.infongen.com/": {
+          "ID": "https://www.infongen.com/",
+          "Type": "website"
+        },
+        "https://www.telescopeai.com/": {
+          "ID": "https://www.telescopeai.com/",
+          "Type": "website"
+        }
+      },
+      "Hash": "f157589b13ef54e9c5f6822c2760bbfaf4a9cff187af39d742bfe3e8bde5e6e3"
     },
     "bc:Easy Agile": {
       "Key": "Easy Agile",
@@ -14614,19 +14768,6 @@
         }
       },
       "Hash": "8eaf5beaf91543999b91d01304456ecf03983dec0cf335b7765a607bda8e31d2"
-    },
-    "bc:SpaceX/Starlink": {
-      "Key": "SpaceX/Starlink",
-      "Name": "SpaceX/Starlink",
-      "URL": "https://bugcrowd.com/engagements/spacex",
-      "InScope": {
-        "SpaceX and Starlink assets (target information and rewards detailed above on the brief)": {
-          "ID": "SpaceX and Starlink assets (target information and rewards detailed above on the brief)",
-          "Type": "website"
-        }
-      },
-      "OutScope": {},
-      "Hash": "eca2c456b9ea964ee7a716d5acb976682e909ed3bdc20f8df585fdbb5daf4b80"
     },
     "bc:Square": {
       "Key": "Square",
@@ -88116,6 +88257,10 @@
           "ID": "api.thecoalition.com",
           "Type": "URL"
         },
+        "app.wirespeed.co": {
+          "ID": "app.wirespeed.co",
+          "Type": "URL"
+        },
         "coalitioninc.com": {
           "ID": "coalitioninc.com",
           "Type": "URL"
@@ -88139,7 +88284,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7bbeb30f03368499b7852c24fbe528c79ec41844dc32576452aeea64db34af38"
+      "Hash": "e4103447152f7ec7d8f3157b69f4dd9a0d2fd9f9ba7a06bacce2f8f0fdb657df"
     },
     "h1:cognition": {
       "Key": "cognition",
@@ -96838,7 +96983,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "25067a2dd714e979cec5ae45db7fcd8aba7ec000af258c0c13208b3811738a8e"
+      "Hash": "7c758c9bdf3c31f7d79be2e84b289db2712896c01eb84dc5c6fdbb7a02dd3078"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -97667,7 +97812,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c8d031126b36f42950ce595216bf7fbe1e34f3bc48b78a9f0adbc854511e2e22"
+      "Hash": "8c0bb408380ca918219d28a6dd7cd6b629e558c2d66291e215b811207b0319da"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -147461,7 +147606,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d17104104fa78977ad78092f98f694741f877f7a71ec6215b7e2bc02db561f3"
+      "Hash": "6e00780204e8c558c093cc22f97555aafcfdaa4b8f70a038933318e09907523d"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -152216,7 +152361,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ce761c4f0aa9e82ab2617f71c42ec931c3c9a7d708ef575299659fbd3cac0445"
+      "Hash": "17ccaf6c94cf6eefc55a198fa5cfbe6b5905d38a6794a76da58a43d9afc26453"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -169253,7 +169398,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a7a2fdd19ae44ef5b0f41b44d83ee1b41b47b164ca7249ae9ea155f95edde7c2"
+      "Hash": "d2f83ea7cc3edce06ea73f43cdb1118d0c099ce3190b27d16209a50e571ade68"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -174524,7 +174669,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bcda8043427cf9b7e2b9e18009cee5495d55cfa944c9f2d423fb5ad14dd44c03"
+      "Hash": "4daf5135faa9573ac00ae38873cbbf50fc56f3bc617085c637dc9a240498cf13"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -183765,7 +183910,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5184ac72a05c04e0a51ddf5623ba3c52adf20eb6e83b6533e65a3faf5ca4cf64"
+      "Hash": "d080cb125fb17a4edccec127756f5f9388bda1d5d67f30faa7c930253f4c0ca0"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -191994,7 +192139,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4ecf2dcdcfc241a6695768d89009d2c286cd422074b8484615091156642ccf29"
+      "Hash": "49c1c8f339549e372a412a0114d49edd6584259ca8c3061bf0db99f56b192b90"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -193931,19 +194076,6 @@
       },
       "OutScope": {},
       "Hash": "d8141f3cd918132913d9542794ab57c758f92d063ec954304672fa7eef3531bb"
-    },
-    "h1:vercel_sandbox": {
-      "Key": "vercel_sandbox",
-      "Name": "Vercel Sandbox",
-      "URL": "https://hackerone.com/vercel_sandbox",
-      "InScope": {
-        "Vercel sandbox": {
-          "ID": "Vercel sandbox",
-          "Type": "OTHER"
-        }
-      },
-      "OutScope": {},
-      "Hash": "927d3aac7fb2d717045008581fbcc8472672cf40797fe13688fc93fa1add36d0"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
