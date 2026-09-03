@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-03T18:01:06Z",
+  "captured_at": "2026-09-03T20:57:13Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26524,13 +26524,13 @@
       "Name": "Anthropic Cyber Jailbreak",
       "URL": "https://hackerone.com/anthropic-cyber-jailbreak",
       "InScope": {
-        "Fable 5": {
-          "ID": "Fable 5",
+        "Fable 5.1": {
+          "ID": "Fable 5.1",
           "Type": "AI_MODEL"
         }
       },
       "OutScope": {},
-      "Hash": "85bf982580e306e2ae03020cde7bf26a2c5873beaf88dd568b1795a1a5670061"
+      "Hash": "fd82c215dfed56dabf87d593e4d81f03e4c1f2eeb124e3fdcdea95d3e9686ea0"
     },
     "h1:anywhererealestate": {
       "Key": "anywhererealestate",
@@ -27654,7 +27654,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1ba8772e62de7bdd11a4e0b3f541fa0d944af14ba869479c54c6e51dd0613feb"
+      "Hash": "c67be4a45278801f99cdd4919f11c3d3e3b65b72dd26488577f32ab6035ec807"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -28167,7 +28167,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "08b9e8471d583ce669d7acb6d43a3058ad54dae682133d49a629db506d0e283d"
+      "Hash": "db11a4b0e304cffa6f5bbc3062293724d193945a9e9ee7887a867c059ed593fe"
     },
     "h1:autodesk": {
       "Key": "autodesk",
@@ -30706,7 +30706,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "63e35436599a811f49e6e2b314ceed4660c93a09d65fdafa68e87aa09cf8f2cf"
+      "Hash": "e11393fdd34180883f08155abc236833ab2cacb6c96ec2dd73a31881f155fa88"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31010,7 +31010,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4fc1b4c2ba826c6bb1e01d133cc57f447ac08f777a5a23cc0cf5913f5fded131"
+      "Hash": "3c0906427eae12b651ee966fca0e0656ffe7676f0df87db1d3c532264f216943"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31683,7 +31683,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e704928d03327a8da8af6f9c599109706245b4604b7d7352aef23cfd166fbf46"
+      "Hash": "d1acc7e774f190e4c85449282e3fefda129d5699130b0a1e12fff9d12fbb9f54"
     },
     "h1:brave": {
       "Key": "brave",
@@ -32109,7 +32109,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "80970d00bd01329760e7c9965391e81b5a8fb2e31360c392fe0f78c8813ab61b"
+      "Hash": "22e4b84d45623f0763d36ce5cf957e8db5f89b3b566c75a7137a32bc5a235408"
     },
     "h1:bykea": {
       "Key": "bykea",
@@ -67282,7 +67282,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fd38db94b3c8a08fe3f02d0e8312704c75169b138a575bebd910186f73629462"
+      "Hash": "f6b45b9e2fe3a76f6eac0b200f6ea9f07e9e10f3f71c355a83162ae74cb142d8"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -88699,7 +88699,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ae67133672c6049b00e0125dca6877094cc3a0d5290bcc5252555093de900144"
+      "Hash": "1967334eb0494bc940519ea4934149e33f78bfd657c6f76397125ba0e2eb4274"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -103981,7 +103981,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "339371a41dd868b190ea7ef6c979445310689104ae1fd28316be65d94ab272b1"
+      "Hash": "d1ad29651202d8dc5e82f88b98b30ab51eeab00917d3ae08ff87994820017dc8"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -148120,7 +148120,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a9ccfeceddf1c238e611c6d66112cc0b51f2d5dc885c701c8f62fad32505855d"
+      "Hash": "c2486f209960e6ed4fc7194a695979e5a40de547691a9237749970176481a604"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -148872,7 +148872,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e8b5262bcfd9773a1aabafe87836a45ad7a46b483cddf9adf877fdf313794449"
+      "Hash": "884601effea7d3a67333075cefa0dd68c6cb2405ee1a277fb51d4ddf0ba1b941"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -163219,6 +163219,10 @@
           "ID": "machine-analyzer.deere.com",
           "Type": "URL"
         },
+        "machinefinderdevlaws.tal.deere.com": {
+          "ID": "machinefinderdevlaws.tal.deere.com",
+          "Type": "URL"
+        },
         "machinefindertest.deere.com": {
           "ID": "machinefindertest.deere.com",
           "Type": "URL"
@@ -165635,6 +165639,10 @@
           "ID": "tpa.witos.wirtgen-group.com",
           "Type": "URL"
         },
+        "tpc-api-gateway.deere.com": {
+          "ID": "tpc-api-gateway.deere.com",
+          "Type": "URL"
+        },
         "tpm.apps-devl.us.e11.c01.johndeerecloud.com": {
           "ID": "tpm.apps-devl.us.e11.c01.johndeerecloud.com",
           "Type": "URL"
@@ -166819,6 +166827,10 @@
           "ID": "www.johndeere.com",
           "Type": "URL"
         },
+        "www.johndeeredealerrewards.com": {
+          "ID": "www.johndeeredealerrewards.com",
+          "Type": "URL"
+        },
         "www.johndeereinnovation.com": {
           "ID": "www.johndeereinnovation.com",
           "Type": "URL"
@@ -167690,7 +167702,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b358e0c6fa17ce794c53822f3fe0e78bd90bfedbf10c65fa07adc138301a2099"
+      "Hash": "36af124c1b78687506851998b44a7db96c18430c08d83cad24b8c72e9de14c7b"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -169263,7 +169275,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "2b8ffe40f351d829a939e081c84bb0e94aa74be58b037469bacf8498fb07126b"
+      "Hash": "e2fb953f08ea1efd042f05c5917c776c7bb4357488021c8887f852e96cce8e1f"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -170028,7 +170040,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "244407b64d8b9abc5682d51549d41be128470e200a987c81cc1403abe2791ab0"
+      "Hash": "1239c6c3fd9e856c856c4159778905221b36e2fb27287b69cb8526b1747cb844"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -170482,7 +170494,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8289ad817df7d8542ea20ae70599e32511d93b954d6df0d668b716010e92daa3"
+      "Hash": "3268fc9de4920c4a9af3761327fdc23f673ac624efd241c3c82f6ab8fd1bcb4b"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -180588,7 +180600,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "c9cd13d23379046a82aba57a8103a5fa82ed36ac35215638031db5cc3933948e"
+      "Hash": "071dc8f061e4b68d1e1eb969bff97e891617ab7285f4bb65ab09dd2b754e87b1"
     },
     "h1:nisc": {
       "Key": "nisc",
@@ -182312,7 +182324,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "3c21c8be2d7c56aac4de74257b6ffb2d822e6e90eed163dbb36c9d82a4c192ec"
+      "Hash": "d83ce5b0c1f1614de91f09c08c953d0e359482bdde83da40143738988f3d1c01"
     },
     "h1:palantir_public": {
       "Key": "palantir_public",
@@ -188377,7 +188389,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "09391b44b2f3c0322073c16c18a0a068d6062abf18694818e0a7c65f5adb20d0"
+      "Hash": "0dc5b632f7e67d602f441deb7d90b0eebbb9c34b2a8cd2fb3b23d03be79167f3"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -191515,7 +191527,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "720cfa63be2871022a7a54c1659c7d3a51989a879dbebc839389e43847b46f84"
+      "Hash": "1bed330dac225c49d0c56e3874fa79feed57c8fad6f66dea3051f3df1b03c186"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -191619,7 +191631,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5a9ab22dec01ecd344010472596cefd850b0635231750403131efd139969472b"
+      "Hash": "ca8246e8ee22e93c46b77d73748d4c31bd5a6923c150d55a23a55e5f8f86b380"
     },
     "h1:toolsforhumanity": {
       "Key": "toolsforhumanity",
@@ -192527,7 +192539,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "171786a7725093bd5661c43de4a6da85c15c56a1531c2401f45ecac6b704eafb"
+      "Hash": "332e559bd5b9f801cac6afeea4b36051ea73064c428c2270d1eb2b3ea4bfebb1"
     },
     "h1:trendyol": {
       "Key": "trendyol",
@@ -193925,7 +193937,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5701f5cf22c290de87f40393d52b5228ee6405669fe42e5ca66d375312de79c9"
+      "Hash": "e90f94aafc81284521a2df1ba813df2b3ef29f9a48f809a2b9d92bf00015bb26"
     },
     "h1:usps": {
       "Key": "usps",
@@ -194112,7 +194124,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "22450ad431f06aa36a470308dbb765ff7c0b657a8c85edabd90eb0715a701059"
+      "Hash": "1ae2fc1f286c072acff0682396045a26a70871a350db69bc074e8bd862dc20aa"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -197567,7 +197579,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9bb0458350a522c20e9fa81e3855103047ab923ba886887d1df2307335c4d169"
+      "Hash": "82df6d9a2aa0566c8fe7b35eaa667262b2d6f08428ce16e654818a37e347be50"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -204719,6 +204731,92 @@
         }
       },
       "Hash": "183338b8fbcc9f3a3f50168e4fd116be4fc950c440e43299862eb9abe7b730cb"
+    },
+    "in:afc4415d-c004-4cf8-9a12-e0f18cde6db5": {
+      "Key": "afc4415d-c004-4cf8-9a12-e0f18cde6db5",
+      "Name": "WP Engine Bug Bounty",
+      "URL": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+      "InScope": {
+        "*. advancedcustomfields.com": {
+          "ID": "*. advancedcustomfields.com",
+          "Type": "wildcard"
+        },
+        "*. bettersearchreplace.com": {
+          "ID": "*. bettersearchreplace.com",
+          "Type": "wildcard"
+        },
+        "*.deliciousbrains.com": {
+          "ID": "*.deliciousbrains.com",
+          "Type": "wildcard"
+        },
+        "*.localwp.com": {
+          "ID": "*.localwp.com",
+          "Type": "wildcard"
+        },
+        "*.nitropack.io": {
+          "ID": "*.nitropack.io",
+          "Type": "wildcard"
+        },
+        "*.studiopress.com": {
+          "ID": "*.studiopress.com",
+          "Type": "wildcard"
+        },
+        "*.wpengine.io": {
+          "ID": "*.wpengine.io",
+          "Type": "wildcard"
+        },
+        "*.wpesvc.net": {
+          "ID": "*.wpesvc.net",
+          "Type": "wildcard"
+        },
+        "WP Engine-developed WordPress Plugins and Themes": {
+          "ID": "WP Engine-developed WordPress Plugins and Themes",
+          "Type": "other"
+        },
+        "https://app.getflywheel.com": {
+          "ID": "https://app.getflywheel.com",
+          "Type": "url"
+        },
+        "https://getflywheel.com": {
+          "ID": "https://getflywheel.com",
+          "Type": "url"
+        },
+        "https://makeshift.film": {
+          "ID": "https://makeshift.film",
+          "Type": "url"
+        },
+        "https://my.wpengine.com": {
+          "ID": "https://my.wpengine.com",
+          "Type": "url"
+        },
+        "https://payments.wpengine.com": {
+          "ID": "https://payments.wpengine.com",
+          "Type": "url"
+        },
+        "https://studiopress.blog": {
+          "ID": "https://studiopress.blog",
+          "Type": "url"
+        },
+        "https://torquemag.io": {
+          "ID": "https://torquemag.io",
+          "Type": "url"
+        },
+        "https://velocitize.com": {
+          "ID": "https://velocitize.com",
+          "Type": "url"
+        },
+        "https://wpengine.com": {
+          "ID": "https://wpengine.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "marketing.nitropack.io": {
+          "ID": "marketing.nitropack.io",
+          "Type": "url"
+        }
+      },
+      "Hash": "fbd90ea7a0d2644c6cfbda18d54e897fb647873775ed3badb7489bd6dddd2c93"
     },
     "in:afeb2624-ac2e-46bc-b078-b0e018baeb62": {
       "Key": "afeb2624-ac2e-46bc-b078-b0e018baeb62",
