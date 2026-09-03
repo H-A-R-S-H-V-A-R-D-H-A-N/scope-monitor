@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-03T05:00:16Z",
+  "captured_at": "2026-09-03T09:40:59Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -2311,6 +2311,136 @@
       },
       "OutScope": {},
       "Hash": "82e3185abdad88d98e7b129b50d7980750735fc711fb77e5098362e03331aeeb"
+    },
+    "bc:Binance": {
+      "Key": "Binance",
+      "Name": "Binance",
+      "URL": "https://bugcrowd.com/engagements/binance",
+      "InScope": {
+        "3rdparty-apis.coinmarketcap.com": {
+          "ID": "3rdparty-apis.coinmarketcap.com",
+          "Type": "api"
+        },
+        "Binance Desktop Application": {
+          "ID": "Binance Desktop Application",
+          "Type": "other"
+        },
+        "Binance Mobile Application for Android": {
+          "ID": "Binance Mobile Application for Android",
+          "Type": "android"
+        },
+        "Binance Mobile Application for iOS": {
+          "ID": "Binance Mobile Application for iOS",
+          "Type": "ios"
+        },
+        "Binance macOS Application": {
+          "ID": "Binance macOS Application",
+          "Type": "other"
+        },
+        "CoinMarketCap Android app": {
+          "ID": "CoinMarketCap Android app",
+          "Type": "android"
+        },
+        "CoinMarketCap iOS app": {
+          "ID": "CoinMarketCap iOS app",
+          "Type": "ios"
+        },
+        "Trustwallet Android App": {
+          "ID": "Trustwallet Android App",
+          "Type": "android"
+        },
+        "Trustwallet Chrome Extension": {
+          "ID": "Trustwallet Chrome Extension",
+          "Type": "website"
+        },
+        "Trustwallet iOS App": {
+          "ID": "Trustwallet iOS App",
+          "Type": "ios"
+        },
+        "api.binance.com": {
+          "ID": "api.binance.com",
+          "Type": "api"
+        },
+        "api.coinmarketcap.com": {
+          "ID": "api.coinmarketcap.com",
+          "Type": "api"
+        },
+        "coinmarketcap.com": {
+          "ID": "coinmarketcap.com",
+          "Type": "website"
+        },
+        "https://binance.tr": {
+          "ID": "https://binance.tr",
+          "Type": "website"
+        },
+        "https://github.com/trustwallet/wallet-core/": {
+          "ID": "https://github.com/trustwallet/wallet-core/",
+          "Type": "other"
+        },
+        "https://www.binance.com/": {
+          "ID": "https://www.binance.com/",
+          "Type": "website"
+        },
+        "https://www.binance.us/": {
+          "ID": "https://www.binance.us/",
+          "Type": "website"
+        },
+        "portal-api.coinmarketcap.com": {
+          "ID": "portal-api.coinmarketcap.com",
+          "Type": "api"
+        },
+        "pro-api.coinmarketcap.com": {
+          "ID": "pro-api.coinmarketcap.com",
+          "Type": "api"
+        },
+        "pro.coinmarketcap.com": {
+          "ID": "pro.coinmarketcap.com",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "*.binance.org": {
+          "ID": "*.binance.org",
+          "Type": "website"
+        },
+        "*.coinmarketcap.com": {
+          "ID": "*.coinmarketcap.com",
+          "Type": "other"
+        },
+        "*.trustwallet.com": {
+          "ID": "*.trustwallet.com",
+          "Type": "website"
+        },
+        "*.trustwalletapp.com": {
+          "ID": "*.trustwalletapp.com",
+          "Type": "website"
+        },
+        "binance.sg": {
+          "ID": "binance.sg",
+          "Type": "website"
+        },
+        "blockchain.coinmarketcap.com": {
+          "ID": "blockchain.coinmarketcap.com",
+          "Type": "website"
+        },
+        "blog.coinmarketcap.com": {
+          "ID": "blog.coinmarketcap.com",
+          "Type": "website"
+        },
+        "jobs.coinmarketcap.com": {
+          "ID": "jobs.coinmarketcap.com",
+          "Type": "website"
+        },
+        "support.binance.*": {
+          "ID": "support.binance.*",
+          "Type": "website"
+        },
+        "support.coinmarketcap.com": {
+          "ID": "support.coinmarketcap.com",
+          "Type": "website"
+        }
+      },
+      "Hash": "94d79dc5fae0a0ec6229e9eff5c666b9f0a3520beb336f1c9cc423e138da9e81"
     },
     "bc:BitGo Managed Public Bug Bounty Engagement ": {
       "Key": "BitGo Managed Public Bug Bounty Engagement ",
@@ -23793,7 +23923,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "7aed8fb2211f6c988a5a10d421d872d9fdb3a41c85aafbb5bd3266dfbda313b8"
+      "Hash": "a60893a4ba13925045fb68fcd43e996619c5e1c9d359889eaa8016c1504148e5"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -26383,7 +26513,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "db171d2a64b95238cc3d8cc3551226aef625a7c30fab766f60363ba1e69c66e8"
+      "Hash": "958650e7bffa20764dc5ceb54d70fb51d73b4006864c9e63a4cb77b76f35b1c2"
     },
     "h1:anthropic-cyber-jailbreak": {
       "Key": "anthropic-cyber-jailbreak",
@@ -31549,7 +31679,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3c481cf8b81f8520ca93113221c2df72419aebc6062e8b1da966ef11b6174d29"
+      "Hash": "b69a226f8fde30757ca070b532418f04a5d4a180b0545ec1b876a20284b5df1f"
     },
     "h1:brave": {
       "Key": "brave",
@@ -87931,7 +88061,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4d943f6aa53f94fdb3ff430531c5b955292738d935f4faf55515ebfd9c0649db"
+      "Hash": "50fe9739b015060854a4d5ecf11950bde90668638e91b0b7e95ec3a6cb8589f0"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -89501,7 +89631,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f10fea146bc6edb49af585c6b06a999ce57c9d6ddc1d2e1062d23653d1814bb1"
+      "Hash": "d842390fc864738596e6a1a3a253420e8d9ba087d4bc62bcbaf675c95c8876ca"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -90832,7 +90962,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "66e8c97403df6c29862530180f77efdbe48fe209026a85e379f43670c0d7e944"
+      "Hash": "aeada4dc2fc6a57f6a3411fde9d6eef0dbaae5900e0378ec845179000c80b8a6"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -104251,7 +104381,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ad7689a6b9068d3807238101f4189a4fba50383433af44cc2dc529575f53b542"
+      "Hash": "7dd25af5d1b5f9205da3e08623963a4e9f6bc394c82d4d9dbb2d4dde58955e6d"
     },
     "h1:experian": {
       "Key": "experian",
@@ -146241,7 +146371,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "d53c36751778dfdfcc3446069ceff57c7370b10bd86dd60da4a9f144ac4c59e0"
+      "Hash": "2557c9a206b65751f570d718dfefbebbca935c16f0247dc53dddf752602c0702"
     },
     "h1:flutteruki": {
       "Key": "flutteruki",
@@ -150132,7 +150262,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "eb64aa986e5857329f0c6a51c957364cae2a68744e93c8e16d0f8db5f8d715d7"
+      "Hash": "cf57a3e4ddfe908b9384b1f83f59c8a557f11fe22c09a5218f860b5e66f2bef5"
     },
     "h1:hexagon_vdp": {
       "Key": "hexagon_vdp",
@@ -150145,7 +150275,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "229d466c7900cb104429ce42e71ed398307215aa507de90a0f3999e63909bdda"
+      "Hash": "7eaee2d6687e99a5e9f4cb924c1dd5768f4eb25bba7b055ba246cf770ebdb9b0"
     },
     "h1:hilton": {
       "Key": "hilton",
@@ -167603,7 +167733,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4c402bd0ee0005869a39f66733a55f85069feec11f6161d6819cb94e42b8eb79"
+      "Hash": "402fb01b5b469fec2c3829f3994292497f4268a4a678b7158328d527b4d3b01c"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -169484,7 +169614,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fa9023c90061ab00a30cba5c32645227d1b52c8b22f4a5b75f73c6677b9f5ef6"
+      "Hash": "59d9db55d5022d460ec7f04211a042769bd44b5e65e1386cbeb6bb22ef929419"
     },
     "h1:linkedin": {
       "Key": "linkedin",
@@ -171261,7 +171391,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "94c3683515eb62baa628e5d1285a79bd1a36f2ce919d41712711a5a06c75700c"
+      "Hash": "6eb4be3d9097b34fa42fba53cd6096f79aaf1710951b61636d931d504d4b6232"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -173127,7 +173257,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2935192569fba028c04870acbff0e5e21ef355658a69428ed82bd91c4089dcbe"
+      "Hash": "d57ee2098529e3185e5a9ee3e87579e79637f2ddb5356ac100600b059b5536aa"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -174542,7 +174672,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac1870dbb5682996d832bb19e703fd0da051da4f9042ef4f6eb55c4d39d042d3"
+      "Hash": "0384ca1a028129401102187e50279d8e52a9a4f1646a1a96f06e5bc8cd258bb2"
     },
     "h1:monero": {
       "Key": "monero",
@@ -179665,7 +179795,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "47fb863a9fd3dceb71dbcda76c8968117624987feb253ee9af1bf6eb487c6e53"
+      "Hash": "13bf37c1391cb7ee8aa1a36d574a65d4e73fb01ccfd6b4ff7b563634e80b53c1"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -180978,7 +181108,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c18a5f0029b1e2dc80383e0bf6ba5dfac12862da34ba3fd516682b4a1106024c"
+      "Hash": "6dc64436a2ee520bcc846f8f0fa095031db7936307a00100785674026f640dc7"
     },
     "h1:on": {
       "Key": "on",
@@ -182382,7 +182512,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8f9b3046c5278066a04d5105668f8df88217abdfd8f0ebf400ef139f4ddd55ad"
+      "Hash": "df5e92a7d43cff90e81593e8678839418963cec631037c099c2b06a73aaeb1bc"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -183741,6 +183871,24 @@
       "OutScope": {},
       "Hash": "640babb705da8f73b7119d5324e7295435e1aa19517a2140e06a8e6404391b54"
     },
+    "h1:phpbb": {
+      "Key": "phpbb",
+      "Name": "phpBB",
+      "URL": "https://hackerone.com/phpbb",
+      "InScope": {
+        "https://github.com/phpbb/phpbb": {
+          "ID": "https://github.com/phpbb/phpbb",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {
+        "www.phpbb.com": {
+          "ID": "www.phpbb.com",
+          "Type": "URL"
+        }
+      },
+      "Hash": "cb0e5c959b0707775376de721abe84fd25adb0717b55e0810392f655a49b99f9"
+    },
     "h1:picsart": {
       "Key": "picsart",
       "Name": "Picsart",
@@ -184489,7 +184637,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "04bf7e27de4ced362697355d0e7ac90922dff2df04c3eeb4dd5140de18c256bf"
+      "Hash": "26fcb2522cb03e623fa24c53de8ed90a025679e598078912ca003155b2d4edbf"
     },
     "h1:polygon-technology": {
       "Key": "polygon-technology",
@@ -185330,7 +185478,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a84d1b89c53829c3f22a892d0ad4e2679c362a8faa65534bd401c9580a35301f"
+      "Hash": "ff9570887a5063e29b8e88bbf35e3e5f5ff6d53b05bfb3b8303c737fc751ad22"
     },
     "h1:r3": {
       "Key": "r3",
@@ -185607,7 +185755,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5e0a0c22365bbdcc8f2fd7011274fc455cf185cfac853bc2134e837291db6950"
+      "Hash": "26f1af591523ab367a85edeefb1f4b10716a79f25ae946540d695571df070389"
     },
     "h1:redox_bbp": {
       "Key": "redox_bbp",
@@ -187303,7 +187451,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ca2bc41d296cf4745c15299a59ba485e9eef865e483c792acc07879b92078040"
+      "Hash": "fd4f7a29f9a35905236e129fadd0d961f7cc867bc27f47c372885f5cf8a2f2c8"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -187717,7 +187865,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8aee11129a6fadc0ba9e4d3bf04e3a70d69d5d3a929eccb70785a3f540e22f22"
+      "Hash": "c19fcebb4b0e955d83a1d26022011b1717709322f80a762dd8255eab5a9c664a"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -188235,7 +188383,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8ba4c4c1c487125702e7e586e66c733e388e82528b2a3d02ba8352597ba18b4c"
+      "Hash": "be42c3b214ba9f9b3fa76b2a65217c0590bede3eafd11d3d98813d3079d85b2c"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -191587,7 +191735,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b51fc7d82ce4744713879cb98446394514efb40e09893507cb65da82489d8af3"
+      "Hash": "e06f1cbefff2e2f617fdbeca3db7ab058e5ce2b5bace6c9ca92d49f476769c02"
     },
     "h1:top_echelon_software": {
       "Key": "top_echelon_software",
@@ -192385,7 +192533,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9cb3ca274e142fceeaea10249b479031c6daa5c85f4e5cbb8b5a95ee392882b9"
+      "Hash": "171786a7725093bd5661c43de4a6da85c15c56a1531c2401f45ecac6b704eafb"
     },
     "h1:trendyol": {
       "Key": "trendyol",
@@ -194676,7 +194824,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7fc2786f96a7ac4d34744862fbda266fe0a1ccce28bbd11fe0e9afdb63e87955"
+      "Hash": "969eabcd132f43ec03b15069469e69dee4e0f59177b009329315d756f151ed1e"
     },
     "h1:vimeo": {
       "Key": "vimeo",
@@ -195997,7 +196145,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a6153ae52f6070781f9118bb45e618b3b352e8587d6ee92dc220cf7986755030"
+      "Hash": "fb01528356dba0d7eb9e20c275cf2cdedadcd0fe137f7d2529d4260f555489b6"
     },
     "h1:vodafone_oman": {
       "Key": "vodafone_oman",
@@ -196192,7 +196340,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "244e20d46a9950bbf03568aa1d205c029ecab4bd3e9493d3a22753d522b92171"
+      "Hash": "0fe75dd3c4eb12c28b928998ac76ccd20603539880298e0bff470c200f661fbd"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -197425,7 +197573,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "79e7736f710e0cc66f68b9fbe175d12ead26afb45ba77a60635905a980ff7d31"
+      "Hash": "5f91d28df37f52c07c2388d513fc4f865f5252781f9e3b75069232d46b1594e1"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
