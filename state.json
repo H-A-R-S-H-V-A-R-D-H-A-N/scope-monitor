@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-03T20:57:13Z",
+  "captured_at": "2026-09-03T23:14:41Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26247,7 +26247,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "63b0468195d0485b0d6f7b8c287daf47e69e9b321b3fa71cac5f7e8ebf9eb320"
+      "Hash": "f5eaa4a0f722f14a7200b0bf9553fb760071cf7e22534589cdd0178ee9e00bd2"
     },
     "h1:amazonvrp-devices": {
       "Key": "amazonvrp-devices",
@@ -27830,7 +27830,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7d876585f6814eede02fbf606eb7069c04278a83e15a346127c45cfb780d2a32"
+      "Hash": "e475623de2e33e853159b7c09da0d394e37d9f111c2be927462183ac09d4888e"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -31010,7 +31010,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3c0906427eae12b651ee966fca0e0656ffe7676f0df87db1d3c532264f216943"
+      "Hash": "3b449560ab312177fa54d9cef0aaaef95179de7ada755df00a6344a3b5333966"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31102,7 +31102,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d32c38a8232d8795d7e8c8097916d3d807383d5efe1c163dbc7fc3273d416ae2"
+      "Hash": "80171d5852812822d9f94581fd5e728e5f7f2e7734460fe1e65ccd3142ea8165"
     },
     "h1:bitwarden": {
       "Key": "bitwarden",
@@ -103607,7 +103607,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1b8b6903d6fcaeef4e175861cc5717ebcc6e8c556cde3418f5d54512c7ea9f82"
+      "Hash": "13f91bd91f28a9cfcbb7e955b73b4b32a7768bb5980c37bfda1667fd99be0c3a"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -148512,7 +148512,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "436f9e4037199529b2ab9617ffdd0f16d078ed11d1399f0eb1d7eed7fd408a2b"
+      "Hash": "6b639ea3bb84dbd28cbc5ec74a2ce0ebb1d71cdf1843bedbb08c7f07aed3fee7"
     },
     "h1:goodrx": {
       "Key": "goodrx",
@@ -150261,7 +150261,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c19bf545f8065c3eac3d6d840a6566231950020b4018ef6058ff962293e04c4f"
+      "Hash": "0f49752ccc15b1e070c2c76bf27128e8640b6413e8a6c7b5bfa7a2df6c5e35ca"
     },
     "h1:hilton": {
       "Key": "hilton",
@@ -169352,7 +169352,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8f32a78b30d4743564f3fb2c5d6e49f24686c08ce5b16ef4206cc31108c0e1b5"
+      "Hash": "f0bfa22a387d5a13b679c29d65c1364b2fc014297df1e95656eaaad0c6c4b74c"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -174829,7 +174829,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8a805cfc6a6ff0367ed2a9efafe5fe1298e10784cba34c00aa9bc63bf518e7fc"
+      "Hash": "6ac9cc9ad4fdb830656398e004ed32d82c6973a76a3c31b86b8c38a5333fbbc8"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -182714,9 +182714,13 @@
         "www.gopay.com": {
           "ID": "www.gopay.com",
           "Type": "URL"
+        },
+        "www.paypal-support.com": {
+          "ID": "www.paypal-support.com",
+          "Type": "URL"
         }
       },
-      "Hash": "dd20ed948f752e9401172887c0be3af3ee02c1ce1220b259c780b2e35759cfed"
+      "Hash": "054a625172f31cedf7e28e077deb6124f4ab17d5b71c0670ee5bd4e442c95916"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -185905,7 +185909,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "89e5416f648120e9f3e6960dca0b3f9093132dc93467c06c66dabca5095aaccd"
+      "Hash": "d442bc7327b0e449060eed4ee3d4c04f519ee5e4d3820493a42c2da2aa207ece"
     },
     "h1:rei_bbp": {
       "Key": "rei_bbp",
@@ -188389,7 +188393,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0dc5b632f7e67d602f441deb7d90b0eebbb9c34b2a8cd2fb3b23d03be79167f3"
+      "Hash": "8d1162a863ecf5d9eb4239426076af0cd02b7953c23d9dc326e1ba75c9f49d9e"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -191527,7 +191531,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1bed330dac225c49d0c56e3874fa79feed57c8fad6f66dea3051f3df1b03c186"
+      "Hash": "720cfa63be2871022a7a54c1659c7d3a51989a879dbebc839389e43847b46f84"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -195817,7 +195821,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "616a38c1de1a5db3b7eb7e017308079855f77de12a25aad9530af36261d3bc20"
+      "Hash": "280e1050a2193bec30a211aa53277f53899070018bee0e47f4b537816fdedfd2"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -196574,7 +196578,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "436023feec20fbcb3cddbbe7b0ddb0b2a118b923308d10ca6f4ce7e0ce76ce94"
+      "Hash": "c92dc90b2dcae84c512475505cb4a6e9fdc7a63749e89667a0c06b45300512fd"
     },
     "h1:wickr": {
       "Key": "wickr",
