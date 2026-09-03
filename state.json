@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-02T21:58:03Z",
+  "captured_at": "2026-09-03T00:08:39Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -8590,6 +8590,207 @@
       },
       "OutScope": {},
       "Hash": "b3e47d4ff8bafb53280672ad9680f5c9da7db9bf501e9355082fdda1cf6035ff"
+    },
+    "bc:Monash University Bug Bounty": {
+      "Key": "Monash University Bug Bounty",
+      "Name": "Monash University Bug Bounty",
+      "URL": "https://bugcrowd.com/engagements/monash-mbb",
+      "InScope": {
+        " mix.monash.edu ": {
+          "ID": " mix.monash.edu ",
+          "Type": "api"
+        },
+        "eassessment.monash.edu": {
+          "ID": "eassessment.monash.edu",
+          "Type": "website"
+        },
+        "http://apps.connect.monash.edu/": {
+          "ID": "http://apps.connect.monash.edu/",
+          "Type": "website"
+        },
+        "http://pay.monashcollege.edu.au/": {
+          "ID": "http://pay.monashcollege.edu.au/",
+          "Type": "website"
+        },
+        "https://*.gp.monash.edu": {
+          "ID": "https://*.gp.monash.edu",
+          "Type": "website"
+        },
+        "https://account-registration.monash.edu/": {
+          "ID": "https://account-registration.monash.edu/",
+          "Type": "website"
+        },
+        "https://agent.apps.monash.edu/": {
+          "ID": "https://agent.apps.monash.edu/",
+          "Type": "website"
+        },
+        "https://alumni-friends.monash.edu": {
+          "ID": "https://alumni-friends.monash.edu",
+          "Type": "website"
+        },
+        "https://apps.apple.com/au/app/monash-bsafe/id1462241951": {
+          "ID": "https://apps.apple.com/au/app/monash-bsafe/id1462241951",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/ky/app/m-space/id6761056432": {
+          "ID": "https://apps.apple.com/ky/app/m-space/id6761056432",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/us/app/monash-study/id1462126829": {
+          "ID": "https://apps.apple.com/us/app/monash-study/id1462126829",
+          "Type": "ios"
+        },
+        "https://cms.mobile.monash/ ": {
+          "ID": "https://cms.mobile.monash/ ",
+          "Type": "website"
+        },
+        "https://collections.monash.edu/": {
+          "ID": "https://collections.monash.edu/",
+          "Type": "website"
+        },
+        "https://compulsoryunits.monash.edu/": {
+          "ID": "https://compulsoryunits.monash.edu/",
+          "Type": "website"
+        },
+        "https://connect.monash.edu": {
+          "ID": "https://connect.monash.edu",
+          "Type": "website"
+        },
+        "https://equella.monash.edu": {
+          "ID": "https://equella.monash.edu",
+          "Type": "website"
+        },
+        "https://evigilation.monash.edu": {
+          "ID": "https://evigilation.monash.edu",
+          "Type": "website"
+        },
+        "https://fileshare.ze.monash.edu": {
+          "ID": "https://fileshare.ze.monash.edu",
+          "Type": "website"
+        },
+        "https://formative.eassessment.monash.edu/": {
+          "ID": "https://formative.eassessment.monash.edu/",
+          "Type": "website"
+        },
+        "https://forms.apps.monash.edu/": {
+          "ID": "https://forms.apps.monash.edu/",
+          "Type": "website"
+        },
+        "https://identity.monash.edu": {
+          "ID": "https://identity.monash.edu",
+          "Type": "website"
+        },
+        "https://identity.monash.edu/": {
+          "ID": "https://identity.monash.edu/",
+          "Type": "website"
+        },
+        "https://ims.monash.edu": {
+          "ID": "https://ims.monash.edu",
+          "Type": "website"
+        },
+        "https://interviews.monash.edu/": {
+          "ID": "https://interviews.monash.edu/",
+          "Type": "website"
+        },
+        "https://mids.monash.edu/": {
+          "ID": "https://mids.monash.edu/",
+          "Type": "website"
+        },
+        "https://mlivetickets.monash.edu": {
+          "ID": "https://mlivetickets.monash.edu",
+          "Type": "website"
+        },
+        "https://mobile.monash/ ": {
+          "ID": "https://mobile.monash/ ",
+          "Type": "website"
+        },
+        "https://monash.app.nutrip.com": {
+          "ID": "https://monash.app.nutrip.com",
+          "Type": "website"
+        },
+        "https://monashcollege.edu.au": {
+          "ID": "https://monashcollege.edu.au",
+          "Type": "website"
+        },
+        "https://move.monash.edu/": {
+          "ID": "https://move.monash.edu/",
+          "Type": "website"
+        },
+        "https://myapp.monash.edu/": {
+          "ID": "https://myapp.monash.edu/",
+          "Type": "website"
+        },
+        "https://online.monash.edu/": {
+          "ID": "https://online.monash.edu/",
+          "Type": "website"
+        },
+        "https://partner.apps.monash.edu": {
+          "ID": "https://partner.apps.monash.edu",
+          "Type": "website"
+        },
+        "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share": {
+          "ID": "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.scu.bsafe": {
+          "ID": "https://play.google.com/store/apps/details?id=com.scu.bsafe",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=edu.monash.monashmobile": {
+          "ID": "https://play.google.com/store/apps/details?id=edu.monash.monashmobile",
+          "Type": "android"
+        },
+        "https://research.monash.edu/": {
+          "ID": "https://research.monash.edu/",
+          "Type": "website"
+        },
+        "https://researchmgt.monash.edu/": {
+          "ID": "https://researchmgt.monash.edu/",
+          "Type": "website"
+        },
+        "https://shop.monash.edu/": {
+          "ID": "https://shop.monash.edu/",
+          "Type": "website"
+        },
+        "https://staff.monash": {
+          "ID": "https://staff.monash",
+          "Type": "website"
+        },
+        "https://status.mobile.monash/": {
+          "ID": "https://status.mobile.monash/",
+          "Type": "website"
+        },
+        "https://student.monash": {
+          "ID": "https://student.monash",
+          "Type": "website"
+        },
+        "https://studentplacements.monash.edu": {
+          "ID": "https://studentplacements.monash.edu",
+          "Type": "website"
+        },
+        "https://unihub.monash.edu/": {
+          "ID": "https://unihub.monash.edu/",
+          "Type": "website"
+        },
+        "https://www.monash.edu": {
+          "ID": "https://www.monash.edu",
+          "Type": "website"
+        },
+        "https://www.monashprofessional.edu.au/": {
+          "ID": "https://www.monashprofessional.edu.au/",
+          "Type": "website"
+        },
+        "mix-dev.monash.edu/*": {
+          "ID": "mix-dev.monash.edu/*",
+          "Type": "api"
+        },
+        "mix-qat.monash.edu/*": {
+          "ID": "mix-qat.monash.edu/*",
+          "Type": "api"
+        }
+      },
+      "OutScope": {},
+      "Hash": "dac404403426b7edfb207193dd93b18fd697d8e9f3472b46e967aaa5126a4c12"
     },
     "bc:Moneytree KK": {
       "Key": "Moneytree KK",
@@ -26075,7 +26276,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "c73ff244ba1d917e251059b295022d4da661190b1170de9d52af619bba7ea520"
+      "Hash": "f2ad9bd07c4dfc833b1d47681ac509bfdef13aa2f6d4dc462450e89cf2a3bace"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -26187,7 +26388,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "958650e7bffa20764dc5ceb54d70fb51d73b4006864c9e63a4cb77b76f35b1c2"
+      "Hash": "db171d2a64b95238cc3d8cc3551226aef625a7c30fab766f60363ba1e69c66e8"
     },
     "h1:anthropic-cyber-jailbreak": {
       "Key": "anthropic-cyber-jailbreak",
@@ -67498,7 +67699,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e9618c72d56664ee03e5d3bc68dde41d8a0a7b02a286b3fd9ec5cf47ce5e30df"
+      "Hash": "4ef0d26fcc086f74d6a8e763be1ab2b212ef52d19459cc73aef38a88993dc02b"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -148380,7 +148581,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "1e6a2ff38f9ac606a4e67edd591bfd46ef6cee0ab943943eb7d76029d27f50c6"
+      "Hash": "f367503c82bd77c0b28c66f4f4a1a17cb491e0b78a82646a58fd0582396f3e93"
     },
     "h1:greenhouse": {
       "Key": "greenhouse",
@@ -149936,7 +150137,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c12f9eb94365660178778ece877c08ac14053270ee6243123daba42416e56f7e"
+      "Hash": "eb64aa986e5857329f0c6a51c957364cae2a68744e93c8e16d0f8db5f8d715d7"
     },
     "h1:hexagon_vdp": {
       "Key": "hexagon_vdp",
@@ -172889,7 +173090,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ead12022920e3cce5b939548fd9480d8f2b9124a8476f6aa4bae3a03b6c4d1ab"
+      "Hash": "64ffc21f06c0b94ed7cb5aab6a402b2090daa410386d7f1fd4c933c07a7f14f0"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -180268,7 +180469,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "153b0ad4ecfe46c7a6b6131d442614f7a9b94ff119d0884f78f0412a83766469"
+      "Hash": "349588c0658556b2a478f6cf99379db63bd644c6f490365a9dee644ed8396a1c"
     },
     "h1:nisc": {
       "Key": "nisc",
@@ -184024,7 +184225,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b60b1efdb8c91875c14fe1a2c697e6de720c1577b3f76b076412dd446e9ea87d"
+      "Hash": "85272de58eecf0fd8ad83a1989a5f2acc0ada75bc4e44a99f6f383577e8dc321"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -193833,7 +194034,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0103eab25b147b53288a800484afcdc6265424745589e63385948102f37dff8a"
+      "Hash": "1311d217f20ff215f84e08008d1d3016e99d49eef172cfac84557c2293c7b769"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -197080,7 +197281,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2843857bf897e659fc50c9f5957e235dbd293380bd6694d9040d9a238e06eb84"
+      "Hash": "1ccd42b47ab39c80078d23925b2b08ce258c60f0a0d793ecbce227f261d7d702"
     },
     "h1:yoti": {
       "Key": "yoti",
@@ -205116,128 +205317,6 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
