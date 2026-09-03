@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-03T14:28:15Z",
+  "captured_at": "2026-09-03T18:01:06Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -5313,7 +5313,7 @@
           "Type": "website"
         }
       },
-      "Hash": "1b897e88b156775b80224e8b70639ea8c3e22c6fad09e9a4019c3bf2a2188859"
+      "Hash": "2195abcf64dc12c7f6f08cc13954305275faa9632f69f6228a4fa3eebd61de24"
     },
     "bc:Flourish": {
       "Key": "Flourish",
@@ -9869,7 +9869,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c45478e82da18a92bc09e357ec09a6427318a4660a381dbdac3cbf72001b4640"
+      "Hash": "6313db068b0ce3b77c4ccba929aa3bcd8041f7edb571a613032ae290182719bd"
     },
     "bc:Okta": {
       "Key": "Okta",
@@ -15143,6 +15143,10 @@
           "ID": "https://*.uscellular.com",
           "Type": "website"
         },
+        "https://account.business.t-mobile.com": {
+          "ID": "https://account.business.t-mobile.com",
+          "Type": "website"
+        },
         "https://account.t-mobile.com": {
           "ID": "https://account.t-mobile.com",
           "Type": "website"
@@ -15430,7 +15434,7 @@
           "Type": "website"
         }
       },
-      "Hash": "a0f5d583c2c184a2352860db22053be93533c36d86b02714a723d8f6890bac4f"
+      "Hash": "485a967920816781597ba11544724f12fb4f9ca6bc0d6c8e2faa3b2a081c482c"
     },
     "bc:TIDAL": {
       "Key": "TIDAL",
@@ -26401,7 +26405,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "dd20a7e908c2591b33545c0cbd3bda72a69aaedb8b232feb3b74a3305236a42a"
+      "Hash": "47dcab28ccaef4cb6e9216b2477b64f631fd6a251ff728bba77026da112dad30"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -27650,7 +27654,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c67be4a45278801f99cdd4919f11c3d3e3b65b72dd26488577f32ab6035ec807"
+      "Hash": "1ba8772e62de7bdd11a4e0b3f541fa0d944af14ba869479c54c6e51dd0613feb"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -28459,7 +28463,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "816ba0ff5ed556e4a2b0a9dca55595632a3965f4ac40c9880626a8a45141cf6d"
+      "Hash": "52900570cb33716d2299ffc740dd8e51611deb59be31565d3ea8bc11c13960f4"
     },
     "h1:aven_response": {
       "Key": "aven_response",
@@ -30702,7 +30706,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "8b28e6c7e803f4c9af134f56357f1a4fe36a51756ac6873de15219b97770634c"
+      "Hash": "63e35436599a811f49e6e2b314ceed4660c93a09d65fdafa68e87aa09cf8f2cf"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31679,7 +31683,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d1acc7e774f190e4c85449282e3fefda129d5699130b0a1e12fff9d12fbb9f54"
+      "Hash": "e704928d03327a8da8af6f9c599109706245b4604b7d7352aef23cfd166fbf46"
     },
     "h1:brave": {
       "Key": "brave",
@@ -67824,7 +67828,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4ef0d26fcc086f74d6a8e763be1ab2b212ef52d19459cc73aef38a88993dc02b"
+      "Hash": "7de006ceb6660f162a0d1a746f29fcfb363fa61ee61e7fb8041e56715ffcd0f6"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -88061,7 +88065,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "50fe9739b015060854a4d5ecf11950bde90668638e91b0b7e95ec3a6cb8589f0"
+      "Hash": "4d943f6aa53f94fdb3ff430531c5b955292738d935f4faf55515ebfd9c0649db"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -89362,7 +89366,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0135edcc20e6ff21dff470613eca0961b1c583cfa8adb7d8ea9ab8d0acc54ff1"
+      "Hash": "f0d9e7d62775564cffc97fb752965c93db687cd5d532acb1b079ecfd52d12a82"
     },
     "h1:crowdstrike": {
       "Key": "crowdstrike",
@@ -96153,7 +96157,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "196c346c7491049552873ee99e6c0b650d39efa43826c238c4a4b254f575a8b5"
+      "Hash": "2171bc32b3218f7816db9d4a09dfd56d5593817b532d471c16680050d365e6fd"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -106564,6 +106568,10 @@
           "ID": "http://dobotapp.org",
           "Type": "URL"
         },
+        "http://fuse.bigdatahc.com": {
+          "ID": "http://fuse.bigdatahc.com",
+          "Type": "URL"
+        },
         "http://icw.dmzprod.r53comerica.net": {
           "ID": "http://icw.dmzprod.r53comerica.net",
           "Type": "URL"
@@ -106594,6 +106602,10 @@
         },
         "http://qa1-web.usdirectexpress.com": {
           "ID": "http://qa1-web.usdirectexpress.com",
+          "Type": "URL"
+        },
+        "http://secure.franklin-street.com": {
+          "ID": "http://secure.franklin-street.com",
           "Type": "URL"
         },
         "http://services.usdirectexpress.com": {
@@ -106771,7 +106783,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aa4d8cd751b310b193dd20b2d080191fd0bc14fb21f5a3ccde8ffc2cc3a75b72"
+      "Hash": "dfee4bd515dd15c3a2f5b71e50e0f84b6bd20877be5b3c60b3b6e323fd883472"
     },
     "h1:figma": {
       "Key": "figma",
@@ -146280,7 +146292,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "df4b1ac3cd868b2e3faf93fa43aa9e30ad643aba9798b99ac77a3fe63f97972d"
+      "Hash": "313972752253d8d7145fb4cdeaf28fd3953201f157f0c59b0aa21ee18ddf655e"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -152367,7 +152379,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9b87be83648717278dea68c1b0389f0b4f093f5b90c71c2b074500284020c9e2"
+      "Hash": "1e55e3a222c187e90bc82a1d8a8d1546f1011c7511ab4ec565b2502f5498c76d"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -158641,7 +158653,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d4f717f7b3e5089e6bb1776e9a27ca74182798f5cf3bed866ee4500e0aeebf86"
+      "Hash": "f542975badca3627a39e9c3f72cdaf1901b35b19275db18a9eea3b1d01400cf3"
     },
     "h1:ips": {
       "Key": "ips",
@@ -159210,7 +159222,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f9db44e2d19f9fda813c2b7689f3b6a8a3be35d1e15347d65e0e55e7956de248"
+      "Hash": "b610ac5d612cbd7a617ffc95c46b097a95549ca7958d689082443905c52caeaf"
     },
     "h1:jetblue": {
       "Key": "jetblue",
@@ -162663,6 +162675,10 @@
           "ID": "jdfgdmt.deere.com",
           "Type": "URL"
         },
+        "jdflorestal.com": {
+          "ID": "jdflorestal.com",
+          "Type": "URL"
+        },
         "jdfm-ext-alb-dev-2132639108.us-east-1.elb.amazonaws.com": {
           "ID": "jdfm-ext-alb-dev-2132639108.us-east-1.elb.amazonaws.com",
           "Type": "URL"
@@ -164365,6 +164381,10 @@
         },
         "r2-core-financeconnect.deere.com": {
           "ID": "r2-core-financeconnect.deere.com",
+          "Type": "URL"
+        },
+        "r2events.deere.com": {
+          "ID": "r2events.deere.com",
           "Type": "URL"
         },
         "r3p.johndeerepanel.com": {
@@ -167670,7 +167690,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b88944ac2d748e94f0100174134c7643f77985f65dd5888c4725e90d9fa2071c"
+      "Hash": "b358e0c6fa17ce794c53822f3fe0e78bd90bfedbf10c65fa07adc138301a2099"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -168126,7 +168146,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6f13fdb76571bc5bd2d678bd6c8606dde27939f89147f6a6b29fcb89ed32b92e"
+      "Hash": "51c8308c65ee79071d0c1f2e42c3f0dcd2e3f41dfc295c170d4c87098eb709e5"
     },
     "h1:kiwicom": {
       "Key": "kiwicom",
@@ -171480,7 +171500,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "61e1f869f46ceebc585225f7ba4aa7bab614d68a6cf620b160f24e39319b50fe"
+      "Hash": "b43d80188ca2344488d023e9cd9c98444268bd3b2723ab4ac0527fe575bddf7d"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -179769,7 +179789,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d1731deb18e9af859af98407512cb6715e5a9431b89aac905c5f271d79a42b28"
+      "Hash": "561b4e3b41ae8adddbc6df3d5e188a427ae800df00f985743919628581f3f450"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -180568,7 +180588,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "349588c0658556b2a478f6cf99379db63bd644c6f490365a9dee644ed8396a1c"
+      "Hash": "c9cd13d23379046a82aba57a8103a5fa82ed36ac35215638031db5cc3933948e"
     },
     "h1:nisc": {
       "Key": "nisc",
@@ -184342,7 +184362,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "85272de58eecf0fd8ad83a1989a5f2acc0ada75bc4e44a99f6f383577e8dc321"
+      "Hash": "b60b1efdb8c91875c14fe1a2c697e6de720c1577b3f76b076412dd446e9ea87d"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -185123,7 +185143,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8f144b57dd54a160eaa4f65442c7f494fcd3299c2716c65f70c5d785b264922f"
+      "Hash": "8f063125b61e6e1c43eafc1090195886951b1abb1a888e1022f4328adec33588"
     },
     "h1:privy-bbp": {
       "Key": "privy-bbp",
@@ -185474,7 +185494,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "81015fc03d37cbc86cfd7bd045916d9df4e2a426ae828d1a993e71a0b723ccf2"
+      "Hash": "19745ae9381c6e97ceed118d2a0738fb5a33a27e0e4d283520a66c8461b32b3f"
     },
     "h1:rails": {
       "Key": "rails",
@@ -185492,7 +185512,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "bda8dd490a5438a3fed23baf9d0f339954f318303fd4f662e6650e5a0c26f2a3"
+      "Hash": "1666ee26d772939fded8fac0fd9f0aa7809a0f25e5cc8791165d2482fc3dc795"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -186920,7 +186940,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "bce4264a6d6bc8e333ecfa2acf045d07b3dbc02f2b3fa21bd7a376fc7d83adb8"
+      "Hash": "df52af07f98d05118a58acb453dc681019b3836e644fcc57cb3cdde55d020c53"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -187839,7 +187859,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "07f21ece6bfbf667966238c5bfc7e89611886ccb6067a81cf456682340b25fa0"
+      "Hash": "9ab93d388f9ebe26da1aea78710bddebfeb71630e420824900852fe7197828c2"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -188357,7 +188377,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fb9629e2701d0b1adda9a0cd1414a68e5ccfb71dff49d65c9ecf5605909ddccf"
+      "Hash": "09391b44b2f3c0322073c16c18a0a068d6062abf18694818e0a7c65f5adb20d0"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -189851,7 +189871,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "2379016789d0d263ddc301836313431954e8090a067409dfa8b731dd69810b1d"
+      "Hash": "0aa51a2c6f49ca60065572d23eec9f9eb14a798c019746b939c8ff0de09c5587"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -191129,7 +191149,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "35f24f33d7a18e69d20aa8d33e646cc2b665dd82a03d6807d687ff50599d32b3"
+      "Hash": "c20f79d6be04011281f378e8c5e2a630f2b919c5062f21e24e3c2fe0d5a1c0d5"
     },
     "h1:tesco": {
       "Key": "tesco",
@@ -192474,7 +192494,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "13a9a7190d76318cc35ea02cf7a9cc594011fa96cf3ff8e8cb32b304d99e86dc"
+      "Hash": "751fa38c9b7cd658d0d59779ec4231d0bb41b4a65330c9782a626a668e613218"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -192650,7 +192670,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "9f9b9f6a430be927e788751df003dfcd639f9451c4bd8c87be926d4d831d5ed7"
+      "Hash": "bf4cf559f2f40d2e9a5f0a3b7d649cbc8682edd82193fbe519d25c31f519b8c4"
     },
     "h1:tron_dao": {
       "Key": "tron_dao",
@@ -193201,7 +193221,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "21b4f403cb57832ebb0ca2a97d3ceb800dda8679c741f8be4f7980bec8ab6450"
+      "Hash": "5b60fe85b42b5253ce620202417c528564ed4378d20319fa16d9699560d434c2"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -202372,260 +202392,6 @@
       "OutScope": {},
       "Hash": "53b2fab1df76425b23e61269aaf51227372c6c5c9fcefbca6afd092a2fa1fd62"
     },
-    "in:768ad323-335b-4710-9370-6b81925c122f": {
-      "Key": "768ad323-335b-4710-9370-6b81925c122f",
-      "Name": "Kinepolis Group",
-      "URL": "https://www.intigriti.com/programs/kinepolis/website/detail",
-      "InScope": {
-        "*.kinepolis.be": {
-          "ID": "*.kinepolis.be",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.ch": {
-          "ID": "*.kinepolis.ch",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.com": {
-          "ID": "*.kinepolis.com",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.fr": {
-          "ID": "*.kinepolis.fr",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.lu": {
-          "ID": "*.kinepolis.lu",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.nl": {
-          "ID": "*.kinepolis.nl",
-          "Type": "wildcard"
-        },
-        "*.klubcinema.fr": {
-          "ID": "*.klubcinema.fr",
-          "Type": "wildcard"
-        },
-        "*.landmarkcinemas.com": {
-          "ID": "*.landmarkcinemas.com",
-          "Type": "wildcard"
-        },
-        "*.megatix.be  ": {
-          "ID": "*.megatix.be  ",
-          "Type": "wildcard"
-        },
-        "*.mjrtheatres.com": {
-          "ID": "*.mjrtheatres.com",
-          "Type": "wildcard"
-        },
-        "522089287": {
-          "ID": "522089287",
-          "Type": "ios"
-        },
-        "booking.mjrtheatres.com": {
-          "ID": "booking.mjrtheatres.com",
-          "Type": "url"
-        },
-        "business.kinepolis.be": {
-          "ID": "business.kinepolis.be",
-          "Type": "url"
-        },
-        "business.kinepolis.lu": {
-          "ID": "business.kinepolis.lu",
-          "Type": "url"
-        },
-        "business.kinepolis.nl": {
-          "ID": "business.kinepolis.nl",
-          "Type": "url"
-        },
-        "com.inthepocket.kinepolis": {
-          "ID": "com.inthepocket.kinepolis",
-          "Type": "android"
-        },
-        "egaming.kinepolis.es": {
-          "ID": "egaming.kinepolis.es",
-          "Type": "url"
-        },
-        "extras-acc.landmarkcinemas.com": {
-          "ID": "extras-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "extras.landmarkcinemas.com": {
-          "ID": "extras.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "https://movieclub-int.kinepolis.com": {
-          "ID": "https://movieclub-int.kinepolis.com",
-          "Type": "url"
-        },
-        "https://movienow-int.kinepolis.be/admin": {
-          "ID": "https://movienow-int.kinepolis.be/admin",
-          "Type": "url"
-        },
-        "https://shop-acc.kinepolis.be/": {
-          "ID": "https://shop-acc.kinepolis.be/",
-          "Type": "url"
-        },
-        "identityserver-acc.landmarkcinemas.com": {
-          "ID": "identityserver-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "identityserver.landmarkcinemas.com": {
-          "ID": "identityserver.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "kinepolis-studio.be": {
-          "ID": "kinepolis-studio.be",
-          "Type": "url"
-        },
-        "kinepolis.megatix.be": {
-          "ID": "kinepolis.megatix.be",
-          "Type": "url"
-        },
-        "kinepolis/id368204284": {
-          "ID": "kinepolis/id368204284",
-          "Type": "ios"
-        },
-        "luxfilmfestfilms.megatix.be": {
-          "ID": "luxfilmfestfilms.megatix.be",
-          "Type": "url"
-        },
-        "luxfilmfestproducts.megatix.be": {
-          "ID": "luxfilmfestproducts.megatix.be",
-          "Type": "url"
-        },
-        "luxfilmfesttickets.megatix.be": {
-          "ID": "luxfilmfesttickets.megatix.be",
-          "Type": "url"
-        },
-        "movieapi.kinepolis.megatix.be": {
-          "ID": "movieapi.kinepolis.megatix.be",
-          "Type": "url"
-        },
-        "nz.co.vista.android.movie.mjrtheatres": {
-          "ID": "nz.co.vista.android.movie.mjrtheatres",
-          "Type": "android"
-        },
-        "stage.landmarkcinemas.com": {
-          "ID": "stage.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "tickets.kinepolis.be": {
-          "ID": "tickets.kinepolis.be",
-          "Type": "url"
-        },
-        "tickets.kinepolis.ch": {
-          "ID": "tickets.kinepolis.ch",
-          "Type": "url"
-        },
-        "tickets.kinepolis.es": {
-          "ID": "tickets.kinepolis.es",
-          "Type": "url"
-        },
-        "tickets.kinepolis.fr": {
-          "ID": "tickets.kinepolis.fr",
-          "Type": "url"
-        },
-        "tickets.kinepolis.lu": {
-          "ID": "tickets.kinepolis.lu",
-          "Type": "url"
-        },
-        "tickets.kinepolis.nl": {
-          "ID": "tickets.kinepolis.nl",
-          "Type": "url"
-        },
-        "userprofile-acc.landmarkcinemas.com": {
-          "ID": "userprofile-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "userprofile-ui.landmarkcinemas.com": {
-          "ID": "userprofile-ui.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "www.kinepolis.be ": {
-          "ID": "www.kinepolis.be ",
-          "Type": "url"
-        },
-        "www.kinepolis.biz": {
-          "ID": "www.kinepolis.biz",
-          "Type": "url"
-        },
-        "www.kinepolis.ch ": {
-          "ID": "www.kinepolis.ch ",
-          "Type": "url"
-        },
-        "www.kinepolis.com ": {
-          "ID": "www.kinepolis.com ",
-          "Type": "url"
-        },
-        "www.kinepolis.es ": {
-          "ID": "www.kinepolis.es ",
-          "Type": "url"
-        },
-        "www.kinepolis.fr ": {
-          "ID": "www.kinepolis.fr ",
-          "Type": "url"
-        },
-        "www.kinepolis.lu ": {
-          "ID": "www.kinepolis.lu ",
-          "Type": "url"
-        },
-        "www.kinepolis.nl ": {
-          "ID": "www.kinepolis.nl ",
-          "Type": "url"
-        },
-        "www.landmarkcinemas.com": {
-          "ID": "www.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "www.mjrtheatres.com": {
-          "ID": "www.mjrtheatres.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.cineramabios.nl": {
-          "ID": "*.cineramabios.nl",
-          "Type": "wildcard"
-        },
-        "dev.kinepolis.com": {
-          "ID": "dev.kinepolis.com",
-          "Type": "url"
-        },
-        "helpdesk.landmarkcinemas.com": {
-          "ID": "helpdesk.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "jobs.kinepolis.com": {
-          "ID": "jobs.kinepolis.com",
-          "Type": "url"
-        },
-        "l.kinepolis.com": {
-          "ID": "l.kinepolis.com",
-          "Type": "url"
-        },
-        "openx.kinepolis.com": {
-          "ID": "openx.kinepolis.com",
-          "Type": "url"
-        },
-        "shop.kinepolis.be ": {
-          "ID": "shop.kinepolis.be ",
-          "Type": "url"
-        },
-        "shop.kinepolis.es": {
-          "ID": "shop.kinepolis.es",
-          "Type": "url"
-        },
-        "shop.kinepolis.fr ": {
-          "ID": "shop.kinepolis.fr ",
-          "Type": "url"
-        },
-        "shop.kinepolis.lu": {
-          "ID": "shop.kinepolis.lu",
-          "Type": "url"
-        }
-      },
-      "Hash": "a7c2a49ea9d26ca6c2af09d4ed22aae3fadc5aae6aabaca8caf1244b61f50a0e"
-    },
     "in:784ffbc6-daaa-4e7e-8eba-c38a101d7b12": {
       "Key": "784ffbc6-daaa-4e7e-8eba-c38a101d7b12",
       "Name": "Voi Vulnerability Disclosure Program",
@@ -204954,92 +204720,6 @@
       },
       "Hash": "183338b8fbcc9f3a3f50168e4fd116be4fc950c440e43299862eb9abe7b730cb"
     },
-    "in:afc4415d-c004-4cf8-9a12-e0f18cde6db5": {
-      "Key": "afc4415d-c004-4cf8-9a12-e0f18cde6db5",
-      "Name": "WP Engine Bug Bounty",
-      "URL": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "InScope": {
-        "*. advancedcustomfields.com": {
-          "ID": "*. advancedcustomfields.com",
-          "Type": "wildcard"
-        },
-        "*. bettersearchreplace.com": {
-          "ID": "*. bettersearchreplace.com",
-          "Type": "wildcard"
-        },
-        "*.deliciousbrains.com": {
-          "ID": "*.deliciousbrains.com",
-          "Type": "wildcard"
-        },
-        "*.localwp.com": {
-          "ID": "*.localwp.com",
-          "Type": "wildcard"
-        },
-        "*.nitropack.io": {
-          "ID": "*.nitropack.io",
-          "Type": "wildcard"
-        },
-        "*.studiopress.com": {
-          "ID": "*.studiopress.com",
-          "Type": "wildcard"
-        },
-        "*.wpengine.io": {
-          "ID": "*.wpengine.io",
-          "Type": "wildcard"
-        },
-        "*.wpesvc.net": {
-          "ID": "*.wpesvc.net",
-          "Type": "wildcard"
-        },
-        "WP Engine-developed WordPress Plugins and Themes": {
-          "ID": "WP Engine-developed WordPress Plugins and Themes",
-          "Type": "other"
-        },
-        "https://app.getflywheel.com": {
-          "ID": "https://app.getflywheel.com",
-          "Type": "url"
-        },
-        "https://getflywheel.com": {
-          "ID": "https://getflywheel.com",
-          "Type": "url"
-        },
-        "https://makeshift.film": {
-          "ID": "https://makeshift.film",
-          "Type": "url"
-        },
-        "https://my.wpengine.com": {
-          "ID": "https://my.wpengine.com",
-          "Type": "url"
-        },
-        "https://payments.wpengine.com": {
-          "ID": "https://payments.wpengine.com",
-          "Type": "url"
-        },
-        "https://studiopress.blog": {
-          "ID": "https://studiopress.blog",
-          "Type": "url"
-        },
-        "https://torquemag.io": {
-          "ID": "https://torquemag.io",
-          "Type": "url"
-        },
-        "https://velocitize.com": {
-          "ID": "https://velocitize.com",
-          "Type": "url"
-        },
-        "https://wpengine.com": {
-          "ID": "https://wpengine.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "marketing.nitropack.io": {
-          "ID": "marketing.nitropack.io",
-          "Type": "url"
-        }
-      },
-      "Hash": "fbd90ea7a0d2644c6cfbda18d54e897fb647873775ed3badb7489bd6dddd2c93"
-    },
     "in:afeb2624-ac2e-46bc-b078-b0e018baeb62": {
       "Key": "afeb2624-ac2e-46bc-b078-b0e018baeb62",
       "Name": "Cloudways by DigitalOcean",
@@ -205520,128 +205200,6 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
