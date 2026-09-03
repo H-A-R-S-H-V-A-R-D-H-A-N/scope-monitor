@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-03T00:08:39Z",
+  "captured_at": "2026-09-03T05:00:16Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -202,6 +202,19 @@
         }
       },
       "Hash": "bd07223be7cdda41d41f25589a3187ae8e022e6bb690768eaf75aac22c38466d"
+    },
+    "bc:APTIS": {
+      "Key": "APTIS",
+      "Name": "APTIS",
+      "URL": "https://bugcrowd.com/engagements/epicsumup",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1213091/esu-sum-up-kpi-budget-reporting-project-epic-overview?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1213091/esu-sum-up-kpi-budget-reporting-project-epic-overview?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "5c4adf41bff1be9723fefdc18c2ee08e761aa21ed9776679b43b9b7f4123fe87"
     },
     "bc:AXIS OS": {
       "Key": "AXIS OS",
@@ -597,6 +610,75 @@
         }
       },
       "Hash": "10fd797d50220d267ea835c59dc323064e162fdac94f09cac1981d1a58450927"
+    },
+    "bc:Akeles Marketplace Bug Bounty": {
+      "Key": "Akeles Marketplace Bug Bounty",
+      "Name": "Akeles Marketplace Bug Bounty",
+      "URL": "https://bugcrowd.com/engagements/akeles",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1211116/countdown-timer?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1211116/countdown-timer?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1211314/three-dimensional-date-gadgets?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1211314/three-dimensional-date-gadgets?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1211976/gauge-gadget?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1211976/gauge-gadget?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1214394/menu-gadget?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1214394/menu-gadget?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1214613/multiple-filters-chart-gadget?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1214613/multiple-filters-chart-gadget?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1215764/calendar-heatmap-gadget?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1215764/calendar-heatmap-gadget?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1217056/canned-search-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217056/canned-search-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1217224/countdown-gadget?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217224/countdown-gadget?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1223780/tissue-table-of-linked-issues?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1223780/tissue-table-of-linked-issues?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224848/banners-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224848/banners-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225375/site-statistics-for-jira-cloud?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1225375/site-statistics-for-jira-cloud?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1229447/site-statistics-for-confluence-cloud?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1229447/site-statistics-for-confluence-cloud?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1237524/dashboard-assistant-for-jira-cloud?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1237524/dashboard-assistant-for-jira-cloud?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1238069/file-type-checker-for-jira-cloud?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1238069/file-type-checker-for-jira-cloud?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1238098/project-access-review-for-jira-cloud?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1238098/project-access-review-for-jira-cloud?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "8754f8451c228327af3f3f52c69cf5e67312c28785baf60c59422addb1087195"
     },
     "bc:AppFox": {
       "Key": "AppFox",
@@ -2229,136 +2311,6 @@
       },
       "OutScope": {},
       "Hash": "82e3185abdad88d98e7b129b50d7980750735fc711fb77e5098362e03331aeeb"
-    },
-    "bc:Binance": {
-      "Key": "Binance",
-      "Name": "Binance",
-      "URL": "https://bugcrowd.com/engagements/binance",
-      "InScope": {
-        "3rdparty-apis.coinmarketcap.com": {
-          "ID": "3rdparty-apis.coinmarketcap.com",
-          "Type": "api"
-        },
-        "Binance Desktop Application": {
-          "ID": "Binance Desktop Application",
-          "Type": "other"
-        },
-        "Binance Mobile Application for Android": {
-          "ID": "Binance Mobile Application for Android",
-          "Type": "android"
-        },
-        "Binance Mobile Application for iOS": {
-          "ID": "Binance Mobile Application for iOS",
-          "Type": "ios"
-        },
-        "Binance macOS Application": {
-          "ID": "Binance macOS Application",
-          "Type": "other"
-        },
-        "CoinMarketCap Android app": {
-          "ID": "CoinMarketCap Android app",
-          "Type": "android"
-        },
-        "CoinMarketCap iOS app": {
-          "ID": "CoinMarketCap iOS app",
-          "Type": "ios"
-        },
-        "Trustwallet Android App": {
-          "ID": "Trustwallet Android App",
-          "Type": "android"
-        },
-        "Trustwallet Chrome Extension": {
-          "ID": "Trustwallet Chrome Extension",
-          "Type": "website"
-        },
-        "Trustwallet iOS App": {
-          "ID": "Trustwallet iOS App",
-          "Type": "ios"
-        },
-        "api.binance.com": {
-          "ID": "api.binance.com",
-          "Type": "api"
-        },
-        "api.coinmarketcap.com": {
-          "ID": "api.coinmarketcap.com",
-          "Type": "api"
-        },
-        "coinmarketcap.com": {
-          "ID": "coinmarketcap.com",
-          "Type": "website"
-        },
-        "https://binance.tr": {
-          "ID": "https://binance.tr",
-          "Type": "website"
-        },
-        "https://github.com/trustwallet/wallet-core/": {
-          "ID": "https://github.com/trustwallet/wallet-core/",
-          "Type": "other"
-        },
-        "https://www.binance.com/": {
-          "ID": "https://www.binance.com/",
-          "Type": "website"
-        },
-        "https://www.binance.us/": {
-          "ID": "https://www.binance.us/",
-          "Type": "website"
-        },
-        "portal-api.coinmarketcap.com": {
-          "ID": "portal-api.coinmarketcap.com",
-          "Type": "api"
-        },
-        "pro-api.coinmarketcap.com": {
-          "ID": "pro-api.coinmarketcap.com",
-          "Type": "api"
-        },
-        "pro.coinmarketcap.com": {
-          "ID": "pro.coinmarketcap.com",
-          "Type": "website"
-        }
-      },
-      "OutScope": {
-        "*.binance.org": {
-          "ID": "*.binance.org",
-          "Type": "website"
-        },
-        "*.coinmarketcap.com": {
-          "ID": "*.coinmarketcap.com",
-          "Type": "other"
-        },
-        "*.trustwallet.com": {
-          "ID": "*.trustwallet.com",
-          "Type": "website"
-        },
-        "*.trustwalletapp.com": {
-          "ID": "*.trustwalletapp.com",
-          "Type": "website"
-        },
-        "binance.sg": {
-          "ID": "binance.sg",
-          "Type": "website"
-        },
-        "blockchain.coinmarketcap.com": {
-          "ID": "blockchain.coinmarketcap.com",
-          "Type": "website"
-        },
-        "blog.coinmarketcap.com": {
-          "ID": "blog.coinmarketcap.com",
-          "Type": "website"
-        },
-        "jobs.coinmarketcap.com": {
-          "ID": "jobs.coinmarketcap.com",
-          "Type": "website"
-        },
-        "support.binance.*": {
-          "ID": "support.binance.*",
-          "Type": "website"
-        },
-        "support.coinmarketcap.com": {
-          "ID": "support.coinmarketcap.com",
-          "Type": "website"
-        }
-      },
-      "Hash": "94d79dc5fae0a0ec6229e9eff5c666b9f0a3520beb336f1c9cc423e138da9e81"
     },
     "bc:BitGo Managed Public Bug Bounty Engagement ": {
       "Key": "BitGo Managed Public Bug Bounty Engagement ",
@@ -9776,6 +9728,19 @@
       "OutScope": {},
       "Hash": "3d988d2110d26ad85e1a84fd55d3836b1cd72f92c22f301af99e44800bbec16a"
     },
+    "bc:Okapya": {
+      "Key": "Okapya",
+      "Name": "Okapya",
+      "URL": "https://bugcrowd.com/engagements/okapya",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "c45478e82da18a92bc09e357ec09a6427318a4660a381dbdac3cbf72001b4640"
+    },
     "bc:Okta": {
       "Key": "Okta",
       "Name": "Okta",
@@ -14093,6 +14058,23 @@
       "OutScope": {},
       "Hash": "e2b071b58c8737ca2a12c5e986aa56bfe12748dbd6af6e98bb15eae0839cec49"
     },
+    "bc:Shinetech Software Inc Marketplace Managed Bug Bounty Engagement ": {
+      "Key": "Shinetech Software Inc Marketplace Managed Bug Bounty Engagement ",
+      "Name": "Shinetech Software Inc Marketplace Managed Bug Bounty Engagement ",
+      "URL": "https://bugcrowd.com/engagements/shinetech-software-market",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table-of-contents?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table-of-contents?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table-of-contents?hosting=datacenter": {
+          "ID": "https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table-of-contents?hosting=datacenter",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "46ccf2bb4f0cefaa77f679e80563232baa886fcc1bb1b66e345d45231e23a3de"
+    },
     "bc:Shipwire": {
       "Key": "Shipwire",
       "Name": "Shipwire",
@@ -17519,6 +17501,19 @@
         }
       },
       "Hash": "c97765d83990e562cc572596a3a3cce77b99bdc4ad250ba433de0fd39fbe98ab"
+    },
+    "bc:Xopero Software S.A. Marketplace Managed Bug Bounty Engagement": {
+      "Key": "Xopero Software S.A. Marketplace Managed Bug Bounty Engagement",
+      "Name": "Xopero Software S.A. Marketplace Managed Bug Bounty Engagement",
+      "URL": "https://bugcrowd.com/engagements/xopero-software-marketplace",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "e26abfa76d8a0f083481b73b85d6a64013ef24cb54ecb6868800022c855f9f1a"
     },
     "bc:YNAB": {
       "Key": "YNAB",
@@ -31604,7 +31599,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c6c0121616222d34e77d686e0e1b3b2d6767fddca18dd958476af45cccaf378a"
+      "Hash": "a299fdc231754bbec261cb504d3ce5a5a284e2464a6b0d392b3753331156d30d"
     },
     "h1:brightspeed": {
       "Key": "brightspeed",
@@ -88766,7 +88761,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "aedb5caf408d963a40410acbc6ff2f4306fc80558c4dfea64459b27624382a02"
+      "Hash": "e9615f3866cb4c9c0e3d0a4f58f02f680d6bbf46da4153269ea278c87002ed4c"
     },
     "h1:corebridge_financial": {
       "Key": "corebridge_financial",
@@ -95830,7 +95825,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "118597cd6461ba9f6ba075b690291e67ce77e20b8e029500ccd2cadc1cb05ba5"
+      "Hash": "df38451a412f34f71326812d4bd0cb5b76583d746ea792003bd27a4a99f5e660"
     },
     "h1:django": {
       "Key": "django",
@@ -95970,7 +95965,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a5fb332ec5c0b51c78ce97a9f7e58e7b68194826c2415f43c6f60d7fd72b9a0c"
+      "Hash": "51f805ad8e9716d3c7e01ab37d5ee47f461d5296bd508ed6998607815a3f83a9"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -96996,7 +96991,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "da50b1e13423a5e6a586f65e9e21068f048aa89ce4028b5b56ea19234e7f04f9"
+      "Hash": "9c2972cf915ab482ae301b84a77a095b2e1595703c18bbb6a225eb4beaa3d58b"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -103532,7 +103527,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9181ff7639914d1cea77f7cbd43108a23edf35fdfdbf49be15e35a1e9d715aa0"
+      "Hash": "42ba48f49f249fd32935d49be2845eeffffabfde1dcf6eddfea102b98837c9f6"
     },
     "h1:exness": {
       "Key": "exness",
@@ -103852,7 +103847,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7d9d71a407ad0cf0d25e06ae63bdd44b8f1d352d4aecc84e234c0a706cf67378"
+      "Hash": "339371a41dd868b190ea7ef6c979445310689104ae1fd28316be65d94ab272b1"
     },
     "h1:expediagroup": {
       "Key": "expediagroup",
@@ -104256,7 +104251,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7dd25af5d1b5f9205da3e08623963a4e9f6bc394c82d4d9dbb2d4dde58955e6d"
+      "Hash": "ad7689a6b9068d3807238101f4189a4fba50383433af44cc2dc529575f53b542"
     },
     "h1:experian": {
       "Key": "experian",
@@ -105898,7 +105893,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dac3af65a00596b9e1fe938b46128256ee1c87c9eb915d4d99a15eefd6dce3c1"
+      "Hash": "4eb9f9d41410cae4edd548b410a93f8897c917b17f129e27feb396b85448f59e"
     },
     "h1:fertitta_entertainment": {
       "Key": "fertitta_entertainment",
@@ -150300,7 +150295,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e6b7479abe00f49245906f31cc219eafe49bdb8a570b034078dd233fc8bd1e51"
+      "Hash": "ab529179138a3ae152ebd0e8c8d56f459b6b6f27a30b09c4d67942c28999c427"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -151716,7 +151711,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "77109a279e9a811d2c6058f7f0cdac2a189aa8f933aa294e8a2cc80aeca52d02"
+      "Hash": "2ff1b8cc15fcfd9613b139ac0ffa7fd962744e9a3d1352c4259215f2570d5f1b"
     },
     "h1:inditex": {
       "Key": "inditex",
@@ -168528,7 +168523,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8c92e7da8f437b378e9acf5ef9221ddf72f95d4f3901fc4432564c6ddb1101a9"
+      "Hash": "7a36008b6e5d6502a99ed6ec897260fac71a466e94381b18d31aed4bd51cfb3a"
     },
     "h1:koho": {
       "Key": "koho",
@@ -169909,7 +169904,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "8b0489a44f98b2621681913efc27c4263633e107b4c9687039d29fa600881c85"
+      "Hash": "244407b64d8b9abc5682d51549d41be128470e200a987c81cc1403abe2791ab0"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -171381,7 +171376,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d8ceb91516b6fcaec8c451e5f9778e9256ac3519fe2a06c913fabfa024ca79d3"
+      "Hash": "a2fd87d5ab8e93accab1f1732a84cb705ca29fe0dd5013a01f000fc752399ca1"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -179934,7 +179929,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c1f5c8205c7faf8b039d11b46a36d23c3bd6f9bb13a23a957f6abc68912e77a2"
+      "Hash": "8fe802e9d3475096af73c7e220f40e3948921eb6057afc7c73aa4b9b4a2b36e2"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -179955,7 +179950,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "77bf0f2d76479734c5ebfa3063e585965adee68faae263f0cc112cc5b293caa3"
+      "Hash": "587f73992784932530b84ac9b6041f493b8363ca57c44069d708c6331e3762f9"
     },
     "h1:newegg": {
       "Key": "newegg",
@@ -182087,7 +182082,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "2741bdc256ad1581285fd9294f8b063c7745ddcba6e4396dbef06511285de1b1"
+      "Hash": "b31107c40dd716f56aa8bacaca8c01bfc90a574943a98b7f24a7f76f237969b8"
     },
     "h1:owox": {
       "Key": "owox",
@@ -182387,7 +182382,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e2540b554d0523adf433bc6a75b068cd4dc2124ffe772fadc96338a19be8f028"
+      "Hash": "8f9b3046c5278066a04d5105668f8df88217abdfd8f0ebf400ef139f4ddd55ad"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -182585,7 +182580,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "249a9956d454f939c215691270779226fcfca9a4c65d896f825f058b3d7847a2"
+      "Hash": "8dfe095627e65aa28fbb5e4bbcb5935f7e90bab5a6332bd6e0f25f662f0b6235"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -183675,7 +183670,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a7c6d143656ed234a7ad81b2149d38695e25fe08082edb498eeec0f087be87f2"
+      "Hash": "6b082dc6abb2fef72ebf845ab78b09502ab19854fba055ed08abf2b0b143e3a2"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -185866,7 +185861,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bbb5825d8bec816486785baad7582c334fe8af7be155f3645d124ebdc2316be8"
+      "Hash": "5b22f49259a88dbcfe12ab1d698f6374ea1b45e5d04c9fc29c2594b0c273e9bd"
     },
     "h1:rei_vdp": {
       "Key": "rei_vdp",
@@ -187740,7 +187735,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "948becfeb9afb2e2ffa58efa68a102931e490428c1113ec1eb069fac2594c82e"
+      "Hash": "edd243f436b3720ae03598795abf1b7e50c955d3043c30f0f6136788f73bca48"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -189708,7 +189703,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c85c0ef8a09575d8d414e075fe35fd581295a4f0a1ac3bd9f6c753d3b830e4c6"
+      "Hash": "57355fcace56c04bcb632a45e7e686e92077c53b25d4e58be74877d44d094d79"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -190597,7 +190592,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f77f31be0f1cb58b0b02b113107a0dfab65b08f3975012d84b9a22c90b8d2f46"
+      "Hash": "f3d6fb9e66e515b1415ead5a36d0ed23c99d75564c329573cd316764f8bb8a77"
     },
     "h1:taxwell-vdp": {
       "Key": "taxwell-vdp",
@@ -190760,7 +190755,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1358c93001d4121d7e1a2dfc72feb28878bd7b4348d781e2fe367f246e5bb6e1"
+      "Hash": "ca2ff60a048bdcf523dbac24efd58647c12e26b86ee6e1db3b3ffcc4916d1d5b"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -193975,7 +193970,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c4cb3bd865f68ea25afc4d9b2c6c0f3026b60c17095ad6ca5bb59ad7d661b1ac"
+      "Hash": "5a096b37c1bc883c2efb4ebfef28ace8d3579a0a916a1123beed19251102d78e"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -194034,7 +194029,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "1311d217f20ff215f84e08008d1d3016e99d49eef172cfac84557c2293c7b769"
+      "Hash": "faf56b3013e12b65381f849d2377fd2df423a776d7a7d80e2aec21f41de7d254"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -194126,7 +194121,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7aeb7bcb6eb41783758fc0c5de8f23a11511ae9610aed0babc36b63222ebdfec"
+      "Hash": "2429b7f4bb8cb73061dd8ffee92262fe18c7905ae71fe1f01f45b49bb0c213c6"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -197376,7 +197371,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4cbab682911212523c9abc8f372ca69ad352a6f2644c38af1e873fdd1c27b4e8"
+      "Hash": "1c28b878461bec450af28e4fc68f01bb7ab2a78c6f9e784a466feee740769e49"
     },
     "h1:zabbix": {
       "Key": "zabbix",
