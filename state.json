@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-04T21:27:11Z",
+  "captured_at": "2026-09-04T23:16:43Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -30632,7 +30632,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "b96c417894f4b345a409111f6301933582ac23c37abfe184507756ca950919f3"
+      "Hash": "18cbf515e9d24211a93e9e9fb1b935ed098a523fff5ff22f063d25d7a9f76f55"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -30944,7 +30944,7 @@
       "URL": "https://hackerone.com/beiersdorf",
       "InScope": {},
       "OutScope": {},
-      "Hash": "aec89ea4f12bf4ba36e4736c5c7e972694d0aa2f3c45953c66e16dafa0a54fdb"
+      "Hash": "175573c5c3b6c3891bb1b2fba94cd893bf9918b1981ef028502d9878c496bc53"
     },
     "h1:bestbuy": {
       "Key": "bestbuy",
@@ -103591,7 +103591,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "64ed3b96b0117abb7c3c369f479c467dc129ae3ccb87f21a4b707769504f3ac2"
+      "Hash": "42ba48f49f249fd32935d49be2845eeffffabfde1dcf6eddfea102b98837c9f6"
     },
     "h1:exness": {
       "Key": "exness",
@@ -106759,7 +106759,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c25421fe4f6e129a0b26a71004802c6126573c4a243f751d1614e49ab2f9638c"
+      "Hash": "b5f08f67b588f49feafefc39c730fc1c9e4c5e3f3c33a49743ec0bdb1ffb9e74"
     },
     "h1:files": {
       "Key": "files",
@@ -170804,7 +170804,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b4d91a7c1c10234093a08e09514bf4831257a9f8760e486738d990104446a891"
+      "Hash": "47172165ecfb067e5232acca88cb544f6085c7161d159128d3e4013101999d63"
     },
     "h1:mars": {
       "Key": "mars",
@@ -171261,7 +171261,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "97fe7026cd6267c89f447c671a388b37c031737112b840ccefd2e30939515609"
+      "Hash": "030803e810547d71598de2c6258bcb3bc8354a360a7337074afc0ddd9b1acb85"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -175014,7 +175014,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "67eba75e96917d61966260c8dbecef6e87275166529168a767eda56d8ed32879"
+      "Hash": "4bee491435ee57a5029abc75a73c650bd1460c0b3f1e9bfc275226e672ca15fe"
     },
     "h1:msci": {
       "Key": "msci",
@@ -177764,7 +177764,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e96b293b1bcac41a56c09bd60ef4608868656f43cb35fb79c17243f75af87dac"
+      "Hash": "40fe5e5c8521f4eef4c7d4b31ee08e6aea46379d3b84acc468ca6b5d904df357"
     },
     "h1:navient_solutions": {
       "Key": "navient_solutions",
@@ -179665,7 +179665,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "61bc6c4cc929bc14a79b3962078d88f79018a1fee666d27170bfd165cbc4a072"
+      "Hash": "1cd942d731d6103c8313d28cb2432556ed2f98dfc8aaadb5fd90f57333e51725"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -188257,7 +188257,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6c79d05d56a8a35b09d0744337a7889a7897ec2237c6552331af8b19a492f0a4"
+      "Hash": "a2f38e84f66927020d875a09dde5a069e5e2deec4f19a40bd3e0d5bc9abf3825"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -197431,7 +197431,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d1051295521c9bce4035819eb4603567362839635070fb2319ef0ac9cebd9520"
+      "Hash": "0c37f7a32746949c0fefdeac7bf1c90a74c5632aa644bcf9cd4573e88adbddf1"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
