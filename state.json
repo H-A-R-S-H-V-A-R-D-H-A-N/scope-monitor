@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-04T19:07:04Z",
+  "captured_at": "2026-09-04T21:27:11Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -30936,7 +30936,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4fc1b4c2ba826c6bb1e01d133cc57f447ac08f777a5a23cc0cf5913f5fded131"
+      "Hash": "3c0906427eae12b651ee966fca0e0656ffe7676f0df87db1d3c532264f216943"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -96112,7 +96112,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6ec3d2569a6db3ea1bcd255a27c8b276be075449682f0a750836e0147fed231d"
+      "Hash": "d134d09efd0c36bc4ebdf8b89f93c69a0f409008aed03dcb45b1f4c70489e6c5"
     },
     "h1:dust": {
       "Key": "dust",
@@ -103537,7 +103537,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "13f91bd91f28a9cfcbb7e955b73b4b32a7768bb5980c37bfda1667fd99be0c3a"
+      "Hash": "1b8b6903d6fcaeef4e175861cc5717ebcc6e8c556cde3418f5d54512c7ea9f82"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -151257,7 +151257,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e25e1e58c4d4dcf7087451331c52425171147480093a83ed338f230b24d1dc19"
+      "Hash": "04c5be12c785ac513943a6c4be2cca4c7e5740484b68bafabcaed7239410285e"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -169216,7 +169216,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ab975012b3fc707dc67d67093795ea6988546284177ccd96b57d765c00568890"
+      "Hash": "fa31a29cb197815cee804965e4545f2855b754e1276561868bd45ff50bf1f867"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -169904,7 +169904,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "c4b97144dd2c5249d1e1b6188d40b3a15d3a1351445f30a5b92ceebb2dfd8790"
+      "Hash": "bbab41842b37def17c642168aae59dba4cd86e85afe74c1658262311879a8dbd"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -172146,7 +172146,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "71682f4a07e443b5a72a5520aec399980b1cafcb77a875083dd276acc94de630"
+      "Hash": "d45cb883afcb47a644233c955c54bb613f4a418bdd550385e107ad722567ee64"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -180978,7 +180978,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c18a5f0029b1e2dc80383e0bf6ba5dfac12862da34ba3fd516682b4a1106024c"
+      "Hash": "6dc64436a2ee520bcc846f8f0fa095031db7936307a00100785674026f640dc7"
     },
     "h1:on": {
       "Key": "on",
@@ -184242,7 +184242,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "85272de58eecf0fd8ad83a1989a5f2acc0ada75bc4e44a99f6f383577e8dc321"
+      "Hash": "b60b1efdb8c91875c14fe1a2c697e6de720c1577b3f76b076412dd446e9ea87d"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -184906,7 +184906,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "4e91e4f0bb6f68b37b4fabf33dd69fe16d879280aa1d103ddfbfb9a7d8a9e4fd"
+      "Hash": "0572dd6222c567a2ac6076f40cb9984c96ef40a92c41218f33e8aa67e147e693"
     },
     "h1:prism_vdp": {
       "Key": "prism_vdp",
@@ -185023,7 +185023,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8f063125b61e6e1c43eafc1090195886951b1abb1a888e1022f4328adec33588"
+      "Hash": "8f144b57dd54a160eaa4f65442c7f494fcd3299c2716c65f70c5d785b264922f"
     },
     "h1:privy-bbp": {
       "Key": "privy-bbp",
@@ -186820,7 +186820,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "869853fccf56bbf0954fd30c33493aa170b82477b994eaf3a88e15a9d2450bee"
+      "Hash": "17bd4b253c55899dc64a4965e74c61d6f07644b8f3053c528602b3998afa4ef3"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -188462,7 +188462,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "45beff8a160247c06ab0ef0bd1305bb19f7b5d27e8634ebe68b7b3b64dbfb6f5"
+      "Hash": "e9dff922069f856cacf0daf969ac905a78548a9ab910acace10d1292f8314790"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -188624,7 +188624,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "ad8bfe77f3e6521c7de878dd8d68ac59f01f9ed4f193b9d06a9702029e0e5bc3"
+      "Hash": "0549b7cc8b2ba1bd972c219a2928c4874ee249e25152a1829643142270b641ec"
     },
     "h1:simple_poll": {
       "Key": "simple_poll",
@@ -190154,7 +190154,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "762acfa1aaac69130c98bfeaae492de809d3bec6d0248d046236ba5aa66062fa"
+      "Hash": "6943453b5309be1e0be1ee6df5c0002f5d7d592febd220ad4f179a22de673e2f"
     },
     "h1:stripo": {
       "Key": "stripo",
