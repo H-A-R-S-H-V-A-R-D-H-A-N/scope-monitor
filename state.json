@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-03T23:14:41Z",
+  "captured_at": "2026-09-04T01:20:01Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -25924,6 +25924,10 @@
           "ID": "1276296103",
           "Type": "APPLE_STORE_APP_ID"
         },
+        "1324809509": {
+          "ID": "1324809509",
+          "Type": "APPLE_STORE_APP_ID"
+        },
         "1454725763": {
           "ID": "1454725763",
           "Type": "APPLE_STORE_APP_ID"
@@ -25942,6 +25946,10 @@
         },
         "1498197033": {
           "ID": "1498197033",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "1528364633": {
+          "ID": "1528364633",
           "Type": "APPLE_STORE_APP_ID"
         },
         "1532153219": {
@@ -25966,6 +25974,10 @@
         },
         "297606951": {
           "ID": "297606951",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "302584613": {
+          "ID": "302584613",
           "Type": "APPLE_STORE_APP_ID"
         },
         "335187483": {
@@ -25996,6 +26008,10 @@
           "ID": "545519333",
           "Type": "APPLE_STORE_APP_ID"
         },
+        "621574163": {
+          "ID": "621574163",
+          "Type": "APPLE_STORE_APP_ID"
+        },
         "6444868926": {
           "ID": "6444868926",
           "Type": "APPLE_STORE_APP_ID"
@@ -26020,6 +26036,14 @@
           "ID": "794141485",
           "Type": "APPLE_STORE_APP_ID"
         },
+        "944011620": {
+          "ID": "944011620",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "947984433": {
+          "ID": "947984433",
+          "Type": "APPLE_STORE_APP_ID"
+        },
         "988788863": {
           "ID": "988788863",
           "Type": "APPLE_STORE_APP_ID"
@@ -26028,9 +26052,29 @@
           "ID": "Amazon Subsidiaries (Please only actively test explicitly stated scope)",
           "Type": "OTHER"
         },
+        "Devices": {
+          "ID": "Devices",
+          "Type": "OTHER"
+        },
+        "Echo Family Devices": {
+          "ID": "Echo Family Devices",
+          "Type": "HARDWARE"
+        },
+        "FireTV": {
+          "ID": "FireTV",
+          "Type": "HARDWARE"
+        },
         "GenAI Apps under *.amazon.*": {
           "ID": "GenAI Apps under *.amazon.*",
           "Type": "AI_MODEL"
+        },
+        "Kindle E-Reader": {
+          "ID": "Kindle E-Reader",
+          "Type": "HARDWARE"
+        },
+        "Luna": {
+          "ID": "Luna",
+          "Type": "HARDWARE"
         },
         "Other Amazon Retail Assets (Please only actively test explicitly stated scope)": {
           "ID": "Other Amazon Retail Assets (Please only actively test explicitly stated scope)",
@@ -26042,6 +26086,18 @@
         },
         "Other Amazon Retail Sites (Please only actively test explicitly stated scope)": {
           "ID": "Other Amazon Retail Sites (Please only actively test explicitly stated scope)",
+          "Type": "OTHER"
+        },
+        "Services/Mobile/GenAI": {
+          "ID": "Services/Mobile/GenAI",
+          "Type": "OTHER"
+        },
+        "Tablets": {
+          "ID": "Tablets",
+          "Type": "HARDWARE"
+        },
+        "Vega OS": {
+          "ID": "Vega OS",
           "Type": "OTHER"
         },
         "amazon.speech.sim": {
@@ -26072,6 +26128,18 @@
           "ID": "com.amazon.avod.thirdpartyclient",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
+        "com.amazon.clouddrive.photos": {
+          "ID": "com.amazon.clouddrive.photos",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.amazon.dee.alexaonwearos": {
+          "ID": "com.amazon.dee.alexaonwearos",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.amazon.dee.app": {
+          "ID": "com.amazon.dee.app",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
         "com.amazon.enterprise.access.android": {
           "ID": "com.amazon.enterprise.access.android",
           "Type": "GOOGLE_PLAY_APP_ID"
@@ -26094,6 +26162,10 @@
         },
         "com.amazon.imdb.tv.mobile.app": {
           "ID": "com.amazon.imdb.tv.mobile.app",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.amazon.kindle": {
+          "ID": "com.amazon.kindle",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
         "com.amazon.kisan.app": {
@@ -26148,12 +26220,24 @@
           "ID": "com.amazon.shopperpanel.android.mobile.app",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
+        "com.amazon.storm.lightning.client.aosp": {
+          "ID": "com.amazon.storm.lightning.client.aosp",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
         "com.amazon.swa.mobileapp": {
           "ID": "com.amazon.swa.mobileapp",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
+        "com.amazon.tahoe.freetime": {
+          "ID": "com.amazon.tahoe.freetime",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
         "com.amazon.tahoe.grownups": {
           "ID": "com.amazon.tahoe.grownups",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.amazon.tails": {
+          "ID": "com.amazon.tails",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
         "com.amazon.technician.android": {
@@ -26247,165 +26331,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f5eaa4a0f722f14a7200b0bf9553fb760071cf7e22534589cdd0178ee9e00bd2"
-    },
-    "h1:amazonvrp-devices": {
-      "Key": "amazonvrp-devices",
-      "Name": "Amazon Vulnerability Research Program - Devices",
-      "URL": "https://hackerone.com/amazonvrp-devices",
-      "InScope": {
-        "1324809509": {
-          "ID": "1324809509",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "1528364633": {
-          "ID": "1528364633",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "302584613": {
-          "ID": "302584613",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "621574163": {
-          "ID": "621574163",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "944011620": {
-          "ID": "944011620",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "947984433": {
-          "ID": "947984433",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "Echo Family Devices": {
-          "ID": "Echo Family Devices",
-          "Type": "HARDWARE"
-        },
-        "FireTV": {
-          "ID": "FireTV",
-          "Type": "HARDWARE"
-        },
-        "Kindle E-Reader": {
-          "ID": "Kindle E-Reader",
-          "Type": "HARDWARE"
-        },
-        "Luna": {
-          "ID": "Luna",
-          "Type": "HARDWARE"
-        },
-        "Other": {
-          "ID": "Other",
-          "Type": "OTHER"
-        },
-        "Tablets": {
-          "ID": "Tablets",
-          "Type": "HARDWARE"
-        },
-        "Vega OS": {
-          "ID": "Vega OS",
-          "Type": "OTHER"
-        },
-        "a4k.amazon.com": {
-          "ID": "a4k.amazon.com",
-          "Type": "URL"
-        },
-        "alexa.amazon.com": {
-          "ID": "alexa.amazon.com",
-          "Type": "URL"
-        },
-        "alexaanswers.amazon.com": {
-          "ID": "alexaanswers.amazon.com",
-          "Type": "URL"
-        },
-        "amazon.com/hz/mycd/*": {
-          "ID": "amazon.com/hz/mycd/*",
-          "Type": "URL"
-        },
-        "api.amazonalexa.com/*": {
-          "ID": "api.amazonalexa.com/*",
-          "Type": "URL"
-        },
-        "blueprints.amazon.com": {
-          "ID": "blueprints.amazon.com",
-          "Type": "URL"
-        },
-        "com.amazon.clouddrive.photos": {
-          "ID": "com.amazon.clouddrive.photos",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.amazon.dee.alexaonwearos": {
-          "ID": "com.amazon.dee.alexaonwearos",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.amazon.dee.app": {
-          "ID": "com.amazon.dee.app",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.amazon.kindle": {
-          "ID": "com.amazon.kindle",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.amazon.storm.lightning.client.aosp": {
-          "ID": "com.amazon.storm.lightning.client.aosp",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.amazon.tahoe.freetime": {
-          "ID": "com.amazon.tahoe.freetime",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.amazon.tails": {
-          "ID": "com.amazon.tails",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "creator.amazon.com": {
-          "ID": "creator.amazon.com",
-          "Type": "URL"
-        },
-        "developer.amazon.com/alexa/*": {
-          "ID": "developer.amazon.com/alexa/*",
-          "Type": "URL"
-        },
-        "developer.amazon.com/apps-and-games/*": {
-          "ID": "developer.amazon.com/apps-and-games/*",
-          "Type": "URL"
-        },
-        "https://luna.amazon.com/*": {
-          "ID": "https://luna.amazon.com/*",
-          "Type": "URL"
-        },
-        "https://www.amazon.com/luna/*": {
-          "ID": "https://www.amazon.com/luna/*",
-          "Type": "URL"
-        },
-        "read.amazon.com": {
-          "ID": "read.amazon.com",
-          "Type": "URL"
-        },
-        "skills-store.amazon.com": {
-          "ID": "skills-store.amazon.com",
-          "Type": "URL"
-        },
-        "www.amazon.com/photos/*": {
-          "ID": "www.amazon.com/photos/*",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {
-        "\"Contact Us\" Functionality": {
-          "ID": "\"Contact Us\" Functionality",
-          "Type": "OTHER"
-        },
-        "Devices": {
-          "ID": "Devices",
-          "Type": "OTHER"
-        },
-        "Services and Apps": {
-          "ID": "Services and Apps",
-          "Type": "OTHER"
-        }
-      },
-      "Hash": "47dcab28ccaef4cb6e9216b2477b64f631fd6a251ff728bba77026da112dad30"
+      "Hash": "bf1ec9a079a487f9ec80a948c93030e5bd11f43b8d0f9f001b31c9bf61132cd1"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -146292,7 +146218,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "313972752253d8d7145fb4cdeaf28fd3953201f157f0c59b0aa21ee18ddf655e"
+      "Hash": "57d1563bc30de5e41c8d3616a273834b7fafcaaf467d24186e90e0a386fdd74d"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -168158,7 +168084,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "51c8308c65ee79071d0c1f2e42c3f0dcd2e3f41dfc295c170d4c87098eb709e5"
+      "Hash": "3495aadddc22a8543d9211430c363b2ba3f886dfd070a21b1ddf50df73afc65d"
     },
     "h1:kiwicom": {
       "Key": "kiwicom",
@@ -168659,7 +168585,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7a36008b6e5d6502a99ed6ec897260fac71a466e94381b18d31aed4bd51cfb3a"
+      "Hash": "8c92e7da8f437b378e9acf5ef9221ddf72f95d4f3901fc4432564c6ddb1101a9"
     },
     "h1:koho": {
       "Key": "koho",
@@ -170040,7 +169966,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "1239c6c3fd9e856c856c4159778905221b36e2fb27287b69cb8526b1747cb844"
+      "Hash": "c4b97144dd2c5249d1e1b6188d40b3a15d3a1351445f30a5b92ceebb2dfd8790"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -188393,7 +188319,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8d1162a863ecf5d9eb4239426076af0cd02b7953c23d9dc326e1ba75c9f49d9e"
+      "Hash": "1bb576f54c5210092a4a4d5ad42d10a09a95c9781dd89bde7730201b6db83e23"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -192757,7 +192683,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "34f3b08052b698b0a606fc88f0549416c969a6726074bb152612ff3b574c38eb"
+      "Hash": "a480ef3207ec3e8dcb6b83099044ee0cacc2f1e00e2ee038abaebb11c564c0f3"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -196578,7 +196504,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c92dc90b2dcae84c512475505cb4a6e9fdc7a63749e89667a0c06b45300512fd"
+      "Hash": "436023feec20fbcb3cddbbe7b0ddb0b2a118b923308d10ca6f4ce7e0ce76ce94"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -200550,27 +200476,6 @@
       },
       "OutScope": {},
       "Hash": "a747b946cf8b369311d9552c562decf9b36d993e62ee841ee617ee770ed93aec"
-    },
-    "in:2f9642bb-830b-4756-9cbe-391e44175b8a": {
-      "Key": "2f9642bb-830b-4756-9cbe-391e44175b8a",
-      "Name": "Liferay DXP",
-      "URL": "https://www.intigriti.com/programs/liferay/liferaydxp/detail",
-      "InScope": {
-        "Liferay DXP 2024.Q1": {
-          "ID": "Liferay DXP 2024.Q1",
-          "Type": "other"
-        },
-        "Liferay DXP 2025.Q1": {
-          "ID": "Liferay DXP 2025.Q1",
-          "Type": "other"
-        },
-        "Liferay DXP 2026.Q1": {
-          "ID": "Liferay DXP 2026.Q1",
-          "Type": "other"
-        }
-      },
-      "OutScope": {},
-      "Hash": "b774a4aff75706be0f200bc7c39356b42e83a1fc36853026ae8bad4a8dc4c1ac"
     },
     "in:30f445f7-ca4c-4130-9434-49add5c6ac74": {
       "Key": "30f445f7-ca4c-4130-9434-49add5c6ac74",
