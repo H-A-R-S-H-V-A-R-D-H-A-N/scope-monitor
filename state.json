@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-05T10:53:56Z",
+  "captured_at": "2026-09-05T13:50:35Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18595,7 +18595,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "3b0edca8c36d3b2ca3bcbaa5040a811325eab3911bd5a96b8c465ffd1a5110c6"
+      "Hash": "1821fb78b4da9efbf54cde62e03396c7c282bca45806390243ea7d2d38c1c307"
     },
     "h1:6sense-vdp": {
       "Key": "6sense-vdp",
@@ -26373,7 +26373,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f2c793d17513dc34fc7f3c2a4ce70af58f939a3cc4deb4ed60b7d1027c27c625"
+      "Hash": "59c36cc33fa6ed87edc473f18f5d9ab8c512c35316c5fbbd16b0c18f6e70d75c"
     },
     "h1:anthropic": {
       "Key": "anthropic",
@@ -28389,7 +28389,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f6469efe284d18ccca76cf87a3fd361854f399b1d37cb1a783d0430e5a9483ed"
+      "Hash": "9bbf0223d113e567d08c8fe76aa13ce0e4794729c84195d8cbd9303c8d359eb0"
     },
     "h1:aven_response": {
       "Key": "aven_response",
@@ -95709,7 +95709,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5d6e0108784951313faced6c119dd6f0fe8ea389114557d125bd26820b22f43c"
+      "Hash": "203aa8630063f3c3775638256f016ef1129b523c8c181867318db3d34195cafc"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -104286,7 +104286,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a9c1cf8ebeeb2b988c7a9ea1a2d2fa314e4481802c72722f94c649366ef41e58"
+      "Hash": "47369f5a2dd90d976d1a49ed7c900afd0a11cb71ede70334be807b9a808d172a"
     },
     "h1:experian": {
       "Key": "experian",
@@ -152545,7 +152545,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ec9205155175ae515fd41c527476590ec5f25b78c1c18da84ff1cd0a97c96f98"
+      "Hash": "81f1ab254ce3fa0a4719a2952183db5eee932df14c04e93301986daea1610259"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -168662,7 +168662,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "698e949c68f126a5be394e4a8e465aaa0845a70f58ef74219572068b3c5a61fc"
+      "Hash": "c68060766fa4d34e2695e3298bcb5ecd485c1fda59e533a4983702871140f342"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -179971,7 +179971,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "747bbc6945d68c521546bb7375bfb95f8a3b31e699aefd61e482dfc0674fda2f"
+      "Hash": "2b3bc3dec2636a8d0fc67316a0c2e95db8e256347c29a3cc3cd5b50e15deffd2"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -182620,7 +182620,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0a7a4be0abfafea5d89670c9fd462cff88e653a830aa0fefa539d07d316146bd"
+      "Hash": "789588138caf8806a7e6c3126c5ec5a61c43d008fd368080bbafc29b6e6d6889"
     },
     "h1:peloton": {
       "Key": "peloton",
@@ -184021,7 +184021,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "78c9f923fdb181e9966e76a2e147c4b1de57f2f26a07e7c3a435293bd3a65540"
+      "Hash": "a9ac236027756c757eb32f7ccdcfb8f46d1c9c6527fcf632dabe1383160207a4"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -184994,7 +184994,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8f144b57dd54a160eaa4f65442c7f494fcd3299c2716c65f70c5d785b264922f"
+      "Hash": "8f063125b61e6e1c43eafc1090195886951b1abb1a888e1022f4328adec33588"
     },
     "h1:privy-bbp": {
       "Key": "privy-bbp",
@@ -185396,7 +185396,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5789d8c6dd93540263557dfdbd5a775d640b6976784bc3a27561d30ee18dc682"
+      "Hash": "8f974a1fe39f180417c4828b244564dfdd7c7f6fe67f5162a0dbb20e4fba28c4"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -187296,7 +187296,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "699a6ca024e2f314217950d9da64e465dcce0410cd75bbe2fbb4a0cde99a9b60"
+      "Hash": "7c7e04c57da1eba556204200aa69644c2efef4f1f93ba0cb36aa206331bdcf67"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -188228,7 +188228,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a43a203c76a1f3d739d7216333a696f42f1df4d2c85974f21e10e269d6a41d37"
+      "Hash": "8002288cb06ab2a9d3fd2b6874efd566668639bfb77f903bd231c98e9076e811"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -188433,7 +188433,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "bbbcff8e0a3a9019df1674f72e25d20eab5e6c43e1900996eea63f6288b74ebe"
+      "Hash": "fe2aeb9a7b856b6918ec1f88092ed240edb2662b841873781693c32b40e220e3"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -197402,7 +197402,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9b942e5507a102bcb4e7298943efa63aa2b4bd999a2e6921024ad1ecf4384a54"
+      "Hash": "9e8f6a591a2283dd3f4ada67dc9e0c653c0d6b87efd112ec98cce33d1ba0e283"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
