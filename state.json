@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-05T13:50:35Z",
+  "captured_at": "2026-09-05T16:47:35Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -30632,7 +30632,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "911a92f723e1e8a982c607fc2db424af42012cfc3267869090389d7526b9b0df"
+      "Hash": "9b4ae13066f9c73301f0812c5dff6e4d62ade248b12e50ab6e7463715be1d759"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -30860,6 +30860,10 @@
           "ID": "https://github.com/basecamp/once-campfire",
           "Type": "SOURCE_CODE"
         },
+        "https://github.com/basecamp/trix": {
+          "ID": "https://github.com/basecamp/trix",
+          "Type": "SOURCE_CODE"
+        },
         "https://github.com/basecamp/writebook": {
           "ID": "https://github.com/basecamp/writebook",
           "Type": "SOURCE_CODE"
@@ -30887,7 +30891,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8c8ad5199254e4064ef55b4b5aad08d5dd30e52b8241a0cb8802fdaa1fe47005"
+      "Hash": "f3b0b1342b6617b7139caa55393b0c552d1d0d6f5732201f246bf1173a8b289c"
     },
     "h1:bcny": {
       "Key": "bcny",
@@ -30944,7 +30948,7 @@
       "URL": "https://hackerone.com/beiersdorf",
       "InScope": {},
       "OutScope": {},
-      "Hash": "175573c5c3b6c3891bb1b2fba94cd893bf9918b1981ef028502d9878c496bc53"
+      "Hash": "aec89ea4f12bf4ba36e4736c5c7e972694d0aa2f3c45953c66e16dafa0a54fdb"
     },
     "h1:bestbuy": {
       "Key": "bestbuy",
@@ -147230,7 +147234,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6ca3cf373bcad3beb13b24b15b64af0d786ebe73c5e0a925336afda2ec0c7aca"
+      "Hash": "6d9547c71a3cc75c30ef6d859ba35d0261ad5a98cf44a1a70d35231ad2424651"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -152280,7 +152284,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cd83773208407874f4765c63eb8947e8c10836233c6c6479be5d2d4f21c87f05"
+      "Hash": "525a785541a606cac35c98a25ad71c49693d1887e07e758f79bc848c5c8407c7"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -171347,7 +171351,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "45f5fea4930a841587ed5cdce0d578aced7596804cb5f3f7003361e95c375053"
+      "Hash": "e1245d94038488ab190b238af3e9bf56e39dbed5f1d63f4c3e38630c3595eccc"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -187640,7 +187644,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "8fe92be313cdc1777cbade7d8ebd1426da1d46474876c2aaff9159eb2f1b2579"
+      "Hash": "23833ec92071749ae6c9f189f735fae71bc804c82330c0d17ed78822c0227ff7"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -188433,7 +188437,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "fe2aeb9a7b856b6918ec1f88092ed240edb2662b841873781693c32b40e220e3"
+      "Hash": "bbbcff8e0a3a9019df1674f72e25d20eab5e6c43e1900996eea63f6288b74ebe"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -189696,7 +189700,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "25f7e06e5a304da7c1ffe5fc49a06e01719ad3e722adeed35230c5e42d639866"
+      "Hash": "af7d94d1c82763aade1b927c659cabdc9544c009b1ffdd96887c5566315a4eb2"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -193963,7 +193967,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f46a3db2b537334749096aee2166aafa84b3c85dbb999e4e3d43240ebd2dbcd5"
+      "Hash": "631d86621b448e8ebad76fbdccdfb60bd8d9125a04c7b68b9cf8a6863b0a066b"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -196505,7 +196509,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3b090352b36b41c67b73fe5c836e20e6f173680011460cf250f2366a0f7d1a7b"
+      "Hash": "08dbe204195f232d54c678c8c6d71b5cf7890e22591715e59b952c71251b5082"
     },
     "h1:wolt": {
       "Key": "wolt",
