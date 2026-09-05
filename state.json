@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-05T01:22:06Z",
+  "captured_at": "2026-09-05T06:17:26Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23927,7 +23927,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "a60893a4ba13925045fb68fcd43e996619c5e1c9d359889eaa8016c1504148e5"
+      "Hash": "7aed8fb2211f6c988a5a10d421d872d9fdb3a41c85aafbb5bd3266dfbda313b8"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -24066,7 +24066,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "42942685585eb528c6c536e9ca2b09e295102ca8be3795d76857f00e8ad7a7b5"
+      "Hash": "ef8a29dddcb4cc3937efba6d21b6f15d3eb02aa541b1f9faa0f1ac0c614818f8"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -24298,7 +24298,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fac8f0623d3cf5e9f9b8620966cf09860901c5d36c0279dc39f280b606084748"
+      "Hash": "07260363b73ac8b821caa16bb8af15c4494efc37e94ac9362d79e10f13d202ab"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -31611,35 +31611,6 @@
       "OutScope": {},
       "Hash": "a4faff94e3f492f5c412dcb397e6f99c95fc600da664d393757d95f5a2f9e8c5"
     },
-    "h1:brave": {
-      "Key": "brave",
-      "Name": "Brave Software",
-      "URL": "https://hackerone.com/brave",
-      "InScope": {
-        "Brave Browser Desktop": {
-          "ID": "Brave Browser Desktop",
-          "Type": "DOWNLOADABLE_EXECUTABLES"
-        },
-        "Brave websites": {
-          "ID": "Brave websites",
-          "Type": "OTHER"
-        },
-        "com.brave.browser": {
-          "ID": "com.brave.browser",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.brave.ios.browser": {
-          "ID": "com.brave.ios.browser",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "https://github.com/brave/*, https://github.com/brave-intl/*": {
-          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
-          "Type": "SOURCE_CODE"
-        }
-      },
-      "OutScope": {},
-      "Hash": "c1b58d9fd75534ae27c2843a5d06b967e492a06df2a6e6480b3246ca71302231"
-    },
     "h1:braze_inc": {
       "Key": "braze_inc",
       "Name": "Braze, Inc.",
@@ -32035,7 +32006,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "22e4b84d45623f0763d36ce5cf957e8db5f89b3b566c75a7137a32bc5a235408"
+      "Hash": "80970d00bd01329760e7c9965391e81b5a8fb2e31360c392fe0f78c8813ab61b"
     },
     "h1:bykea": {
       "Key": "bykea",
@@ -32427,7 +32398,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "13eb7d87627648c1eae586f38821cdf74f569ebc7bcc424bb682990daaaf7e47"
+      "Hash": "98e27545b3dce18f80a1b333b7534bef03fef117949e30e91898bf4010eb8930"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -67208,7 +67179,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d4bf954078c2cb24eae2aa66445007054c7e6475288114e70b94558821c7f940"
+      "Hash": "a2056b555648c5bc0279e5fd760ad9eaefe9d16363d65b9171b16bea517dd6a3"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -87897,7 +87868,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3d203d9597069a75a5adcc60bf050ab76efab491fb09ce2e8ba4e6b639839def"
+      "Hash": "7fae80e5662647d2247733df6d039c9bd420ef4be4d69316a2cf8281ce6cff03"
     },
     "h1:clear": {
       "Key": "clear",
@@ -95889,7 +95860,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b12f6574a9e3fcde048463c61ae501157e5fc91e3904f53d100f74f15b5de63f"
+      "Hash": "34cf5cff33d3b8d1b93f9c00ca3a05ee625232b363c7ffee6e09bc557eb77d19"
     },
     "h1:django": {
       "Key": "django",
@@ -103537,7 +103508,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1b8b6903d6fcaeef4e175861cc5717ebcc6e8c556cde3418f5d54512c7ea9f82"
+      "Hash": "853331d1e67a517509daa38925a38ce00358a7fa4007095f5db341b66656745f"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -104315,7 +104286,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "47369f5a2dd90d976d1a49ed7c900afd0a11cb71ede70334be807b9a808d172a"
+      "Hash": "a9c1cf8ebeeb2b988c7a9ea1a2d2fa314e4481802c72722f94c649366ef41e58"
     },
     "h1:experian": {
       "Key": "experian",
@@ -106825,7 +106796,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4ca6e5b14061cf7db4fa630a05bb3b86273ecd59a260b964dbb29ff73e76bdca"
+      "Hash": "f38501900c3c8866e77cb8986de5f9a8dc5f9ee910595173f66bd2e27b8e2edd"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -152423,7 +152394,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8508352d89e5e72cbf7d27ce4d8312c81213e4a2f5b90048019008698d06f44b"
+      "Hash": "3bd38115251e16ffe7d1b289cb9cbf36e57de1a6c15c61c91c40828533b41c8a"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -152476,7 +152447,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c1379dea4796bf254b876a0afa3f1cca58ef5abccb8ebf615f1eb65904bce405"
+      "Hash": "02dc91d2f286bd3e77db74f0376b6ba3c8e4e3d8399be6e443d0142383f83fbc"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -152768,7 +152739,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5d77e3b329aa9757e4a0c5106b2540696d449b5f6dba57050d00affc26f0b313"
+      "Hash": "923803b871d992464d9c0f403a4bd43076891140bb9eea901b47da39cf7b9f7b"
     },
     "h1:intuit_rdp": {
       "Key": "intuit_rdp",
@@ -158583,7 +158554,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f542975badca3627a39e9c3f72cdaf1901b35b19275db18a9eea3b1d01400cf3"
+      "Hash": "bc7cfee5d5811f6609639fcdc05c51c1cfb27cd528d734513ba8f4186a338c7e"
     },
     "h1:ips": {
       "Key": "ips",
@@ -175014,7 +174985,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4bee491435ee57a5029abc75a73c650bd1460c0b3f1e9bfc275226e672ca15fe"
+      "Hash": "67eba75e96917d61966260c8dbecef6e87275166529168a767eda56d8ed32879"
     },
     "h1:msci": {
       "Key": "msci",
@@ -186313,7 +186284,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e6082ea2fe5970641ef06e02685e9d5e58bba4ba55c567b8f925aa2ec8352438"
+      "Hash": "e596c766f3dc1511242b243c0433186a619cac7dbd061b315011d1c29c42026b"
     },
     "h1:resmed": {
       "Key": "resmed",
@@ -186820,7 +186791,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "17bd4b253c55899dc64a4965e74c61d6f07644b8f3053c528602b3998afa4ef3"
+      "Hash": "869853fccf56bbf0954fd30c33493aa170b82477b994eaf3a88e15a9d2450bee"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -188257,7 +188228,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a2f38e84f66927020d875a09dde5a069e5e2deec4f19a40bd3e0d5bc9abf3825"
+      "Hash": "a84ad6c709113d8222444d2be1acb1dd4f2641703aad643b4dd825c58839740e"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -189751,7 +189722,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0aa51a2c6f49ca60065572d23eec9f9eb14a798c019746b939c8ff0de09c5587"
+      "Hash": "91ce1fd3ab58a0cec4b0070d88ffeff3ab6d7f4dc3ebda79f47bb806af538c52"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -194051,7 +194022,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a42be230a2a13f16d8a3766541cef4594405a033f91bd276e87eacf4eab7ff28"
+      "Hash": "791c29fc9dfb7edcaf85e5ea63b6c3903be5f63163b76355c34d7dd25db4af48"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -196003,7 +195974,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "893e81eaaab5fee4505219fe521308c2219724737371043eb427e362f3fcd09f"
+      "Hash": "3caae702b61fabc3ffb1f29d79ed5d7c6078f28410cb4a9084d2cf3d9a0f119c"
     },
     "h1:vodafone_oman": {
       "Key": "vodafone_oman",
@@ -196492,7 +196463,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "670b0803f5ad54ccd20c069d0428417475b80ba0efaa88bcaa9ea5355efd5b45"
+      "Hash": "79bad523f346b98a196d27f7b1db103d720a0a3f74f113336acaeb3b22878ef1"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
