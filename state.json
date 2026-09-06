@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-06T17:19:49Z",
+  "captured_at": "2026-09-06T19:28:21Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26331,7 +26331,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "b96ee225d1e2d88ff6164a014cdd09766c78418edf4081f2b3a5767bbfb3cf5c"
+      "Hash": "e20586b459602290fdf4b5dedf82d0f412526b5fc7447a273ed4c5056f9b6f0b"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -30828,6 +30828,10 @@
           "ID": "app.basecamp.com",
           "Type": "URL"
         },
+        "app.fizzy.do": {
+          "ID": "app.fizzy.do",
+          "Type": "URL"
+        },
         "basecamp-setup.exe": {
           "ID": "basecamp-setup.exe",
           "Type": "DOWNLOADABLE_EXECUTABLES"
@@ -30847,10 +30851,6 @@
         "com.hey.app.ios": {
           "ID": "com.hey.app.ios",
           "Type": "APPLE_STORE_APP_ID"
-        },
-        "fizzy.do": {
-          "ID": "fizzy.do",
-          "Type": "URL"
         },
         "hey-mail": {
           "ID": "hey-mail",
@@ -30891,7 +30891,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bffdf6babfd09d863ab54abfdd2306da4e0221ad6fff6382b430f5b731655eb8"
+      "Hash": "8550282571dfff54b6d18d5fa7ad463461347b245a2a91f5e087c1cc647d3752"
     },
     "h1:bcny": {
       "Key": "bcny",
@@ -31722,7 +31722,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1c34cbc3742ab44fad27497659a1f8259ab18ed70741ceb16dc45075958fa91b"
+      "Hash": "2945da8c8ce1cc8eb29f9e81d4d17464e20f659308c2db30bf9f0091e7e9ce12"
     },
     "h1:bumba_bbp": {
       "Key": "bumba_bbp",
@@ -67369,7 +67369,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c12ae73efd4c29be394e664c9c76d71ab66bd7eedc1bd9e0affb1b8cac6917dd"
+      "Hash": "63bb896b9ded13a5d0666d84fa5d480640c43fd712f721ea10c4eaec4a2acf95"
     },
     "h1:cert": {
       "Key": "cert",
@@ -88774,7 +88774,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "82ad47d3f48d5790f4d5173e28527f137a71a7d2711416d920e243f063d688fb"
+      "Hash": "06ca12c53e9136143c2bff3b29dfbdbd47a96403d30d257df6fdcbf6756083fe"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -89682,7 +89682,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ede79eddbd1e5e24af1300a1b14cbf57dbbfc9c587dc7e44482ec17c1bc4508d"
+      "Hash": "96875de05ef7e831ffd290464f87f2163b873550e12808f8fd42980754a39f2c"
     },
     "h1:curl": {
       "Key": "curl",
@@ -90913,7 +90913,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d3313ef41653f426f5bc40cab1618b046a841e088df862694d4a26f185ce20e4"
+      "Hash": "2b74687f8ce324de3424df0629f4395a72e92e786e4daf158fd95a538ae6f9cb"
     },
     "h1:defectdojo": {
       "Key": "defectdojo",
@@ -96004,7 +96004,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6364ee05b07cf221b9ba43de51b270cb266991f387934e2f4ce35738362413a9"
+      "Hash": "e93904afae4c517b49a12c1ecdc82aecee798c9f0324d16d21c8206fd9c0cefd"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -147457,7 +147457,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a9939814316761e87f1111284cd4c6717b41d6d92ce406bc1abccdda8547656b"
+      "Hash": "1fbb97c5ac9d1722191799fa78283f0d562516b1ca11d82d459b07671b04e7ed"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -167652,7 +167652,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "be43cd226b598ab2653f313f23e6755f6944780151fe73ff41c95bf45b2b980d"
+      "Hash": "05855c24a03c9f0528daa21dd9aaaf20e8253d228445513ac9907b5e44a935cf"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -169488,7 +169488,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fa6a608a2e93e09281dc8757de3189a1f4a2f1eaa3e75784bfbd2aad16e7c056"
+      "Hash": "d4e8d36625667ac59351c5befd70c7cce7d2a8f8a56d7195b06b4d2eb97273ac"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -175011,7 +175011,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f416888671d77c32e357c4345d0d7c54262c4c52707aff4eebc08557cb2441bf"
+      "Hash": "d76bb68d5726bebaba809ac727675338892b2daa8c6b549fdee21030b9b95358"
     },
     "h1:msd": {
       "Key": "msd",
@@ -179975,7 +179975,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2b3bc3dec2636a8d0fc67316a0c2e95db8e256347c29a3cc3cd5b50e15deffd2"
+      "Hash": "a8948a46c279904d41c6e424eb614dfd287fb51ff1ae33c1dd7d58930cf91ccb"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -188726,7 +188726,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1a508dec5d100461d0ca5adf0f53d6018d1f944ee43a9d6467d394829ded48ed"
+      "Hash": "8aa619a21e0b5d3b62295d6f2343d49f919ad8c82e67bb514ec4a6520e2d4796"
     },
     "h1:six-group": {
       "Key": "six-group",
@@ -189726,7 +189726,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "07d93991e66d7dd288652a1b08d545739bb7415d5a13e75c770be7db1ae02f5b"
+      "Hash": "bce94a8865cca1940588fbebaf1c79d23ab23f1aa5f29de6a551140caee2a692"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -192349,7 +192349,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8849e16f5ba4254a37be775ee5e375026ca7d92a5443e7442b783f33b05e1640"
+      "Hash": "e7efa2f35ead35c59ed16816afca7832245dadb2d07928d61d1d72489fdb009a"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -197406,7 +197406,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a85a4632398a937666e08e20a62dd0d0b5f8c7dac6e1440d6611249e1f930819"
+      "Hash": "203ac2c7c2dd62d990fe081f57ed77a78bde11d48bf387cf8858120ca2bd505e"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
