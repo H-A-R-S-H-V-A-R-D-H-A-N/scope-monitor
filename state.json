@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-06T11:18:56Z",
+  "captured_at": "2026-09-06T14:22:49Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -88579,7 +88579,7 @@
       "URL": "https://hackerone.com/coinmate",
       "InScope": {},
       "OutScope": {},
-      "Hash": "990e4bcf3dc4a43b46e50612a82ae048dd769747fe66565c8551a7898c920d1c"
+      "Hash": "a00e025bb61a9b18c9c9c9af864030fe255267b8dfbd7aa648258399b18a792c"
     },
     "h1:coinspot": {
       "Key": "coinspot",
@@ -96087,7 +96087,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1eb55a5ab3b08b9b9f263c993f4aa513159409195e898fb201d3710955ec7e7f"
+      "Hash": "3f59dc1937525535aee23613f22a90ca87f6e197ca3db2e388221d26128097d9"
     },
     "h1:dust": {
       "Key": "dust",
@@ -103233,7 +103233,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f47bc19f073683d6fdd4600755719e6cdf6039dc15ceea6c0e73c53f45ac482b"
+      "Hash": "e2a412edd139d3296e424cf3701ae878b7c17494e668ddcb4297ea12bde88f50"
     },
     "h1:eternal": {
       "Key": "eternal",
@@ -103512,7 +103512,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "853331d1e67a517509daa38925a38ce00358a7fa4007095f5db341b66656745f"
+      "Hash": "1b8b6903d6fcaeef4e175861cc5717ebcc6e8c556cde3418f5d54512c7ea9f82"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -146197,7 +146197,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e151dbeccc9478c14a367ec1a2f8715b0e2b87469dd03073ffdc56b06186cd68"
+      "Hash": "cad99a40b5c7ac31394147c9ebec54dfa7db9eef774fba63a318575bf3e8a978"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -147234,7 +147234,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4cf3f992803ad6f89b2058aba05197db24bb1ecf423f942d4b33c6055f5aa8be"
+      "Hash": "6d9547c71a3cc75c30ef6d859ba35d0261ad5a98cf44a1a70d35231ad2424651"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -150316,7 +150316,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b1256cb689e3bf56ddfa0e6402a447e6c0fd9a507393a18ebb021a27bcf84cf0"
+      "Hash": "1e60f182023419d1a7d3aabaa1cd8e3ea2cf36cdeac744df19ca818b84903733"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -173060,7 +173060,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c806955e20fbb72982bc46d24b223b7c24c07d5718573d001b0b71fa9005b0e3"
+      "Hash": "fd19405ada044ba6b8e6beb1dc9fcc273ed383f35c2a288def377833f182f816"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -187835,7 +187835,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "327d32ddd4460ea35a71236005aa657f8632e8546f76808896e136f3a02a32e6"
+      "Hash": "96a0fbb8b67eb09c13ca01276ed5cc7a4ab671079b237a27c01c55fb3d07f5ca"
     },
     "h1:security": {
       "Key": "security",
@@ -189364,7 +189364,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "f6aaceb357dba9e2e33b7ac1ab897b77e473cdfa73b51acbd634514a42fc3aa3"
+      "Hash": "9d346da6ba21671cda1f4422f41dc930450b6d3655381272b2b6336092066ee1"
     },
     "h1:sony": {
       "Key": "sony",
@@ -189613,7 +189613,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "23792f15089aefd6e97d207d6fa7a2c51cf316816f1f7d2543b05ddf0ba7eac5"
+      "Hash": "956c06847a8d7f2df0394afdc16b6a5e58f6e72d9ffef212632db838ca9ccf2d"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -193967,7 +193967,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f46a3db2b537334749096aee2166aafa84b3c85dbb999e4e3d43240ebd2dbcd5"
+      "Hash": "631d86621b448e8ebad76fbdccdfb60bd8d9125a04c7b68b9cf8a6863b0a066b"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -193980,7 +193980,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9ced6f8ea78711318d89d76eebf91c56692d803731a961e87253b6c0323747e0"
+      "Hash": "21afdb0e56d91b413faeacdd98af0cdf150564d71844b8282a5039a20259ac4b"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -194118,7 +194118,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "656210a273bc1fe67216590df5620dbe51d4e701701a9d67d92c5ec1ae1086ce"
+      "Hash": "747abdd9ce65b0a3fecbba82546106ef3f11c9ba41369e9fc186ec4317cef525"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -196771,7 +196771,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6417cd9d547ecb2eaa26c93e90b7622afc8fcaa2bf679cc2a7e537880a050501"
+      "Hash": "00206a8a08315bc24394acb4d6ad211ba8e7a4ca7af82c5ceec117031bab0561"
     },
     "h1:x": {
       "Key": "x",
