@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-08T11:42:53Z",
+  "captured_at": "2026-09-08T16:34:25Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -5314,6 +5314,44 @@
         }
       },
       "Hash": "2195abcf64dc12c7f6f08cc13954305275faa9632f69f6228a4fa3eebd61de24"
+    },
+    "bc:Flourish": {
+      "Key": "Flourish",
+      "Name": "Flourish",
+      "URL": "https://bugcrowd.com/engagements/flourish",
+      "InScope": {
+        "flourish-user-preview.com": {
+          "ID": "flourish-user-preview.com",
+          "Type": "website"
+        },
+        "flourish-user-templates.com": {
+          "ID": "flourish-user-templates.com",
+          "Type": "website"
+        },
+        "https://*.kiln.it": {
+          "ID": "https://*.kiln.it",
+          "Type": "website"
+        },
+        "https://flo.uri.sh": {
+          "ID": "https://flo.uri.sh",
+          "Type": "website"
+        },
+        "https://flourish.studio/": {
+          "ID": "https://flourish.studio/",
+          "Type": "website"
+        },
+        "https://xyzbmojn.net/": {
+          "ID": "https://xyzbmojn.net/",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "https://training.flourish.studio": {
+          "ID": "https://training.flourish.studio",
+          "Type": "website"
+        }
+      },
+      "Hash": "af07049929aa186fcf08e4a851ae84c694b3ffb435c8e7fc361d93899f6f1616"
     },
     "bc:Gearset: Managed Bug Bounty": {
       "Key": "Gearset: Managed Bug Bounty",
@@ -18256,9 +18294,9 @@
       "OutScope": {},
       "Hash": "bb441908916f726c2d59a9175f78903d5906bf62d0dfa0acefc8f7acaee8e0ac"
     },
-    "bc:weweave UG Marketplace Bug Bounty": {
-      "Key": "weweave UG Marketplace Bug Bounty",
-      "Name": "weweave UG Marketplace Bug Bounty",
+    "bc:weweave GmbH Marketplace Bug Bounty": {
+      "Key": "weweave GmbH Marketplace Bug Bounty",
+      "Name": "weweave GmbH Marketplace Bug Bounty",
       "URL": "https://bugcrowd.com/engagements/we-weave",
       "InScope": {
         "https://marketplace.atlassian.com/apps/1220302/data-tables-for-confluence?tab=overview\u0026hosting=cloud": {
@@ -18359,7 +18397,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6df44c20c8b995819fa8ed1a3faff997565c870f88d15b9df7c4756c705d6b20"
+      "Hash": "66088c4093f02ef9c639a3dabfdd88d6be01e33a1d58852f487cc367fc9feb65"
     },
     "h1:1password": {
       "Key": "1password",
@@ -24264,7 +24302,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f83a8e19efdc3160aa509c1204a2df5f5bbcd8500b2d8ff354073f06d8b6dbe1"
+      "Hash": "9bca00be6bf8f8957ed136a1cfaa8e63b3e0c16312f8f930ffc06bc5157fe72a"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -27546,7 +27584,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c77f973cb19af47e5ca3f4171cc9e17343e0e54ef1a40b2f7ce7a2692687bd0e"
+      "Hash": "59b6fbbe2dc7eb63ecdaca7125415e14463625e6391e384683b6654e612efc5f"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -30906,7 +30944,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3c0906427eae12b651ee966fca0e0656ffe7676f0df87db1d3c532264f216943"
+      "Hash": "4fc1b4c2ba826c6bb1e01d133cc57f447ac08f777a5a23cc0cf5913f5fded131"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31113,7 +31151,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7009d3f04a7e78f8b8df6fa39d231fcafdffbbb67f81982ab68777ca832b7ba4"
+      "Hash": "bdb2fda1993cbb99442e22405fbbbfbc149dec261d1ec9976e545778d8b61caa"
     },
     "h1:bookingcom": {
       "Key": "bookingcom",
@@ -31473,7 +31511,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7e1b6d2dc33d1ac48ce877a877278ffcd093c7b061233d5dea93090b812f957c"
+      "Hash": "9eedef3146a90151b4aad348d3c379d3becf9728e8e81f9f4cc6df23acfa20b5"
     },
     "h1:bose_vdp": {
       "Key": "bose_vdp",
@@ -32368,7 +32406,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "98e27545b3dce18f80a1b333b7534bef03fef117949e30e91898bf4010eb8930"
+      "Hash": "ec26e11c1ff0da3ea71d3eb73939d4f408895250cf85ad4280671a951ee89093"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -67503,7 +67541,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bcb9d4f9fc33c0c02e69b85f1e53fdf24ff760ddf1efcaada8f671b91945bf8a"
+      "Hash": "a65f32ed0131ba8cbb1956480d70122f59e96a72c0cf85751a0c43ced86f5f4f"
     },
     "h1:chia_network": {
       "Key": "chia_network",
@@ -88570,7 +88608,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d1c15eb9965707488860e29c7a3d4949b7e564fe7467e916d48cda8c6aba95d1"
+      "Hash": "1967334eb0494bc940519ea4934149e33f78bfd657c6f76397125ba0e2eb4274"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -147188,7 +147226,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0b97178d61f8cccced43fa1d95fc3b2972565e86a88c92d37209c6acfbfd817a"
+      "Hash": "1b816d8957a5ab99603185e9416bfe3867f00b45ff35697a0b74822c11aa254e"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -151686,7 +151724,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a6b8f5be7db4129c3a715e40f65b348f6764ad092bccb2b27613a03999dc9098"
+      "Hash": "22248bb79bfaa20c29344c61c50a874e5af0d6abaa6bc1948410d1aabfd828b2"
     },
     "h1:inditex": {
       "Key": "inditex",
@@ -152352,7 +152390,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5ec6b42beffc078ffd470c70f1adf6fef8339fd56338cc1236284fc63a0542ab"
+      "Hash": "da43780771921a1dc6c379ec42ec90856586d6b4619e904747e38b1d22b22726"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -167768,7 +167806,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "1673fa4d32b09f41e58dc9ecc6477fe936ab3fdfdd47a51d5e1448c76a27fe4c"
+      "Hash": "debff18f035e1e4127d0d78ca63077073d48f5d45c7d7bbeeba829307738768f"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -169351,7 +169389,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0a0201026ee25989b325ec44ed02be7b465c82b2061ab615c7195bb2acad2b5b"
+      "Hash": "472003ab971323d980e45091c10c623568a015bdbaf1669db4d5bd0b824e9bb9"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -174657,6 +174695,10 @@
           "ID": "*.moonpaycloud.com",
           "Type": "WILDCARD"
         },
+        "*.swaps.xyz": {
+          "ID": "*.swaps.xyz",
+          "Type": "WILDCARD"
+        },
         "api.moonpay.com": {
           "ID": "api.moonpay.com",
           "Type": "URL"
@@ -174796,7 +174838,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "560a8870aef1af88646191e343576613931a3ed6e40446d44c76d77bb6226de1"
+      "Hash": "680d28c041dab39f07a6378620981d114ac0e2a3662e4fc860bcd82bc704e834"
     },
     "h1:moov": {
       "Key": "moov",
@@ -174977,7 +175019,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d76bb68d5726bebaba809ac727675338892b2daa8c6b549fdee21030b9b95358"
+      "Hash": "f416888671d77c32e357c4345d0d7c54262c4c52707aff4eebc08557cb2441bf"
     },
     "h1:msd": {
       "Key": "msd",
@@ -179870,7 +179912,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6b2ef905c713689154cb3d1dc233fa419c20aff18fb496b0ada30773a110383d"
+      "Hash": "cf2dddcf7bfb501d430f2e871f95f79968a4c09e571b6127cb6761d10673359f"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -182207,7 +182249,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a0a8d29f0b6f8f8dfc2cf592337fadff28aae20126595e4b18a313b8ad2d81bb"
+      "Hash": "d043e2876136fc63c89a63323014e0765cc9f8f5226756460bc580671eda8018"
     },
     "h1:palo_alto_software": {
       "Key": "palo_alto_software",
@@ -185109,7 +185151,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dfd6114773d409f859da6b55928d26dcefe29ddedbdefcb5157d3afe292e10fe"
+      "Hash": "8a10d58dc2a6b30bc33e1e0ecceb76fa3865c851e1718dc22968bc2435b4f3fb"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -185366,7 +185408,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "20f8a0447fbcc4ff5fd6af346176386639e978f256d3efbe21bac39c7109c847"
+      "Hash": "cf0572dfcd12a8bc4be3118d96917d1d12538f9bae6490af38a69f20d2502ccd"
     },
     "h1:recreation_gov_vdp": {
       "Key": "recreation_gov_vdp",
@@ -185570,7 +185612,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1d1a59e4c815795ae2a9ac5208b2f9b009866727b1f510ecc251f93b5416f943"
+      "Hash": "26f1af591523ab367a85edeefb1f4b10716a79f25ae946540d695571df070389"
     },
     "h1:redox_bbp": {
       "Key": "redox_bbp",
@@ -186254,7 +186296,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a0d8ef0d0664d8284c37cb086588bcee091fe071e6975f1c8031049ac28ef0eb"
+      "Hash": "e95626db2a0ad7e8dd887deb597afe9f4e692b79891f3ea92596e7d9ded30aab"
     },
     "h1:resmed": {
       "Key": "resmed",
@@ -187680,7 +187722,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7d11b666455f1b55d0a6c06df1ebb7bee43bd024c27c2ae92f951338531c58c"
+      "Hash": "3717782948bd2d53c61aa7c8dc45967bcd0897c939b1c62875b12c3b2ec85a33"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -187801,7 +187843,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2835b8201b9c8333f56c4ae56c2633530202ee1814513bb8285de67e0e4e6d93"
+      "Hash": "da39e9b6efa01f4c96cbac7a5ef89ec18862cfbbe6c32d78073c682ba1f040e0"
     },
     "h1:security": {
       "Key": "security",
@@ -188064,6 +188106,10 @@
           "ID": "Airlink XR/RX (\u003e=AOS 6.1) ",
           "Type": "HARDWARE"
         },
+        "Any LoRa Software product": {
+          "ID": "Any LoRa Software product",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
         "Any Semtech Hardware Product": {
           "ID": "Any Semtech Hardware Product",
           "Type": "HARDWARE"
@@ -188202,7 +188248,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "71a952ffe1eb6b9f5e318684e869b0447159c8b5f5bd7dd9e3705eb0e5588a5c"
+      "Hash": "8c1d0701af9ba0fd7f22a53b9ac50bbbeb74b53ee881205fb03d074c89016ebc"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -189122,7 +189168,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "351a5901f57e7bb685dd01479b56a79b1e11479847a29f3d6788dbbe1834dfe1"
+      "Hash": "fe74e610f8f977f12f9d96c0fc7676d6e635fb05cef6f2b0cf81feb52ff5b2d6"
     },
     "h1:snapchat": {
       "Key": "snapchat",
@@ -189733,7 +189779,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5036694283063b42f427adbaf867f9d9e4ea82c26f8b7a230ea5833c891b9c02"
+      "Hash": "46b18157a1d80e95eb0608c5e1b646b5245207a4b3142c674beb30e2def3d906"
     },
     "h1:starling_bank": {
       "Key": "starling_bank",
@@ -190099,7 +190145,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "e8594d2923bbedd668c1fbaa10c451b927ba817c09d27fad7f3fd43c4e0c625f"
+      "Hash": "3a9ed081fd66c102b526c6dfa53deeb25d6a673c3ce558beccb7ac4c4251a364"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -190559,32 +190605,19 @@
         }
       },
       "OutScope": {},
-      "Hash": "f6f572207f1927d81ed039395bd4740261160ab3b4037cfc7e3d95a6c480860c"
+      "Hash": "caf340886417a79c9fbd7f80da7de77b581291736a1f64045b590bdae4ba11e0"
     },
     "h1:taxwell-vdp": {
       "Key": "taxwell-vdp",
       "Name": "Taxwell VDP",
       "URL": "https://hackerone.com/taxwell-vdp",
-      "InScope": {},
-      "OutScope": {
+      "InScope": {
         "1040.com": {
           "ID": "1040.com",
           "Type": "URL"
         },
-        "drakesoftware.com": {
-          "ID": "drakesoftware.com",
-          "Type": "URL"
-        },
         "securefilepro.com": {
           "ID": "securefilepro.com",
-          "Type": "URL"
-        },
-        "taxact.com": {
-          "ID": "taxact.com",
-          "Type": "URL"
-        },
-        "taxactonline.com": {
-          "ID": "taxactonline.com",
           "Type": "URL"
         },
         "taxwell.com": {
@@ -190596,7 +190629,21 @@
           "Type": "URL"
         }
       },
-      "Hash": "c36dbd9cc4f705d4a5b0adf6d771969b607e60f4f28832935f1e37283b63f8b3"
+      "OutScope": {
+        "drakesoftware.com": {
+          "ID": "drakesoftware.com",
+          "Type": "URL"
+        },
+        "taxact.com": {
+          "ID": "taxact.com",
+          "Type": "URL"
+        },
+        "taxactonline.com": {
+          "ID": "taxactonline.com",
+          "Type": "URL"
+        }
+      },
+      "Hash": "f9ddab3426b520a8966fe1536003fc6a7160d8516ab3524611a1a4dced97c430"
     },
     "h1:tbs-sct": {
       "Key": "tbs-sct",
@@ -190840,7 +190887,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "460348ca38cf9777615f9c466f4ba0e3ca3ed85dfbd317ee730242b2bbb7f797"
+      "Hash": "aec3b7a009663b77ea9b01beb3b747e45900eca89d2b9a3db6db5cff164a1c87"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -191575,7 +191622,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "781adf5598ed47b52fc9c3d6d189e5527d7f6b95125aac76d1c69938e830db5a"
+      "Hash": "5e8ab46f8a99c03ea4b9b3cb2e81fbd0266a1eb4d9147469f41bc46ef404c204"
     },
     "h1:torproject": {
       "Key": "torproject",
@@ -191858,6 +191905,10 @@
         },
         "admin.stg-idfapi.aws3.ezshield.ws": {
           "ID": "admin.stg-idfapi.aws3.ezshield.ws",
+          "Type": "URL"
+        },
+        "administracionpreaprobadomovil.cifin.co": {
+          "ID": "administracionpreaprobadomovil.cifin.co",
           "Type": "URL"
         },
         "alertinfo.link": {
@@ -192319,7 +192370,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aac6ef3929cc7232329966d6af35af9c8a447305446bbb328fcbcf011f37f673"
+      "Hash": "74b07a324ff96e7403b0ff9ca5112e0a41193dcb0a272ec1863d7be3e2794a75"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -193996,7 +194047,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f3e04f10767a1a7a96d864e5230dc6e1b60df9bf99c06648651f17275b5fece0"
+      "Hash": "5cd3e331c1bbb7f9e472417e5d428f7f81605d43071c44417d024849be81a35b"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -194284,7 +194335,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ca1eac56b95de7dae5bd1223ba2a85a9c111d907ca271aa0a340db851a18f944"
+      "Hash": "60fd6e60884fbeabc75daa717c0b7ccdfa715fb1a74a66ee51b7918e3cdd0713"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -197161,7 +197212,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "342c93500940b7bdb3319695db3eb086b9434099efede952fdd0043e04cab045"
+      "Hash": "3f82dd5c41df9fcecbadf79983444cf5422615dcd46d944bed4116ff3a43b861"
     },
     "h1:xvideos": {
       "Key": "xvideos",
