@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-08T01:08:21Z",
+  "captured_at": "2026-09-08T06:30:57Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -12461,6 +12461,44 @@
       "OutScope": {},
       "Hash": "3ece101200bdba491ae333c729a640c4319460f7f21328fccf55487fbebfd7da"
     },
+    "bc:Quizlet": {
+      "Key": "Quizlet",
+      "Name": "Quizlet",
+      "URL": "https://bugcrowd.com/engagements/quizlet",
+      "InScope": {
+        "3.0 API": {
+          "ID": "3.0 API",
+          "Type": "api"
+        },
+        "https://*.quizlet.com": {
+          "ID": "https://*.quizlet.com",
+          "Type": "website"
+        },
+        "https://itunes.apple.com/us/app/quizlet-flashcards/id546473125": {
+          "ID": "https://itunes.apple.com/us/app/quizlet-flashcards/id546473125",
+          "Type": "ios"
+        },
+        "https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid": {
+          "ID": "https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid",
+          "Type": "android"
+        }
+      },
+      "OutScope": {
+        " help.quizlet.com (zendesk)": {
+          "ID": " help.quizlet.com (zendesk)",
+          "Type": "website"
+        },
+        "api.quizlet.com/2.0": {
+          "ID": "api.quizlet.com/2.0",
+          "Type": "api"
+        },
+        "get.quizlet.com": {
+          "ID": "get.quizlet.com",
+          "Type": "website"
+        }
+      },
+      "Hash": "fead2c6b8844068be3c72176ddd88a956e9fc5eaddd73f96adff2d203cf9309e"
+    },
     "bc:REA Group | realestate.com.au, realcommercial.com.au, property.com.au": {
       "Key": "REA Group | realestate.com.au, realcommercial.com.au, property.com.au",
       "Name": "REA Group | realestate.com.au, realcommercial.com.au, property.com.au",
@@ -14728,6 +14766,124 @@
       },
       "OutScope": {},
       "Hash": "4fad8299b81e1ca2e98d30e1dc2dbddd8569e0b11ee20459e9f0e9ada7b57f86"
+    },
+    "bc:SoundCloud": {
+      "Key": "SoundCloud",
+      "Name": "SoundCloud",
+      "URL": "https://bugcrowd.com/engagements/soundcloud",
+      "InScope": {
+        "*.s-cloud.net": {
+          "ID": "*.s-cloud.net",
+          "Type": "website"
+        },
+        "*.services.repostnetwork.com": {
+          "ID": "*.services.repostnetwork.com",
+          "Type": "api"
+        },
+        "*.soundcloud.org": {
+          "ID": "*.soundcloud.org",
+          "Type": "website"
+        },
+        "api-*.soundcloud.com": {
+          "ID": "api-*.soundcloud.com",
+          "Type": "api"
+        },
+        "http://artists.soundcloud.com/": {
+          "ID": "http://artists.soundcloud.com/",
+          "Type": "website"
+        },
+        "https://apps.apple.com/us/app/soundcloud-music-audio/id336353151": {
+          "ID": "https://apps.apple.com/us/app/soundcloud-music-audio/id336353151",
+          "Type": "ios"
+        },
+        "https://connect.soundcloud.com": {
+          "ID": "https://connect.soundcloud.com",
+          "Type": "api"
+        },
+        "https://play.google.com/store/apps/details?id=com.soundcloud.android\u0026hl=en\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.soundcloud.android\u0026hl=en\u0026gl=US",
+          "Type": "android"
+        },
+        "https://soundcloud.com": {
+          "ID": "https://soundcloud.com",
+          "Type": "website"
+        },
+        "https://soundcloud.org": {
+          "ID": "https://soundcloud.org",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        " community.soundcloud.com": {
+          "ID": " community.soundcloud.com",
+          "Type": "website"
+        },
+        "advertising.soundcloud.com": {
+          "ID": "advertising.soundcloud.com",
+          "Type": "website"
+        },
+        "blog.soundcloud.com": {
+          "ID": "blog.soundcloud.com",
+          "Type": "website"
+        },
+        "contest.soundcloud.com": {
+          "ID": "contest.soundcloud.com",
+          "Type": "website"
+        },
+        "copyright.soundcloud.com": {
+          "ID": "copyright.soundcloud.com",
+          "Type": "website"
+        },
+        "firston.soundcloud.com": {
+          "ID": "firston.soundcloud.com",
+          "Type": "website"
+        },
+        "help.soundcloud.com": {
+          "ID": "help.soundcloud.com",
+          "Type": "website"
+        },
+        "https://promote.soundcloud.com": {
+          "ID": "https://promote.soundcloud.com",
+          "Type": "website"
+        },
+        "https://scdrops.soundcloud.com": {
+          "ID": "https://scdrops.soundcloud.com",
+          "Type": "website"
+        },
+        "https://soundcloudmail.com": {
+          "ID": "https://soundcloudmail.com",
+          "Type": "other"
+        },
+        "jobs.soundcloud.com": {
+          "ID": "jobs.soundcloud.com",
+          "Type": "website"
+        },
+        "playback.soundcloud.com": {
+          "ID": "playback.soundcloud.com",
+          "Type": "website"
+        },
+        "playerone.soundcloud.com": {
+          "ID": "playerone.soundcloud.com",
+          "Type": "website"
+        },
+        "press.soundcloud.com": {
+          "ID": "press.soundcloud.com",
+          "Type": "website"
+        },
+        "secdomaintest.soundcloud.com": {
+          "ID": "secdomaintest.soundcloud.com",
+          "Type": "website"
+        },
+        "status.soundcloud.com": {
+          "ID": "status.soundcloud.com",
+          "Type": "website"
+        },
+        "support.soundcloud.org": {
+          "ID": "support.soundcloud.org",
+          "Type": "website"
+        }
+      },
+      "Hash": "8eaf5beaf91543999b91d01304456ecf03983dec0cf335b7765a607bda8e31d2"
     },
     "bc:SpaceX/Starlink": {
       "Key": "SpaceX/Starlink",
@@ -27604,7 +27760,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4a6c53ee63a6b426aa128783add04017399515dfc69a68d473b1859da44acbeb"
+      "Hash": "ce0f9a0a3c662fba26fab03b53d1ecb97dcb2b6b8a42ff26c0278f0ec999010e"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -30480,7 +30636,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a3fbcf5ec8fc9d370d1c616c810da4e5f919babfb0b7ad12fef1377aee720afa"
+      "Hash": "f4781665ebccd64a6ae3fa6a6be526fe92a935366dcb6f8eb457c67449b4b250"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -30995,7 +31151,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bdb2fda1993cbb99442e22405fbbbfbc149dec261d1ec9976e545778d8b61caa"
+      "Hash": "7009d3f04a7e78f8b8df6fa39d231fcafdffbbb67f81982ab68777ca832b7ba4"
     },
     "h1:bookingcom": {
       "Key": "bookingcom",
@@ -31355,7 +31511,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9eedef3146a90151b4aad348d3c379d3becf9728e8e81f9f4cc6df23acfa20b5"
+      "Hash": "7e1b6d2dc33d1ac48ce877a877278ffcd093c7b061233d5dea93090b812f957c"
     },
     "h1:bose_vdp": {
       "Key": "bose_vdp",
@@ -67327,7 +67483,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "da3b5c4b0365b830d7c28e3e6e3c52094a9228ecc46c421a3b1535841d11e4d8"
+      "Hash": "b8ee9051124e74098a7a1b76c0a44ec270fe2174f68147a905920dd0e39800eb"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -88452,7 +88608,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2a771c40f1ae101b36deb5dca7cc55c177b94af0a04e26360ba85dfe03823f6d"
+      "Hash": "d1c15eb9965707488860e29c7a3d4949b7e564fe7467e916d48cda8c6aba95d1"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -88648,7 +88804,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "682421da47706c54f13fc0b8c56b40a27d004e3f7c29adf6d28c68fc3ad8aefd"
+      "Hash": "8994cd455412b2b56d4f1d1f466f19c5a6f7193b187879bc24de28c27bcf4606"
     },
     "h1:corebridge_financial": {
       "Key": "corebridge_financial",
@@ -95561,7 +95717,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5d6e0108784951313faced6c119dd6f0fe8ea389114557d125bd26820b22f43c"
+      "Hash": "00197413373bf874954f63f8068cfb74c42e766e087a31ab3acf4d43999077e7"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -103310,10 +103466,6 @@
           "ID": "com.anker.charging",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
-        "com.eufylife.EufyHome": {
-          "ID": "com.eufylife.EufyHome",
-          "Type": "APPLE_STORE_APP_ID"
-        },
         "com.oceanwing.FDMPrint": {
           "ID": "com.oceanwing.FDMPrint",
           "Type": "GOOGLE_PLAY_APP_ID"
@@ -103322,16 +103474,8 @@
           "ID": "com.oceanwing.battery.cam",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
-        "com.oceanwing.care.cam": {
-          "ID": "com.oceanwing.care.cam",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
         "com.security.BatteryCam": {
           "ID": "com.security.BatteryCam",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "com.security.care": {
-          "ID": "com.security.care",
           "Type": "APPLE_STORE_APP_ID"
         },
         "eufyMake E1": {
@@ -103360,7 +103504,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "64e71e595a35872f2876d91b90fc0e2a8754b0c2066a396cf530e1ef96776d7e"
+      "Hash": "79fd209cfd4b0121014bfa1ac7e0e221b1328bd70aa70c8883939c964842c050"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -147491,7 +147635,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2bff0472aa9ca968ca876d3e1f317573d428c038615451b9c8e5925d41aeeca1"
+      "Hash": "2735d954df2b06ed85f7b75653e4324f1fd9fad7ae080bb6884ce001ab8755f2"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -151080,7 +151224,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f442404c8bdfcb0972c6729e29271d883079d21ad6462a46da860bc3dff66e5b"
+      "Hash": "a2641d6d49341290daf613184658e1177fc6dfda5a432c74ba3221375787d7b6"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -152397,7 +152541,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d1a27b349f75f1acf3731dfc7e0d5b02d512c79debb0eedd48cab7fd368da5ca"
+      "Hash": "c3958914d44486b323ca30b0dcebbd508e44f83bc62a3c6df4c3a27c35fb4ee7"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -167500,7 +167644,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d103ec44a3a6ae9968fd26c10dd325e6521d8c0b6b9053935bad4357e19af521"
+      "Hash": "be43cd226b598ab2653f313f23e6755f6944780151fe73ff41c95bf45b2b980d"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -169727,7 +169871,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "3ffb85f1d740261b1624fdc0bd57036d64d2b1f70246462c23ef42bbeb3dc5b1"
+      "Hash": "7b418fcedab38b131f4a9e395ab15a5ffd60bfa106bf22366d523ab51c55a7e0"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -171801,7 +171945,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "15ff29ae698992e097735ffdfaea74df9ae49d3ae03ec9bca7199abea5dd2d2f"
+      "Hash": "1b0cd0620d91fe7cb2d0b34aa9a2dadfcf09882b4f1c74767b9bd7f8823201d3"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -174528,7 +174672,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cef008f2f73cd989f3ff88377a2c8d68be41f25a261fbf09736b60cd8fcd65d8"
+      "Hash": "d0c5a22050c038729f120ecdf16ece58064bc0fadf30b865e4ab5519c110cb79"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -174892,7 +175036,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7738d3d01535c3ab5649cc1fd326a24bf1e05a555746365401f8dde073d0589f"
+      "Hash": "36d89f246ed5d09d5c98b98d7720b9c3ddfecb5062730f7901d2575fb202da40"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -180382,7 +180526,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9481df268f1e01776079a1eb37c8393799f9fc165923f94f0e8f5ee4639a5f26"
+      "Hash": "ba8273942af5a1ecb9eb520583b0a1cb4412a7f51942356777ea216512dc8b98"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -183509,7 +183653,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8fd21943b9f9e45f2bb5850b8b6ebbe6505ac1dcdece4542aa5efd5bd97c6495"
+      "Hash": "4f570466681e7f8e457e708497136fcf00900c31fda784969f44ac0912cf9dd5"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -183525,7 +183669,7 @@
       "URL": "https://hackerone.com/phabricator",
       "InScope": {},
       "OutScope": {},
-      "Hash": "6796fd9e4fc63567bf80df2d062daedd25d8799dfd97acbf7ac69bb04240b46e"
+      "Hash": "f32426619c4060ee4854f0868bb20c23c0a55854845dcf55acbd1ba835f177e8"
     },
     "h1:phonepe_vdp": {
       "Key": "phonepe_vdp",
@@ -188096,7 +188240,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c4a1acb0811cd6c3fab836e2fbfe68278462d99ce04f52528e623a3a26a67f60"
+      "Hash": "c89273c7804939398e7e77015e6ead90cc60fd6b5ea92f49ff19b84f0952e5cf"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -196415,7 +196559,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "08dbe204195f232d54c678c8c6d71b5cf7890e22591715e59b952c71251b5082"
+      "Hash": "c5782d28fb10b0fb1bbe79ac6aeb3f086e50a0a35a354ee41de57e09f3817dd8"
     },
     "h1:wolt": {
       "Key": "wolt",
@@ -196521,7 +196665,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fa6353c9e81258810e04f1ae56f78e0582580979d30d18164051c89bfe8cdf51"
+      "Hash": "ac0ceea737300fc318d1bbb848f21af5ec358b500b192aa2580c391728a0c629"
     },
     "h1:wordpress": {
       "Key": "wordpress",
@@ -196782,7 +196926,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e8c11a7a92d4e9fc2a7864a1898f424a1adea0659bbb0ac5f5ffa04dbb408320"
+      "Hash": "00b70e977ecaab04326f859bda775f8d037509df62f7b5282c4b2c9b1644f839"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
@@ -197646,7 +197790,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a556f06690f6572ce81e70bbdb00c5ce6a2ac752043339f81b5dd6790d64215d"
+      "Hash": "968c827b9d49a535b69f9aa812a407ba0f435eb6cb84e48c682ce6c52beb3e52"
     },
     "h1:zooplus": {
       "Key": "zooplus",
