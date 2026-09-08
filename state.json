@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-07T22:46:50Z",
+  "captured_at": "2026-09-08T01:08:21Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -12461,44 +12461,6 @@
       "OutScope": {},
       "Hash": "3ece101200bdba491ae333c729a640c4319460f7f21328fccf55487fbebfd7da"
     },
-    "bc:Quizlet": {
-      "Key": "Quizlet",
-      "Name": "Quizlet",
-      "URL": "https://bugcrowd.com/engagements/quizlet",
-      "InScope": {
-        "3.0 API": {
-          "ID": "3.0 API",
-          "Type": "api"
-        },
-        "https://*.quizlet.com": {
-          "ID": "https://*.quizlet.com",
-          "Type": "website"
-        },
-        "https://itunes.apple.com/us/app/quizlet-flashcards/id546473125": {
-          "ID": "https://itunes.apple.com/us/app/quizlet-flashcards/id546473125",
-          "Type": "ios"
-        },
-        "https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid": {
-          "ID": "https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid",
-          "Type": "android"
-        }
-      },
-      "OutScope": {
-        " help.quizlet.com (zendesk)": {
-          "ID": " help.quizlet.com (zendesk)",
-          "Type": "website"
-        },
-        "api.quizlet.com/2.0": {
-          "ID": "api.quizlet.com/2.0",
-          "Type": "api"
-        },
-        "get.quizlet.com": {
-          "ID": "get.quizlet.com",
-          "Type": "website"
-        }
-      },
-      "Hash": "fead2c6b8844068be3c72176ddd88a956e9fc5eaddd73f96adff2d203cf9309e"
-    },
     "bc:REA Group | realestate.com.au, realcommercial.com.au, property.com.au": {
       "Key": "REA Group | realestate.com.au, realcommercial.com.au, property.com.au",
       "Name": "REA Group | realestate.com.au, realcommercial.com.au, property.com.au",
@@ -14766,124 +14728,6 @@
       },
       "OutScope": {},
       "Hash": "4fad8299b81e1ca2e98d30e1dc2dbddd8569e0b11ee20459e9f0e9ada7b57f86"
-    },
-    "bc:SoundCloud": {
-      "Key": "SoundCloud",
-      "Name": "SoundCloud",
-      "URL": "https://bugcrowd.com/engagements/soundcloud",
-      "InScope": {
-        "*.s-cloud.net": {
-          "ID": "*.s-cloud.net",
-          "Type": "website"
-        },
-        "*.services.repostnetwork.com": {
-          "ID": "*.services.repostnetwork.com",
-          "Type": "api"
-        },
-        "*.soundcloud.org": {
-          "ID": "*.soundcloud.org",
-          "Type": "website"
-        },
-        "api-*.soundcloud.com": {
-          "ID": "api-*.soundcloud.com",
-          "Type": "api"
-        },
-        "http://artists.soundcloud.com/": {
-          "ID": "http://artists.soundcloud.com/",
-          "Type": "website"
-        },
-        "https://apps.apple.com/us/app/soundcloud-music-audio/id336353151": {
-          "ID": "https://apps.apple.com/us/app/soundcloud-music-audio/id336353151",
-          "Type": "ios"
-        },
-        "https://connect.soundcloud.com": {
-          "ID": "https://connect.soundcloud.com",
-          "Type": "api"
-        },
-        "https://play.google.com/store/apps/details?id=com.soundcloud.android\u0026hl=en\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.soundcloud.android\u0026hl=en\u0026gl=US",
-          "Type": "android"
-        },
-        "https://soundcloud.com": {
-          "ID": "https://soundcloud.com",
-          "Type": "website"
-        },
-        "https://soundcloud.org": {
-          "ID": "https://soundcloud.org",
-          "Type": "website"
-        }
-      },
-      "OutScope": {
-        " community.soundcloud.com": {
-          "ID": " community.soundcloud.com",
-          "Type": "website"
-        },
-        "advertising.soundcloud.com": {
-          "ID": "advertising.soundcloud.com",
-          "Type": "website"
-        },
-        "blog.soundcloud.com": {
-          "ID": "blog.soundcloud.com",
-          "Type": "website"
-        },
-        "contest.soundcloud.com": {
-          "ID": "contest.soundcloud.com",
-          "Type": "website"
-        },
-        "copyright.soundcloud.com": {
-          "ID": "copyright.soundcloud.com",
-          "Type": "website"
-        },
-        "firston.soundcloud.com": {
-          "ID": "firston.soundcloud.com",
-          "Type": "website"
-        },
-        "help.soundcloud.com": {
-          "ID": "help.soundcloud.com",
-          "Type": "website"
-        },
-        "https://promote.soundcloud.com": {
-          "ID": "https://promote.soundcloud.com",
-          "Type": "website"
-        },
-        "https://scdrops.soundcloud.com": {
-          "ID": "https://scdrops.soundcloud.com",
-          "Type": "website"
-        },
-        "https://soundcloudmail.com": {
-          "ID": "https://soundcloudmail.com",
-          "Type": "other"
-        },
-        "jobs.soundcloud.com": {
-          "ID": "jobs.soundcloud.com",
-          "Type": "website"
-        },
-        "playback.soundcloud.com": {
-          "ID": "playback.soundcloud.com",
-          "Type": "website"
-        },
-        "playerone.soundcloud.com": {
-          "ID": "playerone.soundcloud.com",
-          "Type": "website"
-        },
-        "press.soundcloud.com": {
-          "ID": "press.soundcloud.com",
-          "Type": "website"
-        },
-        "secdomaintest.soundcloud.com": {
-          "ID": "secdomaintest.soundcloud.com",
-          "Type": "website"
-        },
-        "status.soundcloud.com": {
-          "ID": "status.soundcloud.com",
-          "Type": "website"
-        },
-        "support.soundcloud.org": {
-          "ID": "support.soundcloud.org",
-          "Type": "website"
-        }
-      },
-      "Hash": "8eaf5beaf91543999b91d01304456ecf03983dec0cf335b7765a607bda8e31d2"
     },
     "bc:SpaceX/Starlink": {
       "Key": "SpaceX/Starlink",
@@ -28328,7 +28172,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "60758d0b2d32eb4ab441d7dd9bd94e6d10e16b28a99d8e17079e1b0033680eff"
+      "Hash": "8d6532722f875c67014d4a36562ff9f09968ba76b84ff7fe0bf31fcc45ca4b37"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -88804,7 +88648,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "ab512f721898607937bdfcaee0c254115b9e7646fee07b20369db563d7b63372"
+      "Hash": "682421da47706c54f13fc0b8c56b40a27d004e3f7c29adf6d28c68fc3ad8aefd"
     },
     "h1:corebridge_financial": {
       "Key": "corebridge_financial",
@@ -147647,7 +147491,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2735d954df2b06ed85f7b75653e4324f1fd9fad7ae080bb6884ce001ab8755f2"
+      "Hash": "2bff0472aa9ca968ca876d3e1f317573d428c038615451b9c8e5925d41aeeca1"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -148029,7 +147873,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c2486f209960e6ed4fc7194a695979e5a40de547691a9237749970176481a604"
+      "Hash": "a9ccfeceddf1c238e611c6d66112cc0b51f2d5dc885c701c8f62fad32505855d"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -182575,7 +182419,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "37792ff6dd949d29868b3ba1f42039c95a3dbc175bd00f35c304e748f8d68130"
+      "Hash": "587b98948da78bfce5cbc39a1cd73174a59b2e40abce8d9c1dd4aa9ebd3e73a0"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -184128,7 +183972,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "82a6bce8d9d3aaef545900b29925a05c7c81f6e05d26bf05950218b147c41a50"
+      "Hash": "0e81620a7fd75ebb8bdb31a1dd49dea8f3321b5c5b4d5efcc519ec5b8b0c7133"
     },
     "h1:playstation": {
       "Key": "playstation",
@@ -193460,7 +193304,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a2bdafad2868f2469f79fbb1d1263fa840bac37df30af46a2eacb22f62dfa338"
+      "Hash": "90c4b2fafb9cb58606d7ded802ab0db153cbfafa35773eb378950efb177a1652"
     },
     "h1:unico_idtech": {
       "Key": "unico_idtech",
