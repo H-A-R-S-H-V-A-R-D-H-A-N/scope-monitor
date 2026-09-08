@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-08T19:34:20Z",
+  "captured_at": "2026-09-08T22:00:58Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -310,86 +310,62 @@
       "Name": "Afterpay Bug Bounty Program",
       "URL": "https://bugcrowd.com/engagements/afterpay",
       "InScope": {
-        "https://afterpay.com": {
-          "ID": "https://afterpay.com",
+        "████████████": {
+          "ID": "████████████",
           "Type": "website"
         },
-        "https://api.clearpay.com": {
-          "ID": "https://api.clearpay.com",
+        "██████████████": {
+          "ID": "██████████████",
+          "Type": "website"
+        },
+        "████████████████": {
+          "ID": "████████████████",
           "Type": "api"
         },
-        "https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588": {
-          "ID": "https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186": {
-          "ID": "https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186",
-          "Type": "ios"
-        },
-        "https://clearpay.co.uk": {
-          "ID": "https://clearpay.co.uk",
+        "███████████████████": {
+          "ID": "███████████████████",
           "Type": "website"
         },
-        "https://clearpay.com": {
-          "ID": "https://clearpay.com",
-          "Type": "website"
-        },
-        "https://developers.afterpay.com": {
-          "ID": "https://developers.afterpay.com",
-          "Type": "website"
-        },
-        "https://mobileapi.afterpay.com": {
-          "ID": "https://mobileapi.afterpay.com",
-          "Type": "api"
-        },
-        "https://mobileapi.clearpay.com": {
-          "ID": "https://mobileapi.clearpay.com",
-          "Type": "api"
-        },
-        "https://play.google.com/store/apps/details?id=com.afterpaymobile.uk": {
-          "ID": "https://play.google.com/store/apps/details?id=com.afterpaymobile.uk",
+        "████████████████████": {
+          "ID": "████████████████████",
           "Type": "android"
         },
-        "https://play.google.com/store/apps/details?id=com.afterpaymobile.us\u0026hl=en_US\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.afterpaymobile.us\u0026hl=en_US\u0026gl=US",
-          "Type": "android"
-        },
-        "https://portal.afterpay.com": {
-          "ID": "https://portal.afterpay.com",
+        "█████████████████████": {
+          "ID": "█████████████████████",
           "Type": "website"
         },
-        "https://portal.clearpay.co.uk": {
-          "ID": "https://portal.clearpay.co.uk",
-          "Type": "website"
-        },
-        "https://portal.clearpay.com": {
-          "ID": "https://portal.clearpay.com",
-          "Type": "website"
-        },
-        "https://portalapi.eu.clearpay.co.uk": {
-          "ID": "https://portalapi.eu.clearpay.co.uk",
+        "██████████████████████": {
+          "ID": "██████████████████████",
           "Type": "api"
         },
-        "https://portalapi.us.afterpay.com": {
-          "ID": "https://portalapi.us.afterpay.com",
+        "███████████████████████": {
+          "ID": "███████████████████████",
+          "Type": "website"
+        },
+        "████████████████████████": {
+          "ID": "████████████████████████",
+          "Type": "api"
+        },
+        "███████████████████████████": {
+          "ID": "███████████████████████████",
           "Type": "api"
         }
       },
       "OutScope": {
-        "https://afterpaytechblog.com": {
-          "ID": "https://afterpaytechblog.com",
+        "███████████████████": {
+          "ID": "███████████████████",
           "Type": "website"
         },
-        "https://genderfree.afterpay.com": {
-          "ID": "https://genderfree.afterpay.com",
+        "████████████████████": {
+          "ID": "████████████████████",
           "Type": "website"
         },
-        "https://www.moneybyafterpay.com/": {
-          "ID": "https://www.moneybyafterpay.com/",
+        "███████████████████████": {
+          "ID": "███████████████████████",
           "Type": "website"
         }
       },
-      "Hash": "630c7d9b7142d5cbf2212b2bc11e07ea748ab1260ecb4eeebbadaf89e01231fd"
+      "Hash": "b4f7a768887788513b2ad690abb4409384e22fde863c6fb9ca97b33d196ace93"
     },
     "bc:AgilePulse Marketplace Bug Bounty Program": {
       "Key": "AgilePulse Marketplace Bug Bounty Program",
@@ -3410,25 +3386,25 @@
       "Name": "Cash App",
       "URL": "https://bugcrowd.com/engagements/cashapp",
       "InScope": {
-        "*.cashstaging.app": {
-          "ID": "*.cashstaging.app",
+        "██████████": {
+          "ID": "██████████",
           "Type": "website"
         },
-        "https://cash.app": {
-          "ID": "https://cash.app",
+        "█████████████████": {
+          "ID": "█████████████████",
           "Type": "website"
         },
-        "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8": {
-          "ID": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
+        "███████████████████████████████████": {
+          "ID": "███████████████████████████████████",
           "Type": "ios"
         },
-        "https://play.google.com/store/apps/details?id=com.squareup.cash": {
-          "ID": "https://play.google.com/store/apps/details?id=com.squareup.cash",
+        "███████████████████████████████████████": {
+          "ID": "███████████████████████████████████████",
           "Type": "android"
         }
       },
       "OutScope": {},
-      "Hash": "cbc03d18fb7275405d1481a27775de72dff35f088d2589b272228c632c5be354"
+      "Hash": "29c63ed3bbacaafc86731e274c7052e6c5b03fd78c809ed66ed4640abf3cedb1"
     },
     "bc:Centers for Medicare \u0026 Medicaid Services - Public Bug Bounty Program 2026": {
       "Key": "Centers for Medicare \u0026 Medicaid Services - Public Bug Bounty Program 2026",
@@ -7196,6 +7172,84 @@
         }
       },
       "Hash": "38a2fc304c2ba2418e714fd95b52ec93abe62fd62ff46b7bc627254f495d115c"
+    },
+    "bc:LastPass": {
+      "Key": "LastPass",
+      "Name": "LastPass",
+      "URL": "https://bugcrowd.com/engagements/lastpass",
+      "InScope": {
+        "Workstation MFA (WMFA)": {
+          "ID": "Workstation MFA (WMFA)",
+          "Type": "other"
+        },
+        "https://accounts.lastpass.com": {
+          "ID": "https://accounts.lastpass.com",
+          "Type": "website"
+        },
+        "https://admin.lastpass.com": {
+          "ID": "https://admin.lastpass.com",
+          "Type": "website"
+        },
+        "https://apps.apple.com/us/app/lastpass-authenticator/id1079110004": {
+          "ID": "https://apps.apple.com/us/app/lastpass-authenticator/id1079110004",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/us/app/lastpass-password-manager/id324613447": {
+          "ID": "https://apps.apple.com/us/app/lastpass-password-manager/id324613447",
+          "Type": "ios"
+        },
+        "https://auth.lastpass.com": {
+          "ID": "https://auth.lastpass.com",
+          "Type": "website"
+        },
+        "https://blog.lastpass.com": {
+          "ID": "https://blog.lastpass.com",
+          "Type": "website"
+        },
+        "https://lastpass.com": {
+          "ID": "https://lastpass.com",
+          "Type": "website"
+        },
+        "https://lastpass.com/misc_download2.php": {
+          "ID": "https://lastpass.com/misc_download2.php",
+          "Type": "other"
+        },
+        "https://play.google.com/store/apps/details?id=com.lastpass.authenticator\u0026hl=en_US\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.lastpass.authenticator\u0026hl=en_US\u0026gl=US",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.lastpass.lpandroid": {
+          "ID": "https://play.google.com/store/apps/details?id=com.lastpass.lpandroid",
+          "Type": "android"
+        },
+        "https://support.lastpass.com": {
+          "ID": "https://support.lastpass.com",
+          "Type": "website"
+        },
+        "https://www.lastpass.com": {
+          "ID": "https://www.lastpass.com",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "Lastpass CLI tool": {
+          "ID": "Lastpass CLI tool",
+          "Type": "other"
+        },
+        "https://forums.lastpass.com": {
+          "ID": "https://forums.lastpass.com",
+          "Type": "website"
+        },
+        "https://identity.lastpass.com": {
+          "ID": "https://identity.lastpass.com",
+          "Type": "website"
+        },
+        "https://info.lastpass.com": {
+          "ID": "https://info.lastpass.com",
+          "Type": "website"
+        }
+      },
+      "Hash": "69033aa0f3b71aec57858558efc16666223675abdeba0deb85a54d0c79e3bcb2"
     },
     "bc:Latitude Financial Services Bug Bounty ": {
       "Key": "Latitude Financial Services Bug Bounty ",
@@ -14829,74 +14883,74 @@
       "Name": "Square",
       "URL": "https://bugcrowd.com/engagements/square",
       "InScope": {
-        "Square Register": {
-          "ID": "Square Register",
+        "██████████": {
+          "ID": "██████████",
+          "Type": "website"
+        },
+        "████████████": {
+          "ID": "████████████",
+          "Type": "website"
+        },
+        "█████████████": {
+          "ID": "█████████████",
+          "Type": "website"
+        },
+        "██████████████": {
+          "ID": "██████████████",
+          "Type": "website"
+        },
+        "███████████████": {
+          "ID": "███████████████",
           "Type": "hardware"
         },
-        "Square Terminal": {
-          "ID": "Square Terminal",
-          "Type": "hardware"
-        },
-        "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788": {
-          "ID": "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788",
+        "███████████████████████████████████████████████": {
+          "ID": "███████████████████████████████████████████████",
           "Type": "ios"
         },
-        "https://play.google.com/store/apps/details?id=com.squareup\u0026hl=en_US\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.squareup\u0026hl=en_US\u0026gl=US",
+        "███████████████████████████████████████████████████": {
+          "ID": "███████████████████████████████████████████████████",
           "Type": "android"
-        },
-        "https://square.online": {
-          "ID": "https://square.online",
-          "Type": "website"
-        },
-        "https://squareup.com/": {
-          "ID": "https://squareup.com/",
-          "Type": "website"
-        },
-        "https://www.weebly.com/": {
-          "ID": "https://www.weebly.com/",
-          "Type": "website"
         }
       },
       "OutScope": {
-        "Any vulnerabilities found in Third-party software": {
-          "ID": "Any vulnerabilities found in Third-party software",
+        "█████████": {
+          "ID": "█████████",
           "Type": "website"
         },
-        "http://community.squareup.com": {
-          "ID": "http://community.squareup.com",
+        "███████████": {
+          "ID": "███████████",
+          "Type": "website"
+        },
+        "██████████████": {
+          "ID": "██████████████",
+          "Type": "website"
+        },
+        "████████████████████": {
+          "ID": "████████████████████",
+          "Type": "website"
+        },
+        "███████████████████████": {
+          "ID": "███████████████████████",
           "Type": "other"
         },
-        "https://afterpay.com": {
-          "ID": "https://afterpay.com",
-          "Type": "website"
-        },
-        "https://app.squareupstaging.com/v1/ask-ai/copilot/spotlight/query": {
-          "ID": "https://app.squareupstaging.com/v1/ask-ai/copilot/spotlight/query",
-          "Type": "other"
-        },
-        "https://cash.me": {
-          "ID": "https://cash.me",
-          "Type": "website"
-        },
-        "https://designers.weebly.com/": {
-          "ID": "https://designers.weebly.com/",
-          "Type": "website"
-        },
-        "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8": {
-          "ID": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
+        "███████████████████████████████████": {
+          "ID": "███████████████████████████████████",
           "Type": "ios"
         },
-        "https://play.google.com/store/apps/details?id=com.squareup.cash": {
-          "ID": "https://play.google.com/store/apps/details?id=com.squareup.cash",
+        "███████████████████████████████████████": {
+          "ID": "███████████████████████████████████████",
           "Type": "android"
         },
-        "https://tidal.com/": {
-          "ID": "https://tidal.com/",
+        "█████████████████████████████████████████████████": {
+          "ID": "█████████████████████████████████████████████████",
           "Type": "website"
+        },
+        "█████████████████████████████████████████████████████████": {
+          "ID": "█████████████████████████████████████████████████████████",
+          "Type": "other"
         }
       },
-      "Hash": "0676ef903d13e66fd813ee5c80a7763550ddc43d541d170eb9fca9f0047672ff"
+      "Hash": "66ef9b0c93de6fd42350a0bba6fa93a16c14bd2f72fb571ee6af70f97150c916"
     },
     "bc:Statuspage": {
       "Key": "Statuspage",
@@ -15371,58 +15425,46 @@
       "Name": "TIDAL",
       "URL": "https://bugcrowd.com/engagements/tidal-bugbounty",
       "InScope": {
-        "*.tdl.sh": {
-          "ID": "*.tdl.sh",
+        "████████": {
+          "ID": "████████",
           "Type": "website"
         },
-        "*.tidalhifi.com": {
-          "ID": "*.tidalhifi.com",
+        "███████████": {
+          "ID": "███████████",
           "Type": "website"
         },
-        "*.wimpmusic.com": {
-          "ID": "*.wimpmusic.com",
-          "Type": "website"
-        },
-        "*tidalhi.fi": {
-          "ID": "*tidalhi.fi",
-          "Type": "website"
-        },
-        "Tidal Client for Android": {
-          "ID": "Tidal Client for Android",
-          "Type": "android"
-        },
-        "Tidal Client for iOS": {
-          "ID": "Tidal Client for iOS",
-          "Type": "ios"
-        },
-        "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)": {
-          "ID": "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)",
-          "Type": "other"
-        },
-        "api.tidal.com": {
-          "ID": "api.tidal.com",
+        "█████████████": {
+          "ID": "█████████████",
           "Type": "api"
         },
-        "https://offer.tidal.com/download": {
-          "ID": "https://offer.tidal.com/download",
+        "███████████████": {
+          "ID": "███████████████",
+          "Type": "website"
+        },
+        "████████████████████": {
+          "ID": "████████████████████",
           "Type": "other"
         },
-        "https://tidal.com/": {
-          "ID": "https://tidal.com/",
-          "Type": "website"
+        "████████████████████████": {
+          "ID": "████████████████████████",
+          "Type": "android"
+        },
+        "████████████████████████████████████████████████████████████████████████": {
+          "ID": "████████████████████████████████████████████████████████████████████████",
+          "Type": "other"
         }
       },
       "OutScope": {
-        "https://developer.tidal.com": {
-          "ID": "https://developer.tidal.com",
+        "███████████████": {
+          "ID": "███████████████",
           "Type": "other"
         },
-        "https://embed.tidal.com": {
-          "ID": "https://embed.tidal.com",
+        "███████████████████": {
+          "ID": "███████████████████",
           "Type": "other"
         }
       },
-      "Hash": "49955e7872fd0f957109e4277e952e15877328460848efce72c2caf775e77a56"
+      "Hash": "8c41dd2dcb67b6624a19868730b37aecee8cc05f7e5257e58a500ad022d745c2"
     },
     "bc:TRM Labs Public Bug Bounty Engagement": {
       "Key": "TRM Labs Public Bug Bounty Engagement",
@@ -24887,7 +24929,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f5becbe3266807adac765cea9b79fb7655e4145ce1a0c4c3f38e880366a771d8"
+      "Hash": "6bb52eb4e97db6720e06010110e6e7ad088da4d07a4cc926544af66a97ca7818"
     },
     "h1:alohi": {
       "Key": "alohi",
@@ -31387,7 +31429,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a0e307a8f4d155d6b6788079767c603a813e0c3cc12f643cfe4c1b085e251f28"
+      "Hash": "5c4d3b3910811099def5781843915fb7f4dce7e6bfb5012f80dad7d15ff9e525"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -31545,6 +31587,35 @@
         }
       },
       "Hash": "f2e7e0bdf35ad14bf9534475fc1f2b6dcd31f82177a5b1808d114834b26d1ec3"
+    },
+    "h1:brave": {
+      "Key": "brave",
+      "Name": "Brave Software",
+      "URL": "https://hackerone.com/brave",
+      "InScope": {
+        "Brave Browser Desktop": {
+          "ID": "Brave Browser Desktop",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "Brave websites": {
+          "ID": "Brave websites",
+          "Type": "OTHER"
+        },
+        "com.brave.browser": {
+          "ID": "com.brave.browser",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.brave.ios.browser": {
+          "ID": "com.brave.ios.browser",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://github.com/brave/*, https://github.com/brave-intl/*": {
+          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {},
+      "Hash": "c871f56c3dedd2c0eb35e5a0f9e802a2ee9f37a353f20b62fce57bc1d55f0b15"
     },
     "h1:braze_inc": {
       "Key": "braze_inc",
@@ -67410,7 +67481,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "3fd34ef2fc71061a01088784e7a83af436d8e5f51c81b741a6e82ce331fb842f"
+      "Hash": "a76d9cf6d748ed0a3838eaa4db14fa54f894d9d27b25e31d8bffd9d95b0880d7"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -87897,7 +87968,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6f37a840776e6e85ccbf1904ef54e719ea63bfd7b669c471a349f24249f07ad1"
+      "Hash": "16630a38ed8ab2cebb782c1ddaf84289bd60ba1b2998224cfde2c66a0b7979c4"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -88705,7 +88776,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "06ca12c53e9136143c2bff3b29dfbdbd47a96403d30d257df6fdcbf6756083fe"
+      "Hash": "82ad47d3f48d5790f4d5173e28527f137a71a7d2711416d920e243f063d688fb"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -147944,7 +148015,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e6b771af604222d5db4cd5257aba88ecdcf924e513e5cebe2aabe1e71906c6a1"
+      "Hash": "e71f314e188f50c826537a627b022cbc911eecf44bb5eb1f0cc6af5e64eeb6a2"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -147983,20 +148054,8 @@
           "ID": "https://satcomtest.com",
           "Type": "URL"
         },
-        "https://www.sdgov.gogoair.com": {
-          "ID": "https://www.sdgov.gogoair.com",
-          "Type": "URL"
-        },
-        "www.*.gogoair.*.com": {
-          "ID": "www.*.gogoair.*.com",
-          "Type": "WILDCARD"
-        },
         "www.aeroxr.com": {
           "ID": "www.aeroxr.com",
-          "Type": "URL"
-        },
-        "www.gogoair.com": {
-          "ID": "www.gogoair.com",
           "Type": "URL"
         }
       },
@@ -148049,12 +148108,40 @@
           "ID": "https://gogo.to",
           "Type": "URL"
         },
+        "https://www.sdgov.gogoair.com": {
+          "ID": "https://www.sdgov.gogoair.com",
+          "Type": "URL"
+        },
         "legacy.gogoair.com": {
           "ID": "legacy.gogoair.com",
           "Type": "URL"
         },
+        "www.*.gogoair.*.com": {
+          "ID": "www.*.gogoair.*.com",
+          "Type": "WILDCARD"
+        },
+        "www.*gogo*.com": {
+          "ID": "www.*gogo*.com",
+          "Type": "WILDCARD"
+        },
+        "www.*gogo.com": {
+          "ID": "www.*gogo.com",
+          "Type": "WILDCARD"
+        },
+        "www.gogo*.*": {
+          "ID": "www.gogo*.*",
+          "Type": "WILDCARD"
+        },
+        "www.gogo*.com": {
+          "ID": "www.gogo*.com",
+          "Type": "WILDCARD"
+        },
         "www.gogo574.com": {
           "ID": "www.gogo574.com",
+          "Type": "URL"
+        },
+        "www.gogoair.com": {
+          "ID": "www.gogoair.com",
           "Type": "URL"
         },
         "www.gogocloud.net": {
@@ -148066,7 +148153,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "46ad4c05836bf9620027e2aac0e7c6018c3c9ccd7c72d20b1f54cbab8a1b6f5c"
+      "Hash": "ef3aff5d6f7eba8db14d97d618f4147319ea4ccef8cc35f324771631b854710c"
     },
     "h1:goldmansachs": {
       "Key": "goldmansachs",
@@ -172052,7 +172139,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c8004488b11b8aa99b0df6e437e80091a057413604bea9e28a02168b2767d010"
+      "Hash": "115bfe3b6163c1e5e0734ae863a5a2d5fdc075dee3be28a16adf23ee15be6228"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -179509,6 +179596,10 @@
           "ID": "evergent.com",
           "Type": "URL"
         },
+        "games.nbaacademy.nba.com": {
+          "ID": "games.nbaacademy.nba.com",
+          "Type": "URL"
+        },
         "jr.nba.com": {
           "ID": "jr.nba.com",
           "Type": "URL"
@@ -179554,7 +179645,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a5c134bf8badf3129a6ca80b56fea2e19b0c3f9f513f8037bd808887be12c0af"
+      "Hash": "9ca7a36ebbf9859aa152e1c6ad93b5f46632bc8d6505b7c674cef2fd4391d24e"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -179860,7 +179951,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "587f73992784932530b84ac9b6041f493b8363ca57c44069d708c6331e3762f9"
+      "Hash": "c50e5234d2446ecc2ff804508f17e5a4a52f441b15dbc71c5e84ae7722858a77"
     },
     "h1:newegg": {
       "Key": "newegg",
@@ -180637,7 +180728,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e59c267ef80435c0d76b026f2ab6ede33b7eaf2f6d925f87527076ece4422f92"
+      "Hash": "32d483a24b01ff16a3f53ebd05b01a750ce8d51681c3ed007327b9bc6b6ddf70"
     },
     "h1:oaknorth_bank": {
       "Key": "oaknorth_bank",
@@ -183584,7 +183675,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4f570466681e7f8e457e708497136fcf00900c31fda784969f44ac0912cf9dd5"
+      "Hash": "3b9fc86d8e09b101cc05dd0feb6148e79861059624cee89c20ff86003215f634"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -183960,7 +184051,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9d13e48f06089f9c7d0c567b783a4fda2cac3bf104ffe9a47a4fdf0eb38654c5"
+      "Hash": "60b5721d361bedcb5e23840451c21c452634721dbea5cda3b9500c742acdeeec"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -188196,7 +188287,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "057c11516dff105210fa528b1dc43808862e2a05094042279474d1cf8d15a793"
+      "Hash": "46e616442727d8abfbee3378d07e7db2ccd3193ea6c9dcaa6f3244e7bbf37c15"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -188213,7 +188304,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d09cb0ea871dbb05fb504e66fb36f83d1c8d43df2bfadc8da854ec3b738540ff"
+      "Hash": "178d12d53a88fa8bef1063f50d95ef6bf4f239c3b813b2893bebe46dc2c04634"
     },
     "h1:shein": {
       "Key": "shein",
@@ -188959,7 +189050,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bf0f887b7fe7f1701656fcc148f1febf3f9da74d9e62ad0cfc3e84dcd2bdfca7"
+      "Hash": "64f26855e836c606310d18eefcf61e08e91e033de9d2a244f79de28bfabe1c82"
     },
     "h1:slack": {
       "Key": "slack",
@@ -189556,7 +189647,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "02536dd86a44d8a206205ccbed5dbca843bff9bef83f50c05d481d29eb0cdfde"
+      "Hash": "88fd3aef4c0a1912189ad55b8f788d7e20be97e9098561014c9571d9cbcef9b8"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -190072,7 +190163,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "47c1c5035db4389660ff81c59c670c3b534ca52ca79242614faef1349625355e"
+      "Hash": "3a9ed081fd66c102b526c6dfa53deeb25d6a673c3ce558beccb7ac4c4251a364"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -190487,7 +190578,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a70ca1f34692e74a987176b48b0fce586ced381d3a58e60992e503d3d8d4dc1b"
+      "Hash": "b8955d0ff7d62d147b26c8618c889762862a544e06032eb9dfabc248976f95eb"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -191562,7 +191653,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "83c668b380cfa8571d6a1aeed2a0d6ce385fcbb585eeb1360639fb859b35417e"
+      "Hash": "f0a2477a77ac9d0c87ac547fc9060352f84904b66f876b76bb20d7b43ee20c94"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -194262,7 +194353,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "60fd6e60884fbeabc75daa717c0b7ccdfa715fb1a74a66ee51b7918e3cdd0713"
+      "Hash": "a2df2ceb42ddffb22c2426a57a8094072da99c9f323154924c85cdd31b48a5a9"
     },
     "h1:versioncake": {
       "Key": "versioncake",
