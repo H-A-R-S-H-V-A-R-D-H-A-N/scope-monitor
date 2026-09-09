@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-09T14:31:44Z",
+  "captured_at": "2026-09-09T17:57:53Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -2217,6 +2217,51 @@
       },
       "OutScope": {},
       "Hash": "079705d124e9b3655a5778e113ae3351b8aaf52d1269f7b792bf36dc3030bac7"
+    },
+    "bc:Backblaze": {
+      "Key": "Backblaze",
+      "Name": "Backblaze",
+      "URL": "https://bugcrowd.com/engagements/backblaze",
+      "InScope": {
+        "Git Repositories (b2-sdk-java \u0026 B2 Command Line Tool)": {
+          "ID": "Git Repositories (b2-sdk-java \u0026 B2 Command Line Tool)",
+          "Type": "other"
+        },
+        "Mac Personal Backup Clients": {
+          "ID": "Mac Personal Backup Clients",
+          "Type": "other"
+        },
+        "Mac Restore Downloaders": {
+          "ID": "Mac Restore Downloaders",
+          "Type": "other"
+        },
+        "Windows Personal Backup Clients": {
+          "ID": "Windows Personal Backup Clients",
+          "Type": "other"
+        },
+        "Windows Restore Downloaders": {
+          "ID": "Windows Restore Downloaders",
+          "Type": "other"
+        },
+        "https://*.backblazeb2.com": {
+          "ID": "https://*.backblazeb2.com",
+          "Type": "api"
+        },
+        "https://apps.apple.com/us/app/backblaze/id628638330": {
+          "ID": "https://apps.apple.com/us/app/backblaze/id628638330",
+          "Type": "ios"
+        },
+        "https://backblaze.com": {
+          "ID": "https://backblaze.com",
+          "Type": "website"
+        },
+        "https://play.google.com/store/apps/details?id=com.backblaze.android\u0026hl=en_US\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.backblaze.android\u0026hl=en_US\u0026gl=US",
+          "Type": "android"
+        }
+      },
+      "OutScope": {},
+      "Hash": "192063c2b18026370045b2e449a508d1a42d9d66fe8ffa790088a5510c37a1a4"
     },
     "bc:Balsamiq for Atlassian Products": {
       "Key": "Balsamiq for Atlassian Products",
@@ -18362,7 +18407,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b3680036cf88d02518750bd917970e03fec6c2840fa67c5e62812e80749f71d"
+      "Hash": "c8cce9984805453625e7c6a820cadf3ef915cc49a11ad93830995a2c2e3a74cb"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -23665,7 +23710,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "47a87e4a0a21d0f3fd11f219c80a8b97a5d7cba39651f087d66faee50a8f0706"
+      "Hash": "96a4073488a674d1b6813268195608a9a4f69dc2288507605bb212bd9a696af2"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -24892,7 +24937,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6bb52eb4e97db6720e06010110e6e7ad088da4d07a4cc926544af66a97ca7818"
+      "Hash": "89db250a4a13eb4535f59bacc7ae8f950e5d9a69e9b9436c04d3c9a40b7fbad2"
     },
     "h1:alohi": {
       "Key": "alohi",
@@ -26308,7 +26353,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f2c793d17513dc34fc7f3c2a4ce70af58f939a3cc4deb4ed60b7d1027c27c625"
+      "Hash": "445b0e4108959266d6b33da88bedaf9d503b5c9cc657de5180505aea867207ca"
     },
     "h1:anthropic": {
       "Key": "anthropic",
@@ -27515,7 +27560,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7faa3cacf21226fc5e2e63163dedf78337e0f77f10317da2a54ddaaff3c3fc5f"
+      "Hash": "a9f0c9a6ce9e747236a7507ad5378c0df8ce272fe17040c3bfa81ee5784087a2"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -28259,7 +28304,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "65882a341eab7da0bea1734a3dd8d22061bcd3ac3a38b9acf5e7a221172d3150"
+      "Hash": "7cfe96a5041384e7798c357de42c3f9ddd2233bf745f7fa12d976a598e56ca5b"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -67694,7 +67739,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7de006ceb6660f162a0d1a746f29fcfb363fa61ee61e7fb8041e56715ffcd0f6"
+      "Hash": "f7bc6d9b810e87965660760591499a4ffc66365a78e87ef778d9d15a2137b856"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -97824,7 +97869,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4836a59de4b4e0925c0919bb188e5ef2fa4d19c3c88fe42ecfb0e780f84e36e6"
+      "Hash": "072cb226b45ef04188689aec3e1b6eabc29de11d4d16669cbe427435e007de6a"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -98218,7 +98263,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "ecbc1aca4be01052a90a4062601e34b8ba653d0a7369cb752a818aaaf27bd79b"
+      "Hash": "ae0c7c648efc99ee1f54d0a70c6b3cec772d9affe02f50ca87756a6b3e26740f"
     },
     "h1:equifax": {
       "Key": "equifax",
@@ -103497,7 +103542,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "23d46df485ce6cbaf0c9128a9212994e1f638f4631c98f94aa74897c274a4e1c"
+      "Hash": "f7480fbe3f4d20eb831f3005ecd9eaed136328df3e3cefc8c230ce3547277687"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -104040,6 +104085,14 @@
       "Name": "Expedia Group Bug Bounty",
       "URL": "https://hackerone.com/expediagroup_bbp",
       "InScope": {
+        "*.abritel.fr": {
+          "ID": "*.abritel.fr",
+          "Type": "WILDCARD"
+        },
+        "*.bookabach.co.nz": {
+          "ID": "*.bookabach.co.nz",
+          "Type": "WILDCARD"
+        },
         "*.carrentals.com": {
           "ID": "*.carrentals.com",
           "Type": "WILDCARD"
@@ -104048,8 +104101,56 @@
           "ID": "*.cheaptickets.com",
           "Type": "WILDCARD"
         },
+        "*.ean.com": {
+          "ID": "*.ean.com",
+          "Type": "WILDCARD"
+        },
+        "*.expedia-aarp.com": {
+          "ID": "*.expedia-aarp.com",
+          "Type": "WILDCARD"
+        },
+        "*.expedia.com": {
+          "ID": "*.expedia.com",
+          "Type": "WILDCARD"
+        },
+        "*.expediaagents.com": {
+          "ID": "*.expediaagents.com",
+          "Type": "WILDCARD"
+        },
+        "*.expediacruises.com": {
+          "ID": "*.expediacruises.com",
+          "Type": "WILDCARD"
+        },
+        "*.expediagroup.com": {
+          "ID": "*.expediagroup.com",
+          "Type": "WILDCARD"
+        },
         "*.expediapartnercentral.com": {
           "ID": "*.expediapartnercentral.com",
+          "Type": "WILDCARD"
+        },
+        "*.expediapartnersolutions.com": {
+          "ID": "*.expediapartnersolutions.com",
+          "Type": "WILDCARD"
+        },
+        "*.fewo-direkt.de": {
+          "ID": "*.fewo-direkt.de",
+          "Type": "WILDCARD"
+        },
+        "*.flights.com": {
+          "ID": "*.flights.com",
+          "Type": "WILDCARD"
+        },
+        "*.hotels.com": {
+          "ID": "*.hotels.com",
+          "Type": "WILDCARD"
+        },
+        "*.hotwire.com": {
+          "ID": "*.hotwire.com",
+          "Type": "WILDCARD"
+        },
+        "*.hotwirepartnercentral.com": {
+          "ID": "*.hotwirepartnercentral.com",
           "Type": "WILDCARD"
         },
         "*.lastminute.co.nz": {
@@ -104058,6 +104159,18 @@
         },
         "*.lastminute.com.au": {
           "ID": "*.lastminute.com.au",
+          "Type": "WILDCARD"
+        },
+        "*.orbitz.com": {
+          "ID": "*.orbitz.com",
+          "Type": "WILDCARD"
+        },
+        "*.stayz.com.au": {
+          "ID": "*.stayz.com.au",
+          "Type": "WILDCARD"
+        },
+        "*.tiqets.com": {
+          "ID": "*.tiqets.com",
           "Type": "WILDCARD"
         },
         "*.travelocity.ca": {
@@ -104116,6 +104229,10 @@
           "ID": "987675995",
           "Type": "APPLE_STORE_APP_ID"
         },
+        "com.carrentals": {
+          "ID": "com.carrentals",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
         "com.cheaptickets": {
           "ID": "com.cheaptickets",
           "Type": "GOOGLE_PLAY_APP_ID"
@@ -104134,6 +104251,10 @@
         },
         "com.hcom.android": {
           "ID": "com.hcom.android",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.homeaway.android": {
+          "ID": "com.homeaway.android",
           "Type": "GOOGLE_PLAY_APP_ID"
         },
         "com.hotwire.hotels": {
@@ -104188,8 +104309,16 @@
           "ID": "www.expedia.com",
           "Type": "URL"
         },
+        "www.expediacruises.com": {
+          "ID": "www.expediacruises.com",
+          "Type": "URL"
+        },
         "www.expediagroup.com": {
           "ID": "www.expediagroup.com",
+          "Type": "URL"
+        },
+        "www.expediapartnercentral.com": {
+          "ID": "www.expediapartnercentral.com",
           "Type": "URL"
         },
         "www.expediataap.com": {
@@ -104236,6 +104365,10 @@
           "ID": "www.stayz.com.au",
           "Type": "URL"
         },
+        "www.tiqets.com": {
+          "ID": "www.tiqets.com",
+          "Type": "URL"
+        },
         "www.travelocity.ca": {
           "ID": "www.travelocity.ca",
           "Type": "URL"
@@ -104253,29 +104386,8 @@
           "Type": "URL"
         }
       },
-      "OutScope": {
-        "*.expediacruises.com": {
-          "ID": "*.expediacruises.com",
-          "Type": "WILDCARD"
-        },
-        "bookus.expediacruises.com": {
-          "ID": "bookus.expediacruises.com",
-          "Type": "URL"
-        },
-        "https://*.expedia.com/": {
-          "ID": "https://*.expedia.com/",
-          "Type": "WILDCARD"
-        },
-        "www.expediaagents.com": {
-          "ID": "www.expediaagents.com",
-          "Type": "URL"
-        },
-        "www.expediapartnersolutions.com": {
-          "ID": "www.expediapartnersolutions.com",
-          "Type": "URL"
-        }
-      },
-      "Hash": "4e5606231df52b98dc0a50de881b6e864282e30f1cfc2f2df798eb04c1d9022b"
+      "OutScope": {},
+      "Hash": "68f9cc012d6c799cbd239375e3099005a09bf29870518b463f3fed834772fdf3"
     },
     "h1:experian": {
       "Key": "experian",
@@ -146067,7 +146179,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "67a21f1bca0e206ae0081a129b42d018c79e2ee9672738936202e61a5afe8e2e"
+      "Hash": "1e60065a8ab2ed91309421f210df1a6a45a3f6ca89592b8708b96589d0290f03"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -147802,7 +147914,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c9401345ee21e40efeb0bfcaa8aa138c1b6e95d9166d4e310c9ab41b930e5360"
+      "Hash": "23e28589ea3bdf5bc659197d0b6dc176916229d61d57fe658657a6e5c66440cb"
     },
     "h1:gm": {
       "Key": "gm",
@@ -151729,7 +151841,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "93ae053bec7478b13f41417b698973e87db375cb21f0afa33b70aa21bf22c472"
+      "Hash": "7278014871346cac2f651a304e2df0f72e4e257fcbad0dc618b28c3bfc2503e2"
     },
     "h1:inditex": {
       "Key": "inditex",
@@ -162637,6 +162749,10 @@
           "ID": "jdisv.dpn.deere.com",
           "Type": "URL"
         },
+        "jdldb.deere.com": {
+          "ID": "jdldb.deere.com",
+          "Type": "URL"
+        },
         "jdlink.deere.com": {
           "ID": "jdlink.deere.com",
           "Type": "URL"
@@ -167612,7 +167728,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fbb079fa50f41d76393f142d7e3f65447496a52d28eb56d28e9b0516afc6887d"
+      "Hash": "a63dc246bd82b2ff66f6b91d3db51f75d85b5f79158d35419bed4655322c011a"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -167811,7 +167927,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "debff18f035e1e4127d0d78ca63077073d48f5d45c7d7bbeeba829307738768f"
+      "Hash": "1673fa4d32b09f41e58dc9ecc6477fe936ab3fdfdd47a51d5e1448c76a27fe4c"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -169394,7 +169510,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "74f9cbe8d10c4c7b3b95720f31514329b2f0c7a9d3bad2f822829a4348f0fa99"
+      "Hash": "472003ab971323d980e45091c10c623568a015bdbaf1669db4d5bd0b824e9bb9"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -174677,7 +174793,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b9809c4f3294f2cb12c1d0a4d4dfb0b54cbd074944b4e33d5cbe48fd07d93295"
+      "Hash": "9daa3e127c33dce48db078b9b32f0883d3555974ea185370ae124caf8451a294"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -179921,7 +180037,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cf2dddcf7bfb501d430f2e871f95f79968a4c09e571b6127cb6761d10673359f"
+      "Hash": "8dc61d17147f59d5ff95b26166d548c7003c3065b25a5cc6ed0dc06086f94c25"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -180539,7 +180655,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5773fe4c38a62a61991f6cb667008816054fda02580215208609bdd316cea9c4"
+      "Hash": "49f9263f7ea6981723de69909a0ef67141854588e92329ed7518c4ba647fb511"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -182576,7 +182692,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6b12a5f8b1fbc85485cab2984c86b55bcb554b93a20d848bfc7a8523cdd6636e"
+      "Hash": "36efdb0fc7a95caeec25fe0224e98b0db7bae98f166564ce2e1a9c573bb81dce"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -185875,7 +185991,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c65ef5f89aea51aeb32d11118b9a86f6235b0535134e740936e54eac8b143cd5"
+      "Hash": "107f5ffc2a0b0e60e32811ad595ae7804aae212ba238184b13e4a39200f08f8d"
     },
     "h1:rei_vdp": {
       "Key": "rei_vdp",
@@ -188363,7 +188479,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d0f726cdc7101f44bbe1d341b187a89ff70cf08ff23a764996fd102296d8f371"
+      "Hash": "57236f4287d3013ee5816ce2ccbc310985c08802e025362e7d2735bd83c8f8b3"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -188384,7 +188500,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4e0c7691d6c0bf1bd53d30f478fb6baaf8584d29f6732e15074ca7c26d6bc62e"
+      "Hash": "cae58ac0a4aa3bc5c6ea7fc081b87d811c35b82f94aebfd62af0f9e00e7d627e"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -189495,7 +189611,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "9d346da6ba21671cda1f4422f41dc930450b6d3655381272b2b6336092066ee1"
+      "Hash": "7e4874e77548e45473aa9c5b6a56147e1d67c043e5fb6cd81e3c2c993b88e74c"
     },
     "h1:sony": {
       "Key": "sony",
@@ -189534,7 +189650,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "35e9df0059679527f24f10f49cf6d3002cd4e7ef147d098f28e29c2415e277da"
+      "Hash": "41cdfd306d2a511ae657a102bf36bd59c4b32cef8dd7987a096475b5f7fca603"
     },
     "h1:spotify": {
       "Key": "spotify",
@@ -191136,7 +191252,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c20f79d6be04011281f378e8c5e2a630f2b919c5062f21e24e3c2fe0d5a1c0d5"
+      "Hash": "85bcd2264c7e125bd273c535fe7fcec8b78a33f89ed1c233bcc389967f389752"
     },
     "h1:tesco": {
       "Key": "tesco",
@@ -191750,7 +191866,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7e5d9be8a876b457cf8cceed363d8b06ab1b2442cec20797a60f3c60480a3acf"
+      "Hash": "5d75a25580d650e29dae76132500ffdba63019f21551e47be34eade36c75d5bd"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -193212,7 +193328,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac12a5cb309a1454a45d5ed96730b3f50fba11d2d8a6d7f916ec3dfe00a80153"
+      "Hash": "5d5d0ef9167e2f9074ee539d08d690e904a092ffff706b7a5e6d8a7b334b034c"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -194254,7 +194370,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "d41aa33a76cd2ec91ba2e4912beb259ed35f5906901f1d25ad6d26c83410469c"
+      "Hash": "c1cca8bf6d6454ac8f7adee2bda62bf7ac28ea7433b5d4ec32df8b6e79a55524"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -194450,7 +194566,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cab340fdca81ebaaaeb308a61b68ec66aff7039404251ee261b265a8d8e8b15d"
+      "Hash": "a2df2ceb42ddffb22c2426a57a8094072da99c9f323154924c85cdd31b48a5a9"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -197054,7 +197170,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "00b70e977ecaab04326f859bda775f8d037509df62f7b5282c4b2c9b1644f839"
+      "Hash": "78e1c9d6c0fa90341ff8110f43adcb75d511e6dd56bfd4328d758c07c7ece876"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
@@ -198080,7 +198196,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ed7872fbc25073a312883377af285670165ae87454107c1b3c16043dd0cb8b20"
+      "Hash": "9e3a7095f38214937dc178fbbdbe40bfdb1f3cd4543a828995007c9563f038b3"
     },
     "h1:zurich-insurance": {
       "Key": "zurich-insurance",
@@ -202037,196 +202153,6 @@
       },
       "OutScope": {},
       "Hash": "00832bc6234040eb8bfec9045ce74e0cfe4c25cfdaae004d6972024f3420a461"
-    },
-    "in:6c8455c8-66b7-4360-bc6d-45b854c6fa85": {
-      "Key": "6c8455c8-66b7-4360-bc6d-45b854c6fa85",
-      "Name": "Posti Bug Bounty ",
-      "URL": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
-      "InScope": {
-        "410789057": {
-          "ID": "410789057",
-          "Type": "ios"
-        },
-        "api.posti.fi": {
-          "ID": "api.posti.fi",
-          "Type": "url"
-        },
-        "auth-service.posti.fi": {
-          "ID": "auth-service.posti.fi",
-          "Type": "url"
-        },
-        "cdn.posti.fi": {
-          "ID": "cdn.posti.fi",
-          "Type": "url"
-        },
-        "connect.posti.fi": {
-          "ID": "connect.posti.fi",
-          "Type": "url"
-        },
-        "console.posti.com": {
-          "ID": "console.posti.com",
-          "Type": "url"
-        },
-        "developer.posti.com": {
-          "ID": "developer.posti.com",
-          "Type": "url"
-        },
-        "elma.elma.fi": {
-          "ID": "elma.elma.fi",
-          "Type": "url"
-        },
-        "fi.itella.posti.android": {
-          "ID": "fi.itella.posti.android",
-          "Type": "android"
-        },
-        "gateway.posti.fi": {
-          "ID": "gateway.posti.fi",
-          "Type": "url"
-        },
-        "https://kontakti.posti.fi": {
-          "ID": "https://kontakti.posti.fi",
-          "Type": "url"
-        },
-        "https://my.account.posti.fi": {
-          "ID": "https://my.account.posti.fi",
-          "Type": "url"
-        },
-        "https://my.smartposti.ee/": {
-          "ID": "https://my.smartposti.ee/",
-          "Type": "url"
-        },
-        "https://my.smartposti.lt": {
-          "ID": "https://my.smartposti.lt",
-          "Type": "url"
-        },
-        "https://my.smartposti.lv": {
-          "ID": "https://my.smartposti.lv",
-          "Type": "url"
-        },
-        "https://oma.posti.fi/": {
-          "ID": "https://oma.posti.fi/",
-          "Type": "url"
-        },
-        "https://printerdriver.posti.com/": {
-          "ID": "https://printerdriver.posti.com/",
-          "Type": "url"
-        },
-        "https://pro.posti.fi": {
-          "ID": "https://pro.posti.fi",
-          "Type": "url"
-        },
-        "https://quicksight.aws.amazon.com": {
-          "ID": "https://quicksight.aws.amazon.com",
-          "Type": "url"
-        },
-        "https://shop.posti.fi": {
-          "ID": "https://shop.posti.fi",
-          "Type": "url"
-        },
-        "https://tuleasiakkaaksi.posti.fi": {
-          "ID": "https://tuleasiakkaaksi.posti.fi",
-          "Type": "url"
-        },
-        "https://www.posti.fi": {
-          "ID": "https://www.posti.fi",
-          "Type": "url"
-        },
-        "https://www.smartposti.ee": {
-          "ID": "https://www.smartposti.ee",
-          "Type": "url"
-        },
-        "https://www.smartposti.lt": {
-          "ID": "https://www.smartposti.lt",
-          "Type": "url"
-        },
-        "https://www.smartposti.lv": {
-          "ID": "https://www.smartposti.lv",
-          "Type": "url"
-        },
-        "https://www.webproteus.com/lpro-web/login": {
-          "ID": "https://www.webproteus.com/lpro-web/login",
-          "Type": "url"
-        },
-        "https://yrityksennoutopiste.posti.fi": {
-          "ID": "https://yrityksennoutopiste.posti.fi",
-          "Type": "url"
-        },
-        "id.posti.fi": {
-          "ID": "id.posti.fi",
-          "Type": "url"
-        },
-        "jakelu.posti.fi": {
-          "ID": "jakelu.posti.fi",
-          "Type": "url"
-        },
-        "logout.id.posti.fi": {
-          "ID": "logout.id.posti.fi",
-          "Type": "url"
-        },
-        "mfa.posti.fi": {
-          "ID": "mfa.posti.fi",
-          "Type": "url"
-        },
-        "netposti.fi": {
-          "ID": "netposti.fi",
-          "Type": "url"
-        },
-        "nextshipping.posti.fi": {
-          "ID": "nextshipping.posti.fi",
-          "Type": "url"
-        },
-        "orgadmin-ext.prd.account.posticloud.fi": {
-          "ID": "orgadmin-ext.prd.account.posticloud.fi",
-          "Type": "url"
-        },
-        "partnerselfservice.posti.fi": {
-          "ID": "partnerselfservice.posti.fi",
-          "Type": "url"
-        },
-        "picc.posti.fi": {
-          "ID": "picc.posti.fi",
-          "Type": "url"
-        },
-        "posti.com": {
-          "ID": "posti.com",
-          "Type": "url"
-        },
-        "postikuori.posti.fi": {
-          "ID": "postikuori.posti.fi",
-          "Type": "url"
-        },
-        "tnt.posti.com": {
-          "ID": "tnt.posti.com",
-          "Type": "url"
-        },
-        "todentaminen.posti.fi": {
-          "ID": "todentaminen.posti.fi",
-          "Type": "url"
-        },
-        "www.posti.se": {
-          "ID": "www.posti.se",
-          "Type": "url"
-        },
-        "yhteystietoni.posti.fi": {
-          "ID": "yhteystietoni.posti.fi",
-          "Type": "url"
-        },
-        "yritysmuutto.posti.fi": {
-          "ID": "yritysmuutto.posti.fi",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "https://developer.posti.com/support-request": {
-          "ID": "https://developer.posti.com/support-request",
-          "Type": "url"
-        },
-        "www.posti.fi/henkiloasiakkaat/lomakkeet/tuotantohairiot.html": {
-          "ID": "www.posti.fi/henkiloasiakkaat/lomakkeet/tuotantohairiot.html",
-          "Type": "url"
-        }
-      },
-      "Hash": "d80a38d19b4639e6b06aa3628f4993b062075296a0b6b7973d5b8d39ae2db763"
     },
     "in:6f24c2d0-b1f2-4c31-948d-eeba16e80099": {
       "Key": "6f24c2d0-b1f2-4c31-948d-eeba16e80099",
