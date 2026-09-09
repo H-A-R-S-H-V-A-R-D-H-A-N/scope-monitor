@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-09T10:04:50Z",
+  "captured_at": "2026-09-09T14:31:44Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -2217,51 +2217,6 @@
       },
       "OutScope": {},
       "Hash": "079705d124e9b3655a5778e113ae3351b8aaf52d1269f7b792bf36dc3030bac7"
-    },
-    "bc:Backblaze": {
-      "Key": "Backblaze",
-      "Name": "Backblaze",
-      "URL": "https://bugcrowd.com/engagements/backblaze",
-      "InScope": {
-        "Git Repositories (b2-sdk-java \u0026 B2 Command Line Tool)": {
-          "ID": "Git Repositories (b2-sdk-java \u0026 B2 Command Line Tool)",
-          "Type": "other"
-        },
-        "Mac Personal Backup Clients": {
-          "ID": "Mac Personal Backup Clients",
-          "Type": "other"
-        },
-        "Mac Restore Downloaders": {
-          "ID": "Mac Restore Downloaders",
-          "Type": "other"
-        },
-        "Windows Personal Backup Clients": {
-          "ID": "Windows Personal Backup Clients",
-          "Type": "other"
-        },
-        "Windows Restore Downloaders": {
-          "ID": "Windows Restore Downloaders",
-          "Type": "other"
-        },
-        "https://*.backblazeb2.com": {
-          "ID": "https://*.backblazeb2.com",
-          "Type": "api"
-        },
-        "https://apps.apple.com/us/app/backblaze/id628638330": {
-          "ID": "https://apps.apple.com/us/app/backblaze/id628638330",
-          "Type": "ios"
-        },
-        "https://backblaze.com": {
-          "ID": "https://backblaze.com",
-          "Type": "website"
-        },
-        "https://play.google.com/store/apps/details?id=com.backblaze.android\u0026hl=en_US\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.backblaze.android\u0026hl=en_US\u0026gl=US",
-          "Type": "android"
-        }
-      },
-      "OutScope": {},
-      "Hash": "192063c2b18026370045b2e449a508d1a42d9d66fe8ffa790088a5510c37a1a4"
     },
     "bc:Balsamiq for Atlassian Products": {
       "Key": "Balsamiq for Atlassian Products",
@@ -8133,6 +8088,72 @@
         }
       },
       "Hash": "be93b0185f6af99ca79f165b4243e1793b8cc4314015fe7a3a4bde578904d939"
+    },
+    "bc:Majid Al Futtaim Lifestyle": {
+      "Key": "Majid Al Futtaim Lifestyle",
+      "Name": "Majid Al Futtaim Lifestyle",
+      "URL": "https://bugcrowd.com/engagements/maffashion",
+      "InScope": {
+        "fashion4less.me": {
+          "ID": "fashion4less.me",
+          "Type": "website"
+        },
+        "https://api-prod.thatconceptstore.com/": {
+          "ID": "https://api-prod.thatconceptstore.com/",
+          "Type": "api"
+        },
+        "https://apps.apple.com/app/id1503045795": {
+          "ID": "https://apps.apple.com/app/id1503045795",
+          "Type": "ios"
+        },
+        "https://lapi.yellowblocks.me": {
+          "ID": "https://lapi.yellowblocks.me",
+          "Type": "api"
+        },
+        "https://play.google.com/store/apps/details?id=com.maf.thatandroid": {
+          "ID": "https://play.google.com/store/apps/details?id=com.maf.thatandroid",
+          "Type": "android"
+        },
+        "https://thatconceptstore.com": {
+          "ID": "https://thatconceptstore.com",
+          "Type": "website"
+        },
+        "https://www.allsaints.me/": {
+          "ID": "https://www.allsaints.me/",
+          "Type": "website"
+        },
+        "https://www.cb2.ae/en": {
+          "ID": "https://www.cb2.ae/en",
+          "Type": "website"
+        },
+        "https://www.crateandbarrel.me": {
+          "ID": "https://www.crateandbarrel.me",
+          "Type": "website"
+        },
+        "https://www.lululemon.me": {
+          "ID": "https://www.lululemon.me",
+          "Type": "website"
+        },
+        "https://www.shiseido.me/": {
+          "ID": "https://www.shiseido.me/",
+          "Type": "website"
+        },
+        "lego.me": {
+          "ID": "lego.me",
+          "Type": "website"
+        },
+        "psychobunny.me": {
+          "ID": "psychobunny.me",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "www.americangirlmena.com": {
+          "ID": "www.americangirlmena.com",
+          "Type": "website"
+        }
+      },
+      "Hash": "1b47fd6644cd0f51666188114a8793997e3b2fc3599dec4391adda1d9e44bffb"
     },
     "bc:Majid Al Futtaim Properties": {
       "Key": "Majid Al Futtaim Properties",
@@ -23841,7 +23862,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "fff512fe5a7842682cc233dde3170978bacb0c9fa28ca074bca2b2c1bb2ed6b1"
+      "Hash": "285be21b5ff7be25b8e20096a500b2810ed3c824b9dee25fdfde1478f9d0498d"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -30862,7 +30883,7 @@
       "URL": "https://hackerone.com/beiersdorf",
       "InScope": {},
       "OutScope": {},
-      "Hash": "9613ff601cd23e72caf6411ba4f3b65ba65fd0e129857aa10ca94c8b29e6ca01"
+      "Hash": "c96e0f82cb220f979b83befcc12b41356e6e234827a637ba4e2adb49151b4e31"
     },
     "h1:bestbuy": {
       "Key": "bestbuy",
@@ -31462,7 +31483,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "08c44aee5ae0df3c2ade47216b5941641ac2d47d4ef940e2cbd09f2a1740d9b5"
+      "Hash": "c0e80b4ce195fc99c0d9df4005700b7ab3245fc4c0b0f7b873e57468570de449"
     },
     "h1:box_private": {
       "Key": "box_private",
@@ -67423,7 +67444,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "a569e42d277f886c50298f51c8e5ab0cc4fda70352417eca36746b641e648354"
+      "Hash": "2dd1d83b44759d81b3dc1f62901968e7435a84643897e4b1ddac237b2dd9bc5a"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -95657,7 +95678,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "dab0062a3f24f855359fd30b939151e8f822f5705537aab3faf37cc124e3c367"
+      "Hash": "e7bfa74148f74a1859d67d940bb3c8457d86ba3bba2f78508d8d60217d28898d"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -95816,7 +95837,7 @@
       "URL": "https://hackerone.com/django",
       "InScope": {},
       "OutScope": {},
-      "Hash": "60c81e012811365e3373f2193e13444c8442664f62534c2f88c28c6ff238e4bc"
+      "Hash": "8d11a20a360264dfa0f022cecfbba503a13dc74e09f8d5888ffdafb0df4523c1"
     },
     "h1:docusign": {
       "Key": "docusign",
@@ -103476,7 +103497,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "01f1bae825a5d88cc20618c9599bb2d5d33d5f27f70e68d30a355202ab8d7b81"
+      "Hash": "23d46df485ce6cbaf0c9128a9212994e1f638f4631c98f94aa74897c274a4e1c"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -106764,7 +106785,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6fa0ab07f5de2b2cd73eba4fe7779089126de3118b96cf4b9921f5e520405a4e"
+      "Hash": "6b4b7369a931f437dcd9ac830fc521eb78bb17ba8b1e161018c70e3ce9b18c39"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -146695,7 +146716,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ea1757914f275d6f489968117b6a2e340c9e16164cf561734f52a4a4748119cd"
+      "Hash": "f226285ee868709432b5673e51fd4f8bc44e8b1b0ee2b649a7ad48e4eca7182e"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -147198,7 +147219,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "254c56b076638964c866b03f775e8848239d1985252b197f3acaea70df52763d"
+      "Hash": "a9e2474d2bbb759e0e999474362206a44fdb0269e10bd951fe3b09594addd229"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -147662,12 +147683,12 @@
           "ID": "GPE",
           "Type": "OTHER"
         },
-        "Global Payments Inc": {
-          "ID": "Global Payments Inc",
-          "Type": "OTHER"
-        },
         "Global Payments Integrated": {
           "ID": "Global Payments Integrated",
+          "Type": "OTHER"
+        },
+        "Globalpayments.com": {
+          "ID": "Globalpayments.com",
           "Type": "OTHER"
         },
         "Greater Giving": {
@@ -147760,10 +147781,6 @@
         }
       },
       "OutScope": {
-        "Globalpaymentsinc.com and Globalpayments.com - OUT OF SCOPE": {
-          "ID": "Globalpaymentsinc.com and Globalpayments.com - OUT OF SCOPE",
-          "Type": "OTHER"
-        },
         "Heartland Payroll": {
           "ID": "Heartland Payroll",
           "Type": "OTHER"
@@ -147785,7 +147802,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "30abf9079237b1f084c631def8237085203a099959cb437b91ba27d49c7b74ab"
+      "Hash": "c9401345ee21e40efeb0bfcaa8aa138c1b6e95d9166d4e310c9ab41b930e5360"
     },
     "h1:gm": {
       "Key": "gm",
@@ -149058,7 +149075,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "f545d25e8392e96f23cea8459ea2d127f7b54a8b9e9f7ad6318f73c2387c0db2"
+      "Hash": "2528101745213d241961e86dc6bb7eee3fcc30be70957cc949644c1250b77e6b"
     },
     "h1:henkel_vdp": {
       "Key": "henkel_vdp",
@@ -152529,7 +152546,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d1a27b349f75f1acf3731dfc7e0d5b02d512c79debb0eedd48cab7fd368da5ca"
+      "Hash": "c3958914d44486b323ca30b0dcebbd508e44f83bc62a3c6df4c3a27c35fb4ee7"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -169171,7 +169188,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "98120d4df568725ba5816294788352444abd5084766aa79d1adb642058ff1f77"
+      "Hash": "31ea612bd8cab72f80d7e5d27816f62911bcbbbda60ba9692308ec05406738a8"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -170045,7 +170062,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f11f1d338c36a0da5e94dfa431c446c8ce624d47d64fdbff78782c56003dc296"
+      "Hash": "16b364ab6f1dfad91257e362a12febc6c5ec0bc0550acba30958c642c979ae8c"
     },
     "h1:magic-eden": {
       "Key": "magic-eden",
@@ -172113,7 +172130,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c3dbab5ea55b926e70280ef6ed2899fbc545d0176a53e891db75bb1405059053"
+      "Hash": "231ab63be420377d4ace89e97a0c9ab2525fd61a035c5fb522770f9c4128a250"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -185327,7 +185344,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2c893c24c211bd402a3ce1dbec7b08d1f7a66b66edbcd61642c84a4b3d1548f6"
+      "Hash": "9f3cbf7dd8dd1857c74f5606c2993da0c7a514c52934fe3222d5924f451ab958"
     },
     "h1:r3": {
       "Key": "r3",
@@ -185367,7 +185384,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "19fd9e7773e2482b734d808b58270e4a304fbca613f2af7bd895ab03293cc04e"
+      "Hash": "91d57299753ce03128a1cf3db83562facb3d713f212e79d1d2cb570ba479ac5c"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -187714,7 +187731,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3717782948bd2d53c61aa7c8dc45967bcd0897c939b1c62875b12c3b2ec85a33"
+      "Hash": "eea07fe321e2f72c89b7f83b9f23a2c198c85ebfb118a8e9a1fa124499d7a238"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -187732,7 +187749,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "20843a99f470dc45826b90d0f343bafe203562dead85ba5c8c3b200bfd26cf26"
+      "Hash": "7a70753c716c96251d05627cafea85d97206fc8ce4c7c80b3b81ef244441398e"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -187941,7 +187958,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f928540c263ed7f36ee974eff5dbb11b63f16605dc78ac9de8b3acb05e76ae75"
+      "Hash": "79c58318671a6a183cc09fc8b896a9bcdc5a9131cae9130d5c7f89934c22081c"
     },
     "h1:security": {
       "Key": "security",
@@ -190342,7 +190359,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a553c43a45b92458fb789bad50c115d3eddbe42edc056231235bc1538d757c7f"
+      "Hash": "5185b3b9f0652c71bba849608de15bcc0d021d35daa7d1a6bf84a90ed9f793ee"
     },
     "h1:superbet": {
       "Key": "superbet",
@@ -190985,7 +191002,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "879f197e0e8f6040e1566aa69cc6c5d7904303db6abf56209d3335c1e929e85b"
+      "Hash": "460348ca38cf9777615f9c466f4ba0e3ca3ed85dfbd317ee730242b2bbb7f797"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -191733,7 +191750,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5d75a25580d650e29dae76132500ffdba63019f21551e47be34eade36c75d5bd"
+      "Hash": "7e5d9be8a876b457cf8cceed363d8b06ab1b2442cec20797a60f3c60480a3acf"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -192468,7 +192485,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d0db4f23f4032872055b4c4550e9d27fe7813e120886b82ad1a387c18ac45aa"
+      "Hash": "1f03fbaeb03fdbc140bafb13cf6bd8d1d29fb6270a6683ee0c256e740ad9dc53"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -196334,7 +196351,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f5a5f4c131fc6878b1c6c1c5595d30f7f9fae921f937912293975da443757526"
+      "Hash": "395e9fb536e5cff1f052a8d64395aa4a70bba11f761cc0ef0a90b3653c526ec5"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -198063,7 +198080,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9e3a7095f38214937dc178fbbdbe40bfdb1f3cd4543a828995007c9563f038b3"
+      "Hash": "ed7872fbc25073a312883377af285670165ae87454107c1b3c16043dd0cb8b20"
     },
     "h1:zurich-insurance": {
       "Key": "zurich-insurance",
@@ -205197,128 +205214,6 @@
         }
       },
       "Hash": "b8b51ba89c52d3f2307f6207a70531822c358de256048d5b385e7472d4857867"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
