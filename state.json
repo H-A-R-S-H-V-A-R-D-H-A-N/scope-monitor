@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-09T00:08:05Z",
+  "captured_at": "2026-09-09T05:10:44Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -25769,7 +25769,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c6d4171fc03edc6de3affbe925603a8a98507fa15c2d46ef50600ffbfcdbb33e"
+      "Hash": "f5b3a8f462b26eec3c70a3e47d4cbe7cce02db2ec1fa35bfe30d0e91b0494238"
     },
     "h1:amazonvrp": {
       "Key": "amazonvrp",
@@ -26303,7 +26303,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "3c50b5cde8ac61842b7eb37c206ecbaf724373d7deafe0a1da624a3709e7fdc8"
+      "Hash": "6716059e38d158d34d1068a15ffb36a40c29bf313af58831b1d3f6bd12618b2c"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -27991,7 +27991,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "964c23b172690208f017a5334ba9394d54e127070a5bb4c0772c2646e73476d7"
+      "Hash": "bf9366e03317eb1d1b92af260f13ea351cb48d815b588ed10e277010d23bbe09"
     },
     "h1:audible": {
       "Key": "audible",
@@ -28296,7 +28296,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d6532722f875c67014d4a36562ff9f09968ba76b84ff7fe0bf31fcc45ca4b37"
+      "Hash": "65882a341eab7da0bea1734a3dd8d22061bcd3ac3a38b9acf5e7a221172d3150"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -30604,7 +30604,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "e48f34d44613de644620a06e6d22422fa7ce5e0804f2146be2e503911c928875"
+      "Hash": "88967d41ba64e3cbb07ea4f817e37f83f30a9f28f107f7a1733b612e37f56e82"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -30920,7 +30920,7 @@
       "URL": "https://hackerone.com/beiersdorf",
       "InScope": {},
       "OutScope": {},
-      "Hash": "e8678b0e938216b5ebc42f7cddc4f02b66a142916da9fc9e342d321ba6b13cec"
+      "Hash": "9613ff601cd23e72caf6411ba4f3b65ba65fd0e129857aa10ca94c8b29e6ca01"
     },
     "h1:bestbuy": {
       "Key": "bestbuy",
@@ -67185,7 +67185,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "64ce128a3c54651947998a0f500675a93212f8615fa87ffb72760581aeb4eefc"
+      "Hash": "0e82b31e672f24a541bff887c5f63080ff0c4765ca4c190db4fdd855beb69ea6"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -67481,7 +67481,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "3fd34ef2fc71061a01088784e7a83af436d8e5f51c81b741a6e82ce331fb842f"
+      "Hash": "a76d9cf6d748ed0a3838eaa4db14fa54f894d9d27b25e31d8bffd9d95b0880d7"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -87874,7 +87874,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2bc97b5ea8b1acb3e9375dee11ec68ec69f7e0ee997bb03fc237ea4b4ac7fe84"
+      "Hash": "0a4c94ce53d052a4a0daf154b6d614c3f27acbe2a4a50dc0d35fe13728068174"
     },
     "h1:clear": {
       "Key": "clear",
@@ -87968,7 +87968,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "16630a38ed8ab2cebb782c1ddaf84289bd60ba1b2998224cfde2c66a0b7979c4"
+      "Hash": "6f37a840776e6e85ccbf1904ef54e719ea63bfd7b669c471a349f24249f07ad1"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -89162,7 +89162,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "82cbe2cf5a4ec8fbf03fe92297fd563cbbcaa30580b4a8e20ba303466db2ba1c"
+      "Hash": "6a831811f695ea593a2fd37725631ce7cc12688250a7de77e0b7c5968a110d7c"
     },
     "h1:coursera": {
       "Key": "coursera",
@@ -103452,9 +103452,21 @@
           "ID": "Anker",
           "Type": "APPLE_STORE_APP_ID"
         },
+        "Anker soundcore Work D3200": {
+          "ID": "Anker soundcore Work D3200",
+          "Type": "HARDWARE"
+        },
+        "Liberty 5 Pro Max D1204": {
+          "ID": "Liberty 5 Pro Max D1204",
+          "Type": "HARDWARE"
+        },
         "Solarbank 2 E1600 Pro": {
           "ID": "Solarbank 2 E1600 Pro",
           "Type": "HARDWARE"
+        },
+        "anker-nebula/id1319092174": {
+          "ID": "anker-nebula/id1319092174",
+          "Type": "APPLE_STORE_APP_ID"
         },
         "com.anker.AnkerMake": {
           "ID": "com.anker.AnkerMake",
@@ -103499,10 +103511,22 @@
         "https://us.eufy.com/products/t88711w1": {
           "ID": "https://us.eufy.com/products/t88711w1",
           "Type": "HARDWARE"
+        },
+        "id=com.oceanwing.soundcore": {
+          "ID": "id=com.oceanwing.soundcore",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "id=com.zhixin.controller": {
+          "ID": "id=com.zhixin.controller",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "soundcore/id1331876603": {
+          "ID": "soundcore/id1331876603",
+          "Type": "APPLE_STORE_APP_ID"
         }
       },
       "OutScope": {},
-      "Hash": "a7982125379e0cb0c0385ed49f70e5a449c05c7951c1948af8b5a16cb467cde1"
+      "Hash": "b19ae82c0d12fcc0ffc3b3b336cf7cf4dd052734d12ba0ae591f4865315506ee"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -104533,7 +104557,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1d89c0a01d3f0f465104f1d8a2d6397c62db8fb71402c199b151d6c4479e7855"
+      "Hash": "7aba9e888fc0b22ce074834806911be9eb4d3514eaec8dc25cdf1a5f6118231d"
     },
     "h1:ferrero": {
       "Key": "ferrero",
@@ -106790,7 +106814,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a7e4e35c0e1b38fdd7a6cf6e086e21c9f35b4f310d596cc5836cafbd9c0fcc4c"
+      "Hash": "4ca6e5b14061cf7db4fa630a05bb3b86273ecd59a260b964dbb29ff73e76bdca"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -148023,7 +148047,7 @@
       "URL": "https://hackerone.com/godaddy-vdp",
       "InScope": {},
       "OutScope": {},
-      "Hash": "d9ae4ae30c09271b22e2bc4b558269cc185f7c5aa67abf7983d9296fb0ee2dd8"
+      "Hash": "0d415cc13d5416304cbe0618038347644a182479a2b5b636cd4063147311c703"
     },
     "h1:gogo_vdp": {
       "Key": "gogo_vdp",
@@ -148833,7 +148857,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2629b709e48d52fed719a21962d54b2d925cc4245a5acb7960574320650712ae"
+      "Hash": "c162ef444b421af5422c4c887331e06c6d4090ea20e5f6c283d56406b606775c"
     },
     "h1:hack_the_box": {
       "Key": "hack_the_box",
@@ -150138,7 +150162,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6258313a358a7445c11c71e944a49f663f6c6fffc1766bb8caef2f5cbb64d745"
+      "Hash": "69a31cb1717b52c69c1f727c3548e7f3a6db190ce09d50fa1f95d9f152ca7dee"
     },
     "h1:hex": {
       "Key": "hex",
@@ -151738,7 +151762,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "22248bb79bfaa20c29344c61c50a874e5af0d6abaa6bc1948410d1aabfd828b2"
+      "Hash": "28736b90809713b46367a6a32a4fde1416cd431524fb32d40ca882da406fcdff"
     },
     "h1:inditex": {
       "Key": "inditex",
@@ -167820,7 +167844,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "53a4725f7162c8cd7b6dded850f4b48107a4f63933c39b6698bb65751d092f96"
+      "Hash": "debff18f035e1e4127d0d78ca63077073d48f5d45c7d7bbeeba829307738768f"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -169197,7 +169221,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fa31a29cb197815cee804965e4545f2855b754e1276561868bd45ff50bf1f867"
+      "Hash": "cf31e389ac8f05829b7768f07e4c3c579671efb6d9ab3f71f1094448316fc511"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -169403,7 +169427,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "472003ab971323d980e45091c10c623568a015bdbaf1669db4d5bd0b824e9bb9"
+      "Hash": "74f9cbe8d10c4c7b3b95720f31514329b2f0c7a9d3bad2f822829a4348f0fa99"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -174568,7 +174592,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f83d47e2c327072d2d320b3d8187c7e16a46403e1fc7bb8ac0f86a4886cc2fbe"
+      "Hash": "7d86284c1e8bd515eb77a3ed4f81c5b9bbfd27bd288119b85443a78d6929cabc"
     },
     "h1:mongodb": {
       "Key": "mongodb",
@@ -179951,7 +179975,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c50e5234d2446ecc2ff804508f17e5a4a52f441b15dbc71c5e84ae7722858a77"
+      "Hash": "3adf8e33972095600aa7919889dcca229b01842b20063c7b2a0e636e8b734231"
     },
     "h1:newegg": {
       "Key": "newegg",
@@ -184051,7 +184075,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "60b5721d361bedcb5e23840451c21c452634721dbea5cda3b9500c742acdeeec"
+      "Hash": "98f01bed46209ee6419bccbfbf5f44ca8e9a94e7deebc281ae27039f30a205b3"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -184138,7 +184162,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "660b41e0493ee72d92f95decdc1827d68d044114e8b2594151e96464da134649"
+      "Hash": "7a6b0471e7e54ac6a458aefe706a8479aeafbed9515d6a7c58aa5da7e107f688"
     },
     "h1:playstation": {
       "Key": "playstation",
@@ -184907,7 +184931,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0572dd6222c567a2ac6076f40cb9984c96ef40a92c41218f33e8aa67e147e693"
+      "Hash": "b8ed42f91894ccd8c1533286654c959cb561f4eeb785340d4e3fd58366a828fc"
     },
     "h1:prism_vdp": {
       "Key": "prism_vdp",
@@ -185186,7 +185210,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1c98a30f5cf67d4b10f4c81f1e4361f45e590273e7c7e3e8f345a91c2634d971"
+      "Hash": "f5a30b31ea5d31deab133e34787a1556a5b8babb1501a5b1e75c53012d8b72cb"
     },
     "h1:publitas": {
       "Key": "publitas",
@@ -187758,7 +187782,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "2caac5d6194a139cdf1ffd5324fa03168236b113e5359002549cb7bcd8d11778"
+      "Hash": "ed939f71981d982f5541aab5fc03e70336ac4d3327b093e94294abc7bd19af87"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -190578,7 +190602,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b8955d0ff7d62d147b26c8618c889762862a544e06032eb9dfabc248976f95eb"
+      "Hash": "a70ca1f34692e74a987176b48b0fce586ced381d3a58e60992e503d3d8d4dc1b"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -194353,7 +194377,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a2df2ceb42ddffb22c2426a57a8094072da99c9f323154924c85cdd31b48a5a9"
+      "Hash": "cab340fdca81ebaaaeb308a61b68ec66aff7039404251ee261b265a8d8e8b15d"
     },
     "h1:versioncake": {
       "Key": "versioncake",
