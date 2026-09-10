@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-10T16:20:05Z",
+  "captured_at": "2026-09-10T19:14:20Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -3381,6 +3381,23 @@
       "OutScope": {},
       "Hash": "6bea0b82fcc644162745e8bcadb71556ca2a7959e1de7cc6bf2aaabe0c8ce24b"
     },
+    "bc:Cappsule Sarl - Marketplace Bug Bounty Program": {
+      "Key": "Cappsule Sarl - Marketplace Bug Bounty Program",
+      "Name": "Cappsule Sarl - Marketplace Bug Bounty Program",
+      "URL": "https://bugcrowd.com/engagements/cappsule-sarl",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1216988/timesheet-tracking-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1216988/timesheet-tracking-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1235502/chart-factory-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1235502/chart-factory-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "38e8ab848c33c0b63e99c1cad1d65611af4b1e842a81d5c6717a1b45fb31284a"
+    },
     "bc:Cash App": {
       "Key": "Cash App",
       "Name": "Cash App",
@@ -3405,6 +3422,47 @@
       },
       "OutScope": {},
       "Hash": "29c63ed3bbacaafc86731e274c7052e6c5b03fd78c809ed66ed4640abf3cedb1"
+    },
+    "bc:Catapult Labs Bug Bounty": {
+      "Key": "Catapult Labs Bug Bounty",
+      "Name": "Catapult Labs Bug Bounty",
+      "URL": "https://bugcrowd.com/engagements/catapultlabs",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1215875/scrum-poker-estimates-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1215875/scrum-poker-estimates-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1217825/standbot-slack-stand-up-bot-for-jira?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1217825/standbot-slack-stand-up-bot-for-jira?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1218860/agile-retrospectives-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1218860/agile-retrospectives-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1218860/agile-retrospectives-for-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1218860/agile-retrospectives-for-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1218960/scrum-poker-estimates-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1218960/scrum-poker-estimates-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227873/teampulse-health-checks-for-jira?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1227873/teampulse-health-checks-for-jira?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "4b1761ca21b781cffb2c83625cd6c9fe82ed6826f7d5c0a70184bf78993cd8a2"
     },
     "bc:Centers for Medicare \u0026 Medicaid Services - Public Bug Bounty Program 2026": {
       "Key": "Centers for Medicare \u0026 Medicaid Services - Public Bug Bounty Program 2026",
@@ -4368,6 +4426,35 @@
       "OutScope": {},
       "Hash": "3740aa77a2321f91945c5f74a1c02b4e2397dedf7b80c0dcffed926d7234a338"
     },
+    "bc:Creativas": {
+      "Key": "Creativas",
+      "Name": "Creativas",
+      "URL": "https://bugcrowd.com/engagements/creativas",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1216979/smart-courses-for-confluence-lms?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1216979/smart-courses-for-confluence-lms?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1218080/smart-tables-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1218080/smart-tables-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1219677/smart-terms-for-confluence-glossary?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219677/smart-terms-for-confluence-glossary?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225000/smart-images-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1225000/smart-images-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1234678/smart-terms-for-jira-glossary?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1234678/smart-terms-for-jira-glossary?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "bc55ab12af0fd6bf7f4c7c5ae18eb76b78b97d08a1c2aa75a8fcc5a921ce84cc"
+    },
     "bc:Dell Technologies Application Bug Bounty": {
       "Key": "Dell Technologies Application Bug Bounty",
       "Name": "Dell Technologies Application Bug Bounty",
@@ -4642,6 +4729,27 @@
       },
       "OutScope": {},
       "Hash": "8a24a912ef01dc6100d215020ac32bcbee9ccd04e098e2e44114c55e2bb3952a"
+    },
+    "bc:Digital Rose's Marketplace Bug Bounty": {
+      "Key": "Digital Rose's Marketplace Bug Bounty",
+      "Name": "Digital Rose's Marketplace Bug Bounty",
+      "URL": "https://bugcrowd.com/engagements/digitalrose",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1221581/esign-electronic-signatures-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221581/esign-electronic-signatures-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224071/esign-electronic-signatures-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224071/esign-electronic-signatures-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1228868/esign-document-management?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1228868/esign-document-management?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "5f882e536370ab1d318b2df846de5feba9ef3c64dd8c9267f0e0b7e3691cd14a"
     },
     "bc:Directly": {
       "Key": "Directly",
@@ -13175,6 +13283,36 @@
       "OutScope": {},
       "Hash": "518db29cd6d6f0420883b08ffcad1bad01cd4d970fa91764c2003b3335c70979"
     },
+    "bc:Railsware": {
+      "Key": "Railsware",
+      "Name": "Railsware",
+      "URL": "https://bugcrowd.com/engagements/railsware",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1215277/smart-checklist-for-jira-free?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1215277/smart-checklist-for-jira-free?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1216451/smart-checklist-for-jira-enterprise?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1216451/smart-checklist-for-jira-enterprise?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1231143/smart-templates-issue-templates-for-jira?hosting=cloud\u0026tab": {
+          "ID": "https://marketplace.atlassian.com/apps/1231143/smart-templates-issue-templates-for-jira?hosting=cloud\u0026tab",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "https://jirachecklist.com/": {
+          "ID": "https://jirachecklist.com/",
+          "Type": "website"
+        }
+      },
+      "Hash": "ce9994c099a86c9189a0db71ff11e61f5695dbbb1a6c8d127213f49b010bb382"
+    },
     "bc:Raley Apps": {
       "Key": "Raley Apps",
       "Name": "Raley Apps",
@@ -14088,6 +14226,27 @@
         }
       },
       "Hash": "92927f5f172d91bb7f1701e2b671c3138a52a79f406130c0b878fadd813aa9b2"
+    },
+    "bc:Savignano Software Solutions Marketplace Bug Bounty Program": {
+      "Key": "Savignano Software Solutions Marketplace Bug Bounty Program",
+      "Name": "Savignano Software Solutions Marketplace Bug Bounty Program",
+      "URL": "https://bugcrowd.com/engagements/savignano",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter": {
+          "ID": "https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter": {
+          "ID": "https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter": {
+          "ID": "https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "e7657c81608070757c087d2dcfc7aa64db6358ca153d361dbf4c08129c07c61e"
     },
     "bc:SecureDrop": {
       "Key": "SecureDrop",
@@ -17084,6 +17243,47 @@
       },
       "Hash": "3901f3babecd6a4751fdcbc940be36845f011916336aaa7605861d64688b9302"
     },
+    "bc:Vectors Bug Bounty ": {
+      "Key": "Vectors Bug Bounty ",
+      "Name": "Vectors Bug Bounty ",
+      "URL": "https://bugcrowd.com/engagements/vectors-marketplace",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1211800/glossary?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1211800/glossary?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1211855/faq-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1211855/faq-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1211894/ideation?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1211894/ideation?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1212124/spectrum-formatting-macros?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1212124/spectrum-formatting-macros?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1217652/content-status-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217652/content-status-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1235238/morph-ai-powered-content-formatting-for-confluence?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1235238/morph-ai-powered-content-formatting-for-confluence?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1235579/comment-toolkit-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1235579/comment-toolkit-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "47bc52b43f9c9867556540ec650aa8c36a5130645a279428a95d9ba85a6c0111"
+    },
     "bc:Verisign Bug Bounty": {
       "Key": "Verisign Bug Bounty",
       "Name": "Verisign Bug Bounty",
@@ -17771,6 +17971,19 @@
       },
       "OutScope": {},
       "Hash": "a99b380d150412986ec6e8c2445a5b64db7a52c35cf7d9fed7ea81e61b3ff524"
+    },
+    "bc:codecentric AG - Marketplace Bug Bounty Program": {
+      "Key": "codecentric AG - Marketplace Bug Bounty Program",
+      "Name": "codecentric AG - Marketplace Bug Bounty Program",
+      "URL": "https://bugcrowd.com/engagements/codecentric",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1227136/issue-picker-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227136/issue-picker-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "4b323972f1f265dd50d0470a023db040fd7d02010c6b8e83064f32ede78c9183"
     },
     "bc:codeclou GmbH": {
       "Key": "codeclou GmbH",
@@ -24403,7 +24616,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c37bcf3270dc0574bee4589420864d79280896c09534784177c9bf0488410ad4"
+      "Hash": "5654008931618aed22eaf1a9cb0b9a0c6ba4f102e5f0dc504929053bdc967523"
     },
     "h1:allegion": {
       "Key": "allegion",
@@ -27564,7 +27777,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a9f0c9a6ce9e747236a7507ad5378c0df8ce272fe17040c3bfa81ee5784087a2"
+      "Hash": "7faa3cacf21226fc5e2e63163dedf78337e0f77f10317da2a54ddaaff3c3fc5f"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -30958,7 +31171,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "496df7fbcee136bdc733463b49e41b957cc4e46206c83b1ed82ae63e91c8a26c"
+      "Hash": "895041bab4641231d4294bbda8c533cca1c2d2595db64b60d4a7f4339d8f5fcf"
     },
     "h1:bill_vdp": {
       "Key": "bill_vdp",
@@ -31491,7 +31704,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9eedef3146a90151b4aad348d3c379d3becf9728e8e81f9f4cc6df23acfa20b5"
+      "Hash": "7e1b6d2dc33d1ac48ce877a877278ffcd093c7b061233d5dea93090b812f957c"
     },
     "h1:bose_vdp": {
       "Key": "bose_vdp",
@@ -31736,7 +31949,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d3604d00da88c22ec8aeec530b0c4684ccc6d89ff9bae59321cbe7739f4cf9df"
+      "Hash": "7ace52291995272f8fb252902c52a2d20a75d3df3275e68686aedfba80d35114"
     },
     "h1:bumba_bbp": {
       "Key": "bumba_bbp",
@@ -32416,7 +32629,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "850cc155400cb58dcc06c107f6f99c9375b76358d2f06bac9792d5cad92ae69b"
+      "Hash": "3ab5884157408616f8d15ba55f5dfad8eae88744698a87f563e7704928a03516"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -90896,6 +91109,10 @@
           "ID": "Databricks Free Edition",
           "Type": "OTHER"
         },
+        "Lakebase-Supported extensions": {
+          "ID": "Lakebase-Supported extensions",
+          "Type": "OTHER"
+        },
         "Open Scope": {
           "ID": "Open Scope",
           "Type": "OTHER"
@@ -90927,7 +91144,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "4716eedf18c5a4dcca4910666efaf71ae1cd1000c7e3f2afd307b6d464f86fd5"
+      "Hash": "93500fbebc4f940911c026af1c45af3aae2d46b77df268d6b41996e23cb01c10"
     },
     "h1:defectdojo": {
       "Key": "defectdojo",
@@ -91010,7 +91227,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f588f65122afdd2ec4d047f34b3ded5f0156a2717c576e77cc3f30f82f383e95"
+      "Hash": "a02875fba01f7391076c8bd03145fdc048dbc8ac094155e0db27811abdbc7d67"
     },
     "h1:deriv": {
       "Key": "deriv",
@@ -104391,7 +104608,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ff1cdb913061fd779dd0153168ee0984b0b70c3c0431a08771000d21c723f795"
+      "Hash": "39d20a06dcc446d23b2d044d3e485903e72d7b2b1f609230b06ff4bdb31b24a3"
     },
     "h1:experian": {
       "Key": "experian",
@@ -148894,7 +149111,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ae779266a9ea5756c6c2921e80838e3192e5e6bd2073c08dac08a42d986af0f7"
+      "Hash": "617b68ed48e9f63a7033fa9543f356540c0e1315936ebd7eaa2553794c9791ee"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -152515,7 +152732,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1f8ecb0fb64812ce3e358879baa624fee23daf98db8b3397b0ad138f1f3f5509"
+      "Hash": "2dd2b20d06a6f6932331911259a80377c08bfb04689fe5ef9100484ed94126b7"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -168021,7 +168238,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c9db520e91daacd93ccef27ace5e562185ff508940c5e5b5afbb0732a9fb3a2d"
+      "Hash": "f45971f0650f931a00c57f077ee2c38e383de3156621b37240b9ad652f101ccc"
     },
     "h1:keybank": {
       "Key": "keybank",
@@ -182206,7 +182423,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "fed1ada5b5805e5c639d0352d8308e80888cd36e22d0d1b121c1d3df749c4e9b"
+      "Hash": "c6fe5cca41446ed6e47d55d5cd2cb40e917a257ba7e175eaf3002890cb2c532d"
     },
     "h1:owox": {
       "Key": "owox",
@@ -182506,7 +182723,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d72bae179c58d9e55b99322420019ff888a17a4802e54adf948979b6b4f63b3"
+      "Hash": "0fb0cabeeba404cb58aa8bedda705c036998566bd36f803ea6d047a89dbb7098"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -183966,7 +184183,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5a958d9a82608c97face5799ca75630777778d7afc509bed2d71fdcbff60a99b"
+      "Hash": "7edf288adc2032c9a701d5c12c3b5561436189b1f3ce692d01e1927c4feb2d74"
     },
     "h1:pingidentity": {
       "Key": "pingidentity",
@@ -184174,7 +184391,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c37b90241faa82e31ed1ceeed2fad3b5c59ef95413be804d0eb9db9501d96128"
+      "Hash": "e0c406bc4b26fa9e0e0a0bdf45b37ed6596c8696a90292c15785eab6fab3fbc0"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -185292,7 +185509,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fb2c2d5a4e15050cb304a05e7892a47f67d002d3dd08f7a45f1ce13eb3154d8a"
+      "Hash": "78f822372dac1eabb64241bfa4e6c325ebfb67eafab3ac29c8772e19e94c1b4a"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -189876,7 +190093,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cdd921a8e595d4f9fcf4ca80d533bcd8c1f6209ad3fa96e2d8aa6b86ef8d7014"
+      "Hash": "54ce10904eee455a2fd7450c142f0ba64491eb3538d4a08f05d3ebf017a93740"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -190392,7 +190609,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0cea9e39cfd19f11ccaaf4d127e1c3367b11b0f0e528b79079ad961a094712bc"
+      "Hash": "b1108aef23f41a50efb67de8035c7fae2a06c8f09df6990e92750e9f5541bcc7"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -191634,7 +191851,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "763f01961e9bc3c388c164892316fe87d407b3e15abffc8df00abea1e5e04f11"
+      "Hash": "30012f63be9624d5d117d9d9d9aa893901fbe3e46eab4d44111e84d4658db26e"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -195912,7 +196129,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ebdfbb79cdb87fa0f2952252c2474d70bbda64fc12ec6535c3f33a840e8a95ed"
+      "Hash": "e6c219d5d583dbf9470a0d374db6048039e69a3fdfe12743e9bd5660cebb67ee"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -197662,7 +197879,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "16c40a221ee12c3acd456bd9613fee1cc79e5ca35e20e461f56daa2aea6c4018"
+      "Hash": "f2364261f654bfb43a6c21977776294f1654c8e9407af79ea2b0a96968f4e7c4"
     },
     "h1:zabbix": {
       "Key": "zabbix",
@@ -198385,7 +198602,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "89032aa30ea987a2920042b57748016446c2cc34f0b47d33b2c015bef99eeead"
+      "Hash": "8cc0a603b7d6e00127ebb93be898662db4a253e4945d31635027f90f5ac12a75"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -205402,128 +205619,6 @@
       "OutScope": {},
       "Hash": "c15048ae3df28fb06b273c9e606673b7e8e5eaadae9abbab4ee3c20f008d38a3"
     },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
-    },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
       "Name": "Axel Springer SE Vulnerability Disclosure Program",
@@ -205754,47 +205849,6 @@
         }
       },
       "Hash": "53d37d7307cb96791970030cf034899ac2872abac47b7f83fd3e2efaf79e1e16"
-    },
-    "in:c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e": {
-      "Key": "c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e",
-      "Name": "Venly",
-      "URL": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-      "InScope": {
-        "api-wallet-sandbox.venly.io": {
-          "ID": "api-wallet-sandbox.venly.io",
-          "Type": "url"
-        },
-        "api-wallet.venly.io": {
-          "ID": "api-wallet.venly.io",
-          "Type": "url"
-        },
-        "api.arkane.network": {
-          "ID": "api.arkane.network",
-          "Type": "url"
-        },
-        "connect.arkane.network ": {
-          "ID": "connect.arkane.network ",
-          "Type": "url"
-        },
-        "connect.venly.io": {
-          "ID": "connect.venly.io",
-          "Type": "url"
-        },
-        "login.arkane.network": {
-          "ID": "login.arkane.network",
-          "Type": "url"
-        },
-        "login.venly.io": {
-          "ID": "login.venly.io",
-          "Type": "url"
-        },
-        "wallet.venly.io": {
-          "ID": "wallet.venly.io",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "ea8b482a765a30cb3b435286d5a943e795c63c5a4e9d7c1cdb44f1d51096498e"
     },
     "in:c7272420-0cef-4366-87d2-278c06591799": {
       "Key": "c7272420-0cef-4366-87d2-278c06591799",
