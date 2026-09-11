@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-11T20:00:02Z",
+  "captured_at": "2026-09-11T22:31:00Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18624,7 +18624,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b3680036cf88d02518750bd917970e03fec6c2840fa67c5e62812e80749f71d"
+      "Hash": "78337af8829b3825fac0dcf5e7eeb7921a3261b4775cfac2eb4fb6b385ba97bb"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -25994,7 +25994,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8a0b3beecf4a942a9d611d0976db161f37fea047dbd98e1ae931ccc6fab0ff13"
+      "Hash": "10a7daa1771b64417ad25aba7b6bc72c9f81d1e97973570b3f9a2391379e51c6"
     },
     "h1:amazonvrp": {
       "Key": "amazonvrp",
@@ -26528,7 +26528,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "d861d82e150e9ec2c44bacd57805827f27fa1412a6db7aad9196aae68491a02b"
+      "Hash": "613f80de62eca9a87af32bb108645fe62da1dd48f665ba9463c96cf32eff8e2b"
     },
     "h1:anduril_industries": {
       "Key": "anduril_industries",
@@ -31654,7 +31654,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8914f71c01af5b8de7c230d46b1f30a70cd05221164d437e4890628900a71cde"
+      "Hash": "a03779cf28a04770a5e7c4078e46ee24c7d21d3253b1b7e30269c1f364fae39d"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -67916,16 +67916,8 @@
           "ID": "https://github.com/circlefin/sui-cctp",
           "Type": "SOURCE_CODE"
         },
-        "rpc.blockdaemon.testnet.arc.network": {
-          "ID": "rpc.blockdaemon.testnet.arc.network",
-          "Type": "URL"
-        },
         "rpc.drpc.testnet.arc.network": {
           "ID": "rpc.drpc.testnet.arc.network",
-          "Type": "URL"
-        },
-        "rpc.quicknode.testnet.arc.network": {
-          "ID": "rpc.quicknode.testnet.arc.network",
           "Type": "URL"
         },
         "rpc.testnet.arc.network": {
@@ -67943,7 +67935,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e3ce8c94a3d9a5e3f33b8f591ecc8465089f3f228e6703ee59f12cf1fbce33a"
+      "Hash": "0eb85b5eb7406bff370665d3d7dcdf3b37442746b860e7cece4c69d3d7c88e81"
     },
     "h1:citi_group": {
       "Key": "citi_group",
@@ -89909,7 +89901,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c40dfdb7494bda5dfe180086d67b026d0893c2e5acfa0bdb4ee6b4b91fcfae89"
+      "Hash": "ee5d7e4377707cec5dbf1478f62cd0339ad33b2565786dbea26a457f51ce17fe"
     },
     "h1:curl": {
       "Key": "curl",
@@ -98098,7 +98090,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a3ecfefb223acea089fb157f082294e16a659a7a112a67ebbdb5876289c72afa"
+      "Hash": "cdbeb2cd0e9c31de00b04e0728f56e5dd57d992510c8a1dc3448c37debbc5b01"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -98492,7 +98484,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "ae0c7c648efc99ee1f54d0a70c6b3cec772d9affe02f50ca87756a6b3e26740f"
+      "Hash": "923f663207b51c7b6c735e3404075078efef8e8ee0cf82def6a508ba953918d3"
     },
     "h1:equifax": {
       "Key": "equifax",
@@ -107130,7 +107122,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "00c27cda676758c83f548dd8fb6c3529b74450257a4dfaf014c80e54958afae4"
+      "Hash": "0ba1fa2aabe58db8c5fb764fd6d9474f65de61a08960f08e307f5fd17579c67a"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -169747,7 +169739,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e388b3060a1115f03e781e7b910afb32b7325372708c40a17e648e82c0b33936"
+      "Hash": "1100a477920b0689a351da2bc3c002691d275c83b150a72cbd8a95a73cfea34a"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -172303,7 +172295,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c121b4f1746ef5f7fb536995899f5265e9ec31f89f2797fc429050ff81d8c7db"
+      "Hash": "3c427ce13991f3c9185c5254be45c779a69551ca197766c2dcfcab4a8475329d"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -182642,7 +182634,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0fb0cabeeba404cb58aa8bedda705c036998566bd36f803ea6d047a89dbb7098"
+      "Hash": "8d72bae179c58d9e55b99322420019ff888a17a4802e54adf948979b6b4f63b3"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -187887,7 +187879,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "36d2797345ad5b6414dfd55d7feb7ac84f29ec0fbb69dc43fe6c5d73fdd60a79"
+      "Hash": "c0366d23e57c95f83712f9c3691662d14ccd1d10d923e0e8937b5409b168dc9f"
     },
     "h1:roblox": {
       "Key": "roblox",
@@ -188652,7 +188644,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d70eac22006aa60516be775e8812f218853a8c852ce17f1f78ad679ef5aa8a66"
+      "Hash": "9046a89de36afd49f8f8e890b0db26fe528be47e76bc878fc7d7dc3a2dcb1fa3"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -193934,7 +193926,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "15ba229caa1163109b5808b02359e7915ef0fc780b1ce26bb599c5428d68326a"
+      "Hash": "738a4cb224219dc0dffe2afac60a0cb38d25a006fe171e3d2bf27e7806aa501b"
     },
     "h1:unitigroup": {
       "Key": "unitigroup",
@@ -194747,7 +194739,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fa90ef67299ce83fe569f6d1e3ab280012d13c5bb9665fb11f135f8fb96d67c1"
+      "Hash": "ec7d19ff4c255a073bb5e911bad0af2d31a66e0a38adcd14bde38e5bb0b474be"
     },
     "h1:vf-corporation-vdp": {
       "Key": "vf-corporation-vdp",
