@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-12T18:43:02Z",
+  "captured_at": "2026-09-12T21:24:36Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -14049,6 +14049,87 @@
       },
       "OutScope": {},
       "Hash": "a1d4e678e836ecd69fdeea220b863d8c5bbd4014b6f3741e26a579d421f495cf"
+    },
+    "bc:SEEK ": {
+      "Key": "SEEK ",
+      "Name": "SEEK ",
+      "URL": "https://bugcrowd.com/engagements/seek",
+      "InScope": {
+        "*.aips-internal.com": {
+          "ID": "*.aips-internal.com",
+          "Type": "website"
+        },
+        "*.jobapi.net": {
+          "ID": "*.jobapi.net",
+          "Type": "api"
+        },
+        "*.outfra.xyz": {
+          "ID": "*.outfra.xyz",
+          "Type": "website"
+        },
+        "*.seek.com": {
+          "ID": "*.seek.com",
+          "Type": "website"
+        },
+        "*.seekpass.co": {
+          "ID": "*.seekpass.co",
+          "Type": "website"
+        },
+        "*.skinfra.xyz": {
+          "ID": "*.skinfra.xyz",
+          "Type": "website"
+        },
+        "*.sol-data.com": {
+          "ID": "*.sol-data.com",
+          "Type": "api"
+        },
+        "https://*.employer.seek.com": {
+          "ID": "https://*.employer.seek.com",
+          "Type": "website"
+        },
+        "https://*.jobsdb.com": {
+          "ID": "https://*.jobsdb.com",
+          "Type": "website"
+        },
+        "https://*.jobstreet.com": {
+          "ID": "https://*.jobstreet.com",
+          "Type": "website"
+        },
+        "https://*.myseek.xyz": {
+          "ID": "https://*.myseek.xyz",
+          "Type": "website"
+        },
+        "https://apps.apple.com/au/app/certsy/id1617796159": {
+          "ID": "https://apps.apple.com/au/app/certsy/id1617796159",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855": {
+          "ID": "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
+          "Type": "ios"
+        },
+        "https://auth.seek.com": {
+          "ID": "https://auth.seek.com",
+          "Type": "api"
+        },
+        "https://graphql.seek.com": {
+          "ID": "https://graphql.seek.com",
+          "Type": "api"
+        },
+        "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.certsy.app": {
+          "ID": "https://play.google.com/store/apps/details?id=com.certsy.app",
+          "Type": "android"
+        },
+        "https://seekcdn.com": {
+          "ID": "https://seekcdn.com",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "42fe1d2468e7d82c5e1800ee1d75943514f88bf0796eb57f48164468408c117d"
     },
     "bc:STAGIL Marketplace Bug Bounty": {
       "Key": "STAGIL Marketplace Bug Bounty",
@@ -98378,7 +98459,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "b832b838562b928317528cb39ee633427475b2c6a7679e211130f4214831416b"
+      "Hash": "10c04a75545cc443e145a1816c5537d5a3d9020a5a520d10bcfe5992918decb9"
     },
     "h1:equifax": {
       "Key": "equifax",
@@ -167888,7 +167969,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "684bade9c58cf33ee56933e22dfc05f3af449d52222ce453ada5a27c9a77bfd2"
+      "Hash": "381e6b65feeb80dabb4a096d63220683418d3241675893d0eb5fb5360cf19b77"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -185052,7 +185133,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7bad04c89103c8a157402e1a07fe076eab3288a30799c2f0e98b04659165eb38"
+      "Hash": "9140dbaeb99e25d6e985185c01e7758dfc5809adfd9a75a05d07cd9a9abf86b3"
     },
     "h1:prism_vdp": {
       "Key": "prism_vdp",
@@ -187903,7 +187984,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c6c873c236e3c286b2a7cfa96095d07cff594f36d4823acd7bf4aea5809bbb0c"
+      "Hash": "7d570a990cade73dcc1a310c19efd50489b25ae16d256738729f9828a47515d8"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -187965,7 +188046,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "00c8fb6bf4f15b6b82e8b5b7aba10a6cff6611e83208eb749b262571360d943c"
+      "Hash": "a7b63406685681b429c32749325bf4da75f0c7b126cac73a7cdce8d1a3e8939e"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
@@ -188592,7 +188673,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "79da490f709f4cfe7fc7593f74effc6ff8b0ea2aba4f77276b653379d93c7d90"
+      "Hash": "17d831fad511ba0c690124313a86d93685d9c0199c97e97237c639b7a1465bdb"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -191772,7 +191853,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5a9ab22dec01ecd344010472596cefd850b0635231750403131efd139969472b"
+      "Hash": "ca8246e8ee22e93c46b77d73748d4c31bd5a6923c150d55a23a55e5f8f86b380"
     },
     "h1:toolsforhumanity": {
       "Key": "toolsforhumanity",
@@ -192651,7 +192732,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "122289908b7999205574657f109638ba21294beec37b6bc7a1dd0013654ae259"
+      "Hash": "81c6fe4fffdeeaefe5b2799651dc870deac0f4166c6985e9f1650250e2eb0e52"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -193480,7 +193561,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ee97d7e202c942fdb4098af26dbe72429e8704523c2717b52547f71b9a49ae48"
+      "Hash": "86a3d67ac8b11b9407a0c46d93e0911a0fdbd1f5e834aff314f7682e065f9664"
     },
     "h1:ui": {
       "Key": "ui",
@@ -196334,7 +196415,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "607df1a8860f147bec07dd38355e7d6644722d3fc03cb35dc16fc02087d05790"
+      "Hash": "95771d176bdbda5af628a2b1a796c9d0f820962d9842e1c0f09fce118d043be6"
     },
     "h1:wakatime": {
       "Key": "wakatime",
@@ -196749,7 +196830,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9b6b78ea523bfaad3b9548288b21caad96997861ae36968c5e69f4267fda1850"
+      "Hash": "7af1156c3035b157c06dd3f845732f59659817c277a471fa6ca279dcab3a4f24"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -197497,7 +197578,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1ed051635f74867537dc876a1d9c2ab83652606fb87c744431ed047f1975f8e3"
+      "Hash": "b4efdc54e59e8ff16fbf0c6a403551c270f7ab9caa9f97e4abff59cd2b5e6e5d"
     },
     "h1:xvideos": {
       "Key": "xvideos",
