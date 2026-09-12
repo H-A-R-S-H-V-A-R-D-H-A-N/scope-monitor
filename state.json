@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-12T00:35:37Z",
+  "captured_at": "2026-09-12T05:01:08Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -10366,6 +10366,460 @@
       "OutScope": {},
       "Hash": "1f19195718e49c1875740853cffa68595a0251c54ad6382f979d464fa1259746"
     },
+    "bc:Opera Public Bug Bounty": {
+      "Key": "Opera Public Bug Bounty",
+      "Name": "Opera Public Bug Bounty",
+      "URL": "https://bugcrowd.com/engagements/opera",
+      "InScope": {
+        "*.adx.opera.com": {
+          "ID": "*.adx.opera.com",
+          "Type": "api"
+        },
+        "*.apex-football.com": {
+          "ID": "*.apex-football.com",
+          "Type": "website"
+        },
+        "*.apexnews.com": {
+          "ID": "*.apexnews.com",
+          "Type": "api"
+        },
+        "*.apexscores.io": {
+          "ID": "*.apexscores.io",
+          "Type": "api"
+        },
+        "*.dailyadvent.com": {
+          "ID": "*.dailyadvent.com",
+          "Type": "website"
+        },
+        "*.feednews.com": {
+          "ID": "*.feednews.com",
+          "Type": "api"
+        },
+        "*.opera-mini.net": {
+          "ID": "*.opera-mini.net",
+          "Type": "api"
+        },
+        "*.opera.com": {
+          "ID": "*.opera.com",
+          "Type": "website"
+        },
+        "*.opera.news": {
+          "ID": "*.opera.news",
+          "Type": "api"
+        },
+        "*.opera.software": {
+          "ID": "*.opera.software",
+          "Type": "other"
+        },
+        "*.opera.technology": {
+          "ID": "*.opera.technology",
+          "Type": "api"
+        },
+        "*.operafootball.com": {
+          "ID": "*.operafootball.com",
+          "Type": "website"
+        },
+        "*.operanewsapp.com": {
+          "ID": "*.operanewsapp.com",
+          "Type": "api"
+        },
+        "*.opr.news": {
+          "ID": "*.opr.news",
+          "Type": "api"
+        },
+        "*.osite99.com": {
+          "ID": "*.osite99.com",
+          "Type": "api"
+        },
+        "*.osp.opera.software": {
+          "ID": "*.osp.opera.software",
+          "Type": "api"
+        },
+        "*.rtbscale.com": {
+          "ID": "*.rtbscale.com",
+          "Type": "api"
+        },
+        "*.savi.xyz": {
+          "ID": "*.savi.xyz",
+          "Type": "api"
+        },
+        "*.sec-tunnel.com": {
+          "ID": "*.sec-tunnel.com",
+          "Type": "api"
+        },
+        "*.yoyogames.com": {
+          "ID": "*.yoyogames.com",
+          "Type": "api"
+        },
+        "102.23.96.0/22": {
+          "ID": "102.23.96.0/22",
+          "Type": "api"
+        },
+        "103.83.120.0/22": {
+          "ID": "103.83.120.0/22",
+          "Type": "api"
+        },
+        "107.167.96.0/19": {
+          "ID": "107.167.96.0/19",
+          "Type": "api"
+        },
+        "141.0.8.0/21": {
+          "ID": "141.0.8.0/21",
+          "Type": "api"
+        },
+        "185.26.180.0/22": {
+          "ID": "185.26.180.0/22",
+          "Type": "api"
+        },
+        "195.189.143.0/24": {
+          "ID": "195.189.143.0/24",
+          "Type": "api"
+        },
+        "203.89.100.0/22": {
+          "ID": "203.89.100.0/22",
+          "Type": "api"
+        },
+        "37.228.104.0/21": {
+          "ID": "37.228.104.0/21",
+          "Type": "api"
+        },
+        "77.111.244.0/22": {
+          "ID": "77.111.244.0/22",
+          "Type": "api"
+        },
+        "82.145.208.0/20": {
+          "ID": "82.145.208.0/20",
+          "Type": "api"
+        },
+        "91.203.96.0/22": {
+          "ID": "91.203.96.0/22",
+          "Type": "api"
+        },
+        "GameMaker Studio 2": {
+          "ID": "GameMaker Studio 2",
+          "Type": "other"
+        },
+        "api.gx.games/dc": {
+          "ID": "api.gx.games/dc",
+          "Type": "api"
+        },
+        "api.gx.games/dev ": {
+          "ID": "api.gx.games/dev ",
+          "Type": "api"
+        },
+        "api.gx.games/gms": {
+          "ID": "api.gx.games/gms",
+          "Type": "api"
+        },
+        "api.gx.games/gx": {
+          "ID": "api.gx.games/gx",
+          "Type": "api"
+        },
+        "api.gx.games/gxc": {
+          "ID": "api.gx.games/gxc",
+          "Type": "api"
+        },
+        "api.gx.games/profile": {
+          "ID": "api.gx.games/profile",
+          "Type": "api"
+        },
+        "api.gx.games/pub": {
+          "ID": "api.gx.games/pub",
+          "Type": "api"
+        },
+        "api.gx.games/session": {
+          "ID": "api.gx.games/session",
+          "Type": "api"
+        },
+        "api.gx.me/me": {
+          "ID": "api.gx.me/me",
+          "Type": "api"
+        },
+        "api.neon.opera.com/neon/pub": {
+          "ID": "api.neon.opera.com/neon/pub",
+          "Type": "api"
+        },
+        "api.neon.opera.com/neon/store": {
+          "ID": "api.neon.opera.com/neon/store",
+          "Type": "api"
+        },
+        "api.neon.opera.com/pub": {
+          "ID": "api.neon.opera.com/pub",
+          "Type": "api"
+        },
+        "blocklist.opera-api.com": {
+          "ID": "blocklist.opera-api.com",
+          "Type": "api"
+        },
+        "exchange.opera.com": {
+          "ID": "exchange.opera.com",
+          "Type": "api"
+        },
+        "https://accounts.opera.com": {
+          "ID": "https://accounts.opera.com",
+          "Type": "api"
+        },
+        "https://apps.apple.com/pl/app/opera-gx/id1559740799": {
+          "ID": "https://apps.apple.com/pl/app/opera-gx/id1559740799",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974": {
+          "ID": "https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974",
+          "Type": "ios"
+        },
+        "https://auth-adx.op-mobile.opera.com": {
+          "ID": "https://auth-adx.op-mobile.opera.com",
+          "Type": "website"
+        },
+        "https://auth.opera.com": {
+          "ID": "https://auth.opera.com",
+          "Type": "website"
+        },
+        "https://autoupdate.geo.opera.com": {
+          "ID": "https://autoupdate.geo.opera.com",
+          "Type": "api"
+        },
+        "https://browser-notifications.opera.com": {
+          "ID": "https://browser-notifications.opera.com",
+          "Type": "api"
+        },
+        "https://bugs.opera.com/": {
+          "ID": "https://bugs.opera.com/",
+          "Type": "website"
+        },
+        "https://cashback.opera.com/": {
+          "ID": "https://cashback.opera.com/",
+          "Type": "website"
+        },
+        "https://cdn-store.opera-api.com": {
+          "ID": "https://cdn-store.opera-api.com",
+          "Type": "api"
+        },
+        "https://cms.adx.opera.com": {
+          "ID": "https://cms.adx.opera.com",
+          "Type": "website"
+        },
+        "https://create.gx.games": {
+          "ID": "https://create.gx.games",
+          "Type": "website"
+        },
+        "https://cryptowallet.opera-api.com": {
+          "ID": "https://cryptowallet.opera-api.com",
+          "Type": "api"
+        },
+        "https://download.opera.com": {
+          "ID": "https://download.opera.com",
+          "Type": "website"
+        },
+        "https://features.opera-api.com": {
+          "ID": "https://features.opera-api.com",
+          "Type": "api"
+        },
+        "https://flow.opera.com": {
+          "ID": "https://flow.opera.com",
+          "Type": "api"
+        },
+        "https://get.geo.opera.com": {
+          "ID": "https://get.geo.opera.com",
+          "Type": "website"
+        },
+        "https://gx.games": {
+          "ID": "https://gx.games",
+          "Type": "website"
+        },
+        "https://gx.me": {
+          "ID": "https://gx.me",
+          "Type": "website"
+        },
+        "https://gx.opera-api.com": {
+          "ID": "https://gx.opera-api.com",
+          "Type": "api"
+        },
+        "https://neon.opera.com/cards/": {
+          "ID": "https://neon.opera.com/cards/",
+          "Type": "website"
+        },
+        "https://net.geo.opera.com": {
+          "ID": "https://net.geo.opera.com",
+          "Type": "api"
+        },
+        "https://ofa.adx.opera.com": {
+          "ID": "https://ofa.adx.opera.com",
+          "Type": "website"
+        },
+        "https://ofp.adx.opera.com": {
+          "ID": "https://ofp.adx.opera.com",
+          "Type": "website"
+        },
+        "https://operaneon.com": {
+          "ID": "https://operaneon.com",
+          "Type": "website"
+        },
+        "https://play.google.com/store/apps/details?id=com.opera.app.news": {
+          "ID": "https://play.google.com/store/apps/details?id=com.opera.app.news",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.opera.app.sports": {
+          "ID": "https://play.google.com/store/apps/details?id=com.opera.app.sports",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.opera.browser": {
+          "ID": "https://play.google.com/store/apps/details?id=com.opera.browser",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.opera.gx": {
+          "ID": "https://play.google.com/store/apps/details?id=com.opera.gx",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.opera.mini.native": {
+          "ID": "https://play.google.com/store/apps/details?id=com.opera.mini.native",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.opera.minipay": {
+          "ID": "https://play.google.com/store/apps/details?id=com.opera.minipay",
+          "Type": "android"
+        },
+        "https://speeddials.opera.com": {
+          "ID": "https://speeddials.opera.com",
+          "Type": "api"
+        },
+        "https://suggestions.opera-api.com": {
+          "ID": "https://suggestions.opera-api.com",
+          "Type": "api"
+        },
+        "https://www.gamemaker.io": {
+          "ID": "https://www.gamemaker.io",
+          "Type": "website"
+        },
+        "https://www.opera.com/": {
+          "ID": "https://www.opera.com/",
+          "Type": "website"
+        },
+        "https://www.opera.com/computer/thanks?ni=eapgx\u0026os=windows": {
+          "ID": "https://www.opera.com/computer/thanks?ni=eapgx\u0026os=windows",
+          "Type": "other"
+        },
+        "https://www.opera.com/computer/thanks?ni=opera_air\u0026os=windows": {
+          "ID": "https://www.opera.com/computer/thanks?ni=opera_air\u0026os=windows",
+          "Type": "other"
+        },
+        "https://www.opera.com/computer/thanks?ni=stable\u0026os=windows": {
+          "ID": "https://www.opera.com/computer/thanks?ni=stable\u0026os=windows",
+          "Type": "other"
+        },
+        "https://www.operaneon.com": {
+          "ID": "https://www.operaneon.com",
+          "Type": "other"
+        },
+        "marketplace.gamemaker.io": {
+          "ID": "marketplace.gamemaker.io",
+          "Type": "website"
+        },
+        "merchandise.opera-api.com": {
+          "ID": "merchandise.opera-api.com",
+          "Type": "api"
+        },
+        "push.opera.com": {
+          "ID": "push.opera.com",
+          "Type": "api"
+        },
+        "weather.opera-api.com": {
+          "ID": "weather.opera-api.com",
+          "Type": "api"
+        }
+      },
+      "OutScope": {
+        "107.167.127.4{0,1}": {
+          "ID": "107.167.127.4{0,1}",
+          "Type": "website"
+        },
+        "32s.opera.com": {
+          "ID": "32s.opera.com",
+          "Type": "website"
+        },
+        "accountsstage.yoyogames.com": {
+          "ID": "accountsstage.yoyogames.com",
+          "Type": "website"
+        },
+        "admanager.opera.com": {
+          "ID": "admanager.opera.com",
+          "Type": "website"
+        },
+        "bugs.yoyogames.com": {
+          "ID": "bugs.yoyogames.com",
+          "Type": "website"
+        },
+        "catch.opera.com": {
+          "ID": "catch.opera.com",
+          "Type": "website"
+        },
+        "certs.opera.com": {
+          "ID": "certs.opera.com",
+          "Type": "website"
+        },
+        "checkout.opera.com": {
+          "ID": "checkout.opera.com",
+          "Type": "website"
+        },
+        "concurso.opera.com ": {
+          "ID": "concurso.opera.com ",
+          "Type": "website"
+        },
+        "contest.opera.com": {
+          "ID": "contest.opera.com",
+          "Type": "website"
+        },
+        "control.gx-servers.opera.com": {
+          "ID": "control.gx-servers.opera.com",
+          "Type": "website"
+        },
+        "help.gx-servers.opera.com": {
+          "ID": "help.gx-servers.opera.com",
+          "Type": "website"
+        },
+        "help.yoyogames.com": {
+          "ID": "help.yoyogames.com",
+          "Type": "website"
+        },
+        "interstitial.opera-mini.net": {
+          "ID": "interstitial.opera-mini.net",
+          "Type": "api"
+        },
+        "investor.opera.com": {
+          "ID": "investor.opera.com",
+          "Type": "website"
+        },
+        "jobs.opera.com": {
+          "ID": "jobs.opera.com",
+          "Type": "website"
+        },
+        "s2{1,2}-05-08-v09.opera-mini.net": {
+          "ID": "s2{1,2}-05-08-v09.opera-mini.net",
+          "Type": "website"
+        },
+        "tabfulness.opera.com": {
+          "ID": "tabfulness.opera.com",
+          "Type": "website"
+        },
+        "verizon-us-lvs-ashburn.opera-mini.net": {
+          "ID": "verizon-us-lvs-ashburn.opera-mini.net",
+          "Type": "website"
+        },
+        "verizon-us-lvs-seattle.opera-mini.net": {
+          "ID": "verizon-us-lvs-seattle.opera-mini.net",
+          "Type": "website"
+        },
+        "verizon-us-seattle.opera-mini.net": {
+          "ID": "verizon-us-seattle.opera-mini.net",
+          "Type": "website"
+        },
+        "wallpaper.opera.com": {
+          "ID": "wallpaper.opera.com",
+          "Type": "website"
+        }
+      },
+      "Hash": "f95bad62abfea3451e8b5c22a611a4393389aa716cf2a6eaf028ab6688fb22b4"
+    },
     "bc:Opsgenie": {
       "Key": "Opsgenie",
       "Name": "Opsgenie",
@@ -13591,87 +14045,6 @@
       },
       "OutScope": {},
       "Hash": "a1d4e678e836ecd69fdeea220b863d8c5bbd4014b6f3741e26a579d421f495cf"
-    },
-    "bc:SEEK ": {
-      "Key": "SEEK ",
-      "Name": "SEEK ",
-      "URL": "https://bugcrowd.com/engagements/seek",
-      "InScope": {
-        "*.aips-internal.com": {
-          "ID": "*.aips-internal.com",
-          "Type": "website"
-        },
-        "*.jobapi.net": {
-          "ID": "*.jobapi.net",
-          "Type": "api"
-        },
-        "*.outfra.xyz": {
-          "ID": "*.outfra.xyz",
-          "Type": "website"
-        },
-        "*.seek.com": {
-          "ID": "*.seek.com",
-          "Type": "website"
-        },
-        "*.seekpass.co": {
-          "ID": "*.seekpass.co",
-          "Type": "website"
-        },
-        "*.skinfra.xyz": {
-          "ID": "*.skinfra.xyz",
-          "Type": "website"
-        },
-        "*.sol-data.com": {
-          "ID": "*.sol-data.com",
-          "Type": "api"
-        },
-        "https://*.employer.seek.com": {
-          "ID": "https://*.employer.seek.com",
-          "Type": "website"
-        },
-        "https://*.jobsdb.com": {
-          "ID": "https://*.jobsdb.com",
-          "Type": "website"
-        },
-        "https://*.jobstreet.com": {
-          "ID": "https://*.jobstreet.com",
-          "Type": "website"
-        },
-        "https://*.myseek.xyz": {
-          "ID": "https://*.myseek.xyz",
-          "Type": "website"
-        },
-        "https://apps.apple.com/au/app/certsy/id1617796159": {
-          "ID": "https://apps.apple.com/au/app/certsy/id1617796159",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855": {
-          "ID": "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
-          "Type": "ios"
-        },
-        "https://auth.seek.com": {
-          "ID": "https://auth.seek.com",
-          "Type": "api"
-        },
-        "https://graphql.seek.com": {
-          "ID": "https://graphql.seek.com",
-          "Type": "api"
-        },
-        "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=com.certsy.app": {
-          "ID": "https://play.google.com/store/apps/details?id=com.certsy.app",
-          "Type": "android"
-        },
-        "https://seekcdn.com": {
-          "ID": "https://seekcdn.com",
-          "Type": "other"
-        }
-      },
-      "OutScope": {},
-      "Hash": "42fe1d2468e7d82c5e1800ee1d75943514f88bf0796eb57f48164468408c117d"
     },
     "bc:STAGIL Marketplace Bug Bounty": {
       "Key": "STAGIL Marketplace Bug Bounty",
@@ -30683,7 +31056,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f9815adc081f779b7bc00e83f790e88c5fef3b8a37152bd8e237f64ec34837d1"
+      "Hash": "3c5f7ee5496c854452fd7e989c7a45af3a49c96aeb20cf3393a73d3854a62cbf"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31466,7 +31839,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c0aba79467d09ad9b16809aa11449d46ee14361adeb214c67a269c490c927837"
+      "Hash": "3339175eca18e898603ba2e86622cfd5b58ba853b8f6c9e96b486e5829870444"
     },
     "h1:bumba_bbp": {
       "Key": "bumba_bbp",
@@ -90607,7 +90980,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f2fb88bd09fcdffcfda39373f2febd88cdddbdd7d9635f7cbc826f10c599c866"
+      "Hash": "070e76eec824243be2255c38f842bd0d74908d17f973d64f235a8134771bc5b3"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -95922,7 +96295,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8ad9829c1c78ac1a6b5737cf5209f573f71bfcb0b8b53b9ee17bbca37b4c6139"
+      "Hash": "955f7988c861003f5d13baac30d2b9c141b56803ce0144f28a63a1cec23c22a4"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -98001,7 +98374,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "923f663207b51c7b6c735e3404075078efef8e8ee0cf82def6a508ba953918d3"
+      "Hash": "b832b838562b928317528cb39ee633427475b2c6a7679e211130f4214831416b"
     },
     "h1:equifax": {
       "Key": "equifax",
@@ -169347,7 +169720,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "788e0fe8d52511e36c0bb62b27b3e17ac668d5bfc7a8c6c498b5ff2a6efdc22b"
+      "Hash": "d55a099b8f199a3be0db0c22889d2a1fa5b3e7f82e0bebdb60f1bf2dd7f8f14b"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -169738,7 +170111,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "01d0414f56fa3108a2fce29caaa9ffee5c71d0f429392c3d8128f3ebc3171664"
+      "Hash": "086bd126965b6522192b5eab6ca991d7d2dd0c8dcfaf6f0651629bb257d4ae75"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -179769,7 +180142,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6fcfe8a2232e90e33c0bc1becf5a4d6acf946b6d082ddbf94db1da4a852cf9a7"
+      "Hash": "45c9951cf6592eb07ca2897faddb7e3638ea1de5cfcbd26a7a5493f80533b60e"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -182151,7 +182524,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d72bae179c58d9e55b99322420019ff888a17a4802e54adf948979b6b4f63b3"
+      "Hash": "43206f47db852975736fd4b78607a608ae40c8772af94381556f9c3283c41e58"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -183906,7 +184279,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7a6b0471e7e54ac6a458aefe706a8479aeafbed9515d6a7c58aa5da7e107f688"
+      "Hash": "0e81620a7fd75ebb8bdb31a1dd49dea8f3321b5c5b4d5efcc519ec5b8b0c7133"
     },
     "h1:playstation": {
       "Key": "playstation",
@@ -185652,7 +186025,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c65ef5f89aea51aeb32d11118b9a86f6235b0535134e740936e54eac8b143cd5"
+      "Hash": "98079e5af861e5d1f3b3a2b2260c008531a519a61d0206a73cd2836de8e8a141"
     },
     "h1:rei_vdp": {
       "Key": "rei_vdp",
@@ -188215,7 +188588,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "17d831fad511ba0c690124313a86d93685d9c0199c97e97237c639b7a1465bdb"
+      "Hash": "79da490f709f4cfe7fc7593f74effc6ff8b0ea2aba4f77276b653379d93c7d90"
     },
     "h1:shopify": {
       "Key": "shopify",
