@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-12T13:05:58Z",
+  "captured_at": "2026-09-12T16:17:24Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -6403,6 +6403,31 @@
       },
       "OutScope": {},
       "Hash": "fb833a88269dc60f1a8dc77a0156a6d1cdd6632b40fcd39c2af9d9801c611005"
+    },
+    "bc:Jaanga Marketplace Bug Bounty": {
+      "Key": "Jaanga Marketplace Bug Bounty",
+      "Name": "Jaanga Marketplace Bug Bounty",
+      "URL": "https://bugcrowd.com/engagements/JaangaInc-mbb-market",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1218225?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1218225?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1236750?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1236750?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira": {
+          "ID": "https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "7cf917a0e198ba9b16eff3d74d55617129ce7af2e73bf8c7a4a943348df4669e"
     },
     "bc:Jora": {
       "Key": "Jora",
@@ -103430,7 +103455,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e2a412edd139d3296e424cf3701ae878b7c17494e668ddcb4297ea12bde88f50"
+      "Hash": "e60736f016212299f93c7d6bc19e812209bef63877a82b8b8898119f86f6ee15"
     },
     "h1:eternal": {
       "Key": "eternal",
@@ -107072,7 +107097,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bd1ce1bcd92d835f29ec16e3762981b0d1492036ff6517a85d464f56be09840b"
+      "Hash": "90e3aab584b449986e49b0fde7bbf105da36ace6e2c7b76febdd63fce7307d9a"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -148297,7 +148322,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f2bed136bbd7b828387a03da121e1baa97f0290fcacc8e13170a732895acfba0"
+      "Hash": "b275e83f504df7a31b30eb1e538a6a5ec0daac7cd9dac9da73ba91ca79100479"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -153031,7 +153056,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cdd2285c3522c08b8bbdb144b01aaf8460ae55dcb603d915159bb86d6da74695"
+      "Hash": "7d9b4806d84484c956312f8f4aee3316ca60f64faf589e1bd277c9077037fb8c"
     },
     "h1:intuit_rdp": {
       "Key": "intuit_rdp",
@@ -181268,7 +181293,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ab3f4f6efa3bf362f09ef450c52ba6b0638cbbb90beefdb2d0997a2b925b7e26"
+      "Hash": "bc35cc315e93c9e10537311f893252a889f588c26a21da8ed88a494fb95dc5d4"
     },
     "h1:oportun_vdp": {
       "Key": "oportun_vdp",
@@ -182959,7 +182984,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1aeae85bc4988f89fca3dedca1cffd09d00e0edb546a17a5b0c573f535a023e1"
+      "Hash": "d204b843be785d6df797307e579df83d71c9322092fa867c5f8b57ccd1370e9b"
     },
     "h1:pepsico_vdp": {
       "Key": "pepsico_vdp",
@@ -183945,7 +183970,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8e7fecb255a4bf206ba661ec3d7f599d3bab975d83560bd96b42fc4b99659af2"
+      "Hash": "7d1b31710e33988c21f65668864a5d8a44f0e0e2497e180418150f09fbf619fd"
     },
     "h1:phpbb": {
       "Key": "phpbb",
@@ -184444,7 +184469,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "08b8ab4ac0841157a1dcb7895350baa8846120b8c34b6e91255251f4be112b5a"
+      "Hash": "a92fe3f4c3edd13d59c25b73b94bac725ea9ea20c570c31da5b5386b585b2648"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -186776,7 +186801,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9d3da8291442fb98849b8b697a78c84aa30fec243c2c6f440b81dd3d6bd0e400"
+      "Hash": "e8027d8c2115cc3b96b394cf2590c59e0d26f6b3e2234c632f86873409e222c3"
     },
     "h1:revive_adserver": {
       "Key": "revive_adserver",
@@ -190934,7 +190959,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1285921e96a69fd243d74c35f1ba43425cf71f1f1952751e70abc44d6af41c24"
+      "Hash": "4ab4da411944c493db6dc358d6fff9ba352578e492b53d35143cc877acad62bc"
     },
     "h1:taxwell-vdp": {
       "Key": "taxwell-vdp",
@@ -192954,7 +192979,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ccd55d023824bc32d1b9cad7f8ba002b1eef95f02f02e7ecd8fe72f46953f1b6"
+      "Hash": "2d4396ed95380dcd95d35112eed8809cbf3a6719a61b3ae5b9d07eaf5e42a913"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -194329,7 +194354,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "02cf83a1ade99ad1a7a42b66a040a83f239b651c9e4cf472ecea355c279e61c4"
+      "Hash": "4aeb6760c0279c6a2784e858d3397fcd971853f118da82704aa33261da157bdb"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -197280,7 +197305,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1f39d467ccb532200887c8d4d8978e7b3c15fe47331c150bee2849c86c6a8bfe"
+      "Hash": "0d5a769e861152bc93da22c5f999abf33f909e2f28843a4e8f1d08285110179a"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
