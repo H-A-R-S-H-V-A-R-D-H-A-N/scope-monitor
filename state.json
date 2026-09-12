@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-12T16:17:24Z",
+  "captured_at": "2026-09-12T18:43:02Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -14050,87 +14050,6 @@
       "OutScope": {},
       "Hash": "a1d4e678e836ecd69fdeea220b863d8c5bbd4014b6f3741e26a579d421f495cf"
     },
-    "bc:SEEK ": {
-      "Key": "SEEK ",
-      "Name": "SEEK ",
-      "URL": "https://bugcrowd.com/engagements/seek",
-      "InScope": {
-        "*.aips-internal.com": {
-          "ID": "*.aips-internal.com",
-          "Type": "website"
-        },
-        "*.jobapi.net": {
-          "ID": "*.jobapi.net",
-          "Type": "api"
-        },
-        "*.outfra.xyz": {
-          "ID": "*.outfra.xyz",
-          "Type": "website"
-        },
-        "*.seek.com": {
-          "ID": "*.seek.com",
-          "Type": "website"
-        },
-        "*.seekpass.co": {
-          "ID": "*.seekpass.co",
-          "Type": "website"
-        },
-        "*.skinfra.xyz": {
-          "ID": "*.skinfra.xyz",
-          "Type": "website"
-        },
-        "*.sol-data.com": {
-          "ID": "*.sol-data.com",
-          "Type": "api"
-        },
-        "https://*.employer.seek.com": {
-          "ID": "https://*.employer.seek.com",
-          "Type": "website"
-        },
-        "https://*.jobsdb.com": {
-          "ID": "https://*.jobsdb.com",
-          "Type": "website"
-        },
-        "https://*.jobstreet.com": {
-          "ID": "https://*.jobstreet.com",
-          "Type": "website"
-        },
-        "https://*.myseek.xyz": {
-          "ID": "https://*.myseek.xyz",
-          "Type": "website"
-        },
-        "https://apps.apple.com/au/app/certsy/id1617796159": {
-          "ID": "https://apps.apple.com/au/app/certsy/id1617796159",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855": {
-          "ID": "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
-          "Type": "ios"
-        },
-        "https://auth.seek.com": {
-          "ID": "https://auth.seek.com",
-          "Type": "api"
-        },
-        "https://graphql.seek.com": {
-          "ID": "https://graphql.seek.com",
-          "Type": "api"
-        },
-        "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=com.certsy.app": {
-          "ID": "https://play.google.com/store/apps/details?id=com.certsy.app",
-          "Type": "android"
-        },
-        "https://seekcdn.com": {
-          "ID": "https://seekcdn.com",
-          "Type": "other"
-        }
-      },
-      "OutScope": {},
-      "Hash": "42fe1d2468e7d82c5e1800ee1d75943514f88bf0796eb57f48164468408c117d"
-    },
     "bc:STAGIL Marketplace Bug Bounty": {
       "Key": "STAGIL Marketplace Bug Bounty",
       "Name": "STAGIL Marketplace Bug Bounty",
@@ -27957,7 +27876,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0dbe6907b2fa49f3d400839233e46b9ca7ee0285d5db7946db8a17a147414eee"
+      "Hash": "a44f09998930ecceea9e941cc15ed107af836aefe5f7fd60ecaa5b5246bd07cc"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -28220,7 +28139,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "98b5a185ea126a5f69d45a1f366ae226275f18f2ab51543e4a62eba39217eb85"
+      "Hash": "44150586f6287c75b5752fc847517107f58c7042f878c88122a38719010a4bf3"
     },
     "h1:audible": {
       "Key": "audible",
@@ -91124,7 +91043,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0b65f5d26c6f28a0f03ffc0fc8055e37c527c39486e45bff524cccc95af02ce1"
+      "Hash": "076701becc1f42aad764876fa3c7f78ef72f0f4610c3875c31927688bf1694e2"
     },
     "h1:deptofdefense": {
       "Key": "deptofdefense",
@@ -96062,7 +95981,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "491f118787fbfc69f0847d3aef519a2f8e9aa142bf77dbf0237c53cc407a3a1e"
+      "Hash": "f923baba73bb741a0370a14b7568b22ed8b8c423c2260574d2353ccc60a5592c"
     },
     "h1:django": {
       "Key": "django",
@@ -98065,7 +97984,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bcd5b4c2a0a1a3587b427990b794f830c7aba6277e757aeea540db069493cbe2"
+      "Hash": "09f24241286500876af2b8ffcd65d308b108a92e4dd0b1efccc429927da84ada"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -103455,7 +103374,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e60736f016212299f93c7d6bc19e812209bef63877a82b8b8898119f86f6ee15"
+      "Hash": "36d0dec19466bcd0c8b7034ae65adefc3ed5f6245f311b45ce79fca8ae93daac"
     },
     "h1:eternal": {
       "Key": "eternal",
@@ -103800,7 +103719,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "50e7b7e89f2970bd6ed08cd71b36ac0c4fbde8edd238f38d735f2822d209642c"
+      "Hash": "1a3821be6f0e064d7b6d5c812024fb24fd7d3ea998c958712d471885b2a65fd7"
     },
     "h1:exness": {
       "Key": "exness",
@@ -149090,7 +149009,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a2c67971b9a034260120f42f255b53bb4e390305fe93963e46ce2e30a0121f3f"
+      "Hash": "fa52ddd686dc289ad141cf806cc8b7c9642189092aa84ff1817bc851c5ebd738"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -151913,7 +151832,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "43fc6db2051c6bf8cf459a43dace41678752df161b6ed2a65467644310659309"
+      "Hash": "2347abeacdd55f39750df2d32ff6c9858ba9c57404856a76a365863a4a66bef4"
     },
     "h1:hyland_software": {
       "Key": "hyland_software",
@@ -152764,7 +152683,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c5c9192506515901df6f95067adfdda70d569dc5b088992bfa9f4eaf75126185"
+      "Hash": "8736e6c78a7258b4b788ebdfb570ed72c4b9b80fc172dc15df34b462e6eef359"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -182415,7 +182334,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "830800675a93d15b2e3ee9d33fcc4636bcb37082157bf5e324d80d8169526d8c"
+      "Hash": "5028ad985c53637aee4844a4d5130e3d697a33dcd04cf1376fa463358a7d8471"
     },
     "h1:palantir_public": {
       "Key": "palantir_public",
@@ -182984,7 +182903,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d204b843be785d6df797307e579df83d71c9322092fa867c5f8b57ccd1370e9b"
+      "Hash": "9621d90f8abd85ccf2eeb9298a22b022a81d67c48230b6dd6e605ad2b54331c5"
     },
     "h1:pepsico_vdp": {
       "Key": "pepsico_vdp",
@@ -184469,7 +184388,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a92fe3f4c3edd13d59c25b73b94bac725ea9ea20c570c31da5b5386b585b2648"
+      "Hash": "08b8ab4ac0841157a1dcb7895350baa8846120b8c34b6e91255251f4be112b5a"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -186801,7 +186720,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e8027d8c2115cc3b96b394cf2590c59e0d26f6b3e2234c632f86873409e222c3"
+      "Hash": "9d3da8291442fb98849b8b697a78c84aa30fec243c2c6f440b81dd3d6bd0e400"
     },
     "h1:revive_adserver": {
       "Key": "revive_adserver",
@@ -188087,7 +188006,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "34abffb133e4ace763f3ea27d99448361137652cd1f91df9b573c51a88544fca"
+      "Hash": "7ccf8385fb252d43bfe415a7e1c95aa5006daf38a59eb7da2b18cf4c8dda3df9"
     },
     "h1:scopely": {
       "Key": "scopely",
@@ -189382,7 +189301,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b7e14334ff5c5f973f78f239e20a9e56fed0a43a610b530661246a9582a2be72"
+      "Hash": "efbfdc48dcef5e0102bdd50d1a6afa4d307222f27823c028217394df416de54e"
     },
     "h1:slack": {
       "Key": "slack",
@@ -191997,7 +191916,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "afdc2bb37de48a85f73ff048ec4700aedac6ebc71425c69025426b03778f5358"
+      "Hash": "30ccb89ebe9c399ec221033d90d47e0c9cff27ffb802edeec85a98309bb0c98b"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -192921,7 +192840,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "559109495cf1dc7675403951228e472ea8e7bef6d178f8f9ed01fef54dcd5b0c"
+      "Hash": "8ef75245cfc2ebe722863c3057dd6e1fdd88ba407eb00c5d6227e588f30c42ee"
     },
     "h1:truecaller": {
       "Key": "truecaller",
@@ -194367,7 +194286,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7973998fd9a92a71f34bd7353be3f1c2f7f729ba9a2e8eeb93ac3cb753006776"
+      "Hash": "306070d5cb693685207b8c9585ccf33c582148169a89e7daacda50fdc6c8356c"
     },
     "h1:varonis": {
       "Key": "varonis",
