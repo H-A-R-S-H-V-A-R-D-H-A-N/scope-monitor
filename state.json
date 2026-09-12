@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-12T05:01:08Z",
+  "captured_at": "2026-09-12T09:13:58Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -5279,6 +5279,10 @@
         "Any FIS asset is in scope": {
           "ID": "Any FIS asset is in scope",
           "Type": "website"
+        },
+        "https://www.tdfitloan.com/#!/": {
+          "ID": "https://www.tdfitloan.com/#!/",
+          "Type": "website"
         }
       },
       "OutScope": {
@@ -5287,7 +5291,7 @@
           "Type": "website"
         }
       },
-      "Hash": "9b821dbd2f10ef80792c72ee611343253688259971d2d16fbf56c1c310dd2fbf"
+      "Hash": "1887aa1900f3c84b617b4dc4f141cdd56b671c83de0d91865928ad703cf84269"
     },
     "bc:Felix Health Managed Bug Bounty Engagement": {
       "Key": "Felix Health Managed Bug Bounty Engagement",
@@ -14045,6 +14049,87 @@
       },
       "OutScope": {},
       "Hash": "a1d4e678e836ecd69fdeea220b863d8c5bbd4014b6f3741e26a579d421f495cf"
+    },
+    "bc:SEEK ": {
+      "Key": "SEEK ",
+      "Name": "SEEK ",
+      "URL": "https://bugcrowd.com/engagements/seek",
+      "InScope": {
+        "*.aips-internal.com": {
+          "ID": "*.aips-internal.com",
+          "Type": "website"
+        },
+        "*.jobapi.net": {
+          "ID": "*.jobapi.net",
+          "Type": "api"
+        },
+        "*.outfra.xyz": {
+          "ID": "*.outfra.xyz",
+          "Type": "website"
+        },
+        "*.seek.com": {
+          "ID": "*.seek.com",
+          "Type": "website"
+        },
+        "*.seekpass.co": {
+          "ID": "*.seekpass.co",
+          "Type": "website"
+        },
+        "*.skinfra.xyz": {
+          "ID": "*.skinfra.xyz",
+          "Type": "website"
+        },
+        "*.sol-data.com": {
+          "ID": "*.sol-data.com",
+          "Type": "api"
+        },
+        "https://*.employer.seek.com": {
+          "ID": "https://*.employer.seek.com",
+          "Type": "website"
+        },
+        "https://*.jobsdb.com": {
+          "ID": "https://*.jobsdb.com",
+          "Type": "website"
+        },
+        "https://*.jobstreet.com": {
+          "ID": "https://*.jobstreet.com",
+          "Type": "website"
+        },
+        "https://*.myseek.xyz": {
+          "ID": "https://*.myseek.xyz",
+          "Type": "website"
+        },
+        "https://apps.apple.com/au/app/certsy/id1617796159": {
+          "ID": "https://apps.apple.com/au/app/certsy/id1617796159",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855": {
+          "ID": "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
+          "Type": "ios"
+        },
+        "https://auth.seek.com": {
+          "ID": "https://auth.seek.com",
+          "Type": "api"
+        },
+        "https://graphql.seek.com": {
+          "ID": "https://graphql.seek.com",
+          "Type": "api"
+        },
+        "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.certsy.app": {
+          "ID": "https://play.google.com/store/apps/details?id=com.certsy.app",
+          "Type": "android"
+        },
+        "https://seekcdn.com": {
+          "ID": "https://seekcdn.com",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "42fe1d2468e7d82c5e1800ee1d75943514f88bf0796eb57f48164468408c117d"
     },
     "bc:STAGIL Marketplace Bug Bounty": {
       "Key": "STAGIL Marketplace Bug Bounty",
@@ -24043,7 +24128,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "0b2ca71891b9bbb340e1ddd02b0656c2c6cb8dcc1bd979f4b793276a9a9364ea"
+      "Hash": "70ed46808197a6ed6dfdd63c22c8d36d10d0f66a302ebea834669e39f045f8d8"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -104197,7 +104282,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d9a4c8ece6d3582dd01a2e63a5d3d571b63e791bded2fe907ae8f42427c20607"
+      "Hash": "29e9e98c4d8fb4f41c4f8f196dfbd27658f83715a865cea54668306a93cf6747"
     },
     "h1:expediagroup_bbp": {
       "Key": "expediagroup_bbp",
@@ -148063,7 +148148,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e3db051b03787b17b745a89597af04a3414eeb5fa75c2a4d41c6f5d109747008"
+      "Hash": "1be9ee479c365c64e66014d29cc991956de9b41f18ed669035cec10159226186"
     },
     "h1:gocardless_bbp": {
       "Key": "gocardless_bbp",
@@ -148375,7 +148460,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "91edb329b3ba79c7d7f895391adaf9c0c5188f09dac47e8c95c00985602d0a5c"
+      "Hash": "98e1ed9819e35d903ca02b1def44f739544209f160d795ef0af104753c67d755"
     },
     "h1:goldmansachs": {
       "Key": "goldmansachs",
@@ -168481,7 +168566,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7eb3eecefffbc9403616e02d2c5c201d585ffd116774c00f57078ad792a0aa1d"
+      "Hash": "02d4a3e4328d6b08c113b1a1d5999cefd79e26e4c27f71012aef39626551e52d"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -171011,7 +171096,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b527f84f3e36b73a4975c17725c2b02983cfd243208eff76887d2dac7558645a"
+      "Hash": "b00c3111f2c79a7acf3ed166e1823ef0b8c5dbd9d5168afd3ad05cf3a41d805b"
     },
     "h1:mars": {
       "Key": "mars",
@@ -180689,7 +180774,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5ede36e8cb9b945dde1d087369a0ce2662710682b18ea9b95e04f1301366a4d9"
+      "Hash": "92b4d26a132f784fc35ba4dfd5e865ecd8d3002aca82fa1310196044a82a473c"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -186025,7 +186110,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "98079e5af861e5d1f3b3a2b2260c008531a519a61d0206a73cd2836de8e8a141"
+      "Hash": "d9268b5fff8b1cc4f543dc40b59cb63c078a261a30958e3f9c1a5ae851c9592e"
     },
     "h1:rei_vdp": {
       "Key": "rei_vdp",
@@ -187881,7 +187966,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "eea07fe321e2f72c89b7f83b9f23a2c198c85ebfb118a8e9a1fa124499d7a238"
+      "Hash": "7bbaacc8938e05ca7320919c30310e40d00a13db3347ec4f32d1f53c7787efa0"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -188534,7 +188619,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9046a89de36afd49f8f8e890b0db26fe528be47e76bc878fc7d7dc3a2dcb1fa3"
+      "Hash": "763b415cd64ac0c4948055a0c044d5ef8a2a89aeb2777af00f4be35aca7da362"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -188718,7 +188803,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "71368ad41f590119653a81c52890d2f8e0848a946a3bf065dca8f1161abc1ce5"
+      "Hash": "d1c59e3b49de933262519030c78355e4d47ede9ed8acd9b2db437765171c6de7"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -191912,7 +191997,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "76d56b0f81538bd5f6debf7c1be91836d4466af2f303c5417bf1248798a511ce"
+      "Hash": "847e74dc1b0bd094694e98b2f94283173f6a4530bb274e5714086d721e0d83fc"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -194616,7 +194701,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "60fd6e60884fbeabc75daa717c0b7ccdfa715fb1a74a66ee51b7918e3cdd0713"
+      "Hash": "ca1eac56b95de7dae5bd1223ba2a85a9c111d907ca271aa0a340db851a18f944"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -196811,7 +196896,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7fac50c20dbdee06e428ec25aa9312e2f46503db118971f1e20a7d5fad5b018a"
+      "Hash": "118c2ae00bd840fd7d0374e451d6bcd3a3678fdd1e6ba522ad143145a8845021"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
