@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-12T23:17:38Z",
+  "captured_at": "2026-09-13T01:23:15Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -14050,87 +14050,6 @@
       "OutScope": {},
       "Hash": "a1d4e678e836ecd69fdeea220b863d8c5bbd4014b6f3741e26a579d421f495cf"
     },
-    "bc:SEEK ": {
-      "Key": "SEEK ",
-      "Name": "SEEK ",
-      "URL": "https://bugcrowd.com/engagements/seek",
-      "InScope": {
-        "*.aips-internal.com": {
-          "ID": "*.aips-internal.com",
-          "Type": "website"
-        },
-        "*.jobapi.net": {
-          "ID": "*.jobapi.net",
-          "Type": "api"
-        },
-        "*.outfra.xyz": {
-          "ID": "*.outfra.xyz",
-          "Type": "website"
-        },
-        "*.seek.com": {
-          "ID": "*.seek.com",
-          "Type": "website"
-        },
-        "*.seekpass.co": {
-          "ID": "*.seekpass.co",
-          "Type": "website"
-        },
-        "*.skinfra.xyz": {
-          "ID": "*.skinfra.xyz",
-          "Type": "website"
-        },
-        "*.sol-data.com": {
-          "ID": "*.sol-data.com",
-          "Type": "api"
-        },
-        "https://*.employer.seek.com": {
-          "ID": "https://*.employer.seek.com",
-          "Type": "website"
-        },
-        "https://*.jobsdb.com": {
-          "ID": "https://*.jobsdb.com",
-          "Type": "website"
-        },
-        "https://*.jobstreet.com": {
-          "ID": "https://*.jobstreet.com",
-          "Type": "website"
-        },
-        "https://*.myseek.xyz": {
-          "ID": "https://*.myseek.xyz",
-          "Type": "website"
-        },
-        "https://apps.apple.com/au/app/certsy/id1617796159": {
-          "ID": "https://apps.apple.com/au/app/certsy/id1617796159",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855": {
-          "ID": "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
-          "Type": "ios"
-        },
-        "https://auth.seek.com": {
-          "ID": "https://auth.seek.com",
-          "Type": "api"
-        },
-        "https://graphql.seek.com": {
-          "ID": "https://graphql.seek.com",
-          "Type": "api"
-        },
-        "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=com.certsy.app": {
-          "ID": "https://play.google.com/store/apps/details?id=com.certsy.app",
-          "Type": "android"
-        },
-        "https://seekcdn.com": {
-          "ID": "https://seekcdn.com",
-          "Type": "other"
-        }
-      },
-      "OutScope": {},
-      "Hash": "42fe1d2468e7d82c5e1800ee1d75943514f88bf0796eb57f48164468408c117d"
-    },
     "bc:STAGIL Marketplace Bug Bounty": {
       "Key": "STAGIL Marketplace Bug Bounty",
       "Name": "STAGIL Marketplace Bug Bounty",
@@ -17132,120 +17051,6 @@
       },
       "OutScope": {},
       "Hash": "a643f7c904a42317bcf054f4ba97f513b094875215040e9bb84ee2b7beab10b1"
-    },
-    "bc:Upwork": {
-      "Key": "Upwork",
-      "Name": "Upwork",
-      "URL": "https://bugcrowd.com/engagements/upwork",
-      "InScope": {
-        "Direct Contracts": {
-          "ID": "Direct Contracts",
-          "Type": "website"
-        },
-        "Upwork - Android Application": {
-          "ID": "Upwork - Android Application",
-          "Type": "android"
-        },
-        "Upwork - Marketplace Portal": {
-          "ID": "Upwork - Marketplace Portal",
-          "Type": "website"
-        },
-        "Upwork - Messages": {
-          "ID": "Upwork - Messages",
-          "Type": "website"
-        },
-        "Upwork - Mobile Application Android": {
-          "ID": "Upwork - Mobile Application Android",
-          "Type": "android"
-        },
-        "Upwork - Mobile Application IOS": {
-          "ID": "Upwork - Mobile Application IOS",
-          "Type": "ios"
-        },
-        "Upwork - api.upwork.com/graphql": {
-          "ID": "Upwork - api.upwork.com/graphql",
-          "Type": "api"
-        },
-        "Upwork - iOS Application": {
-          "ID": "Upwork - iOS Application",
-          "Type": "ios"
-        },
-        "Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)": {
-          "ID": "Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)",
-          "Type": "hardware"
-        },
-        "api.upwork.com/graphql": {
-          "ID": "api.upwork.com/graphql",
-          "Type": "api"
-        },
-        "https://www.upwork.com": {
-          "ID": "https://www.upwork.com",
-          "Type": "website"
-        },
-        "www.upwork.com/api ": {
-          "ID": "www.upwork.com/api ",
-          "Type": "api"
-        }
-      },
-      "OutScope": {
-        "Any Third-party Services": {
-          "ID": "Any Third-party Services",
-          "Type": "other"
-        },
-        "Any subdomain/domain/property not listed in the 'in scope' section, is out of scope. ": {
-          "ID": "Any subdomain/domain/property not listed in the 'in scope' section, is out of scope. ",
-          "Type": "other"
-        },
-        "Social media hijacking": {
-          "ID": "Social media hijacking",
-          "Type": "other"
-        },
-        "careers.upwork.com": {
-          "ID": "careers.upwork.com",
-          "Type": "other"
-        },
-        "community.stage.upwork.com": {
-          "ID": "community.stage.upwork.com",
-          "Type": "other"
-        },
-        "community.upwork.com": {
-          "ID": "community.upwork.com",
-          "Type": "other"
-        },
-        "e.upwork.com": {
-          "ID": "e.upwork.com",
-          "Type": "other"
-        },
-        "pardot.upwork.com": {
-          "ID": "pardot.upwork.com",
-          "Type": "other"
-        },
-        "signature.upwork.com": {
-          "ID": "signature.upwork.com",
-          "Type": "other"
-        },
-        "stage.upwork.com": {
-          "ID": "stage.upwork.com",
-          "Type": "other"
-        },
-        "status.upwork.com": {
-          "ID": "status.upwork.com",
-          "Type": "other"
-        },
-        "support.upwork.com": {
-          "ID": "support.upwork.com",
-          "Type": "other"
-        },
-        "tip.upwork.com": {
-          "ID": "tip.upwork.com",
-          "Type": "website"
-        },
-        "tip.upwork.com ": {
-          "ID": "tip.upwork.com ",
-          "Type": "other"
-        }
-      },
-      "Hash": "3901f3babecd6a4751fdcbc940be36845f011916336aaa7605861d64688b9302"
     },
     "bc:Vectors Bug Bounty ": {
       "Key": "Vectors Bug Bounty ",
@@ -28110,7 +27915,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4f13b5f4f88481b78c226d3cf07b4b70ab09bac16f919b6f888be0e74c97778d"
+      "Hash": "2ad2ac09d97e5ac87d762ecd9614cd34cc4dc9c8aaecae41463b86389930dd28"
     },
     "h1:att": {
       "Key": "att",
@@ -31175,7 +30980,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "67e139562d559b5172e24aeb9cf4ca60608c7f7325405ebd5c65219c691751ff"
+      "Hash": "895041bab4641231d4294bbda8c533cca1c2d2595db64b60d4a7f4339d8f5fcf"
     },
     "h1:bill_vdp": {
       "Key": "bill_vdp",
@@ -88773,7 +88578,7 @@
       "URL": "https://hackerone.com/coinmate",
       "InScope": {},
       "OutScope": {},
-      "Hash": "41ade04b4a9115930ccfd9af30c52453f5d8c0a7456c127bf5bf20928f615733"
+      "Hash": "7aec31afbc83cbea5644fc0895620defccf08ea002cb96ebe95775f24b1db574"
     },
     "h1:coinspot": {
       "Key": "coinspot",
@@ -96070,7 +95875,7 @@
       "URL": "https://hackerone.com/django",
       "InScope": {},
       "OutScope": {},
-      "Hash": "b450f29a44364de8e91a4a23be04902db3042cc98bec3562e17fd3244f678d49"
+      "Hash": "65ceb184757f140db4a70ccfbfd5b57a2c75193232a3316937677cee685d71a2"
     },
     "h1:docusign": {
       "Key": "docusign",
@@ -147028,7 +146833,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "99ac1290d373b412d97fc5459f941d4a3a1a272b303a787c4d77ca57c0d3c426"
+      "Hash": "dd0586e2acd66206b209796fb6a8fa94cb5d4d04afb4d7ad40efa045a8f2f553"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -168217,7 +168022,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "47b045d75ad6049ee31138f9ab14dbd39f5958e4c6a0358648977a013d49140c"
+      "Hash": "fa90a7f094028aa51e9c3185a4f4a3d90d83c1c82ab98fca5285861735563b18"
     },
     "h1:keybank": {
       "Key": "keybank",
@@ -170276,7 +170081,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a5cf580a534ce654fc6b5bbe0ad40b4229a542ce81360ee6feceb5b2131588a1"
+      "Hash": "23af7e494e136376ec03671ecd41ab148048e0600f7c5f674ee378e07c7d9c2b"
     },
     "h1:lpl_financial-vdp": {
       "Key": "lpl_financial-vdp",
@@ -191997,7 +191802,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9f2b2c2fc2762ae36128d41d6226de541ef6a702aa0138f16c48bd1c643a9ce4"
+      "Hash": "f80bf82eecac631dcb95f8d9d29ecb64528c6169dcc96e25ee023216d5e921a4"
     },
     "h1:toyota": {
       "Key": "toyota",
