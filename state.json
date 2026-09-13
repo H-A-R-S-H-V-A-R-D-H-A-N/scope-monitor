@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-13T01:23:15Z",
+  "captured_at": "2026-09-13T06:44:20Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -14050,6 +14050,87 @@
       "OutScope": {},
       "Hash": "a1d4e678e836ecd69fdeea220b863d8c5bbd4014b6f3741e26a579d421f495cf"
     },
+    "bc:SEEK ": {
+      "Key": "SEEK ",
+      "Name": "SEEK ",
+      "URL": "https://bugcrowd.com/engagements/seek",
+      "InScope": {
+        "*.aips-internal.com": {
+          "ID": "*.aips-internal.com",
+          "Type": "website"
+        },
+        "*.jobapi.net": {
+          "ID": "*.jobapi.net",
+          "Type": "api"
+        },
+        "*.outfra.xyz": {
+          "ID": "*.outfra.xyz",
+          "Type": "website"
+        },
+        "*.seek.com": {
+          "ID": "*.seek.com",
+          "Type": "website"
+        },
+        "*.seekpass.co": {
+          "ID": "*.seekpass.co",
+          "Type": "website"
+        },
+        "*.skinfra.xyz": {
+          "ID": "*.skinfra.xyz",
+          "Type": "website"
+        },
+        "*.sol-data.com": {
+          "ID": "*.sol-data.com",
+          "Type": "api"
+        },
+        "https://*.employer.seek.com": {
+          "ID": "https://*.employer.seek.com",
+          "Type": "website"
+        },
+        "https://*.jobsdb.com": {
+          "ID": "https://*.jobsdb.com",
+          "Type": "website"
+        },
+        "https://*.jobstreet.com": {
+          "ID": "https://*.jobstreet.com",
+          "Type": "website"
+        },
+        "https://*.myseek.xyz": {
+          "ID": "https://*.myseek.xyz",
+          "Type": "website"
+        },
+        "https://apps.apple.com/au/app/certsy/id1617796159": {
+          "ID": "https://apps.apple.com/au/app/certsy/id1617796159",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855": {
+          "ID": "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
+          "Type": "ios"
+        },
+        "https://auth.seek.com": {
+          "ID": "https://auth.seek.com",
+          "Type": "api"
+        },
+        "https://graphql.seek.com": {
+          "ID": "https://graphql.seek.com",
+          "Type": "api"
+        },
+        "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=au.com.seek\u0026hl=en_AU\u0026gl=US",
+          "Type": "android"
+        },
+        "https://play.google.com/store/apps/details?id=com.certsy.app": {
+          "ID": "https://play.google.com/store/apps/details?id=com.certsy.app",
+          "Type": "android"
+        },
+        "https://seekcdn.com": {
+          "ID": "https://seekcdn.com",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "42fe1d2468e7d82c5e1800ee1d75943514f88bf0796eb57f48164468408c117d"
+    },
     "bc:STAGIL Marketplace Bug Bounty": {
       "Key": "STAGIL Marketplace Bug Bounty",
       "Name": "STAGIL Marketplace Bug Bounty",
@@ -17441,35 +17522,6 @@
         }
       },
       "Hash": "cd3c1b7d1ea799c5c0e6baa3fafd48185e2d0531dcc817d79e489c41cd5618b9"
-    },
-    "bc:Wyze Bug Bounty": {
-      "Key": "Wyze Bug Bounty",
-      "Name": "Wyze Bug Bounty",
-      "URL": "https://bugcrowd.com/engagements/wyze",
-      "InScope": {
-        "Wyze Cam V3": {
-          "ID": "Wyze Cam V3",
-          "Type": "hardware"
-        },
-        "https://api.wyzecam.com": {
-          "ID": "https://api.wyzecam.com",
-          "Type": "api"
-        },
-        "https://auth.wyze.com": {
-          "ID": "https://auth.wyze.com",
-          "Type": "website"
-        },
-        "https://my.wyze.com": {
-          "ID": "https://my.wyze.com",
-          "Type": "website"
-        },
-        "https://www.wyze.com/products/wyze-cam": {
-          "ID": "https://www.wyze.com/products/wyze-cam",
-          "Type": "hardware"
-        }
-      },
-      "OutScope": {},
-      "Hash": "28c6a4cd7ab30126b670f3ebad536105743f8efb96363f0d17d4618c1d20b68f"
     },
     "bc:Xfinity Home \u0026 xFi": {
       "Key": "Xfinity Home \u0026 xFi",
@@ -28099,7 +28151,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d91de596dac697ddf949fd5ceaaa743d39dee9a9bede1b411d796ef584ac248a"
+      "Hash": "1e61533455d7d2cc16cde33224113e55c58b7ba802bd3fb5b7c6dc15908c9cff"
     },
     "h1:autodesk": {
       "Key": "autodesk",
@@ -30638,7 +30690,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "c920f67cfceb637970d029343f773d5f8ea3d57d6272c722c27ad8cc3571e280"
+      "Hash": "885c553379449e98d92a00d09817c056ae730a5c4d3452fb44f9131af0d876a2"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31513,7 +31565,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b46c8a83033a31b00de59b6e659933f68616d5f7f26510d297ea9fa02bd6193c"
+      "Hash": "54b5bc7af30624216e27b6158d56034720e1b599b6184a013f2357333cc2f9c0"
     },
     "h1:bose_vdp": {
       "Key": "bose_vdp",
@@ -88603,7 +88655,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "98d0e3ee43c6ae66a939cd54c47d869410d9ad0f895de255a70b5e43ba69a03e"
+      "Hash": "5470d87ba158b62d683033961f0b7520897a0352111a51a89822445c2a711129"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -89539,7 +89591,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "15c5f8f2ea84257c4a3828db889aae6226df0562c13fb482c1adff8fd40d79e4"
+      "Hash": "7c0acce98ff72b83f7bd27399d5e7a2e639b312d5a521a6a6c34c08c3aa57477"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -97870,7 +97922,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "09f24241286500876af2b8ffcd65d308b108a92e4dd0b1efccc429927da84ada"
+      "Hash": "bcd5b4c2a0a1a3587b427990b794f830c7aba6277e757aeea540db069493cbe2"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -104396,7 +104448,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3e4111ab0451bc8b2a9a495f50df36d31b7bac4383c78ba2b72c0e8c5596a4fc"
+      "Hash": "90c3570ecafe2850df6d08e7d4ee2f212316d70063b77cf7869c18747b1c32c5"
     },
     "h1:experian": {
       "Key": "experian",
@@ -147307,7 +147359,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d6ac2c04c2b20c56eeec95b1e2b6dd791cee7d6140fcc698b10ebc1b2ee6408c"
+      "Hash": "9602400e2d25b2dd12a30bc1627afffb49ad0570ea1e02cd26575e487423763e"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -167774,7 +167826,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "381e6b65feeb80dabb4a096d63220683418d3241675893d0eb5fb5360cf19b77"
+      "Hash": "be43cd226b598ab2653f313f23e6755f6944780151fe73ff41c95bf45b2b980d"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -167936,7 +167988,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "0b99fd2dcb63fcbffd4ba086e2e101ad18c6e567d0935ba1a9bcd4f3367504f9"
+      "Hash": "bccdf4c85df8ae023d137cf25c3702b3cc907d7bea94506e5666e71ffe11744d"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -169236,7 +169288,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "3da6ade51f28aac7a83bfbc72b23c6de0a7ce376654470afe95f9d47aa7d818e"
+      "Hash": "c77e642855b9191567d00dc05d6c484f41f68783278fe94942bfcf12ad2249f0"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -174802,7 +174854,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d31f727d593311ea0cf7a4c34e5ea2c33d866e1c56fc3b0ff4bad1bdcca210bd"
+      "Hash": "b6057576ec8a651be5f10abdf051e6a2372e17c5bf58b3824e1fb5bc89715df7"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -187892,7 +187944,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7ccf8385fb252d43bfe415a7e1c95aa5006daf38a59eb7da2b18cf4c8dda3df9"
+      "Hash": "d973babcfd2c081de571be49b17ec06494be7abe0f92221856c3f392788f6b36"
     },
     "h1:scopely": {
       "Key": "scopely",
@@ -188441,7 +188493,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b178eef9892f8b1be9b4d42519430335ed82833f1f3fcc7899e0c71a12d0f003"
+      "Hash": "3bbe04dd69ccc913cedad374ab77008ba86672523708859bede0407c379cd2a4"
     },
     "h1:shein": {
       "Key": "shein",
@@ -188770,7 +188822,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "8deb45ee5faf72b5580c69f9f366f9a55a0ed2b24957acd5c21ca3a5373d6d1f"
+      "Hash": "c643004d63d275c8589c97d53a5c6a26ef440618b191b56a55fbbb94bec17597"
     },
     "h1:simple_poll": {
       "Key": "simple_poll",
@@ -190936,7 +190988,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "75347f6eeeeb018999e9367468b4b40f71915f5590ddbe100165599a56f11192"
+      "Hash": "d61ba928bb9a63cf7bba6d13f202777080e72a47ca88930a8f3d69b881a03ad0"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -193706,7 +193758,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "66981c6a3630a7f6e69fabfff7e6b777b9f14c091c60357993cceb244c0a4b65"
+      "Hash": "8036adc584f3522fbbee143088ea70b41f5856649ca9d0b1db8754591df45bac"
     },
     "h1:unitigroup": {
       "Key": "unitigroup",
@@ -196635,7 +196687,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7af1156c3035b157c06dd3f845732f59659817c277a471fa6ca279dcab3a4f24"
+      "Hash": "9b6b78ea523bfaad3b9548288b21caad96997861ae36968c5e69f4267fda1850"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -197421,7 +197473,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e951dd41ade31d1891210eedc89dcd822613e41106a4adf7ce91115ec95306a1"
+      "Hash": "ee298e2aaef7a17e6d62479f70716a4dab9dd66d26e22c6bba3222d182ac99b4"
     },
     "h1:yelp": {
       "Key": "yelp",
