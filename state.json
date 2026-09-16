@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-16T19:03:26Z",
+  "captured_at": "2026-09-16T22:06:15Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -1328,10 +1328,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter",
           "Type": "other"
@@ -1364,10 +1360,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=datacenter",
           "Type": "other"
@@ -1382,10 +1374,6 @@
         },
         "https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=datacenter": {
@@ -1404,36 +1392,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud\u0026tab=overview": {
           "ID": "https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1217661/jira-cloud-for-crm-official?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1217661/jira-cloud-for-crm-official?hosting=cloud",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter": {
@@ -1480,18 +1440,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1218941/microsoft-teams-for-bitbucket-cloud?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1218941/microsoft-teams-for-bitbucket-cloud?hosting=cloud",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=datacenter",
           "Type": "other"
@@ -1506,26 +1454,6 @@
         },
         "https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219311/atlassian-cloud-for-gmail?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1219311/atlassian-cloud-for-gmail?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud": {
@@ -1576,10 +1504,6 @@
           "ID": "https://marketplace.atlassian.com/apps/1220666/jira-cloud-for-outlook-official?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1220711/spreadsheets-for-jira-cloud?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1220711/spreadsheets-for-jira-cloud?hosting=cloud",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=datacenter",
           "Type": "other"
@@ -1590,10 +1514,6 @@
         },
         "https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=datacenter": {
@@ -1612,28 +1532,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud": {
@@ -1644,28 +1544,12 @@
           "ID": "https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1225689/admin-kit-for-jira-cloud?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1225689/admin-kit-for-jira-cloud?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1225691/admin-kit-for-confluence-cloud?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1225691/admin-kit-for-confluence-cloud?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloudhttps://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloudhttps://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloud",
+        "https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloud",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud": {
@@ -1678,10 +1562,6 @@
         },
         "https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter": {
           "ID": "https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter\u0026tab=overview": {
-          "ID": "https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter\u0026tab=overview",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud": {
@@ -1700,16 +1580,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=datacenter",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud\u0026tab=overview": {
           "ID": "https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud\u0026tab=overview",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud": {
@@ -1720,20 +1592,8 @@
           "ID": "https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1229906/confluence-mail-archiving-plugin?tab=overview\u0026hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1229906/confluence-mail-archiving-plugin?tab=overview\u0026hosting=datacenter",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1230032/databricks-visualization?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1230032/databricks-visualization?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=datacenter",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1230671/extension-point-finder-for-confluence?hosting=cloud": {
@@ -1784,32 +1644,12 @@
           "ID": "https://marketplace.atlassian.com/apps/1233942/pagerduty-for-compass?tab=overview\u0026hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1233943/circleci-for-compass?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1233943/circleci-for-compass?tab=overview\u0026hosting=cloud",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1233977/sentry-for-compass?tab=overview\u0026hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1233977/sentry-for-compass?tab=overview\u0026hosting=cloud",
           "Type": "other"
         },
-        "https://marketplace.atlassian.com/apps/1233979/new-relic-for-compass?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1233979/new-relic-for-compass?tab=overview\u0026hosting=cloud",
-          "Type": "other"
-        },
         "https://marketplace.atlassian.com/apps/1233986/slack-for-compass?tab=overview\u0026hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1233986/slack-for-compass?tab=overview\u0026hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1233987/statuspage-for-compass?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1233987/statuspage-for-compass?tab=overview\u0026hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1233988/opsgenie-for-compass?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1233988/opsgenie-for-compass?tab=overview\u0026hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1233990/swagger-ui-for-compass?tab=overview\u0026hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1233990/swagger-ui-for-compass?tab=overview\u0026hosting=cloud",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1233993/gitlab-for-compass?tab=overview\u0026hosting=cloud": {
@@ -1830,10 +1670,6 @@
         },
         "https://marketplace.atlassian.com/apps/1234690/data-manager-clients-for-jsm-assets?hosting=cloud": {
           "ID": "https://marketplace.atlassian.com/apps/1234690/data-manager-clients-for-jsm-assets?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1234690/data-manager-clients-for-jsm-assets?hosting=datacenter": {
-          "ID": "https://marketplace.atlassian.com/apps/1234690/data-manager-clients-for-jsm-assets?hosting=datacenter",
           "Type": "other"
         },
         "https://marketplace.atlassian.com/apps/1235122/event-sign-up-for-confluence?hosting=cloud": {
@@ -1880,20 +1716,12 @@
           "ID": "https://trello.com/power-ups/55a5d916446f517774210006/google-drive",
           "Type": "other"
         },
-        "https://trello.com/power-ups/55a5d916446f517774210007/google-hangouts": {
-          "ID": "https://trello.com/power-ups/55a5d916446f517774210007/google-hangouts",
-          "Type": "other"
-        },
         "https://trello.com/power-ups/55a5d917446f517774210009/salesforce": {
           "ID": "https://trello.com/power-ups/55a5d917446f517774210009/salesforce",
           "Type": "other"
         },
         "https://trello.com/power-ups/55a5d917446f51777421000a/slack": {
           "ID": "https://trello.com/power-ups/55a5d917446f51777421000a/slack",
-          "Type": "other"
-        },
-        "https://trello.com/power-ups/55a5d917446f51777421000b/twitter": {
-          "ID": "https://trello.com/power-ups/55a5d917446f51777421000b/twitter",
           "Type": "other"
         },
         "https://trello.com/power-ups/55a5d917446f51777421000c/mailchimp": {
@@ -1904,36 +1732,12 @@
           "ID": "https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker",
           "Type": "other"
         },
-        "https://trello.com/power-ups/568c1415eeaeb62f5a43aa01/giphy": {
-          "ID": "https://trello.com/power-ups/568c1415eeaeb62f5a43aa01/giphy",
-          "Type": "other"
-        },
-        "https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey": {
-          "ID": "https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey",
-          "Type": "other"
-        },
         "https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk": {
           "ID": "https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk",
           "Type": "other"
         },
-        "https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields": {
-          "ID": "https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields",
-          "Type": "other"
-        },
         "https://trello.com/power-ups/57b47fb862d25a30298459b1/card-repeater": {
           "ID": "https://trello.com/power-ups/57b47fb862d25a30298459b1/card-repeater",
-          "Type": "other"
-        },
-        "https://trello.com/power-ups/586be36326cc4c7e9f70beb3/jira": {
-          "ID": "https://trello.com/power-ups/586be36326cc4c7e9f70beb3/jira",
-          "Type": "other"
-        },
-        "https://trello.com/power-ups/586be37142f94dc0871fbcbb/confluence-cloud": {
-          "ID": "https://trello.com/power-ups/586be37142f94dc0871fbcbb/confluence-cloud",
-          "Type": "other"
-        },
-        "https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud": {
-          "ID": "https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud",
           "Type": "other"
         },
         "https://trello.com/power-ups/58dd18bdccfca7af8311792e/card-snooze": {
@@ -1948,10 +1752,6 @@
           "ID": "https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me",
           "Type": "other"
         },
-        "https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-": {
-          "ID": "https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-",
-          "Type": "other"
-        },
         "https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards": {
           "ID": "https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards",
           "Type": "other"
@@ -1961,18 +1761,6 @@
         "https://marketplace.atlassian.com (Website)": {
           "ID": "https://marketplace.atlassian.com (Website)",
           "Type": "website"
-        },
-        "https://marketplace.atlassian.com/apps/1220442/halp-two-way-slack-integration-for-jira?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1220442/halp-two-way-slack-integration-for-jira?hosting=cloud",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1220442/halp-two-way-slack-integration-for-jira?hosting=server": {
-          "ID": "https://marketplace.atlassian.com/apps/1220442/halp-two-way-slack-integration-for-jira?hosting=server",
-          "Type": "other"
-        },
-        "https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud": {
-          "ID": "https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud",
-          "Type": "other"
         },
         "https://trello.com/power-ups/*": {
           "ID": "https://trello.com/power-ups/*",
@@ -1995,7 +1783,7 @@
           "Type": "website"
         }
       },
-      "Hash": "a3c0abefed760f4198763709ff61367ddebf37962c7b5cdba925d8f2de7cabd5"
+      "Hash": "ecdb238e6828094c0e486b83eb0bdc445eb75c8c09cf528cb4b599cf334527b1"
     },
     "bc:Aurory Managed Bug Bounty Engagement (Public)": {
       "Key": "Aurory Managed Bug Bounty Engagement (Public)",
@@ -18804,7 +18592,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "a59934f33a6ede849e858a811410a4edd96748bcdfb0d255c9daf47dad9509b3"
+      "Hash": "b60649b97498ebfb218f25c67ca145dab0433fa6dc3bf84fd4d408458ae19c9f"
     },
     "h1:6sense-vdp": {
       "Key": "6sense-vdp",
@@ -24144,7 +23932,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "e9a72d05f3b514d2c43bd84e7d23f3c1fea811d8b6fb4eb7aaccf102a80bfd01"
+      "Hash": "356e830c9e86a1ba922bf3263d76805fde608e3626e96d9a38daa6dc8c234577"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -27797,7 +27585,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "588d720885a8bb3ce6a53a992315c77c27fe91c6858451d65708a4f5dbdcc4e4"
+      "Hash": "33c46490930ed5f07ec6d6d3bc2524e1864db681214e39f9e4fd4e8bee2371c8"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -27947,8 +27735,21 @@
           "Type": "URL"
         }
       },
-      "OutScope": {},
-      "Hash": "5b4e59178a977f35dfe18a21a97591a92a069c55433f518322fbee3db58072ca"
+      "OutScope": {
+        "community.arc.io": {
+          "ID": "community.arc.io",
+          "Type": "URL"
+        },
+        "explorer.arc.io": {
+          "ID": "explorer.arc.io",
+          "Type": "URL"
+        },
+        "help.arc.io": {
+          "ID": "help.arc.io",
+          "Type": "URL"
+        }
+      },
+      "Hash": "316b4035a9ed4efc996751b2413cba4b8f8090d0b72aee387cbce22d4c9a7b88"
     },
     "h1:arkadiyt-projects": {
       "Key": "arkadiyt-projects",
@@ -91214,7 +91015,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "87cd59cfddbebc2c985c933c89be31bf8228a2b0d1c3624eff44d3f3a3403610"
+      "Hash": "39d1d0d5081681816c9c8a28ff8d5fe8f51c98ddfe6e04158a3937aa2e77d2ea"
     },
     "h1:deptofdefense": {
       "Key": "deptofdefense",
@@ -96018,7 +95819,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7b7bcef705f7276c5ce6afc3e129c23700e19402b7152982004c1ded153c1618"
+      "Hash": "7b037a27f2aee82a1284ef672254eac24e4733a78b8b86e649866e8b4b4c504b"
     },
     "h1:disney": {
       "Key": "disney",
@@ -147848,7 +147649,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f848a341ac31c7b765151364e647a2e7c9bed4418070016da5cb96fb070a459a"
+      "Hash": "85ddd64410bf87b5d12d1e4a62fd8710f373ce3b8bc46e39db15b0c3b1146458"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -148697,10 +148498,6 @@
           "ID": "*.qaglobal-liquidity.gs.com",
           "Type": "URL"
         },
-        "*.vennhypotheken.nl": {
-          "ID": "*.vennhypotheken.nl",
-          "Type": "OTHER"
-        },
         "GS Select iOS app": {
           "ID": "GS Select iOS app",
           "Type": "APPLE_STORE_APP_ID"
@@ -148795,6 +148592,10 @@
           "ID": "*.scripts.vennhypotheken.nl",
           "Type": "OTHER"
         },
+        "*.vennhypotheken.nl": {
+          "ID": "*.vennhypotheken.nl",
+          "Type": "OTHER"
+        },
         "18098.nextcapital.com": {
           "ID": "18098.nextcapital.com",
           "Type": "URL"
@@ -148852,7 +148653,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "980ff231dee65f3ad006636001fab770a40b483e1c1d6e05a06a49d4c7d6ec71"
+      "Hash": "5f35030eba081e827dbcad03fcec18d47babb7454f9109274da477b46d1c965c"
     },
     "h1:goodrx": {
       "Key": "goodrx",
@@ -152984,7 +152785,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a1c51b0aa19662853b31871fef61f75394457f7c7d070e7e06b3ad6a62986688"
+      "Hash": "f38a51252dcc4b26da07646d9fb67c2e2d2f02450b6ea02dd4250b986b5d57df"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -162919,6 +162720,10 @@
           "ID": "isg-component-library.deere.com/",
           "Type": "URL"
         },
+        "isg-digital-context-extraction-mcp.isg-et-tag-qual-floating.us.e01.c01.johndeerecloud.com": {
+          "ID": "isg-digital-context-extraction-mcp.isg-et-tag-qual-floating.us.e01.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
         "isg-op-int-ob.deere.com": {
           "ID": "isg-op-int-ob.deere.com",
           "Type": "URL"
@@ -168066,7 +167871,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6b92c0df3dcfe19623e4abfb3a396aba7c94f4ff08946315ec96c11d590f8d02"
+      "Hash": "a3ad05ddebcf33c35503ddfc0af9fe16d11253f9c3079846229d31a72e1b19c4"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -169922,7 +169727,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2dee53aa6aa8c02118a7a51541b78383f23c9d4ab71e34a68a21eebde5841590"
+      "Hash": "d1774db090f7482027a9e6847a05a8d8814ef9c4ebedf2a2cc6fcb66cec1c458"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -170404,7 +170209,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "b9e6e7aada78c771e7cc74899f8fadd95f8e49648660fff0e14311ef2044d51c"
+      "Hash": "bfd2ead56f4ee6668d80dfca16784f9f79e7c360f31f46906d260e602db2e0c8"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -180088,7 +179893,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "477520bf3e0d9b24ba4134a0d3d6e7342e496117e74ba2d757ce75090afe2aed"
+      "Hash": "450d656771ca78eba979c1e57f7217976bfb97c1a3ec0a05eaa8de2b1e6794e9"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -184560,7 +184365,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "370f3236ee31b5921f9023fc2ca018a8b222994791c7656f87483e3b03069367"
+      "Hash": "750ad158c563423a4b8bdfe8211954f1b9ee42aaededb1f476dd97444c5cce0c"
     },
     "h1:planet-labs": {
       "Key": "planet-labs",
@@ -185633,7 +185438,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f5a30b31ea5d31deab133e34787a1556a5b8babb1501a5b1e75c53012d8b72cb"
+      "Hash": "dec9768198e2782080150dc5b7e0bc9abb6bc0c270de92c3052742870f88c53f"
     },
     "h1:publitas": {
       "Key": "publitas",
@@ -187268,7 +187073,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "7a4c461c7a8bd20c336c930d6e4b2df65c18529fde0e61236a63631cec20f4c0"
+      "Hash": "b7260c194cdff8e41f0c60dea1ee331f48a29fe44e66c97957e0395291775af7"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -189951,7 +189756,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c8c2ace5c465274f3b2103375db7d801a8adb46c33e2a57270e9c223272b3273"
+      "Hash": "5796f83732ae80eb4236bb7b63879a803208b593ab51f6358d44155ce459b41a"
     },
     "h1:sony": {
       "Key": "sony",
@@ -191356,7 +191161,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d61ba928bb9a63cf7bba6d13f202777080e72a47ca88930a8f3d69b881a03ad0"
+      "Hash": "4f2d4d94d38cea162c01b8b75d21654eb851df196c53bf3abdb0ea67cde7fa1d"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -192078,7 +191883,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4af7f97315c1f68f43a277795369be850a4305374ddc4abc5848136ae7adfb8b"
+      "Hash": "ca8246e8ee22e93c46b77d73748d4c31bd5a6923c150d55a23a55e5f8f86b380"
     },
     "h1:toolsforhumanity": {
       "Key": "toolsforhumanity",
@@ -193586,7 +193391,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bc686d8a9548d134cc5f8926b2d8e016bcda9b15f758d4dbb49e6a62e8fc7fb6"
+      "Hash": "294bbacea79989c98a0fef04ee337ab12c2dfab0ec5de7196ce3a64db1e3c5b0"
     },
     "h1:uber": {
       "Key": "uber",
@@ -193688,7 +193493,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5937bf5a7490f036c2b3fcdde52e502d1e10ac23312e71af2ad6e5ddb0fc5422"
+      "Hash": "4d954f06075937efe074574923369f4728fc14ef0fc064a79e6b6cc97d59178e"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -194587,7 +194392,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "be3f1ffd75846d3da5d152daa8a6ae3f75b3f1100b473c74025743868314177f"
+      "Hash": "b107d6bf645b352cf8a274c168984e8ac21cf0ab96696104d7d43a81a53b37d8"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -197050,7 +196855,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9b6b78ea523bfaad3b9548288b21caad96997861ae36968c5e69f4267fda1850"
+      "Hash": "5508a6d6a8c99e26682c62e54c7ea5b574a13d36524f5d460ecae0092274ea23"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -197116,7 +196921,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b25534b694c0ffa6002924147ec55f6585b258d1597b1f7d3553689df72f6665"
+      "Hash": "5b079cc831f8a376db5ec35e9b4ff8f253b94a921227c69e86e5d3f548fa8924"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
@@ -198055,7 +197860,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cb61e6ffbe98d66aefd33933dbc8082f0cb37d0634374e2fab204bc0c212ae34"
+      "Hash": "c20d874d6eef565e7dc10fcee0dae9b9fda08b9e87062f3151de2e6a4cee9980"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -206563,47 +206368,6 @@
         }
       },
       "Hash": "53d37d7307cb96791970030cf034899ac2872abac47b7f83fd3e2efaf79e1e16"
-    },
-    "in:c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e": {
-      "Key": "c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e",
-      "Name": "Venly",
-      "URL": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-      "InScope": {
-        "api-wallet-sandbox.venly.io": {
-          "ID": "api-wallet-sandbox.venly.io",
-          "Type": "url"
-        },
-        "api-wallet.venly.io": {
-          "ID": "api-wallet.venly.io",
-          "Type": "url"
-        },
-        "api.arkane.network": {
-          "ID": "api.arkane.network",
-          "Type": "url"
-        },
-        "connect.arkane.network ": {
-          "ID": "connect.arkane.network ",
-          "Type": "url"
-        },
-        "connect.venly.io": {
-          "ID": "connect.venly.io",
-          "Type": "url"
-        },
-        "login.arkane.network": {
-          "ID": "login.arkane.network",
-          "Type": "url"
-        },
-        "login.venly.io": {
-          "ID": "login.venly.io",
-          "Type": "url"
-        },
-        "wallet.venly.io": {
-          "ID": "wallet.venly.io",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "ea8b482a765a30cb3b435286d5a943e795c63c5a4e9d7c1cdb44f1d51096498e"
     },
     "in:c7272420-0cef-4366-87d2-278c06591799": {
       "Key": "c7272420-0cef-4366-87d2-278c06591799",
