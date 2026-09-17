@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-17T10:23:37Z",
+  "captured_at": "2026-09-17T15:17:32Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -3706,6 +3706,10 @@
           "ID": "https://stp.wien.gv.at/geoserverneuogd/*",
           "Type": "website"
         },
+        "https://www.geschichtewiki.wien.gv.at": {
+          "ID": "https://www.geschichtewiki.wien.gv.at",
+          "Type": "website"
+        },
         "https://www.wien.gv.at/advuew/*": {
           "ID": "https://www.wien.gv.at/advuew/*",
           "Type": "website"
@@ -3715,7 +3719,7 @@
           "Type": "website"
         }
       },
-      "Hash": "09a05be75d03cc805ff88fa8a3c7e36759cd03e36277910a80d3ed9cb4f0a094"
+      "Hash": "60d27043bc40e04948c0effa68a954a68e632e2f017ab39af70a5485050bf9d3"
     },
     "bc:ClassDojo": {
       "Key": "ClassDojo",
@@ -18600,7 +18604,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "ab03a0fd6625f8b081085796db50c03b7db2ac51a175cfa691d3b391b9c20fc8"
+      "Hash": "b5a0360bcec225b88aad0d65429cbc77561a7bb8f48d00d39b4da62285a78906"
     },
     "h1:6sense-vdp": {
       "Key": "6sense-vdp",
@@ -27815,7 +27819,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a44f09998930ecceea9e941cc15ed107af836aefe5f7fd60ecaa5b5246bd07cc"
+      "Hash": "a5dd8282cdbfe5765e2b39654d526260a2c3563cd77ea329792d1be974133191"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -30691,7 +30695,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "39da513d10d4c1931a1a9ed7e79137fd692271f03dae6f4cc468d5c182eaee07"
+      "Hash": "3e98263e1617330e03d75773b5377c384941b1d73946eb349211a2d29c16c7c2"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -95810,7 +95814,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8adaf01ead05359017dd50543c19b017bdefa72b389c2ad90c3486be1bdd3541"
+      "Hash": "71da09f14ce6cfcd22129b6ccd4942a4d2cdf5b4a913d0227ecfb4ed6a76adb1"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -103641,7 +103645,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1ff928e67cf787f00c4bddc2756ed9b12f55ee69eb61e2f37ed8155ce164b8b7"
+      "Hash": "6819c7ef8ba8639361407974ae193cdfc004ea4abf4e4d61f15030c830b8e47c"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -104236,6 +104240,14 @@
           "ID": "*.expediapartnersolutions.com",
           "Type": "WILDCARD"
         },
+        "*.expediataap.com": {
+          "ID": "*.expediataap.com",
+          "Type": "WILDCARD"
+        },
+        "*.expediataaprewards.com": {
+          "ID": "*.expediataaprewards.com",
+          "Type": "WILDCARD"
+        },
         "*.fewo-direkt.de": {
           "ID": "*.fewo-direkt.de",
           "Type": "WILDCARD"
@@ -104490,7 +104502,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "44fc908c727cf221be4412f343e6c17ec67f9053a69fc9638acd4db8f1627ce4"
+      "Hash": "253151651505cb81333be0f60df1c66eb143e4a2f8eb4abf33148dd3c79a0705"
     },
     "h1:experian": {
       "Key": "experian",
@@ -104528,6 +104540,14 @@
         }
       },
       "Hash": "87991d723eee5cddd7b73ae19619d9bd80412e4ebf9d49e2118112e06727b7d3"
+    },
+    "h1:expressionengine": {
+      "Key": "expressionengine",
+      "Name": "ExpressionEngine",
+      "URL": "https://hackerone.com/expressionengine",
+      "InScope": {},
+      "OutScope": {},
+      "Hash": "c03a6224d0134234a3452d5c570bc0b420587e105d625b477106e21d94f8b611"
     },
     "h1:fanduel": {
       "Key": "fanduel",
@@ -106996,7 +107016,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4873d4375c9c62ce44762b0c3d60b1ca70bce3ec776e495ab6cf5b524b8f256b"
+      "Hash": "1383c120197f648a8b70c5ff0b2f296e5843964bb3f414bc1cbf08c37110f859"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -146484,7 +146504,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "94882cd76116ac4f6aea312c8eb37098fb66d41688f636033d26192dce21ae89"
+      "Hash": "22b794f52f415f3dbcf8b53ea7261cae12206a89e7c4f5d1526b13a8b23560cb"
     },
     "h1:flutteruki": {
       "Key": "flutteruki",
@@ -151909,7 +151929,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9048c200680951c8b09a972a5a46eed3f8598c048be119a37643c54065561311"
+      "Hash": "c640880b6efe99da7b5a10288d0045a8c428d0d2d77fbb01b2e96a6e0ca21bd3"
     },
     "h1:hypr-corp": {
       "Key": "hypr-corp",
@@ -152528,7 +152548,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d81290a4ce2c0f119e943d536219321bd7effd4ac207c0e58508c9f74c18d88a"
+      "Hash": "9358f094c9242faded421f9c3ffb32b3774bb35a941ffa25dfb59b4647c490c9"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -152642,7 +152662,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "528ac1ada44cff55dbaf2b8a9f7e09311d54aae7216893900d60534518fd5e3e"
+      "Hash": "671265de481409c21febdbc185c800c73b171e3ea72b21244d16cc4beef5b266"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -169529,7 +169549,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cf98affa2902ec2af558da4c48627aa44ea56ada9aad2e01e5adf6e6b8d28839"
+      "Hash": "048989306d9f7ad036c61fc4d39d93372b7f701039e03744536facbe22f23654"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -170671,7 +170691,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b6ebc9aefb75c4f9ad961e60850aa0ba5cd6a69b5eb0ef30d9e3885ffdf93a2f"
+      "Hash": "6d6e8c2f8267695efbad4ef11094466f580217aceb042268ff3db6cc2e613e60"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -173465,7 +173485,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7bf1a81c792a4212d13c65879459bb22d8a8c93d94d1935ae9108e789e93e06c"
+      "Hash": "9753b3be8b077e3126ce40cc22ca9b90835f4d958ad5c802bb8752d6ed054a93"
     },
     "h1:monarch_money": {
       "Key": "monarch_money",
@@ -183018,7 +183038,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d20e5e1d7154c1bd0d5df3caba96a5dd69e248bc2476c3d5b708df597c1a4b5a"
+      "Hash": "d7de292fd89be9e6d8ab9e01c38bfc27d10679f2da6f203f48d7a36362c07367"
     },
     "h1:pepsico_vdp": {
       "Key": "pepsico_vdp",
@@ -183935,7 +183955,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "642447656b24a3b187c3911a25cf2ef21a53821c531e9229297ca6b137e204fe"
+      "Hash": "6a62a602df1aceabc874aaa6c01cc9eb85e641edf654a2805ab1b5d21d9cbb43"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -188000,7 +188020,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "77205c5441aba378b209b94dde67df51204e80e7018723669f8cf6f2771e09e3"
+      "Hash": "7b614c3e9a83ecfcf75dccff475a3665200d39c6bbf96c3ed4a64d4fa1c812f9"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -188632,7 +188652,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cead69eb8a5bd1925b2ffbe82e8a2cd28797892b454ad62035b00276221ed6a4"
+      "Hash": "398997299eb1f62a802640dcf4cf66b1549d93a928b4fe2f9c1de296d3ee9aca"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -188837,7 +188857,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "fd77e6bf54623afffb23bace9590caf602666005ec2def4941525a87809265c5"
+      "Hash": "823aff68045e3c5aa2b051d5b4eec3bf1823923f6afb255818345123a840c14e"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -192946,7 +192966,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "eaec5977b867195fe86f51b1670c76b4fa73308a48f42d272f1084881b3d3875"
+      "Hash": "ac23871ca81c792a26889996d65ab6f69561a8789565ba6561adc1285bff5b73"
     },
     "h1:tron_dao": {
       "Key": "tron_dao",
@@ -194747,7 +194767,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9379a2d35643ab8903c125d040ea19a482d1360fdc9de959c3367652383706d8"
+      "Hash": "a5819e9e4e9a361990f7c5dd7ae71d46d5c21821420e3f701f452d4f7595998a"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -196635,7 +196655,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a5c6a41fd0b3faae9455a8c1aa036f3e1f6fcd3d38ae070372cb1fe526bf3e55"
+      "Hash": "ce72ee5dd62c1ef4ac58f8a10547d03433584a616ede3eb32020c849b9577fea"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -197611,7 +197631,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7b92fa3b03c735da11683115dcb7424ab14497724a1960ea116ee6392f02b75d"
+      "Hash": "3c143eda43cf7ad1d90ea8c2ede63a88dd3c18050d2fbda1f1f2fe5a7877e95f"
     },
     "h1:xvideos": {
       "Key": "xvideos",
@@ -197868,7 +197888,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "76fdf7cd33aa40d5bc7661c68b95e67816e8311c182d9458ab660f6ce62a1c99"
+      "Hash": "452d2f1d24146d51e749e3741b2e7d8343843be8baef4b744eea9db990ae4b2a"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -207632,6 +207652,200 @@
       },
       "OutScope": {},
       "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
+    },
+    "in:ed04d1ef-1aa3-49dd-92f1-06f50f9756b9": {
+      "Key": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
+      "Name": "TrueLayer",
+      "URL": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "InScope": {
+        "*.truelayer.cloud": {
+          "ID": "*.truelayer.cloud",
+          "Type": "wildcard"
+        },
+        "*.truelayer.com": {
+          "ID": "*.truelayer.com",
+          "Type": "wildcard"
+        },
+        "*.truelayer.io": {
+          "ID": "*.truelayer.io",
+          "Type": "wildcard"
+        },
+        "C# SDK": {
+          "ID": "C# SDK",
+          "Type": "other"
+        },
+        "Java SDK": {
+          "ID": "Java SDK",
+          "Type": "other"
+        },
+        "PHP SDK": {
+          "ID": "PHP SDK",
+          "Type": "other"
+        },
+        "React Native SDK": {
+          "ID": "React Native SDK",
+          "Type": "other"
+        },
+        "Rust SDK": {
+          "ID": "Rust SDK",
+          "Type": "other"
+        },
+        "TrueLayer for Magento (Magento plugin)": {
+          "ID": "TrueLayer for Magento (Magento plugin)",
+          "Type": "other"
+        },
+        "TrueLayer for WooCommerce (WordPress plugin)": {
+          "ID": "TrueLayer for WooCommerce (WordPress plugin)",
+          "Type": "other"
+        },
+        "Web SDK": {
+          "ID": "Web SDK",
+          "Type": "other"
+        },
+        "api.mtls.truelayer[-sandbox].com": {
+          "ID": "api.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "api.truelayer[-sandbox].com": {
+          "ID": "api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "app.truelayer[-sandbox].com": {
+          "ID": "app.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.mtls.truelayer[-sandbox].com": {
+          "ID": "auth.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.truelayer[-sandbox].com": {
+          "ID": "auth.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console-backend.truelayer[-sandbox].com": {
+          "ID": "console-backend.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console.truelayer[-sandbox].com": {
+          "ID": "console.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "iOS SDK": {
+          "ID": "iOS SDK",
+          "Type": "other"
+        },
+        "login-api.truelayer[-sandbox].com": {
+          "ID": "login-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "login.truelayer[-sandbox].com": {
+          "ID": "login.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "onboarding-api.truelayer.com": {
+          "ID": "onboarding-api.truelayer.com",
+          "Type": "url"
+        },
+        "pay-api.truelayer[-sandbox].com": {
+          "ID": "pay-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "pay.truelayer[-sandbox].com": {
+          "ID": "pay.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "paydirect.truelayer[-sandbox].com": {
+          "ID": "paydirect.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payment.truelayer[-sandbox].com": {
+          "ID": "payment.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payments-experience-api.truelayer[-sandbox].com": {
+          "ID": "payments-experience-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "sftp.reports.truelayer.com": {
+          "ID": "sftp.reports.truelayer.com",
+          "Type": "url"
+        },
+        "shop-pay-app-api.truelayer.com": {
+          "ID": "shop-pay-app-api.truelayer.com",
+          "Type": "url"
+        },
+        "shopify-admin.truelayer.com": {
+          "ID": "shopify-admin.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer-signing": {
+          "ID": "truelayer-signing",
+          "Type": "other"
+        },
+        "user-authentication-api.truelayer[-sandbox].com": {
+          "ID": "user-authentication-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "users-api.truelayer.com": {
+          "ID": "users-api.truelayer.com",
+          "Type": "url"
+        },
+        "webhooks.truelayer[-sandbox].com": {
+          "ID": "webhooks.truelayer[-sandbox].com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "banks.truelayer.com": {
+          "ID": "banks.truelayer.com",
+          "Type": "url"
+        },
+        "careers.truelayer.com": {
+          "ID": "careers.truelayer.com",
+          "Type": "url"
+        },
+        "docs.houston.truelayer.com": {
+          "ID": "docs.houston.truelayer.com",
+          "Type": "url"
+        },
+        "docs.truelayer.com": {
+          "ID": "docs.truelayer.com",
+          "Type": "url"
+        },
+        "https://truelayer.com/contact/": {
+          "ID": "https://truelayer.com/contact/",
+          "Type": "url"
+        },
+        "index.truelayer.com": {
+          "ID": "index.truelayer.com",
+          "Type": "url"
+        },
+        "info.truelayer.com": {
+          "ID": "info.truelayer.com",
+          "Type": "url"
+        },
+        "signin.truelayer.com": {
+          "ID": "signin.truelayer.com",
+          "Type": "url"
+        },
+        "status.truelayer.com": {
+          "ID": "status.truelayer.com",
+          "Type": "url"
+        },
+        "support.truelayer.com": {
+          "ID": "support.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer.zendesk.com": {
+          "ID": "truelayer.zendesk.com",
+          "Type": "url"
+        },
+        "trust.truelayer.com": {
+          "ID": "trust.truelayer.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "7a2d0cc76bc6ebd6a98c958be9db862155e3f0590e73ca1efa314cee5b156d4d"
     },
     "in:ee2612e7-e188-492f-9bb2-ba48651523de": {
       "Key": "ee2612e7-e188-492f-9bb2-ba48651523de",
