@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-17T19:14:01Z",
+  "captured_at": "2026-09-17T22:24:30Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -18625,7 +18625,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "04ff80ec1780a742ff3e8e91cf0712f23ea7cf83a305a09dcdbb3a5ac4cb1fb1"
+      "Hash": "757ee5253d3173af0e1563b7809431ad7b055149cee94ee1ad06453c2638e270"
     },
     "h1:8x8-bounty": {
       "Key": "8x8-bounty",
@@ -24083,7 +24083,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d2888b0f082304b2d1c1ece667c46248633476b9ad7cd6d22cb2b3cb4b74401a"
+      "Hash": "ae3d24f5c1efdc982cdabe1024c8f8d423bcdb8a137bf0dd414d97ed0899ad52"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -27972,7 +27972,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "edb4db505b8d27309842555c099a6098a9e748f7536dfa9ef9b523019c747580"
+      "Hash": "07e5c0fddc1e6a58e0ad48a13f3d8bb5f6353e94d1a60edb26748052be9ea39f"
     },
     "h1:att": {
       "Key": "att",
@@ -31570,7 +31570,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8afaad6cf5a3974be46984afe1dbbf24b12f4ebdf972c3082af7ddc6659f6fb8"
+      "Hash": "b46c8a83033a31b00de59b6e659933f68616d5f7f26510d297ea9fa02bd6193c"
     },
     "h1:bose_vdp": {
       "Key": "bose_vdp",
@@ -32446,7 +32446,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "de0c8821ca995edf57b30023b059948ba3db374e70c1883ea2693bc4323a8f2c"
+      "Hash": "0a6b28178da786ada12cd29cde8e9cff99fdd6067bc1d870f349aa50f186bd5b"
     },
     "h1:capital-one-bounty": {
       "Key": "capital-one-bounty",
@@ -88035,7 +88035,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fc370616b18d8eb894965c7e2f48acfc0854ae336186daedb245984eec5ebf0f"
+      "Hash": "6296620a3a172f6cda959af6e14828ea83037b552f4a61b363b0777e37255ac8"
     },
     "h1:cloudflare": {
       "Key": "cloudflare",
@@ -107040,7 +107040,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1383c120197f648a8b70c5ff0b2f296e5843964bb3f414bc1cbf08c37110f859"
+      "Hash": "72215d1511307548df8b0363a89e9767116a479a68ea1d0d428c2b72feb11841"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -147449,7 +147449,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "79ba8c82551432c9c732c92039c51882fa9104580fecbc259466d57bdc911426"
+      "Hash": "a82797d94bc336b07988656a698b88779b62816b14f04cb93a3ace6ef4814e5f"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -149065,7 +149065,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bb908805a82ca2c21ca7321af49a5c17b0881e18e7e53f14a9fa963b060bae91"
+      "Hash": "220ee0f97ae976dc36a2b33d8c2fe579a0f9f7739ac15f613737362bb769fe29"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -150604,7 +150604,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4a88cefa1629cbd45b7d5ec15afb80a14acf7816161fef2fc76c7b5c1e6d4f50"
+      "Hash": "b4079226dbbf92c69bc1778e0ebfb32aa7332c375669733e6bfade32ba1f836d"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -170715,7 +170715,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b6ebc9aefb75c4f9ad961e60850aa0ba5cd6a69b5eb0ef30d9e3885ffdf93a2f"
+      "Hash": "6d6e8c2f8267695efbad4ef11094466f580217aceb042268ff3db6cc2e613e60"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -171762,7 +171762,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3c2bea4bfdd297dfef679a42b3322cfee0c5f6dd130af6772031b09d969e62d7"
+      "Hash": "e40104b5e838b0101bf8dd72ac9114e0a2f875c37a2535aa3862847534adb86b"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -172360,7 +172360,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "24e307ad60eb3cae04dd58c2808d1dd832ad5842f5bba88e824315b33d095c6a"
+      "Hash": "892e4ebd608260b9be0d9f23cdee72f754a9b4c99c2041ab8216b1861cac64c4"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -180234,7 +180234,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ff9bde6b49e1c8d8cc7ddcf94164b24d1191f264be433632a9ae7c92109c0ac4"
+      "Hash": "fdf387688d92227ec2c98ea9dc167d31311621d3663cd1e5d16f35ba60550b7d"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -182687,7 +182687,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d63d501313faefd6d8ddc5674c71ed084cef718de57bb3625321e3132a97fe20"
+      "Hash": "ac11056001ac73fbc611b617013738dc38a5d031eb6234cccec80afe1d83d530"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -183979,7 +183979,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6a62a602df1aceabc874aaa6c01cc9eb85e641edf654a2805ab1b5d21d9cbb43"
+      "Hash": "96de07794f91c4af6015af0c8a4072ac0c7d8c92c6d9c56a0ae53202ce99c1e3"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -185402,7 +185402,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9cf5f6ad72412f79d69ac79315d77a5ff69ea1282a93eeb20afc1141c0e0e74f"
+      "Hash": "5fabb9b83c8555f5ce3a5fb058d23858cee926c29d685158d186685aac157689"
     },
     "h1:productboard": {
       "Key": "productboard",
@@ -187974,7 +187974,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "668ee5ac6abc09081aecd36e561d985405e59fc2fb1fa16c75cf8d8fc44900c6"
+      "Hash": "ffbf7318e7c9d445f091431511b2a10436c2534d833476dffd14a50719971f09"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -188044,7 +188044,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "27447d47e3fab1706efd93f923f10345a84cbdaef0312d554bcc493929fc4771"
+      "Hash": "482d7b7c0a782202ad2da6fce58357284ca2b2fd5ca95195fcc33995b9ea4ea3"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -192079,7 +192079,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "37994aa3eb10ca6dcc1c37058a25f1d8e7129287a8b590336e9d7f819aee5ee8"
+      "Hash": "cd392f01dac7da36c79840f0e315538627213987057fd969e3c292d35ae10994"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -192814,7 +192814,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "64f8c8a4f890fcb440162250d12cb3cf45420a35417303ead15e3a3524a7c780"
+      "Hash": "f727d7537b1ef0fbd9e9859b785a32ea231d82e3131903c94560b6ed1c5d6165"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -193061,7 +193061,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6d2380f9aeff0b784533fad6ae19154224817ac03e501fed74731b6f2c5f86fb"
+      "Hash": "2c839d71972004adb6f9db4d92e39209a0a2b90b99fabd171c78f089517bb563"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -193545,7 +193545,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "779ea64539abb9fd319dc8d474d40477a09da6e2517f066c0410cc27ae6d54d0"
+      "Hash": "4d379f26d5210d92f9b1ed1e232d44fc9ffcba1c1a2fbb6ebfe7b364f756436b"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -194030,12 +194030,60 @@
           "ID": "https://www.windstream.com/gokinetic",
           "Type": "URL"
         },
+        "kineticbusiness.com": {
+          "ID": "kineticbusiness.com",
+          "Type": "URL"
+        },
+        "kineticfibernow.com": {
+          "ID": "kineticfibernow.com",
+          "Type": "URL"
+        },
+        "kineticinternetdeals.com": {
+          "ID": "kineticinternetdeals.com",
+          "Type": "URL"
+        },
+        "kineticwholesale.com": {
+          "ID": "kineticwholesale.com",
+          "Type": "URL"
+        },
         "my.gokinetic.com": {
           "ID": "my.gokinetic.com",
           "Type": "URL"
         },
+        "officesuite.live": {
+          "ID": "officesuite.live",
+          "Type": "URL"
+        },
+        "officesuiteuc.com": {
+          "ID": "officesuiteuc.com",
+          "Type": "URL"
+        },
         "paetec.net": {
           "ID": "paetec.net",
+          "Type": "URL"
+        },
+        "slfiber.com": {
+          "ID": "slfiber.com",
+          "Type": "URL"
+        },
+        "southernlightfiber.com": {
+          "ID": "southernlightfiber.com",
+          "Type": "URL"
+        },
+        "unitifiber.com": {
+          "ID": "unitifiber.com",
+          "Type": "URL"
+        },
+        "unitisolutions.com": {
+          "ID": "unitisolutions.com",
+          "Type": "URL"
+        },
+        "unititest.com": {
+          "ID": "unititest.com",
+          "Type": "URL"
+        },
+        "unititowers.com": {
+          "ID": "unititowers.com",
           "Type": "URL"
         },
         "unitiwholesale.com": {
@@ -194052,6 +194100,10 @@
         },
         "windstreamenterprise.com": {
           "ID": "windstreamenterprise.com",
+          "Type": "URL"
+        },
+        "windstreamenterprise.net": {
+          "ID": "windstreamenterprise.net",
           "Type": "URL"
         },
         "windstreamwholesale.com": {
@@ -194093,7 +194145,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "1e100f7a0354ccf5c7dd174ec5afa7271c31aa62cea7835c2b69c90ec6def95d"
+      "Hash": "09919784a77f33789ea7298c463efcf3090f151803605c88b65279b835f5a2ef"
     },
     "h1:ups": {
       "Key": "ups",
@@ -203132,6 +203184,31 @@
         }
       },
       "Hash": "312e8f17b873a7e72d90067c977bdc0710a4f8a71a6007d77364b81cde36aec5"
+    },
+    "in:7c46a970-eb8d-48b9-aa11-b52198f763c4": {
+      "Key": "7c46a970-eb8d-48b9-aa11-b52198f763c4",
+      "Name": "Intel® Vulnerability Disclosure Program ",
+      "URL": "https://www.intigriti.com/programs/intel/intelvulnerabilitydisclosureprogram/detail",
+      "InScope": {
+        "Firmware": {
+          "ID": "Firmware",
+          "Type": "other"
+        },
+        "Hardware": {
+          "ID": "Hardware",
+          "Type": "other"
+        },
+        "Services": {
+          "ID": "Services",
+          "Type": "other"
+        },
+        "Software": {
+          "ID": "Software",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "807071c7947aa4f1417ac0a5c30f915e6725e34122844fd775aebbe84a47c4cd"
     },
     "in:7ce36749-76cb-44f7-8231-082994146600": {
       "Key": "7ce36749-76cb-44f7-8231-082994146600",
