@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-17T00:28:28Z",
+  "captured_at": "2026-09-17T05:18:27Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -26543,7 +26543,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d36622de695e1f7ea7f05fe0b66da470ce5c961a2b8fcfac25ee3b0ec5d8e20e"
+      "Hash": "299dca18964c9e35ac4d1c0dbfcb6b5946e7e41d2473ab61c0933eae0c2da055"
     },
     "h1:aon": {
       "Key": "aon",
@@ -88859,7 +88859,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "82ad47d3f48d5790f4d5173e28527f137a71a7d2711416d920e243f063d688fb"
+      "Hash": "2ed86604e95f942e71d61b7ba043fab4add9ed6a9ef64d85fb9fc85b09c866fc"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -95802,7 +95802,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "28f5b895f8a802bf47aad3482b4e720d58175b214e5363083be21ce911b7c5fd"
+      "Hash": "043ba34ec0b1eeaf1e44376ced6cd5322a350f05b270cf1afbb6a8221315d854"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -104617,7 +104617,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "27cc9065799122a2e1eb6799a77b1ba39ebe2f8216244ac10403a249d92c8167"
+      "Hash": "00019973873c2615580944871ebae8a615f5025ce1e7f5775c702e7e7d33d1e0"
     },
     "h1:fanduel-vdp": {
       "Key": "fanduel-vdp",
@@ -147649,7 +147649,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f848a341ac31c7b765151364e647a2e7c9bed4418070016da5cb96fb070a459a"
+      "Hash": "85ddd64410bf87b5d12d1e4a62fd8710f373ce3b8bc46e39db15b0c3b1146458"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -170692,7 +170692,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "85e183ec38f15d085461dc79c35c8759f5c72118f9bbcb8bfb9a6e6335f7879d"
+      "Hash": "25ce6e3eb7af41180fe0111b146f6d5da7e6987dba4b4f5e9327b0d7bc263c2d"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -172488,7 +172488,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "343717e2d8eac2d1938b0706a03ab58e18abd56dc602446da6e0b5394c2aead9"
+      "Hash": "fdc2213315d97987ec29780276bc574d449e9c45469fe129642a96c04183de6c"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -186566,7 +186566,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5c9bda3849992f9ea81c610b634d688bf68de7fa896eef425ce0cc2b5df12d86"
+      "Hash": "3b7a1cc8eb977481984daa39d59a31eb9400e51171c5c260bf57e0af2a55f5b4"
     },
     "h1:resmed": {
       "Key": "resmed",
@@ -188699,7 +188699,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3dfb9368462dbe6ab8cba5656393fb445275a1de36fa60e1147359dd5f3e6a33"
+      "Hash": "2dc3098a9cb2e8918b99b04e5ad96b23790f8e149a4310de9ea3f70bc41b4885"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -190092,7 +190092,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7fd629edcf730f76d27029a4d151d63a6b783f2b8bafc6595d530beba396e9d"
+      "Hash": "b9a2c1c15e134ae1f56c1d41d5709dd98d62af8b708f08f794d4e05f94ae120b"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -195109,16 +195109,8 @@
           "ID": "*.cloud.vimeo.com",
           "Type": "WILDCARD"
         },
-        "*.livestream.com": {
-          "ID": "*.livestream.com",
-          "Type": "WILDCARD"
-        },
         "*.magisto.com": {
           "ID": "*.magisto.com",
-          "Type": "WILDCARD"
-        },
-        "*.new.livestream.com": {
-          "ID": "*.new.livestream.com",
           "Type": "WILDCARD"
         },
         "*.vhx.tv": {
@@ -195144,10 +195136,6 @@
         "493086499": {
           "ID": "493086499",
           "Type": "APPLE_STORE_APP_ID"
-        },
-        "Livestream software (Producer, Studio)": {
-          "ID": "Livestream software (Producer, Studio)",
-          "Type": "OTHER"
         },
         "VHX Branded Customer Android Apps": {
           "ID": "VHX Branded Customer Android Apps",
@@ -195181,10 +195169,6 @@
           "ID": "checkout.vimeo.com",
           "Type": "URL"
         },
-        "com.livestream.livestream": {
-          "ID": "com.livestream.livestream",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
         "com.magisto": {
           "ID": "com.magisto",
           "Type": "GOOGLE_PLAY_APP_ID"
@@ -195196,10 +195180,6 @@
         "com.vimeocreate.videoeditor.moviemaker": {
           "ID": "com.vimeocreate.videoeditor.moviemaker",
           "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "donations.livestream.com": {
-          "ID": "donations.livestream.com",
-          "Type": "URL"
         },
         "embed.vhx.tv": {
           "ID": "embed.vhx.tv",
@@ -195241,10 +195221,6 @@
           "ID": "vimeopro.com",
           "Type": "URL"
         },
-        "www.livestream.com": {
-          "ID": "www.livestream.com",
-          "Type": "URL"
-        },
         "www.vimeo.com": {
           "ID": "www.vimeo.com",
           "Type": "URL"
@@ -195265,6 +195241,14 @@
         },
         "*.email.vimeo.com": {
           "ID": "*.email.vimeo.com",
+          "Type": "WILDCARD"
+        },
+        "*.livestream.com": {
+          "ID": "*.livestream.com",
+          "Type": "WILDCARD"
+        },
+        "*.new.livestream.com": {
+          "ID": "*.new.livestream.com",
           "Type": "WILDCARD"
         },
         "*.test.magisto.com": {
@@ -195295,6 +195279,10 @@
           "ID": "Any previously owned/sold hardware",
           "Type": "HARDWARE"
         },
+        "Livestream software (Producer, Studio)": {
+          "ID": "Livestream software (Producer, Studio)",
+          "Type": "OTHER"
+        },
         "applause2.magisto.com": {
           "ID": "applause2.magisto.com",
           "Type": "URL"
@@ -195303,8 +195291,16 @@
           "ID": "billing-account.vimeo.com",
           "Type": "URL"
         },
+        "com.livestream.livestream": {
+          "ID": "com.livestream.livestream",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
         "delta.magisto.com": {
           "ID": "delta.magisto.com",
+          "Type": "URL"
+        },
+        "donations.livestream.com": {
+          "ID": "donations.livestream.com",
           "Type": "URL"
         },
         "epsilon.magisto.com": {
@@ -195382,9 +195378,13 @@
         "vimeo.atlassian.net": {
           "ID": "vimeo.atlassian.net",
           "Type": "URL"
+        },
+        "www.livestream.com": {
+          "ID": "www.livestream.com",
+          "Type": "URL"
         }
       },
-      "Hash": "a3e7bebc0bd22c40f8fb3523aeef2705f30535c32c5e5b9b19815d832f68bdc7"
+      "Hash": "4720e766ee8486e2e861e538a1b57e90fb7257a11c160ebbce9fe4d8c5fab735"
     },
     "h1:visa": {
       "Key": "visa",
