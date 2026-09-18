@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-18T21:13:12Z",
+  "captured_at": "2026-09-18T23:33:28Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23965,7 +23965,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cbb4c3722cd62c5baf218337142b69b8784c01c87b90659633c79e13274b05e9"
+      "Hash": "4477ab0baf69f16b0265df6d5b3138157b4a76084c6e5c6f6f510bc2218d380f"
     },
     "h1:aig": {
       "Key": "aig",
@@ -24315,7 +24315,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "91b93b54011ba71fe658aab51929252cdef58d164119275cb72c04db73cd1009"
+      "Hash": "49c7caad57b0b4554865762604c39f99ec38a2ebca00cce56e5d6ee07e4bd9dc"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -31682,35 +31682,6 @@
         }
       },
       "Hash": "fdb6973bd2ca048576cf41315f6e7469f0a3311b7a860daf6a0a7465aaf35502"
-    },
-    "h1:brave": {
-      "Key": "brave",
-      "Name": "Brave Software",
-      "URL": "https://hackerone.com/brave",
-      "InScope": {
-        "Brave Browser Desktop": {
-          "ID": "Brave Browser Desktop",
-          "Type": "DOWNLOADABLE_EXECUTABLES"
-        },
-        "Brave websites": {
-          "ID": "Brave websites",
-          "Type": "OTHER"
-        },
-        "com.brave.browser": {
-          "ID": "com.brave.browser",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "com.brave.ios.browser": {
-          "ID": "com.brave.ios.browser",
-          "Type": "APPLE_STORE_APP_ID"
-        },
-        "https://github.com/brave/*, https://github.com/brave-intl/*": {
-          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
-          "Type": "SOURCE_CODE"
-        }
-      },
-      "OutScope": {},
-      "Hash": "51b4478e3c52ccaf179afafb9673bc3c87be891eb0f22b4b4e82c24735c3a3c6"
     },
     "h1:braze_inc": {
       "Key": "braze_inc",
@@ -90981,7 +90952,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6765ede99891035008e67efeded283d3d9289447f7e270b8a34a940d80ab3604"
+      "Hash": "85e25df21bac17fc59685c2d3f7aaa07cff7641735091186b4a266964858aedb"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -104515,7 +104486,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "253151651505cb81333be0f60df1c66eb143e4a2f8eb4abf33148dd3c79a0705"
+      "Hash": "490c2ba383bf60e6a0859b939b397ec1c1ab01bde69064498676e761c702a29a"
     },
     "h1:experian": {
       "Key": "experian",
@@ -106987,7 +106958,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f517cbe7509fa52e7d76d182c50780c9520e217135c180ef2f4a21614afd00e7"
+      "Hash": "48c101844dc80078e9063105517e449f7f18d5d9883e4868f1c53a895528deb8"
     },
     "h1:files": {
       "Key": "files",
@@ -107053,7 +107024,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0bd4172d1e874e81c4b2603315ebc43c604615be697a3067b3b173bae47c3f2d"
+      "Hash": "84ad25a5d3c6a77539f23b0210229b098f791f2bc49fa7c9206b3988f6e53d3a"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -147714,7 +147685,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9a51883a7feb6d696579a5fd868442e21a18d8ec5381e2c1d0c8a4488337fb82"
+      "Hash": "29cd9379e8cc09f5a174b096b2bffe44e9897c7f17a5432a370459aa1294ace3"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -150433,7 +150404,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "265c48b56d8b078f8ab59babcfa688e93d85f87bb703aeaae72c3d11a0c65667"
+      "Hash": "2c6a74a6257f0a2ee0e2abc5bd2d3e369ac0e954ec6141b950374aba2982ebe3"
     },
     "h1:hex": {
       "Key": "hex",
@@ -150467,7 +150438,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b1537b9c43432e81b2e4a798ab6a052552c4dcb91d1ab3bb2d531f8cfeb45b20"
+      "Hash": "3187a4b1ad0e711ea901dd6bbfcd1829732b0e659005aad204a85745153b2226"
     },
     "h1:hilton": {
       "Key": "hilton",
@@ -170740,7 +170711,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7e452c0e237cdd4d63f28ac318a055e537e5c8966a3d40d843c2c83626310827"
+      "Hash": "13974d6062a185e123c9f20391321b4e74bb4048b90dc508d4c3b6cd89c5a5f0"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -172039,7 +172010,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "92b6a0c98e3f1bacb788edffb9ba4703856daf0b46b9193976ab447191adc94a"
+      "Hash": "4b787f238393f6a50ace22502d1c16b464d489a621e068d3d31ab1b6a0996300"
     },
     "h1:mercadolibre": {
       "Key": "mercadolibre",
@@ -189489,7 +189460,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8723e6566c6bf73b62d5562a52a00b7da9447be7c79286ccde82561c65ed1b6d"
+      "Hash": "d83c9570d94d5896d3b63df8d2e20cf91e3191dcd749061887dc8e030377c549"
     },
     "h1:slack": {
       "Key": "slack",
@@ -193048,7 +193019,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "559109495cf1dc7675403951228e472ea8e7bef6d178f8f9ed01fef54dcd5b0c"
+      "Hash": "8ef75245cfc2ebe722863c3057dd6e1fdd88ba407eb00c5d6227e588f30c42ee"
     },
     "h1:truecaller": {
       "Key": "truecaller",
@@ -193488,7 +193459,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d22fbf52b84acfa8f8c75a59c988c9bb47a7752f208d623ba52a569fc2303465"
+      "Hash": "477802bd4df25b3e0f60f8e9907773a102e29700c32ca587ba7fbe2b86329167"
     },
     "h1:uber": {
       "Key": "uber",
@@ -197004,7 +196975,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7af1156c3035b157c06dd3f845732f59659817c277a471fa6ca279dcab3a4f24"
+      "Hash": "9b6b78ea523bfaad3b9548288b21caad96997861ae36968c5e69f4267fda1850"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -202872,260 +202843,6 @@
       "OutScope": {},
       "Hash": "53b2fab1df76425b23e61269aaf51227372c6c5c9fcefbca6afd092a2fa1fd62"
     },
-    "in:768ad323-335b-4710-9370-6b81925c122f": {
-      "Key": "768ad323-335b-4710-9370-6b81925c122f",
-      "Name": "Kinepolis Group",
-      "URL": "https://www.intigriti.com/programs/kinepolis/website/detail",
-      "InScope": {
-        "*.kinepolis.be": {
-          "ID": "*.kinepolis.be",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.ch": {
-          "ID": "*.kinepolis.ch",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.com": {
-          "ID": "*.kinepolis.com",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.fr": {
-          "ID": "*.kinepolis.fr",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.lu": {
-          "ID": "*.kinepolis.lu",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.nl": {
-          "ID": "*.kinepolis.nl",
-          "Type": "wildcard"
-        },
-        "*.klubcinema.fr": {
-          "ID": "*.klubcinema.fr",
-          "Type": "wildcard"
-        },
-        "*.landmarkcinemas.com": {
-          "ID": "*.landmarkcinemas.com",
-          "Type": "wildcard"
-        },
-        "*.megatix.be  ": {
-          "ID": "*.megatix.be  ",
-          "Type": "wildcard"
-        },
-        "*.mjrtheatres.com": {
-          "ID": "*.mjrtheatres.com",
-          "Type": "wildcard"
-        },
-        "522089287": {
-          "ID": "522089287",
-          "Type": "ios"
-        },
-        "booking.mjrtheatres.com": {
-          "ID": "booking.mjrtheatres.com",
-          "Type": "url"
-        },
-        "business.kinepolis.be": {
-          "ID": "business.kinepolis.be",
-          "Type": "url"
-        },
-        "business.kinepolis.lu": {
-          "ID": "business.kinepolis.lu",
-          "Type": "url"
-        },
-        "business.kinepolis.nl": {
-          "ID": "business.kinepolis.nl",
-          "Type": "url"
-        },
-        "com.inthepocket.kinepolis": {
-          "ID": "com.inthepocket.kinepolis",
-          "Type": "android"
-        },
-        "egaming.kinepolis.es": {
-          "ID": "egaming.kinepolis.es",
-          "Type": "url"
-        },
-        "extras-acc.landmarkcinemas.com": {
-          "ID": "extras-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "extras.landmarkcinemas.com": {
-          "ID": "extras.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "https://movieclub-int.kinepolis.com": {
-          "ID": "https://movieclub-int.kinepolis.com",
-          "Type": "url"
-        },
-        "https://movienow-int.kinepolis.be/admin": {
-          "ID": "https://movienow-int.kinepolis.be/admin",
-          "Type": "url"
-        },
-        "https://shop-acc.kinepolis.be/": {
-          "ID": "https://shop-acc.kinepolis.be/",
-          "Type": "url"
-        },
-        "identityserver-acc.landmarkcinemas.com": {
-          "ID": "identityserver-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "identityserver.landmarkcinemas.com": {
-          "ID": "identityserver.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "kinepolis-studio.be": {
-          "ID": "kinepolis-studio.be",
-          "Type": "url"
-        },
-        "kinepolis.megatix.be": {
-          "ID": "kinepolis.megatix.be",
-          "Type": "url"
-        },
-        "kinepolis/id368204284": {
-          "ID": "kinepolis/id368204284",
-          "Type": "ios"
-        },
-        "luxfilmfestfilms.megatix.be": {
-          "ID": "luxfilmfestfilms.megatix.be",
-          "Type": "url"
-        },
-        "luxfilmfestproducts.megatix.be": {
-          "ID": "luxfilmfestproducts.megatix.be",
-          "Type": "url"
-        },
-        "luxfilmfesttickets.megatix.be": {
-          "ID": "luxfilmfesttickets.megatix.be",
-          "Type": "url"
-        },
-        "movieapi.kinepolis.megatix.be": {
-          "ID": "movieapi.kinepolis.megatix.be",
-          "Type": "url"
-        },
-        "nz.co.vista.android.movie.mjrtheatres": {
-          "ID": "nz.co.vista.android.movie.mjrtheatres",
-          "Type": "android"
-        },
-        "stage.landmarkcinemas.com": {
-          "ID": "stage.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "tickets.kinepolis.be": {
-          "ID": "tickets.kinepolis.be",
-          "Type": "url"
-        },
-        "tickets.kinepolis.ch": {
-          "ID": "tickets.kinepolis.ch",
-          "Type": "url"
-        },
-        "tickets.kinepolis.es": {
-          "ID": "tickets.kinepolis.es",
-          "Type": "url"
-        },
-        "tickets.kinepolis.fr": {
-          "ID": "tickets.kinepolis.fr",
-          "Type": "url"
-        },
-        "tickets.kinepolis.lu": {
-          "ID": "tickets.kinepolis.lu",
-          "Type": "url"
-        },
-        "tickets.kinepolis.nl": {
-          "ID": "tickets.kinepolis.nl",
-          "Type": "url"
-        },
-        "userprofile-acc.landmarkcinemas.com": {
-          "ID": "userprofile-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "userprofile-ui.landmarkcinemas.com": {
-          "ID": "userprofile-ui.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "www.kinepolis.be ": {
-          "ID": "www.kinepolis.be ",
-          "Type": "url"
-        },
-        "www.kinepolis.biz": {
-          "ID": "www.kinepolis.biz",
-          "Type": "url"
-        },
-        "www.kinepolis.ch ": {
-          "ID": "www.kinepolis.ch ",
-          "Type": "url"
-        },
-        "www.kinepolis.com ": {
-          "ID": "www.kinepolis.com ",
-          "Type": "url"
-        },
-        "www.kinepolis.es ": {
-          "ID": "www.kinepolis.es ",
-          "Type": "url"
-        },
-        "www.kinepolis.fr ": {
-          "ID": "www.kinepolis.fr ",
-          "Type": "url"
-        },
-        "www.kinepolis.lu ": {
-          "ID": "www.kinepolis.lu ",
-          "Type": "url"
-        },
-        "www.kinepolis.nl ": {
-          "ID": "www.kinepolis.nl ",
-          "Type": "url"
-        },
-        "www.landmarkcinemas.com": {
-          "ID": "www.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "www.mjrtheatres.com": {
-          "ID": "www.mjrtheatres.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.cineramabios.nl": {
-          "ID": "*.cineramabios.nl",
-          "Type": "wildcard"
-        },
-        "dev.kinepolis.com": {
-          "ID": "dev.kinepolis.com",
-          "Type": "url"
-        },
-        "helpdesk.landmarkcinemas.com": {
-          "ID": "helpdesk.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "jobs.kinepolis.com": {
-          "ID": "jobs.kinepolis.com",
-          "Type": "url"
-        },
-        "l.kinepolis.com": {
-          "ID": "l.kinepolis.com",
-          "Type": "url"
-        },
-        "openx.kinepolis.com": {
-          "ID": "openx.kinepolis.com",
-          "Type": "url"
-        },
-        "shop.kinepolis.be ": {
-          "ID": "shop.kinepolis.be ",
-          "Type": "url"
-        },
-        "shop.kinepolis.es": {
-          "ID": "shop.kinepolis.es",
-          "Type": "url"
-        },
-        "shop.kinepolis.fr ": {
-          "ID": "shop.kinepolis.fr ",
-          "Type": "url"
-        },
-        "shop.kinepolis.lu": {
-          "ID": "shop.kinepolis.lu",
-          "Type": "url"
-        }
-      },
-      "Hash": "a7c2a49ea9d26ca6c2af09d4ed22aae3fadc5aae6aabaca8caf1244b61f50a0e"
-    },
     "in:784ffbc6-daaa-4e7e-8eba-c38a101d7b12": {
       "Key": "784ffbc6-daaa-4e7e-8eba-c38a101d7b12",
       "Name": "Voi Vulnerability Disclosure Program",
@@ -206230,128 +205947,6 @@
       },
       "OutScope": {},
       "Hash": "c15048ae3df28fb06b273c9e606673b7e8e5eaadae9abbab4ee3c20f008d38a3"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
