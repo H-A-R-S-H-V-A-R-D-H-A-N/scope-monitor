@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-18T18:22:14Z",
+  "captured_at": "2026-09-18T21:13:12Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23747,7 +23747,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "66b8d0bd5755354cfea03a490b4dffa4002cd6d19db5ec5c70766c57872febd8"
+      "Hash": "8d69456f20e52f6731ef607bd1c83b566914bd511fb5c9de15ef6172e0e6759a"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -24974,7 +24974,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d9b6aa9489042bf955ab9e3bed67a5d8024639efa99cbbdf01217a86e9e15f6f"
+      "Hash": "c01c0f1fe7049522675315d934b55ba459f2397d76c293539db660106008e81c"
     },
     "h1:alohi": {
       "Key": "alohi",
@@ -95827,7 +95827,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "71da09f14ce6cfcd22129b6ccd4942a4d2cdf5b4a913d0227ecfb4ed6a76adb1"
+      "Hash": "8adaf01ead05359017dd50543c19b017bdefa72b389c2ad90c3486be1bdd3541"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -103658,7 +103658,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1ff928e67cf787f00c4bddc2756ed9b12f55ee69eb61e2f37ed8155ce164b8b7"
+      "Hash": "c180f1314cccc624794cc0160f6d670a46697672f78c3ed741f50431a42664fa"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -106185,7 +106185,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c7162de9f787735b36c973dc67e9a83a16e4314b031782c977ed342badbdb3d9"
+      "Hash": "5f5af44dd1132821b7e02dc6e9493dee0145060afcba47dbbc22d165c1d7ec93"
     },
     "h1:fertitta_entertainment": {
       "Key": "fertitta_entertainment",
@@ -146450,7 +146450,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b34338cc5dfcdbeaee52bfe73d395879866be19a027152dacc116eee7b084e0f"
+      "Hash": "ce85492f8d7cebfdfe54b0c274f41b18e844e17d3389809c2895c3eeeb6e6bff"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -148760,7 +148760,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a6713978df48f0d3dd03a17d0e9927d6a99bc83a71e1119005ceb9e74a40bc78"
+      "Hash": "c42d807c387df556e3459173c5ae946b77d2dad45e312499e7cba2c1f7e6505e"
     },
     "h1:grab": {
       "Key": "grab",
@@ -151537,7 +151537,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7c937286ff49875c583cf5b2f84955f652dc3e1765322b3a288ab4cd5196a2e9"
+      "Hash": "bd1c759d730c2756fd3be8035cd1f2adc6611f71b8055d90f207d695b5ab0e60"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -160309,6 +160309,10 @@
           "ID": "agvault.sentera.com",
           "Type": "URL"
         },
+        "ai-gateway-moxie-mcp.ae-frontier-ai-gateway-devl-vpn.use1.e18.c01.johndeerecloud.com": {
+          "ID": "ai-gateway-moxie-mcp.ae-frontier-ai-gateway-devl-vpn.use1.e18.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
         "ai-lab-code-interpreter-api.ae-machine-learning-operations-devl-vpn.us.e18.c01.johndeerecloud.com": {
           "ID": "ai-lab-code-interpreter-api.ae-machine-learning-operations-devl-vpn.us.e18.c01.johndeerecloud.com",
           "Type": "URL"
@@ -165601,6 +165605,10 @@
           "ID": "status.agrisync.com",
           "Type": "URL"
         },
+        "status.deere.com": {
+          "ID": "status.deere.com",
+          "Type": "URL"
+        },
         "steckbrief-api-hammag.applications.wirtgen-group.com": {
           "ID": "steckbrief-api-hammag.applications.wirtgen-group.com",
           "Type": "URL"
@@ -167940,7 +167948,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a247eb25ed91eb1f8ae6e7bbb5a3dc233443866be221739dd5ff067d8c82d5c1"
+      "Hash": "838fb854b5b1e68a8df41db51d7eefb35f9dcc29507da529cee9990f146a27c4"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -168225,7 +168233,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5d6a71ad55746ef657aa309f20f8f47f7db43389832278b783253d8120fd02e0"
+      "Hash": "7cea2f25f8b65bcbb4675e3e99bd442237947005107568e85b5b51d8701c3b15"
     },
     "h1:keybank": {
       "Key": "keybank",
@@ -168574,7 +168582,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "160db4951915f9654418db560df303a9ee45ac23b935821a5defacf38499d1ac"
+      "Hash": "5d029dc297c9f46c5fca8830c89028f2db9783b27c487db51388c1f68957b568"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -175355,7 +175363,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "16bf25d61cb52016e1824c1530b9ec92f15d59ce9b36f48b31c8b576a35b00a4"
+      "Hash": "7c245743fa9657e3da3806542af47ef28948080bf64526071dda15741b4f5bbd"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -181392,7 +181400,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aa8d7f15f1a651169ca229f40c2a4de3d0d65b369cd27c55e59e7262fc959671"
+      "Hash": "4ee6f92455cb7ef8b9ce9cf4a9859e7115e16e952cda1efab5b459f42efb32e8"
     },
     "h1:oportun_vdp": {
       "Key": "oportun_vdp",
@@ -182592,7 +182600,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "eb9c489b6e2a1210d4701b217b32aa48a1825dfe28ea424d9dbecd289412e212"
+      "Hash": "4ec5e10a9285edffe7dade07d43ebaae92eed9bd37d013a7248ffc0591df76f0"
     },
     "h1:palo_alto_software": {
       "Key": "palo_alto_software",
@@ -182708,7 +182716,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac11056001ac73fbc611b617013738dc38a5d031eb6234cccec80afe1d83d530"
+      "Hash": "de82d1561d5dd83e7d2bb7c243401504dc0e16f5338914fe13a516a924206db7"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -188718,7 +188726,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "52fc62dc013efe7769163bb063a28f0b72b1083d42bb2c8c8396b72f829d6ea5"
+      "Hash": "6909ae0ca04394b0f1c0ae4d2f2ca74b04a77ec4e02275316dfa95c4f8da18bd"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -190165,7 +190173,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b9a2c1c15e134ae1f56c1d41d5709dd98d62af8b708f08f794d4e05f94ae120b"
+      "Hash": "c784d91204938176694cfb5375e61d48da34b5494027381ad584a5ce091aceaf"
     },
     "h1:starbucks_china": {
       "Key": "starbucks_china",
@@ -193480,7 +193488,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "477802bd4df25b3e0f60f8e9907773a102e29700c32ca587ba7fbe2b86329167"
+      "Hash": "d22fbf52b84acfa8f8c75a59c988c9bb47a7752f208d623ba52a569fc2303465"
     },
     "h1:uber": {
       "Key": "uber",
@@ -198001,7 +198009,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2945f2605f4a180ad2fcf601ce0209b91123278344575fc70010e0a889987094"
+      "Hash": "461bfaa16db2297def21771a8c5ce1ab5364440f6f1e4699ad02a1ec54a95e7d"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
