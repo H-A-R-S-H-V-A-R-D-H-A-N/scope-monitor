@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-21T14:31:12Z",
+  "captured_at": "2026-09-21T19:43:15Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -310,62 +310,86 @@
       "Name": "Afterpay Bug Bounty Program",
       "URL": "https://bugcrowd.com/engagements/afterpay",
       "InScope": {
-        "████████████": {
-          "ID": "████████████",
+        "https://afterpay.com": {
+          "ID": "https://afterpay.com",
           "Type": "website"
         },
-        "██████████████": {
-          "ID": "██████████████",
-          "Type": "website"
-        },
-        "████████████████": {
-          "ID": "████████████████",
+        "https://api.clearpay.com": {
+          "ID": "https://api.clearpay.com",
           "Type": "api"
         },
-        "███████████████████": {
-          "ID": "███████████████████",
+        "https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588": {
+          "ID": "https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588",
+          "Type": "ios"
+        },
+        "https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186": {
+          "ID": "https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186",
+          "Type": "ios"
+        },
+        "https://clearpay.co.uk": {
+          "ID": "https://clearpay.co.uk",
           "Type": "website"
         },
-        "████████████████████": {
-          "ID": "████████████████████",
+        "https://clearpay.com": {
+          "ID": "https://clearpay.com",
+          "Type": "website"
+        },
+        "https://developers.afterpay.com": {
+          "ID": "https://developers.afterpay.com",
+          "Type": "website"
+        },
+        "https://mobileapi.afterpay.com": {
+          "ID": "https://mobileapi.afterpay.com",
+          "Type": "api"
+        },
+        "https://mobileapi.clearpay.com": {
+          "ID": "https://mobileapi.clearpay.com",
+          "Type": "api"
+        },
+        "https://play.google.com/store/apps/details?id=com.afterpaymobile.uk": {
+          "ID": "https://play.google.com/store/apps/details?id=com.afterpaymobile.uk",
           "Type": "android"
         },
-        "█████████████████████": {
-          "ID": "█████████████████████",
+        "https://play.google.com/store/apps/details?id=com.afterpaymobile.us\u0026hl=en_US\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.afterpaymobile.us\u0026hl=en_US\u0026gl=US",
+          "Type": "android"
+        },
+        "https://portal.afterpay.com": {
+          "ID": "https://portal.afterpay.com",
           "Type": "website"
         },
-        "██████████████████████": {
-          "ID": "██████████████████████",
-          "Type": "api"
-        },
-        "███████████████████████": {
-          "ID": "███████████████████████",
+        "https://portal.clearpay.co.uk": {
+          "ID": "https://portal.clearpay.co.uk",
           "Type": "website"
         },
-        "████████████████████████": {
-          "ID": "████████████████████████",
+        "https://portal.clearpay.com": {
+          "ID": "https://portal.clearpay.com",
+          "Type": "website"
+        },
+        "https://portalapi.eu.clearpay.co.uk": {
+          "ID": "https://portalapi.eu.clearpay.co.uk",
           "Type": "api"
         },
-        "███████████████████████████": {
-          "ID": "███████████████████████████",
+        "https://portalapi.us.afterpay.com": {
+          "ID": "https://portalapi.us.afterpay.com",
           "Type": "api"
         }
       },
       "OutScope": {
-        "███████████████████": {
-          "ID": "███████████████████",
+        "https://afterpaytechblog.com": {
+          "ID": "https://afterpaytechblog.com",
           "Type": "website"
         },
-        "████████████████████": {
-          "ID": "████████████████████",
+        "https://genderfree.afterpay.com": {
+          "ID": "https://genderfree.afterpay.com",
           "Type": "website"
         },
-        "███████████████████████": {
-          "ID": "███████████████████████",
+        "https://www.moneybyafterpay.com/": {
+          "ID": "https://www.moneybyafterpay.com/",
           "Type": "website"
         }
       },
-      "Hash": "b4f7a768887788513b2ad690abb4409384e22fde863c6fb9ca97b33d196ace93"
+      "Hash": "630c7d9b7142d5cbf2212b2bc11e07ea748ab1260ecb4eeebbadaf89e01231fd"
     },
     "bc:AgilePulse Marketplace Bug Bounty Program": {
       "Key": "AgilePulse Marketplace Bug Bounty Program",
@@ -2622,37 +2646,37 @@
       "Name": "Block Open Source",
       "URL": "https://bugcrowd.com/engagements/blockopensource",
       "InScope": {
-        "██████████████████████████████": {
-          "ID": "██████████████████████████████",
+        "https://github.com/afterpay/sdk-android": {
+          "ID": "https://github.com/afterpay/sdk-android",
           "Type": "other"
         },
-        "███████████████████████████████": {
-          "ID": "███████████████████████████████",
+        "https://github.com/afterpay/sdk-ios": {
+          "ID": "https://github.com/afterpay/sdk-ios",
           "Type": "other"
         },
-        "█████████████████████████████████": {
-          "ID": "█████████████████████████████████",
+        "https://github.com/cashapp/cash-app-pay-android-sdk": {
+          "ID": "https://github.com/cashapp/cash-app-pay-android-sdk",
           "Type": "other"
         },
-        "███████████████████████████████████": {
-          "ID": "███████████████████████████████████",
+        "https://github.com/cashapp/cash-app-pay-ios-sdk": {
+          "ID": "https://github.com/cashapp/cash-app-pay-ios-sdk",
           "Type": "other"
         },
-        "███████████████████████████████████████": {
-          "ID": "███████████████████████████████████████",
+        "https://github.com/cashapp/hermit": {
+          "ID": "https://github.com/cashapp/hermit",
           "Type": "other"
         },
-        "███████████████████████████████████████████████": {
-          "ID": "███████████████████████████████████████████████",
+        "https://github.com/cashapp/misk": {
+          "ID": "https://github.com/cashapp/misk",
           "Type": "other"
         },
-        "███████████████████████████████████████████████████": {
-          "ID": "███████████████████████████████████████████████████",
+        "https://github.com/square/wire": {
+          "ID": "https://github.com/square/wire",
           "Type": "other"
         }
       },
       "OutScope": {},
-      "Hash": "0509f70c2dc12e86ffa19dc7f5241bc3049c092213e84a5225beff75d5cca0ab"
+      "Hash": "53b37b9d8190e018498b5fb549f77bbfc46ea559b4601be098fc48172df404d3"
     },
     "bc:Blockchain.com Managed Bug Bounty Engagement": {
       "Key": "Blockchain.com Managed Bug Bounty Engagement",
@@ -3195,25 +3219,25 @@
       "Name": "Cash App",
       "URL": "https://bugcrowd.com/engagements/cashapp",
       "InScope": {
-        "██████████": {
-          "ID": "██████████",
+        "*.cashstaging.app": {
+          "ID": "*.cashstaging.app",
           "Type": "website"
         },
-        "█████████████████": {
-          "ID": "█████████████████",
+        "https://cash.app": {
+          "ID": "https://cash.app",
           "Type": "website"
         },
-        "███████████████████████████████████": {
-          "ID": "███████████████████████████████████",
+        "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8": {
+          "ID": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
           "Type": "ios"
         },
-        "███████████████████████████████████████": {
-          "ID": "███████████████████████████████████████",
+        "https://play.google.com/store/apps/details?id=com.squareup.cash": {
+          "ID": "https://play.google.com/store/apps/details?id=com.squareup.cash",
           "Type": "android"
         }
       },
       "OutScope": {},
-      "Hash": "29c63ed3bbacaafc86731e274c7052e6c5b03fd78c809ed66ed4640abf3cedb1"
+      "Hash": "cbc03d18fb7275405d1481a27775de72dff35f088d2589b272228c632c5be354"
     },
     "bc:Catapult Labs Bug Bounty": {
       "Key": "Catapult Labs Bug Bounty",
@@ -14854,74 +14878,74 @@
       "Name": "Square",
       "URL": "https://bugcrowd.com/engagements/square",
       "InScope": {
-        "██████████": {
-          "ID": "██████████",
-          "Type": "website"
-        },
-        "████████████": {
-          "ID": "████████████",
-          "Type": "website"
-        },
-        "█████████████": {
-          "ID": "█████████████",
-          "Type": "website"
-        },
-        "██████████████": {
-          "ID": "██████████████",
-          "Type": "website"
-        },
-        "███████████████": {
-          "ID": "███████████████",
+        "Square Register": {
+          "ID": "Square Register",
           "Type": "hardware"
         },
-        "███████████████████████████████████████████████": {
-          "ID": "███████████████████████████████████████████████",
+        "Square Terminal": {
+          "ID": "Square Terminal",
+          "Type": "hardware"
+        },
+        "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788": {
+          "ID": "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788",
           "Type": "ios"
         },
-        "███████████████████████████████████████████████████": {
-          "ID": "███████████████████████████████████████████████████",
+        "https://play.google.com/store/apps/details?id=com.squareup\u0026hl=en_US\u0026gl=US": {
+          "ID": "https://play.google.com/store/apps/details?id=com.squareup\u0026hl=en_US\u0026gl=US",
           "Type": "android"
+        },
+        "https://square.online": {
+          "ID": "https://square.online",
+          "Type": "website"
+        },
+        "https://squareup.com/": {
+          "ID": "https://squareup.com/",
+          "Type": "website"
+        },
+        "https://www.weebly.com/": {
+          "ID": "https://www.weebly.com/",
+          "Type": "website"
         }
       },
       "OutScope": {
-        "█████████": {
-          "ID": "█████████",
+        "Any vulnerabilities found in Third-party software": {
+          "ID": "Any vulnerabilities found in Third-party software",
           "Type": "website"
         },
-        "███████████": {
-          "ID": "███████████",
-          "Type": "website"
-        },
-        "██████████████": {
-          "ID": "██████████████",
-          "Type": "website"
-        },
-        "████████████████████": {
-          "ID": "████████████████████",
-          "Type": "website"
-        },
-        "███████████████████████": {
-          "ID": "███████████████████████",
+        "http://community.squareup.com": {
+          "ID": "http://community.squareup.com",
           "Type": "other"
         },
-        "███████████████████████████████████": {
-          "ID": "███████████████████████████████████",
+        "https://afterpay.com": {
+          "ID": "https://afterpay.com",
+          "Type": "website"
+        },
+        "https://app.squareupstaging.com/v1/ask-ai/copilot/spotlight/query": {
+          "ID": "https://app.squareupstaging.com/v1/ask-ai/copilot/spotlight/query",
+          "Type": "other"
+        },
+        "https://cash.me": {
+          "ID": "https://cash.me",
+          "Type": "website"
+        },
+        "https://designers.weebly.com/": {
+          "ID": "https://designers.weebly.com/",
+          "Type": "website"
+        },
+        "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8": {
+          "ID": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
           "Type": "ios"
         },
-        "███████████████████████████████████████": {
-          "ID": "███████████████████████████████████████",
+        "https://play.google.com/store/apps/details?id=com.squareup.cash": {
+          "ID": "https://play.google.com/store/apps/details?id=com.squareup.cash",
           "Type": "android"
         },
-        "█████████████████████████████████████████████████": {
-          "ID": "█████████████████████████████████████████████████",
+        "https://tidal.com/": {
+          "ID": "https://tidal.com/",
           "Type": "website"
-        },
-        "█████████████████████████████████████████████████████████": {
-          "ID": "█████████████████████████████████████████████████████████",
-          "Type": "other"
         }
       },
-      "Hash": "66ef9b0c93de6fd42350a0bba6fa93a16c14bd2f72fb571ee6af70f97150c916"
+      "Hash": "0676ef903d13e66fd813ee5c80a7763550ddc43d541d170eb9fca9f0047672ff"
     },
     "bc:Statuspage": {
       "Key": "Statuspage",
@@ -15404,46 +15428,58 @@
       "Name": "TIDAL",
       "URL": "https://bugcrowd.com/engagements/tidal-bugbounty",
       "InScope": {
-        "████████": {
-          "ID": "████████",
+        "*.tdl.sh": {
+          "ID": "*.tdl.sh",
           "Type": "website"
         },
-        "███████████": {
-          "ID": "███████████",
+        "*.tidalhifi.com": {
+          "ID": "*.tidalhifi.com",
           "Type": "website"
         },
-        "█████████████": {
-          "ID": "█████████████",
-          "Type": "api"
-        },
-        "███████████████": {
-          "ID": "███████████████",
+        "*.wimpmusic.com": {
+          "ID": "*.wimpmusic.com",
           "Type": "website"
         },
-        "████████████████████": {
-          "ID": "████████████████████",
-          "Type": "other"
+        "*tidalhi.fi": {
+          "ID": "*tidalhi.fi",
+          "Type": "website"
         },
-        "████████████████████████": {
-          "ID": "████████████████████████",
+        "Tidal Client for Android": {
+          "ID": "Tidal Client for Android",
           "Type": "android"
         },
-        "████████████████████████████████████████████████████████████████████████": {
-          "ID": "████████████████████████████████████████████████████████████████████████",
+        "Tidal Client for iOS": {
+          "ID": "Tidal Client for iOS",
+          "Type": "ios"
+        },
+        "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)": {
+          "ID": "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)",
           "Type": "other"
+        },
+        "api.tidal.com": {
+          "ID": "api.tidal.com",
+          "Type": "api"
+        },
+        "https://offer.tidal.com/download": {
+          "ID": "https://offer.tidal.com/download",
+          "Type": "other"
+        },
+        "https://tidal.com/": {
+          "ID": "https://tidal.com/",
+          "Type": "website"
         }
       },
       "OutScope": {
-        "███████████████": {
-          "ID": "███████████████",
+        "https://developer.tidal.com": {
+          "ID": "https://developer.tidal.com",
           "Type": "other"
         },
-        "███████████████████": {
-          "ID": "███████████████████",
+        "https://embed.tidal.com": {
+          "ID": "https://embed.tidal.com",
           "Type": "other"
         }
       },
-      "Hash": "8c41dd2dcb67b6624a19868730b37aecee8cc05f7e5257e58a500ad022d745c2"
+      "Hash": "49955e7872fd0f957109e4277e952e15877328460848efce72c2caf775e77a56"
     },
     "bc:TRM Labs Public Bug Bounty Engagement": {
       "Key": "TRM Labs Public Bug Bounty Engagement",
@@ -16904,6 +16940,23 @@
       },
       "Hash": "145be488931fc89cd9d02e74a572848223b32d03ff409d7548981154a9e7dd1c"
     },
+    "bc:Unisys Managed Bug Bounty Engagement": {
+      "Key": "Unisys Managed Bug Bounty Engagement",
+      "Name": "Unisys Managed Bug Bounty Engagement",
+      "URL": "https://bugcrowd.com/engagements/unisys-mbb-og",
+      "InScope": {
+        "http://unifysquare.com/": {
+          "ID": "http://unifysquare.com/",
+          "Type": "website"
+        },
+        "http://unisys.com/": {
+          "ID": "http://unisys.com/",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "7db731022f4bb153c001d14ed25b4f9081477dca40579262c66352b3a0cb8fcc"
+    },
     "bc:Unity Technologies": {
       "Key": "Unity Technologies",
       "Name": "Unity Technologies",
@@ -18229,62 +18282,98 @@
       "Name": "lululemon",
       "URL": "https://bugcrowd.com/engagements/lululemon",
       "InScope": {
-        "███████████████": {
-          "ID": "███████████████",
+        "*.lululemon.com": {
+          "ID": "*.lululemon.com",
           "Type": "other"
         },
-        "██████████████████": {
-          "ID": "██████████████████",
+        "http://www.lululemon.co.kr/": {
+          "ID": "http://www.lululemon.co.kr/",
           "Type": "website"
         },
-        "████████████████████████": {
-          "ID": "████████████████████████",
+        "https://apps.apple.com/us/app/lululemon/id920098546": {
+          "ID": "https://apps.apple.com/us/app/lululemon/id920098546",
+          "Type": "ios"
+        },
+        "https://shop.lululemon.com": {
+          "ID": "https://shop.lululemon.com",
           "Type": "website"
         },
-        "██████████████████████████": {
-          "ID": "██████████████████████████",
+        "https://www.eu.lululemon.com/": {
+          "ID": "https://www.eu.lululemon.com/",
           "Type": "website"
         },
-        "███████████████████████████": {
-          "ID": "███████████████████████████",
+        "https://www.lululemon.co.jp/": {
+          "ID": "https://www.lululemon.co.jp/",
           "Type": "website"
         },
-        "████████████████████████████": {
-          "ID": "████████████████████████████",
+        "https://www.lululemon.co.nz/": {
+          "ID": "https://www.lululemon.co.nz/",
+          "Type": "website"
+        },
+        "https://www.lululemon.co.uk/": {
+          "ID": "https://www.lululemon.co.uk/",
+          "Type": "website"
+        },
+        "https://www.lululemon.com.au/  ": {
+          "ID": "https://www.lululemon.com.au/  ",
+          "Type": "website"
+        },
+        "https://www.lululemon.com.hk/": {
+          "ID": "https://www.lululemon.com.hk/",
+          "Type": "website"
+        },
+        "https://www.lululemon.de/": {
+          "ID": "https://www.lululemon.de/",
+          "Type": "website"
+        },
+        "https://www.lululemon.es/ ": {
+          "ID": "https://www.lululemon.es/ ",
+          "Type": "website"
+        },
+        "https://www.lululemon.fr/": {
+          "ID": "https://www.lululemon.fr/",
           "Type": "website"
         }
       },
       "OutScope": {
-        "███████████": {
-          "ID": "███████████",
+        "*.lululemon.cn": {
+          "ID": "*.lululemon.cn",
           "Type": "website"
         },
-        "████████████": {
-          "ID": "████████████",
+        "AEM - Assets": {
+          "ID": "AEM - Assets",
           "Type": "website"
         },
-        "██████████████": {
-          "ID": "██████████████",
+        "AEM - Sites": {
+          "ID": "AEM - Sites",
           "Type": "website"
         },
-        "█████████████████████": {
-          "ID": "█████████████████████",
+        "https://careers.lululemon.com/": {
+          "ID": "https://careers.lululemon.com/",
           "Type": "website"
         },
-        "██████████████████████████": {
-          "ID": "██████████████████████████",
+        "https://fr.shop.lululemon.com": {
+          "ID": "https://fr.shop.lululemon.com",
           "Type": "website"
         },
-        "█████████████████████████████": {
-          "ID": "█████████████████████████████",
+        "https://info.lululemon.com": {
+          "ID": "https://info.lululemon.com",
           "Type": "website"
         },
-        "██████████████████████████████": {
-          "ID": "██████████████████████████████",
+        "https://pnimage.lululemon.com": {
+          "ID": "https://pnimage.lululemon.com",
+          "Type": "website"
+        },
+        "https://www.lululemon.me": {
+          "ID": "https://www.lululemon.me",
+          "Type": "website"
+        },
+        "https://www.mirror.co/": {
+          "ID": "https://www.mirror.co/",
           "Type": "website"
         }
       },
-      "Hash": "534842ab41459c468563e73b1d3b01da1f9367d8bf02ea8edb7fb17792b9fb50"
+      "Hash": "f3378bc9bf938c7716a1fe4b89e3fe28447dd53933db3182b7d67675c167c77d"
     },
     "bc:oDesk ": {
       "Key": "oDesk ",
@@ -18444,7 +18533,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4c9c90b57d0c19942d7432acb4eb632aecc55832db0ab64a25d30810234be55b"
+      "Hash": "6bf860b6f8bdd6a5c85513259e96a3e0c718f992dbbe1f5b242d63ae1ae7f183"
     },
     "h1:1win_com": {
       "Key": "1win_com",
@@ -23502,7 +23591,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fd4b9adad2ad925878476cdcc9b88b87df2f7418d308ba727a72dba1707cccad"
+      "Hash": "8eac48c57f42d2b9fd8b6daa5ea8f68d7675cc244d2e48e3fae42cdbdda8a9f6"
     },
     "h1:abercrombie_fitch_bbp": {
       "Key": "abercrombie_fitch_bbp",
@@ -23747,7 +23836,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fc4aab3bdca305cbe81424e733a1ddfe53246bd99461b1e018e254020b221cbb"
+      "Hash": "b2e881caa3bba994a0ce3673003d10ffc10b80aba91253afa44f3358f456d199"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -24083,7 +24172,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0e887e176aec3068435e4ee7ed35a175f364900ab231534774ecd6bc61ba1981"
+      "Hash": "bae6f15026ec01a7a654c72688a9abd9552924b590b4b2a86f024fbee13631d5"
     },
     "h1:airbnb": {
       "Key": "airbnb",
@@ -27761,7 +27850,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "92d5862622606dfe29fe1c39c14164877812138753a4ddf3ecea9b283d03ea55"
+      "Hash": "fbebe44715292987a2aa8a0e387d92df292d57445dc416974353bd174ebc9930"
     },
     "h1:arkadiyt-projects": {
       "Key": "arkadiyt-projects",
@@ -27985,9 +28074,129 @@
         }
       },
       "OutScope": {
+        "*.acenpw.att.com": {
+          "ID": "*.acenpw.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.acetng.att.com": {
+          "ID": "*.acetng.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.attauthorizedretail.att.com": {
+          "ID": "*.attauthorizedretail.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.attconsumer.att.com": {
+          "ID": "*.attconsumer.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.bizsoltraining.att.com": {
+          "ID": "*.bizsoltraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.brandtraining.att.com": {
+          "ID": "*.brandtraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.bussalesret.att.com": {
+          "ID": "*.bussalesret.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.cctrng.att.com": {
+          "ID": "*.cctrng.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.consumercares.att.com": {
+          "ID": "*.consumercares.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.customerconnecttraining.att.com": {
+          "ID": "*.customerconnecttraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.dfsttraining.att.com": {
+          "ID": "*.dfsttraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.emergingtechtraining.att.com": {
+          "ID": "*.emergingtechtraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.learningconnection.att.com": {
+          "ID": "*.learningconnection.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.mdp.att.com": {
+          "ID": "*.mdp.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.mobilityranfo.att.com": {
+          "ID": "*.mobilityranfo.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.oml.att.com": {
+          "ID": "*.oml.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.opusisdtraining.att.com": {
+          "ID": "*.opusisdtraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.premtechtraining.att.com": {
+          "ID": "*.premtechtraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.ran.att.com": {
+          "ID": "*.ran.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.retailtutorials.att.com": {
+          "ID": "*.retailtutorials.att.com",
+          "Type": "WILDCARD"
+        },
         "*.sky.com.mx": {
           "ID": "*.sky.com.mx",
           "Type": "URL"
+        },
+        "*.techcaretraining.att.com": {
+          "ID": "*.techcaretraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.techdevtraining.att.com": {
+          "ID": "*.techdevtraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.tuhub.att.com": {
+          "ID": "*.tuhub.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.tuliveaccts.att.com": {
+          "ID": "*.tuliveaccts.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.tutrainenv.att.com": {
+          "ID": "*.tutrainenv.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.tuvcpagebuilder.att.com": {
+          "ID": "*.tuvcpagebuilder.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.tuxr.att.com": {
+          "ID": "*.tuxr.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.vrl.att.com": {
+          "ID": "*.vrl.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.wlnp.att.com": {
+          "ID": "*.wlnp.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.workdayinfortraining.att.com": {
+          "ID": "*.workdayinfortraining.att.com",
+          "Type": "WILDCARD"
         },
         "*tworks-att.com": {
           "ID": "*tworks-att.com",
@@ -28082,7 +28291,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "42f3f7eacbb38ef914ba14b2c0ee5427a152c0c16d1855999ecd348376501dc5"
+      "Hash": "4a51f39adff11f257781a603781b673219438dd7e60d94f73858b36e77a26e53"
     },
     "h1:audible": {
       "Key": "audible",
@@ -31003,7 +31212,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f9815adc081f779b7bc00e83f790e88c5fef3b8a37152bd8e237f64ec34837d1"
+      "Hash": "2b277c397c812afaaf340e7423a6367429f20c5f8273651dc7e1bcb28b1c0da2"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31790,7 +31999,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b1bfc4540172b41f557ab2cf91c32f1e8c50aa93c414378972eb6dfe2d00ea48"
+      "Hash": "ec208178448d8c928df50b1ea2654ea6fd41d31fd683d29ffb14e95020e7baa8"
     },
     "h1:bumba_bbp": {
       "Key": "bumba_bbp",
@@ -88407,7 +88616,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b740c1fad02d7eee736912a34f08c700e0b82aae482458047adaaeeca318a889"
+      "Hash": "45343598bcfc07c13325fc8ff1ca5e1356c27a39c9a8e69a12fc41d8689af69a"
     },
     "h1:cognizant": {
       "Key": "cognizant",
@@ -88855,7 +89064,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b09f619e0d65ecd25d2508e27063c5eb538badeb24c9ff6e32ec550ec779885b"
+      "Hash": "89cf880e59896e2196533dcd89521d65d95c16dd39053b70652b520ee93852e9"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -88974,7 +89183,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "de5b64a45ea20a29eeb4cda1810d0d18ec2239febf407d8a7354d6399b459a03"
+      "Hash": "61b29160b6eab3d9afc28abb344421998a85af89a634309d46985348578b0ed5"
     },
     "h1:costco": {
       "Key": "costco",
@@ -89254,7 +89463,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "96eacd966fd3684498bfacc983f8180cdd58147ab109f5ef16fc8007b8a063f9"
+      "Hash": "a35c64f49959fee3171749b05191a2c1d921a751077c20a732ccb8e1f44e32c0"
     },
     "h1:creditkarma": {
       "Key": "creditkarma",
@@ -91011,7 +91220,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6c187daac3e3e87cc71babb7f0fb4e21e1a61a403c1d7acd87a818c170732731"
+      "Hash": "75dda62ff7d98a30cd4a6a75a8490c0b224741db7ab9ffc850ec4b3643323a1f"
     },
     "h1:deptofdefense": {
       "Key": "deptofdefense",
@@ -95949,7 +96158,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f74d7370e17f1faa91f874d817ac8122dd8dd9cd9d240eb69e3ddae7940942b0"
+      "Hash": "41fdf405cc585da5ee0cba63355c6810bd4839ce8047a185e781ff0f33cba59c"
     },
     "h1:django": {
       "Key": "django",
@@ -95957,7 +96166,7 @@
       "URL": "https://hackerone.com/django",
       "InScope": {},
       "OutScope": {},
-      "Hash": "65ceb184757f140db4a70ccfbfd5b57a2c75193232a3316937677cee685d71a2"
+      "Hash": "9acfef4fa9423aae1853256d2ccf49a96839fd4e092b411dbd3fe6c47b3a8ab4"
     },
     "h1:docusign": {
       "Key": "docusign",
@@ -96089,7 +96298,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "357e42a0e8407bdd5e02141631b3a028faf6cb80d86e11b2435c4677923f0c2c"
+      "Hash": "b943fe24c8e1487098ed69fae8287b0b91f031afc70285b7d4b4decdd28d7fbb"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -96267,7 +96476,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "debfc235a646bd2a90f1225cad3d9b1fc0dcc00021de6934489a2f00f2129cb0"
+      "Hash": "037914d89702c94adb9960e8868321ce546f41f236e639ddc80c7d69651ecf64"
     },
     "h1:dyson": {
       "Key": "dyson",
@@ -96948,12 +97157,46 @@
           "ID": "*.prelert.com",
           "Type": "WILDCARD"
         },
-        "*.swiftype.com": {
-          "ID": "*.swiftype.com",
-          "Type": "WILDCARD"
-        },
         "*.theelasticast.com": {
           "ID": "*.theelasticast.com",
+          "Type": "WILDCARD"
+        },
+        "Elastic Credentials": {
+          "ID": "Elastic Credentials",
+          "Type": "OTHER"
+        },
+        "Other": {
+          "ID": "Other",
+          "Type": "OTHER"
+        },
+        "Software Supply Chain": {
+          "ID": "Software Supply Chain",
+          "Type": "OTHER"
+        },
+        "Subdomain takeover": {
+          "ID": "Subdomain takeover",
+          "Type": "OTHER"
+        }
+      },
+      "OutScope": {
+        "*.es.io": {
+          "ID": "*.es.io",
+          "Type": "WILDCARD"
+        },
+        "*.jina.ai": {
+          "ID": "*.jina.ai",
+          "Type": "WILDCARD"
+        },
+        "*.kbndev.co": {
+          "ID": "*.kbndev.co",
+          "Type": "WILDCARD"
+        },
+        "*.keephq.dev": {
+          "ID": "*.keephq.dev",
+          "Type": "WILDCARD"
+        },
+        "*.swiftype.com": {
+          "ID": "*.swiftype.com",
           "Type": "WILDCARD"
         },
         "Beats": {
@@ -97004,10 +97247,6 @@
           "ID": "Elastic Cloud on Kubernetes (ECK)",
           "Type": "DOWNLOADABLE_EXECUTABLES"
         },
-        "Elastic Credentials": {
-          "ID": "Elastic Credentials",
-          "Type": "OTHER"
-        },
         "Elastic Defend": {
           "ID": "Elastic Defend",
           "Type": "DOWNLOADABLE_EXECUTABLES"
@@ -97056,39 +97295,9 @@
           "ID": "Observability - APM Server",
           "Type": "DOWNLOADABLE_EXECUTABLES"
         },
-        "Other": {
-          "ID": "Other",
-          "Type": "OTHER"
-        },
-        "Software Supply Chain": {
-          "ID": "Software Supply Chain",
-          "Type": "OTHER"
-        },
-        "Subdomain takeover": {
-          "ID": "Subdomain takeover",
-          "Type": "OTHER"
-        },
         "cloud.elastic.co": {
           "ID": "cloud.elastic.co",
           "Type": "URL"
-        }
-      },
-      "OutScope": {
-        "*.es.io": {
-          "ID": "*.es.io",
-          "Type": "WILDCARD"
-        },
-        "*.jina.ai": {
-          "ID": "*.jina.ai",
-          "Type": "WILDCARD"
-        },
-        "*.kbndev.co": {
-          "ID": "*.kbndev.co",
-          "Type": "WILDCARD"
-        },
-        "*.keephq.dev": {
-          "ID": "*.keephq.dev",
-          "Type": "WILDCARD"
         },
         "community.elastic.co": {
           "ID": "community.elastic.co",
@@ -97123,7 +97332,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dc3d9631f24c1240a817075622fc9f8d475abf4410945f585c1904b7b1e374f2"
+      "Hash": "b27923e59624ef2834ecfd18cc058d60710b9e793e65e0d1051c124bb8423a8d"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -103629,7 +103838,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c180f1314cccc624794cc0160f6d670a46697672f78c3ed741f50431a42664fa"
+      "Hash": "1ff928e67cf787f00c4bddc2756ed9b12f55ee69eb61e2f37ed8155ce164b8b7"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -106958,7 +107167,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bfa1e15f948d75f249d6176cf51bf64dd85c892d5e408220aa20291293a4df25"
+      "Hash": "ebeb9e54ea44143aca512423b4a85b3efb2d8dab5bab9805038850808cb58f77"
     },
     "h1:files": {
       "Key": "files",
@@ -146306,7 +146515,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "977fd9136abf713ed48980665ce32ef59001d62ce695573c95252637f1f65350"
+      "Hash": "3fce2e250a37aa28b5c1fcf70e3e11900535e70d56ba5a976883c7fe87d050d6"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -147567,7 +147776,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ffc7a9a4867105faeb9b421a358539cc132d48252c29a9f2d7adc3ebaf3422cc"
+      "Hash": "deb9431654e4dd3bdf5ff5be4a9d48b5d7630123ff7799e7e3face1a413c95c1"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -148102,6 +148311,10 @@
           "ID": "gocardless.atlassian.net",
           "Type": "URL"
         },
+        "https://github.com/gocardless/woocommerce-gateway-gocardless": {
+          "ID": "https://github.com/gocardless/woocommerce-gateway-gocardless",
+          "Type": "SOURCE_CODE"
+        },
         "learn.gocardless.com": {
           "ID": "learn.gocardless.com",
           "Type": "URL"
@@ -148163,7 +148376,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cea7eaee4deec3243036345f7a3837176bdb868456ab9d504de9738443233330"
+      "Hash": "b51ab4fd4613819214878c0a9bba303354ae45fd941afe1cdea3e09eb43704b2"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -148755,7 +148968,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "ee040c70eba077c8572893f2dda0de5a2e9621274a520a17c55f115b9d6e7496"
+      "Hash": "a5a8cf0a3a9f66c34afa12bb626cf4be760f9c5856eea7f07878ac7d16a468af"
     },
     "h1:greenhouse": {
       "Key": "greenhouse",
@@ -151873,7 +152086,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "60adbe3fcaf87a73b202376a3983f9d3f94be11d7a56b7c8e61eb4bba77899e4"
+      "Hash": "1e27382f85c34e019ffb0d0742aca8edb4150d58f0c81a558fd2b3436e03ad34"
     },
     "h1:ibm": {
       "Key": "ibm",
@@ -152613,7 +152826,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a9e960fd70f83823a2f69e3620b616e019ac3d8d7fa92892aed1d3098b02243a"
+      "Hash": "193aed2691df82354beef4e7609042466905bd15de1dc170378a705b98157021"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -159399,7 +159612,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "66eede37097bb1f95b3276c1dfcad2dd5186d52054fee286f8861a7cadc3e5e8"
+      "Hash": "381ebc8b0a28bb673fbaa11c1bed9a467d5018a99d6795e8c619dfbeeef7e536"
     },
     "h1:john-deere": {
       "Key": "john-deere",
@@ -168090,7 +168303,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7868ae5f7ef7f4f995b3d06b4221aed6d815cb3ef792807e71977e257edbd64c"
+      "Hash": "7cea2f25f8b65bcbb4675e3e99bd442237947005107568e85b5b51d8701c3b15"
     },
     "h1:keybank": {
       "Key": "keybank",
@@ -168762,7 +168975,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cf67e63501ee457c31ae0773bd8fe0032e1cb454a852e9ab7018605b4cafe052"
+      "Hash": "b2204ad3a0d9eedbd698dd4ec5938501bb5668b1d4646d7a9aea4204e0ec5723"
     },
     "h1:koho": {
       "Key": "koho",
@@ -169455,7 +169668,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "81c482b24adc62fd31257da28de1518db5d83a57cde42fbf3fb528414b6a1b39"
+      "Hash": "0eee6c87038fab6f35d2011254b2a66ac0f92700c66203304813fdde670f49d1"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -170597,7 +170810,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "12edf0abd7363c0d474a6d1edfff896511bc603c50020d188436a443ba8ac208"
+      "Hash": "b1bc75b349a96825f4cbbacb6ee124f1967576d95d992b8835ce1a433d7caa7f"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -171072,7 +171285,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "88a5f5a59febfd008e41b8b1159d3cde45527cc81c35aca8c5896ccec511909c"
+      "Hash": "494184f0a96afa0926c8cc8d216e0d25f4730cef4d356cd145b1d760e06a827a"
     },
     "h1:mars": {
       "Key": "mars",
@@ -172422,7 +172635,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6d42644cdd3edd362e5e6a683529c446f79aaacbd57fbafd899f5c2c912e876c"
+      "Hash": "084ba42c07b32f8f0b7bd4bd77d98a1c90bf0bf5d474857e8c6721844a4311f9"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -173349,7 +173562,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "66fe0445bb817a36de6dc262c1b4944fcc1ce37182ba2430e62a8a3b45831656"
+      "Hash": "5e32d757e41f0cf25043a31a18f173f8f705fe22e2067eec4ca6ba82d4717c70"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -180816,7 +181029,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5af76635a85f084e8145ac0719ddec0d43e93f43bcff941063033b147ac9b73a"
+      "Hash": "13492ea3fadf54ab1406c0460984207da6a5d2fd621b9a1309e85f297a8906a4"
     },
     "h1:nutanix": {
       "Key": "nutanix",
@@ -181169,7 +181382,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "260f0df6752a4f755f0670556b8c3a10b89e475c3325882e1a873a3cc37c3432"
+      "Hash": "75355389515d5daa8f9b2702d18a3b551c36fbaa46c7840fe6be4b59baa0ec70"
     },
     "h1:on": {
       "Key": "on",
@@ -182457,7 +182670,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "57c9e9988acc2a1f4710d6d1d73ebfa8781e8c5684c9265af9dba3b3f985df4d"
+      "Hash": "346817e1cb74624f995dbf999f181537c69a5362ec5d8a53dd3cd0f5610b67ce"
     },
     "h1:palo_alto_software": {
       "Key": "palo_alto_software",
@@ -183865,7 +184078,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "96de07794f91c4af6015af0c8a4072ac0c7d8c92c6d9c56a0ae53202ce99c1e3"
+      "Hash": "6a62a602df1aceabc874aaa6c01cc9eb85e641edf654a2805ab1b5d21d9cbb43"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -184147,7 +184360,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9bfb7b201be1c5cee9c877963461df8f01c2e32dc7fd96aa1c21292b9608bfda"
+      "Hash": "7200ffe5e6dee567a261b67d8e83e9b959b4c54c77f59c62c2bb2d255d7e32ca"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -184241,7 +184454,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "488d1df890303bc2f51527ed133f467caaa524886fb52968214745e143fb4504"
+      "Hash": "e72c6c7a6c0244b8c22f9adddacc178e9d8046edf68e61a55ffa83ecea621570"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -184702,7 +184915,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "09374028b2c02cfaa584a21d7150f9dc68349acc0f2407e7fd2791f638be0c98"
+      "Hash": "71ec622c47830eb6a6888bd57fb59df3f63e09725f82ca235e6f1b5f03a9927b"
     },
     "h1:polygon-technology": {
       "Key": "polygon-technology",
@@ -185583,7 +185796,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "5b25e5b5800113db810ccead87287ad7e329008ccfb69c01a53b18174fbbe586"
+      "Hash": "90e895e3fc6fa44aec8f591f242e7a4d97cd734fe27cb2e89de57f10b41b4bcf"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -186074,7 +186287,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b997abf4ce74613d6e41889a787c6daa7d4ce9f95c0def5f81727c750a16356b"
+      "Hash": "569463d7db37278f01439e58030dd3efe7e7b01735792e916274dfb5ba05e8d5"
     },
     "h1:rei_vdp": {
       "Key": "rei_vdp",
@@ -186869,7 +187082,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "60547fb71d0db8ae4ebb437103ff20769655ecdab85d9e6652b604e01e07599d"
+      "Hash": "d0b96cfe524c2e273924f53fba8596bc74dbc449f2a4d8f88ac63be054ba07cf"
     },
     "h1:ring": {
       "Key": "ring",
@@ -187011,7 +187224,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "998c256dec0a76a3d02b149d012fa90757eeb804a502d1cf336e8c1fde0aa88d"
+      "Hash": "7ea181e16a618b4ffd1c387f56cfea64f20fb22c9ac4eddffb662ae4e2d84753"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -187930,7 +188143,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9854a75d7fbeba6c02568676d1b7d9f6d4f9f560f991e09232a3a300232f2b72"
+      "Hash": "acbec7da115623279fde2991bdbeae46f84cd29e3e91cfd3d7ca6be301aec81a"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -188562,7 +188775,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c547f65f2c1e3dc3286f9db494f16d4a1c20992739b74851a2995890dde78e37"
+      "Hash": "b7590093204581a40e6a8fe5349f6cc4f993fcb342769acf5d4fe1dbb7308465"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -188637,7 +188850,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "28107f04ee2931d223e4d75f2afcf37964ecf5b14f0c9dc9bfee02e71b3ce144"
+      "Hash": "dc373103459b3a63efc5de3b6202a0757476858771e4cbe89c070742df2811e4"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -189346,7 +189559,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d83c9570d94d5896d3b63df8d2e20cf91e3191dcd749061887dc8e030377c549"
+      "Hash": "8723e6566c6bf73b62d5562a52a00b7da9447be7c79286ccde82561c65ed1b6d"
     },
     "h1:slack": {
       "Key": "slack",
@@ -190459,7 +190672,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "07aa4f70a8d9688db71a762ba62d971ede4285769c073ba3ea671cf5a550b19f"
+      "Hash": "c12e67f4147205f67183aefff9747ff453d24132cb01bd0e53ce05fd6a754c7f"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -190882,7 +191095,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c8cf5126d9b64b78dc17eba49fb427fd2667684588854f605590c5201a69e1db"
+      "Hash": "badb718fdbc57a5a53efcf69bae56a206cce1b36ecaabf8210ba55a981d55427"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -190927,7 +191140,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "39fe4db3d80a1be2111793a7cb2728fb53c809bca291a07fb8f44649ce713551"
+      "Hash": "3014a30996438c0f0e044c404c3291b0d5965bc74beba933e3577453a8d5847a"
     },
     "h1:taxwell-vdp": {
       "Key": "taxwell-vdp",
@@ -191511,7 +191724,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "99fb1fa597909d2a6157fc5bc6af1ea39d4974c13472e8c174bfd9c261921b25"
+      "Hash": "f01fd755e9dfe2d970f63f7b7218a9e3c01859d8a9f2ce7c7cb72ce8cda8b182"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -192716,7 +192929,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "39b10ccec98686321073bc5d44215d45b2996c0d8d957d906b575d94c437734b"
+      "Hash": "18fdf4302737f5e1e73a296489b50acbe3c656a7fe401e36dc9ad881e687f138"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -193447,7 +193660,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0ead40923e6e9b470f4a567c2faa181a2752b53789202033d1755740538458dd"
+      "Hash": "6e0ec002f0ed86481d4cd46dd9395034273d0275f4be62565d7cb7836f3a7630"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -194629,21 +194842,21 @@
       },
       "Hash": "24e1ac6356fc5cfee3553969e5d6c4106e76737d2e8e750e98cb8ddff9b046b5"
     },
-    "h1:vercel-open-source": {
-      "Key": "vercel-open-source",
-      "Name": "Vercel Open Source",
-      "URL": "https://hackerone.com/vercel-open-source",
+    "h1:vercel": {
+      "Key": "vercel",
+      "Name": "Vercel",
+      "URL": "https://hackerone.com/vercel",
       "InScope": {
-        "Tier 1 OSS": {
-          "ID": "Tier 1 OSS",
-          "Type": "OTHER"
+        "*.vercel.com": {
+          "ID": "*.vercel.com",
+          "Type": "WILDCARD"
         },
-        "Tier 2 OSS": {
-          "ID": "Tier 2 OSS",
-          "Type": "OTHER"
+        "*.vercel.live": {
+          "ID": "*.vercel.live",
+          "Type": "WILDCARD"
         },
-        "Tier 3 OSS": {
-          "ID": "Tier 3 OSS",
+        "Vercel sandbox": {
+          "ID": "Vercel sandbox",
           "Type": "OTHER"
         },
         "https://github.com/nitrojs/nitro": {
@@ -194656,6 +194869,10 @@
         },
         "https://github.com/sveltejs/svelte": {
           "ID": "https://github.com/sveltejs/svelte",
+          "Type": "SOURCE_CODE"
+        },
+        "https://github.com/vercel": {
+          "ID": "https://github.com/vercel",
           "Type": "SOURCE_CODE"
         },
         "https://github.com/vercel-labs/agent-skills": {
@@ -194709,10 +194926,31 @@
         "https://github.com/vercel/workflow": {
           "ID": "https://github.com/vercel/workflow",
           "Type": "SOURCE_CODE"
+        },
+        "v0.app": {
+          "ID": "v0.app",
+          "Type": "URL"
+        },
+        "v0.dev": {
+          "ID": "v0.dev",
+          "Type": "URL"
+        },
+        "vercel.app": {
+          "ID": "vercel.app",
+          "Type": "URL"
+        },
+        "vercel.com": {
+          "ID": "vercel.com",
+          "Type": "URL"
         }
       },
-      "OutScope": {},
-      "Hash": "1c2cc70e93e8b7cd0e089554e1d289d7bf5dedc599498b03477bbb0916e2b2bc"
+      "OutScope": {
+        "*.vercel.app": {
+          "ID": "*.vercel.app",
+          "Type": "WILDCARD"
+        }
+      },
+      "Hash": "99a8e668cd130b43eae3db7cda15ee3c444023ebeebdeac730c9098c283a2bf2"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
@@ -196927,7 +197165,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7f93c4f3127865b8fd6bc37b83d2600f15c2506d42fe69d5b4c7ba0ade284666"
+      "Hash": "60ecde9fab2fa730c6bf1b6d5221675d55e0c71194ca2e6c6cb6d9275bccf8ca"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
@@ -197779,7 +198017,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "46f307876d9ea0ba2c83441949ff40a0d37d115161b6948a6026071affdbf1e9"
+      "Hash": "02c92f2d45a450487aeba0c8e1e6338dffbbb00ecab7a8ed938c21e9f685b21b"
     },
     "h1:yuga_labs": {
       "Key": "yuga_labs",
@@ -197866,7 +198104,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ea50568a48a7b820d629a0aadb361c20c1941c5dc79c1492d8d354ecbdf9be0d"
+      "Hash": "7159aa5c677a355f694b0f638f86d815d459995eb27a33f6aa7935aefc4f557c"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -198362,7 +198600,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "568bdf71e0ca22e6001b825f310b2b020f6db981188cab84aca3c00fab515e5f"
+      "Hash": "35117f5419c8817ea0624af642f04ddf884e57d3223de7e65a48040747caebda"
     },
     "h1:zurich-insurance": {
       "Key": "zurich-insurance",
@@ -202728,6 +202966,260 @@
       },
       "OutScope": {},
       "Hash": "53b2fab1df76425b23e61269aaf51227372c6c5c9fcefbca6afd092a2fa1fd62"
+    },
+    "in:768ad323-335b-4710-9370-6b81925c122f": {
+      "Key": "768ad323-335b-4710-9370-6b81925c122f",
+      "Name": "Kinepolis Group",
+      "URL": "https://www.intigriti.com/programs/kinepolis/website/detail",
+      "InScope": {
+        "*.kinepolis.be": {
+          "ID": "*.kinepolis.be",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.ch": {
+          "ID": "*.kinepolis.ch",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.com": {
+          "ID": "*.kinepolis.com",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.fr": {
+          "ID": "*.kinepolis.fr",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.lu": {
+          "ID": "*.kinepolis.lu",
+          "Type": "wildcard"
+        },
+        "*.kinepolis.nl": {
+          "ID": "*.kinepolis.nl",
+          "Type": "wildcard"
+        },
+        "*.klubcinema.fr": {
+          "ID": "*.klubcinema.fr",
+          "Type": "wildcard"
+        },
+        "*.landmarkcinemas.com": {
+          "ID": "*.landmarkcinemas.com",
+          "Type": "wildcard"
+        },
+        "*.megatix.be  ": {
+          "ID": "*.megatix.be  ",
+          "Type": "wildcard"
+        },
+        "*.mjrtheatres.com": {
+          "ID": "*.mjrtheatres.com",
+          "Type": "wildcard"
+        },
+        "522089287": {
+          "ID": "522089287",
+          "Type": "ios"
+        },
+        "booking.mjrtheatres.com": {
+          "ID": "booking.mjrtheatres.com",
+          "Type": "url"
+        },
+        "business.kinepolis.be": {
+          "ID": "business.kinepolis.be",
+          "Type": "url"
+        },
+        "business.kinepolis.lu": {
+          "ID": "business.kinepolis.lu",
+          "Type": "url"
+        },
+        "business.kinepolis.nl": {
+          "ID": "business.kinepolis.nl",
+          "Type": "url"
+        },
+        "com.inthepocket.kinepolis": {
+          "ID": "com.inthepocket.kinepolis",
+          "Type": "android"
+        },
+        "egaming.kinepolis.es": {
+          "ID": "egaming.kinepolis.es",
+          "Type": "url"
+        },
+        "extras-acc.landmarkcinemas.com": {
+          "ID": "extras-acc.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "extras.landmarkcinemas.com": {
+          "ID": "extras.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "https://movieclub-int.kinepolis.com": {
+          "ID": "https://movieclub-int.kinepolis.com",
+          "Type": "url"
+        },
+        "https://movienow-int.kinepolis.be/admin": {
+          "ID": "https://movienow-int.kinepolis.be/admin",
+          "Type": "url"
+        },
+        "https://shop-acc.kinepolis.be/": {
+          "ID": "https://shop-acc.kinepolis.be/",
+          "Type": "url"
+        },
+        "identityserver-acc.landmarkcinemas.com": {
+          "ID": "identityserver-acc.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "identityserver.landmarkcinemas.com": {
+          "ID": "identityserver.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "kinepolis-studio.be": {
+          "ID": "kinepolis-studio.be",
+          "Type": "url"
+        },
+        "kinepolis.megatix.be": {
+          "ID": "kinepolis.megatix.be",
+          "Type": "url"
+        },
+        "kinepolis/id368204284": {
+          "ID": "kinepolis/id368204284",
+          "Type": "ios"
+        },
+        "luxfilmfestfilms.megatix.be": {
+          "ID": "luxfilmfestfilms.megatix.be",
+          "Type": "url"
+        },
+        "luxfilmfestproducts.megatix.be": {
+          "ID": "luxfilmfestproducts.megatix.be",
+          "Type": "url"
+        },
+        "luxfilmfesttickets.megatix.be": {
+          "ID": "luxfilmfesttickets.megatix.be",
+          "Type": "url"
+        },
+        "movieapi.kinepolis.megatix.be": {
+          "ID": "movieapi.kinepolis.megatix.be",
+          "Type": "url"
+        },
+        "nz.co.vista.android.movie.mjrtheatres": {
+          "ID": "nz.co.vista.android.movie.mjrtheatres",
+          "Type": "android"
+        },
+        "stage.landmarkcinemas.com": {
+          "ID": "stage.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "tickets.kinepolis.be": {
+          "ID": "tickets.kinepolis.be",
+          "Type": "url"
+        },
+        "tickets.kinepolis.ch": {
+          "ID": "tickets.kinepolis.ch",
+          "Type": "url"
+        },
+        "tickets.kinepolis.es": {
+          "ID": "tickets.kinepolis.es",
+          "Type": "url"
+        },
+        "tickets.kinepolis.fr": {
+          "ID": "tickets.kinepolis.fr",
+          "Type": "url"
+        },
+        "tickets.kinepolis.lu": {
+          "ID": "tickets.kinepolis.lu",
+          "Type": "url"
+        },
+        "tickets.kinepolis.nl": {
+          "ID": "tickets.kinepolis.nl",
+          "Type": "url"
+        },
+        "userprofile-acc.landmarkcinemas.com": {
+          "ID": "userprofile-acc.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "userprofile-ui.landmarkcinemas.com": {
+          "ID": "userprofile-ui.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "www.kinepolis.be ": {
+          "ID": "www.kinepolis.be ",
+          "Type": "url"
+        },
+        "www.kinepolis.biz": {
+          "ID": "www.kinepolis.biz",
+          "Type": "url"
+        },
+        "www.kinepolis.ch ": {
+          "ID": "www.kinepolis.ch ",
+          "Type": "url"
+        },
+        "www.kinepolis.com ": {
+          "ID": "www.kinepolis.com ",
+          "Type": "url"
+        },
+        "www.kinepolis.es ": {
+          "ID": "www.kinepolis.es ",
+          "Type": "url"
+        },
+        "www.kinepolis.fr ": {
+          "ID": "www.kinepolis.fr ",
+          "Type": "url"
+        },
+        "www.kinepolis.lu ": {
+          "ID": "www.kinepolis.lu ",
+          "Type": "url"
+        },
+        "www.kinepolis.nl ": {
+          "ID": "www.kinepolis.nl ",
+          "Type": "url"
+        },
+        "www.landmarkcinemas.com": {
+          "ID": "www.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "www.mjrtheatres.com": {
+          "ID": "www.mjrtheatres.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.cineramabios.nl": {
+          "ID": "*.cineramabios.nl",
+          "Type": "wildcard"
+        },
+        "dev.kinepolis.com": {
+          "ID": "dev.kinepolis.com",
+          "Type": "url"
+        },
+        "helpdesk.landmarkcinemas.com": {
+          "ID": "helpdesk.landmarkcinemas.com",
+          "Type": "url"
+        },
+        "jobs.kinepolis.com": {
+          "ID": "jobs.kinepolis.com",
+          "Type": "url"
+        },
+        "l.kinepolis.com": {
+          "ID": "l.kinepolis.com",
+          "Type": "url"
+        },
+        "openx.kinepolis.com": {
+          "ID": "openx.kinepolis.com",
+          "Type": "url"
+        },
+        "shop.kinepolis.be ": {
+          "ID": "shop.kinepolis.be ",
+          "Type": "url"
+        },
+        "shop.kinepolis.es": {
+          "ID": "shop.kinepolis.es",
+          "Type": "url"
+        },
+        "shop.kinepolis.fr ": {
+          "ID": "shop.kinepolis.fr ",
+          "Type": "url"
+        },
+        "shop.kinepolis.lu": {
+          "ID": "shop.kinepolis.lu",
+          "Type": "url"
+        }
+      },
+      "Hash": "a7c2a49ea9d26ca6c2af09d4ed22aae3fadc5aae6aabaca8caf1244b61f50a0e"
     },
     "in:784ffbc6-daaa-4e7e-8eba-c38a101d7b12": {
       "Key": "784ffbc6-daaa-4e7e-8eba-c38a101d7b12",
