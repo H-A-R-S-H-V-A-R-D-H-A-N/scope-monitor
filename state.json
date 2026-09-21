@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-20T23:11:31Z",
+  "captured_at": "2026-09-21T01:36:25Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -12057,19 +12057,6 @@
       },
       "OutScope": {},
       "Hash": "c6a247db30ca82e6795233204f6b7704e2a4fdb9f70da8495185d5632a5d9ee2"
-    },
-    "bc:Pexels": {
-      "Key": "Pexels",
-      "Name": "Pexels",
-      "URL": "https://bugcrowd.com/engagements/pexels",
-      "InScope": {
-        "https://www.pexels.com/": {
-          "ID": "https://www.pexels.com/",
-          "Type": "website"
-        }
-      },
-      "OutScope": {},
-      "Hash": "8158f573fcfba8f5d50a8e43e9c55b97d37acf8b3d398b3dbf003894b9d09002"
     },
     "bc:Pinterest": {
       "Key": "Pinterest",
@@ -26390,7 +26377,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d86ee2e3ab5771d2914092ba4a934d079eaa49b0f4977f525d99815195992ec2"
+      "Hash": "04454d6847ad393fd62e45b3737c031e3b37cfae7896a6b559aac5b3fdde29f3"
     },
     "h1:anthropic": {
       "Key": "anthropic",
@@ -88639,7 +88626,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "41881fc2c56630da3a687362426e888b9f04c7df0b196361598aceb70f1e06f4"
+      "Hash": "d35325fe42af635b641c2cbe3836bf362091eef6314d25fcaaa45b6e3a27cedd"
     },
     "h1:common_codes": {
       "Key": "common_codes",
@@ -90952,7 +90939,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "231d0fd28ff931ea9477c477a3a877946494c5479e635f8185de5a56446ff0c7"
+      "Hash": "b6fd69f8860ca0ba7b25eb239c7d1c4b45a24677f2707974f3dbc70c1b7518e7"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -97123,7 +97110,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e9961cf93cc43eb806002497f9d4a8fb36691d8e54a42da7e45a78d2e104a9a8"
+      "Hash": "10d84c58102e7ff2941f15d5203f9ec3504750458cf9c976e16ec041d1321d59"
     },
     "h1:emoney-advisor": {
       "Key": "emoney-advisor",
@@ -97952,7 +97939,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cdbeb2cd0e9c31de00b04e0728f56e5dd57d992510c8a1dc3448c37debbc5b01"
+      "Hash": "fa4feabfc472e89daab3dc8cf0e4338f9da7b8d2098b83310049693843c75c30"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -99512,7 +99499,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e62a01d71081c2aae2e27df8d5366a880f0d9c53a5cd65a04644e4c49b2af47c"
+      "Hash": "9acbeb0f6b6ce6c1761c4aa057c309290b0d99ae8f6dc2658f3d92cae68fa0d6"
     },
     "h1:essity": {
       "Key": "essity",
@@ -107024,7 +107011,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f0f2345da35bd56f32e0e664516f08a84d5ed56015a204364d297d873fdd5ab8"
+      "Hash": "a954511dbd1f4aae0ba4cc8bd1090199c51e67fc1223f7232bcc4ea59c3fe970"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -147753,7 +147740,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "57f901eb30e91e6acfb95ba05879f5eb2fb95b5c481efa03520f14eb772c4dfb"
+      "Hash": "293930a07b7a99feca7fa334a87f916d9dcaf319b536c54f85f512976a3817b1"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -151484,7 +151471,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "536eba81180489269958e06785537acbb2f7a6d0e6f26a4eb19effe7159e0128"
+      "Hash": "782dc87ea714fa1d24d76d5c6bb1f3fa2b9075778a19b8a383b35635899d4a57"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -152556,7 +152543,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3e15f6805cc14ca8662e77355c7d00f94524c089912ac6df45bc8d406c407893"
+      "Hash": "4b4e3bd74e5e1683d0a7dcf1e8b57671c60d49f778f119dd2fb051214017dbbc"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -152707,7 +152694,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aa873e4daf3109145fe1b07b0f71c8d89e613667f265a8355981fc2e69484f76"
+      "Hash": "156588bc8068237f304e56dc82b9a9dee3b55482b573540b93f0a93c27c61f16"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -159285,7 +159272,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e318d693c40fa5679ffa1632253e2caeb4749641a86142e134ea67c23fdbe44d"
+      "Hash": "f7cf699d576522965e60b9f5a1e207417c92cbee7a6b579cfbd3795b0aca8110"
     },
     "h1:jetblue": {
       "Key": "jetblue",
@@ -168435,7 +168422,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "479c9abc5150ff452e2b05e85fb77618f88572c0bcc9b97d7d245acbffb99144"
+      "Hash": "02d4a3e4328d6b08c113b1a1d5999cefd79e26e4c27f71012aef39626551e52d"
     },
     "h1:kkr_vdp": {
       "Key": "kkr_vdp",
@@ -168758,7 +168745,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b2204ad3a0d9eedbd698dd4ec5938501bb5668b1d4646d7a9aea4204e0ec5723"
+      "Hash": "cf67e63501ee457c31ae0773bd8fe0032e1cb454a852e9ab7018605b4cafe052"
     },
     "h1:koho": {
       "Key": "koho",
@@ -170593,7 +170580,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "69735e88d456dbd6e3cd4978b6cd2db44c18d38ad531c7fe642e9814a5351d61"
+      "Hash": "12edf0abd7363c0d474a6d1edfff896511bc603c50020d188436a443ba8ac208"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -179827,7 +179814,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9121937211e59cd30daf56d9bdeb71311516f242d4d6845d847c91ddc146914f"
+      "Hash": "691d6034a5616fba98aa417d7d531f09c519b57bd99727765e3023c435476fd6"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -182453,7 +182440,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "523340f2ca8849008b652022bc306c6a50041e650d75233cb986e3b1560ef07b"
+      "Hash": "57c9e9988acc2a1f4710d6d1d73ebfa8781e8c5684c9265af9dba3b3f985df4d"
     },
     "h1:palo_alto_software": {
       "Key": "palo_alto_software",
@@ -182771,7 +182758,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a2a9f2f3e248a1d715f84eccf647e559a289e28a3fbf71dd2cdc020841f5bc21"
+      "Hash": "3cb3cea067061256a838790a15b57f10fca6d95eb9c67a440762a555f10b880e"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -184429,7 +184416,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fef0e26a7bd5b2bd8b273341bbda4744a3410e789002b243d1fa747731407b9d"
+      "Hash": "4ddc2b2ffe80608c890a643e6f2f5f7299f0cf3a75fc4dabb021856e126edef4"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -188047,7 +188034,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1f6dc7db5118d9c387d87224bd751a7b965ff46e5b45f6d3adf95c1a76a4e870"
+      "Hash": "c69831d9982d54f99092e81c88f84404d641ca18ff830db13cd037509e9661d1"
     },
     "h1:scopely": {
       "Key": "scopely",
@@ -191713,7 +191700,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1889e56586d748d17f10e0e88154c81464576698e1695490542c31a7f20cba59"
+      "Hash": "c28048772d4d08d9cc419c772783a72f53abdb52dd15c0fbbcb36304542e8584"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -196857,7 +196844,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "143ab9ced115923ee3339931269474f5bb3c7c302baf4d98aebc04fc9f3d1a01"
+      "Hash": "60af00607ad6cbd87be906bff2cc1117b730e1b1b3ccdae6fdb8dc775c8808f6"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -197071,7 +197058,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "89e1508ec131fabfed36787eda7b7cb3de70e5f0e680b0d9b3e0aa88c9875279"
+      "Hash": "11b0fb5753801a6a6d49a5508a7ef9a1790a1f165e46ae3e051a5341d5282cc6"
     },
     "h1:wordpress": {
       "Key": "wordpress",
@@ -197862,7 +197849,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "461bfaa16db2297def21771a8c5ce1ab5364440f6f1e4699ad02a1ec54a95e7d"
+      "Hash": "ea50568a48a7b820d629a0aadb361c20c1941c5dc79c1492d8d354ecbdf9be0d"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
