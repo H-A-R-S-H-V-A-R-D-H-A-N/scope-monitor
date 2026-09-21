@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-21T19:43:15Z",
+  "captured_at": "2026-09-21T23:14:08Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24007,7 +24007,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "94658ba3278861ea79405d9b660345f318d84f17717e69c1efadca2110444f19"
+      "Hash": "0c5aa77c2c9f59bc5bb2650d0ed263619d3c23c278912d47e8e106a42d89d6b3"
     },
     "h1:affirm": {
       "Key": "affirm",
@@ -28090,6 +28090,14 @@
           "ID": "*.attconsumer.att.com",
           "Type": "WILDCARD"
         },
+        "*.bcsstechnical.att.com": {
+          "ID": "*.bcsstechnical.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.bcsswirelinetraining.att.com": {
+          "ID": "*.bcsswirelinetraining.att.com",
+          "Type": "WILDCARD"
+        },
         "*.bizsoltraining.att.com": {
           "ID": "*.bizsoltraining.att.com",
           "Type": "WILDCARD"
@@ -28102,24 +28110,68 @@
           "ID": "*.bussalesret.att.com",
           "Type": "WILDCARD"
         },
+        "*.ccltraining.att.com": {
+          "ID": "*.ccltraining.att.com",
+          "Type": "WILDCARD"
+        },
         "*.cctrng.att.com": {
           "ID": "*.cctrng.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.comtrain.directv.com": {
+          "ID": "*.comtrain.directv.com",
           "Type": "WILDCARD"
         },
         "*.consumercares.att.com": {
           "ID": "*.consumercares.att.com",
           "Type": "WILDCARD"
         },
+        "*.coretechtraining.att.com": {
+          "ID": "*.coretechtraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.cptraining.att.com": {
+          "ID": "*.cptraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.cricketlearning.att.com": {
+          "ID": "*.cricketlearning.att.com",
+          "Type": "WILDCARD"
+        },
         "*.customerconnecttraining.att.com": {
           "ID": "*.customerconnecttraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.designthinking.att.com": {
+          "ID": "*.designthinking.att.com",
           "Type": "WILDCARD"
         },
         "*.dfsttraining.att.com": {
           "ID": "*.dfsttraining.att.com",
           "Type": "WILDCARD"
         },
+        "*.ehsato.att.com": {
+          "ID": "*.ehsato.att.com",
+          "Type": "WILDCARD"
+        },
         "*.emergingtechtraining.att.com": {
           "ID": "*.emergingtechtraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.ess.att.com": {
+          "ID": "*.ess.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.firstnetbcs.att.com": {
+          "ID": "*.firstnetbcs.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.leadershiphub.att.com": {
+          "ID": "*.leadershiphub.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.learning.directv.com": {
+          "ID": "*.learning.directv.com",
           "Type": "WILDCARD"
         },
         "*.learningconnection.att.com": {
@@ -28142,6 +28194,10 @@
           "ID": "*.opusisdtraining.att.com",
           "Type": "WILDCARD"
         },
+        "*.opussims.att.com": {
+          "ID": "*.opussims.att.com",
+          "Type": "WILDCARD"
+        },
         "*.premtechtraining.att.com": {
           "ID": "*.premtechtraining.att.com",
           "Type": "WILDCARD"
@@ -28150,8 +28206,32 @@
           "ID": "*.ran.att.com",
           "Type": "WILDCARD"
         },
+        "*.retailleadershiptraining.att.com": {
+          "ID": "*.retailleadershiptraining.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.retailpodcast.att.com": {
+          "ID": "*.retailpodcast.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.retailtraining.att.com": {
+          "ID": "*.retailtraining.att.com",
+          "Type": "WILDCARD"
+        },
         "*.retailtutorials.att.com": {
           "ID": "*.retailtutorials.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.salesanddist.att.com": {
+          "ID": "*.salesanddist.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.salesevolution.att.com": {
+          "ID": "*.salesevolution.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.saselearning.att.com": {
+          "ID": "*.saselearning.att.com",
           "Type": "WILDCARD"
         },
         "*.sky.com.mx": {
@@ -28166,12 +28246,32 @@
           "ID": "*.techdevtraining.att.com",
           "Type": "WILDCARD"
         },
+        "*.techtalent.att.com": {
+          "ID": "*.techtalent.att.com",
+          "Type": "WILDCARD"
+        },
         "*.tuhub.att.com": {
           "ID": "*.tuhub.att.com",
           "Type": "WILDCARD"
         },
+        "*.tul.att.com": {
+          "ID": "*.tul.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.tulearn.att.com": {
+          "ID": "*.tulearn.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.tulh.att.com": {
+          "ID": "*.tulh.att.com",
+          "Type": "WILDCARD"
+        },
         "*.tuliveaccts.att.com": {
           "ID": "*.tuliveaccts.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.tusims.att.com": {
+          "ID": "*.tusims.att.com",
           "Type": "WILDCARD"
         },
         "*.tutrainenv.att.com": {
@@ -28188,6 +28288,10 @@
         },
         "*.vrl.att.com": {
           "ID": "*.vrl.att.com",
+          "Type": "WILDCARD"
+        },
+        "*.vtt.directv.com": {
+          "ID": "*.vtt.directv.com",
           "Type": "WILDCARD"
         },
         "*.wlnp.att.com": {
@@ -28246,10 +28350,6 @@
           "ID": "authkeysmx01.att.com.mx",
           "Type": "URL"
         },
-        "c2m-projectone.att.com": {
-          "ID": "c2m-projectone.att.com",
-          "Type": "URL"
-        },
         "http://dna-uat.az.cloud.att.com/": {
           "ID": "http://dna-uat.az.cloud.att.com/",
           "Type": "URL"
@@ -28262,20 +28362,8 @@
           "ID": "https://clec.att.com/clec/",
           "Type": "URL"
         },
-        "plasma-coreapi.att.com": {
-          "ID": "plasma-coreapi.att.com",
-          "Type": "URL"
-        },
-        "plasma.att.com": {
-          "ID": "plasma.att.com",
-          "Type": "URL"
-        },
         "prod-taxexempt.att.com": {
           "ID": "prod-taxexempt.att.com",
-          "Type": "URL"
-        },
-        "projectone.att.com": {
-          "ID": "projectone.att.com",
           "Type": "URL"
         },
         "rcloud.social": {
@@ -28285,13 +28373,9 @@
         "thedirectvmarketingzone.com": {
           "ID": "thedirectvmarketingzone.com",
           "Type": "URL"
-        },
-        "wf-projectone.att.com": {
-          "ID": "wf-projectone.att.com",
-          "Type": "URL"
         }
       },
-      "Hash": "4a51f39adff11f257781a603781b673219438dd7e60d94f73858b36e77a26e53"
+      "Hash": "f15486347a6bf0d025f8e2ddb1efaef9a3cebb92920e0a5ae001ff5c1ffff341"
     },
     "h1:audible": {
       "Key": "audible",
@@ -31212,7 +31296,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2b277c397c812afaaf340e7423a6367429f20c5f8273651dc7e1bcb28b1c0da2"
+      "Hash": "f9815adc081f779b7bc00e83f790e88c5fef3b8a37152bd8e237f64ec34837d1"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31419,7 +31503,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bcf1177855b6e097bf877b2312820b75b340a5587bcdb18ba2014642980242c4"
+      "Hash": "ede563e242022022755468b69856070f73f66a7431ab38f106f1db7979cf1853"
     },
     "h1:bookingcom": {
       "Key": "bookingcom",
@@ -31892,6 +31976,35 @@
       },
       "Hash": "4a88942d823d68faac57e6bf4cf45fcf655fb66b295e29ca3e3d8e5a7e65347d"
     },
+    "h1:brave": {
+      "Key": "brave",
+      "Name": "Brave Software",
+      "URL": "https://hackerone.com/brave",
+      "InScope": {
+        "Brave Browser Desktop": {
+          "ID": "Brave Browser Desktop",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "Brave websites": {
+          "ID": "Brave websites",
+          "Type": "OTHER"
+        },
+        "com.brave.browser": {
+          "ID": "com.brave.browser",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "com.brave.ios.browser": {
+          "ID": "com.brave.ios.browser",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://github.com/brave/*, https://github.com/brave-intl/*": {
+          "ID": "https://github.com/brave/*, https://github.com/brave-intl/*",
+          "Type": "SOURCE_CODE"
+        }
+      },
+      "OutScope": {},
+      "Hash": "154f42d3452fe8ca275589888933d3b7eee08097c5ddd2f32cc1a96fce0ec904"
+    },
     "h1:braze_inc": {
       "Key": "braze_inc",
       "Name": "Braze, Inc.",
@@ -32012,7 +32125,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "16bcd06dbc94d6f4222ac854d45c9a43205a0f07c59f6545313cb5ac9bf42400"
+      "Hash": "8779647c660a7a8a42fa1b1965b38c8f8a66b07dd8ce3fa785e50ff2b6b189dc"
     },
     "h1:bumble": {
       "Key": "bumble",
@@ -89561,7 +89674,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "57bcc98e15e6aa10e960c9bf3a23eb59381a3e3f20cb9b15c68ff8300e233bcf"
+      "Hash": "a01d92694135dc2ca5fa33d9ef5f4c04317114b82f93cac2213c7bf910a11ce1"
     },
     "h1:crowdstrike": {
       "Key": "crowdstrike",
@@ -89972,7 +90085,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "58dfbe410185bbe3d888e3c6639066c385860afbec05e23cc3a46f2514dbd374"
+      "Hash": "8051554d1a648f75bc22d2ead104e6671cbe034d3d091b8408ed900d532f4fd3"
     },
     "h1:curl": {
       "Key": "curl",
@@ -91161,7 +91274,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "56df9d7f693d0aa934d942693a132fcbd87118ebe517e8cbf5cf0852b71c5013"
+      "Hash": "8956647c141cbf6ac9868dcde48037fdbc0fa803371f2cf8d3693657e6bae869"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -96166,7 +96279,7 @@
       "URL": "https://hackerone.com/django",
       "InScope": {},
       "OutScope": {},
-      "Hash": "9acfef4fa9423aae1853256d2ccf49a96839fd4e092b411dbd3fe6c47b3a8ab4"
+      "Hash": "b450f29a44364de8e91a4a23be04902db3042cc98bec3562e17fd3244f678d49"
     },
     "h1:docusign": {
       "Key": "docusign",
@@ -146630,7 +146743,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f53d70f5d745f406d0ec0d96af05f80be4035d87384e887c81bba08a0b3b2820"
+      "Hash": "a2c23f41505f7ee13c3533ce6ac90677e0314f2e13708fbab676b9c0f9f82fa2"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -148968,7 +149081,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "a5a8cf0a3a9f66c34afa12bb626cf4be760f9c5856eea7f07878ac7d16a468af"
+      "Hash": "ee040c70eba077c8572893f2dda0de5a2e9621274a520a17c55f115b9d6e7496"
     },
     "h1:greenhouse": {
       "Key": "greenhouse",
@@ -152107,7 +152220,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5f0f42a9c6281dd8a2a7b139fb07aa3ba4ed5395471fbf1e356c4c772cd8a024"
+      "Hash": "5c2ff0427a2740cb28b00bd12793bc12a7cb64f61df8040c9db82000d74b7d2f"
     },
     "h1:inditex": {
       "Key": "inditex",
@@ -152826,7 +152939,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "193aed2691df82354beef4e7609042466905bd15de1dc170378a705b98157021"
+      "Hash": "e2459f706584637a2feadb65ed802393e81b494941069996d84ada7ff7e9885e"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -170810,7 +170923,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b1bc75b349a96825f4cbbacb6ee124f1967576d95d992b8835ce1a433d7caa7f"
+      "Hash": "c8e8d0dd273831634574075343071ea0c385f7869d3a45935f9854115c132fc8"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -171742,7 +171855,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f2d20fb0769f38e46cebab769dc82cc7a43b2f73c39e4ebc23ba59852d4238bf"
+      "Hash": "612ccd1998cefda6638ef1654eaf13b20cb2a959d9d7faa85a69f882f1440fc3"
     },
     "h1:matomo": {
       "Key": "matomo",
@@ -172455,7 +172568,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "222fd2b26688ea5a30ead5177ee7b8c5f1bceadd4f1bd270c6c555f5f5458d8c"
+      "Hash": "8d08b09606bed606d63c32bd29608136130c7203644a31fc22cf434ae53ebf4f"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -172635,7 +172748,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "084ba42c07b32f8f0b7bd4bd77d98a1c90bf0bf5d474857e8c6721844a4311f9"
+      "Hash": "daddfb752f46dcb5c66341c65f7e6424c966557ce4c292981c568c1320770591"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -181131,7 +181244,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a8caa7773d35112980e1e639254f5060d888937a3410d03b0e2b906887f74085"
+      "Hash": "ab24ad2254383548f9bf6381ebe1411f765079e3cb7faafecf963ffea11e2512"
     },
     "h1:oaknorth_bank": {
       "Key": "oaknorth_bank",
@@ -182670,7 +182783,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "346817e1cb74624f995dbf999f181537c69a5362ec5d8a53dd3cd0f5610b67ce"
+      "Hash": "57c9e9988acc2a1f4710d6d1d73ebfa8781e8c5684c9265af9dba3b3f985df4d"
     },
     "h1:palo_alto_software": {
       "Key": "palo_alto_software",
@@ -184360,7 +184473,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7200ffe5e6dee567a261b67d8e83e9b959b4c54c77f59c62c2bb2d255d7e32ca"
+      "Hash": "9bfb7b201be1c5cee9c877963461df8f01c2e32dc7fd96aa1c21292b9608bfda"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -186978,7 +187091,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4f2e491671e05ccade409278924956618266cb64870128d1d714b824c660fc17"
+      "Hash": "54c4a0f8e24b4c873d232893687e7f18be0ce9915b1ee6776f4c1d98c71183d5"
     },
     "h1:revive_adserver": {
       "Key": "revive_adserver",
@@ -187729,7 +187842,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9af0c95742f88ffcd823c0f10c1cc9f1314bc3874a8a8dd167d58a01067235cf"
+      "Hash": "8c00908af8371c13c750fa9c115b11b9424acf0e7224cb9169627b0aab9e41f0"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -188264,7 +188377,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c69831d9982d54f99092e81c88f84404d641ca18ff830db13cd037509e9661d1"
+      "Hash": "9ea43093ac4d562922ebb1b6e1f7d1c137a67feb267d6af810e3df561a6c62cb"
     },
     "h1:scopely": {
       "Key": "scopely",
@@ -189142,7 +189255,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "e530f59f0f2ec74dff7c01e1605b0fbe29f57ada349ae5ed67d4db0a44c3387d"
+      "Hash": "1f384a8b6d555607c04e8979d323f0b5539c903b43bbde36e1a0035a6ffa9b5e"
     },
     "h1:simple_poll": {
       "Key": "simple_poll",
@@ -189885,7 +189998,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b81a44c9abc0576b74881a0fde09c31f1bd240604d76edc7f6c4dfdd8db8abe7"
+      "Hash": "19556ab181e7bb269b365a0c01b2ea448b00087e76ef35b0e385436b426e16f5"
     },
     "h1:solidus": {
       "Key": "solidus",
@@ -192718,6 +192831,10 @@
           "ID": "idmemberbenefits.com",
           "Type": "URL"
         },
+        "idp.ccid.neustar.biz": {
+          "ID": "idp.ccid.neustar.biz",
+          "Type": "URL"
+        },
         "idprotection.avast.com": {
           "ID": "idprotection.avast.com",
           "Type": "URL"
@@ -192929,7 +193046,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "18fdf4302737f5e1e73a296489b50acbe3c656a7fe401e36dc9ad881e687f138"
+      "Hash": "d3f69b84a344120faa44a7bf59ad67a48f5f3b36bcf577204b5c215bc3ad97a6"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -194950,7 +195067,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "99a8e668cd130b43eae3db7cda15ee3c444023ebeebdeac730c9098c283a2bf2"
+      "Hash": "b8af033a4a29632596ea4ed734f5f3eff8c0ca684a8a29fea07b3df421f9d150"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
@@ -196829,7 +196946,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1235f23d9fc57b44611456461ad1488063488ae6038acd39f2a3e2f32dc50146"
+      "Hash": "4e153d790f7b553b678e6b506499586dc8d8c6ff6a436559d0a00c238e516851"
     },
     "h1:weblate": {
       "Key": "weblate",
@@ -207312,6 +207429,10 @@
           "ID": "https://github.com/digitalocean/droplet-agent",
           "Type": ""
         },
+        "https://github.com/digitalocean/terraform-provider-digitalocean": {
+          "ID": "https://github.com/digitalocean/terraform-provider-digitalocean",
+          "Type": ""
+        },
         "inference.do-ai.run": {
           "ID": "inference.do-ai.run",
           "Type": "url"
@@ -207438,10 +207559,6 @@
           "ID": "https://github.com/digitalocean/pydo",
           "Type": ""
         },
-        "https://github.com/digitalocean/terraform-provider-digitalocean": {
-          "ID": "https://github.com/digitalocean/terraform-provider-digitalocean",
-          "Type": ""
-        },
         "ideas.digitalocean.com": {
           "ID": "ideas.digitalocean.com",
           "Type": "url"
@@ -207491,7 +207608,7 @@
           "Type": "url"
         }
       },
-      "Hash": "e1ac94cf7e7188b5008a7bd31517251840207255e526ea323706d2206c000305"
+      "Hash": "f983b3c74add483025d513ebee2d1e79d35e36acf62cb5de112e6aa6e5a4cd33"
     },
     "in:e1dc7326-0466-4c06-bd52-3c6df82370be": {
       "Key": "e1dc7326-0466-4c06-bd52-3c6df82370be",
