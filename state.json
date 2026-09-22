@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-21T23:14:08Z",
+  "captured_at": "2026-09-22T01:49:33Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -2099,136 +2099,6 @@
       },
       "OutScope": {},
       "Hash": "82e3185abdad88d98e7b129b50d7980750735fc711fb77e5098362e03331aeeb"
-    },
-    "bc:Binance": {
-      "Key": "Binance",
-      "Name": "Binance",
-      "URL": "https://bugcrowd.com/engagements/binance",
-      "InScope": {
-        "3rdparty-apis.coinmarketcap.com": {
-          "ID": "3rdparty-apis.coinmarketcap.com",
-          "Type": "api"
-        },
-        "Binance Desktop Application": {
-          "ID": "Binance Desktop Application",
-          "Type": "other"
-        },
-        "Binance Mobile Application for Android": {
-          "ID": "Binance Mobile Application for Android",
-          "Type": "android"
-        },
-        "Binance Mobile Application for iOS": {
-          "ID": "Binance Mobile Application for iOS",
-          "Type": "ios"
-        },
-        "Binance macOS Application": {
-          "ID": "Binance macOS Application",
-          "Type": "other"
-        },
-        "CoinMarketCap Android app": {
-          "ID": "CoinMarketCap Android app",
-          "Type": "android"
-        },
-        "CoinMarketCap iOS app": {
-          "ID": "CoinMarketCap iOS app",
-          "Type": "ios"
-        },
-        "Trustwallet Android App": {
-          "ID": "Trustwallet Android App",
-          "Type": "android"
-        },
-        "Trustwallet Chrome Extension": {
-          "ID": "Trustwallet Chrome Extension",
-          "Type": "website"
-        },
-        "Trustwallet iOS App": {
-          "ID": "Trustwallet iOS App",
-          "Type": "ios"
-        },
-        "api.binance.com": {
-          "ID": "api.binance.com",
-          "Type": "api"
-        },
-        "api.coinmarketcap.com": {
-          "ID": "api.coinmarketcap.com",
-          "Type": "api"
-        },
-        "coinmarketcap.com": {
-          "ID": "coinmarketcap.com",
-          "Type": "website"
-        },
-        "https://binance.tr": {
-          "ID": "https://binance.tr",
-          "Type": "website"
-        },
-        "https://github.com/trustwallet/wallet-core/": {
-          "ID": "https://github.com/trustwallet/wallet-core/",
-          "Type": "other"
-        },
-        "https://www.binance.com/": {
-          "ID": "https://www.binance.com/",
-          "Type": "website"
-        },
-        "https://www.binance.us/": {
-          "ID": "https://www.binance.us/",
-          "Type": "website"
-        },
-        "portal-api.coinmarketcap.com": {
-          "ID": "portal-api.coinmarketcap.com",
-          "Type": "api"
-        },
-        "pro-api.coinmarketcap.com": {
-          "ID": "pro-api.coinmarketcap.com",
-          "Type": "api"
-        },
-        "pro.coinmarketcap.com": {
-          "ID": "pro.coinmarketcap.com",
-          "Type": "website"
-        }
-      },
-      "OutScope": {
-        "*.binance.org": {
-          "ID": "*.binance.org",
-          "Type": "website"
-        },
-        "*.coinmarketcap.com": {
-          "ID": "*.coinmarketcap.com",
-          "Type": "other"
-        },
-        "*.trustwallet.com": {
-          "ID": "*.trustwallet.com",
-          "Type": "website"
-        },
-        "*.trustwalletapp.com": {
-          "ID": "*.trustwalletapp.com",
-          "Type": "website"
-        },
-        "binance.sg": {
-          "ID": "binance.sg",
-          "Type": "website"
-        },
-        "blockchain.coinmarketcap.com": {
-          "ID": "blockchain.coinmarketcap.com",
-          "Type": "website"
-        },
-        "blog.coinmarketcap.com": {
-          "ID": "blog.coinmarketcap.com",
-          "Type": "website"
-        },
-        "jobs.coinmarketcap.com": {
-          "ID": "jobs.coinmarketcap.com",
-          "Type": "website"
-        },
-        "support.binance.*": {
-          "ID": "support.binance.*",
-          "Type": "website"
-        },
-        "support.coinmarketcap.com": {
-          "ID": "support.coinmarketcap.com",
-          "Type": "website"
-        }
-      },
-      "Hash": "94d79dc5fae0a0ec6229e9eff5c666b9f0a3520beb336f1c9cc423e138da9e81"
     },
     "bc:BitGo Managed Public Bug Bounty Engagement ": {
       "Key": "BitGo Managed Public Bug Bounty Engagement ",
@@ -152886,7 +152756,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "71248e7cea5d0887d4a58e3b00e3d1b7af5254a7e60a875308ad8c5f46701ced"
+      "Hash": "36de2427bfc1e801a2b3ff003415ca4fb03d0e33fc201b96d7675d2bcc9e307e"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -180517,7 +180387,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2c1e5d262a40af5fe691a2f262e6833b6e893123dabd55a305e3517c80717c26"
+      "Hash": "05338d362404947d4b0e05c1c13eeee0021dd174639ba911e3337756ee90ed69"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -186216,7 +186086,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ba572e5e5869259d53d7cb2a780d49fce650c436e3acf0768582c5c20e08b7a7"
+      "Hash": "9b85f6b215f1d03a261052c43a4baf3b9f0e4cb1e19571e922999976b2b69283"
     },
     "h1:regions_financial": {
       "Key": "regions_financial",
@@ -189998,7 +189868,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "19556ab181e7bb269b365a0c01b2ea448b00087e76ef35b0e385436b426e16f5"
+      "Hash": "b81a44c9abc0576b74881a0fde09c31f1bd240604d76edc7f6c4dfdd8db8abe7"
     },
     "h1:solidus": {
       "Key": "solidus",
@@ -198221,7 +198091,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7159aa5c677a355f694b0f638f86d815d459995eb27a33f6aa7935aefc4f557c"
+      "Hash": "0e5168abc4a41047b63ca7e9d435dfc2f5d392c7aeafc6f3259ae5244c258951"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
