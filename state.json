@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-22T01:49:33Z",
+  "captured_at": "2026-09-22T07:39:43Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -2099,6 +2099,136 @@
       },
       "OutScope": {},
       "Hash": "82e3185abdad88d98e7b129b50d7980750735fc711fb77e5098362e03331aeeb"
+    },
+    "bc:Binance": {
+      "Key": "Binance",
+      "Name": "Binance",
+      "URL": "https://bugcrowd.com/engagements/binance",
+      "InScope": {
+        "3rdparty-apis.coinmarketcap.com": {
+          "ID": "3rdparty-apis.coinmarketcap.com",
+          "Type": "api"
+        },
+        "Binance Desktop Application": {
+          "ID": "Binance Desktop Application",
+          "Type": "other"
+        },
+        "Binance Mobile Application for Android": {
+          "ID": "Binance Mobile Application for Android",
+          "Type": "android"
+        },
+        "Binance Mobile Application for iOS": {
+          "ID": "Binance Mobile Application for iOS",
+          "Type": "ios"
+        },
+        "Binance macOS Application": {
+          "ID": "Binance macOS Application",
+          "Type": "other"
+        },
+        "CoinMarketCap Android app": {
+          "ID": "CoinMarketCap Android app",
+          "Type": "android"
+        },
+        "CoinMarketCap iOS app": {
+          "ID": "CoinMarketCap iOS app",
+          "Type": "ios"
+        },
+        "Trustwallet Android App": {
+          "ID": "Trustwallet Android App",
+          "Type": "android"
+        },
+        "Trustwallet Chrome Extension": {
+          "ID": "Trustwallet Chrome Extension",
+          "Type": "website"
+        },
+        "Trustwallet iOS App": {
+          "ID": "Trustwallet iOS App",
+          "Type": "ios"
+        },
+        "api.binance.com": {
+          "ID": "api.binance.com",
+          "Type": "api"
+        },
+        "api.coinmarketcap.com": {
+          "ID": "api.coinmarketcap.com",
+          "Type": "api"
+        },
+        "coinmarketcap.com": {
+          "ID": "coinmarketcap.com",
+          "Type": "website"
+        },
+        "https://binance.tr": {
+          "ID": "https://binance.tr",
+          "Type": "website"
+        },
+        "https://github.com/trustwallet/wallet-core/": {
+          "ID": "https://github.com/trustwallet/wallet-core/",
+          "Type": "other"
+        },
+        "https://www.binance.com/": {
+          "ID": "https://www.binance.com/",
+          "Type": "website"
+        },
+        "https://www.binance.us/": {
+          "ID": "https://www.binance.us/",
+          "Type": "website"
+        },
+        "portal-api.coinmarketcap.com": {
+          "ID": "portal-api.coinmarketcap.com",
+          "Type": "api"
+        },
+        "pro-api.coinmarketcap.com": {
+          "ID": "pro-api.coinmarketcap.com",
+          "Type": "api"
+        },
+        "pro.coinmarketcap.com": {
+          "ID": "pro.coinmarketcap.com",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "*.binance.org": {
+          "ID": "*.binance.org",
+          "Type": "website"
+        },
+        "*.coinmarketcap.com": {
+          "ID": "*.coinmarketcap.com",
+          "Type": "other"
+        },
+        "*.trustwallet.com": {
+          "ID": "*.trustwallet.com",
+          "Type": "website"
+        },
+        "*.trustwalletapp.com": {
+          "ID": "*.trustwalletapp.com",
+          "Type": "website"
+        },
+        "binance.sg": {
+          "ID": "binance.sg",
+          "Type": "website"
+        },
+        "blockchain.coinmarketcap.com": {
+          "ID": "blockchain.coinmarketcap.com",
+          "Type": "website"
+        },
+        "blog.coinmarketcap.com": {
+          "ID": "blog.coinmarketcap.com",
+          "Type": "website"
+        },
+        "jobs.coinmarketcap.com": {
+          "ID": "jobs.coinmarketcap.com",
+          "Type": "website"
+        },
+        "support.binance.*": {
+          "ID": "support.binance.*",
+          "Type": "website"
+        },
+        "support.coinmarketcap.com": {
+          "ID": "support.coinmarketcap.com",
+          "Type": "website"
+        }
+      },
+      "Hash": "94d79dc5fae0a0ec6229e9eff5c666b9f0a3520beb336f1c9cc423e138da9e81"
     },
     "bc:BitGo Managed Public Bug Bounty Engagement ": {
       "Key": "BitGo Managed Public Bug Bounty Engagement ",
@@ -25773,7 +25903,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5c48402cce934a32a9d56ec6077f36f67b32823c1b499cf0731bfa6d6d186f9a"
+      "Hash": "8c5b7dfdbd7632d6cb05a7dfe04d1395961c5d3872e263fc75a600ca57e887d7"
     },
     "h1:amazonvrp": {
       "Key": "amazonvrp",
@@ -28615,7 +28745,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a2607991c832a61ad6165b4c96a457367284650acfa244ce6f415e23f0b0f22d"
+      "Hash": "7e0aa5391d0f15ccfe629f2e3e2e64e424cc60fe327939ae18d4730fd7e6f51a"
     },
     "h1:aven_response": {
       "Key": "aven_response",
@@ -67443,7 +67573,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "37bd290137881c3a373d3d4bf626bcab5ae298d11a80613464a6d34b269a9359"
+      "Hash": "77075079cd981a397578b9ec02ebbedb6dc419fb49ccc1b0c8bfa5b698ce3b04"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -67969,7 +68099,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a43203f943aa88d23ddd10f2253bb582cd36023ac9e665c00e344a8d61df849e"
+      "Hash": "f7473ea97b70a48d86d90e308853ffe79e52ccbddd4436e3d21dccf4b07ae6a5"
     },
     "h1:clarivate": {
       "Key": "clarivate",
@@ -88095,7 +88225,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "68f23c524cada5903cfb6fffbf678b7ab9c88f0e8942257b16e793ae2a6fd92d"
+      "Hash": "a2cf8f743e5b8c2189a3c9c533aca9dc40fe0ec0262436e052862e10648a445c"
     },
     "h1:clear": {
       "Key": "clear",
@@ -95990,7 +96120,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b8294f31999c1ae723baf22f33ba46f19cbf815100748f1b568336c42d506e38"
+      "Hash": "965833919a55728f3700f84b9b67cfd84bc43c67b353c0e7edc7ae5f0c538ea8"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -96339,7 +96469,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1bebb3e76b3017e0e333e7bc58bcccab2751e6ac231cf5210a371b2922373b8d"
+      "Hash": "ac985aa52e351fa5da91c95ab48d21f38710a6c3a2d194161401235660409628"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -107150,7 +107280,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ebeb9e54ea44143aca512423b4a85b3efb2d8dab5bab9805038850808cb58f77"
+      "Hash": "bfa1e15f948d75f249d6176cf51bf64dd85c892d5e408220aa20291293a4df25"
     },
     "h1:files": {
       "Key": "files",
@@ -146662,7 +146792,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1f8cb577dfbafc73d03206cc3fdb126b72d5ddecc35466d6b7573f8551a80b74"
+      "Hash": "fb6890c08710d071371eb4993f7da10abba36af4bb1b26dcd6ab03580dd56a3a"
     },
     "h1:floqast": {
       "Key": "floqast",
@@ -152907,7 +153037,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "156588bc8068237f304e56dc82b9a9dee3b55482b573540b93f0a93c27c61f16"
+      "Hash": "aa873e4daf3109145fe1b07b0f71c8d89e613667f265a8355981fc2e69484f76"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -169126,7 +169256,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0dfa38db3ac3fe2a096ecf04be77f046ea3647f1f2aa3b8089afd07c7040e93b"
+      "Hash": "24407713949960166d5e8bbc8e2eda996ceb57aceabfeeaa36d0a0065de1c13f"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -171974,7 +172104,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c3de838f6187c03253a7b3176429213353ce92d2abf14436aa1479c33cc3f668"
+      "Hash": "0777e1568c90a8f576fac4b72270baaa66df6b0c6709dc95c3b6e7d5c4c9550b"
     },
     "h1:mendix": {
       "Key": "mendix",
@@ -173545,7 +173675,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5e32d757e41f0cf25043a31a18f173f8f705fe22e2067eec4ca6ba82d4717c70"
+      "Hash": "b766028555be7ed57432e0ef26d08013c38a0f2925cfbf64eccc0a5df9e3af2b"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -180218,7 +180348,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1094e188c1a083e3ee53e6a4933b2f21861e3008ca6b10adc3494c16b9cb38f3"
+      "Hash": "6dd6b6045300369c8e198208de515cb6f20f79714a0a467c4bd2e82debe0985f"
     },
     "h1:netlify": {
       "Key": "netlify",
@@ -181266,7 +181396,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2ba0ee2622a6bb9f3cb995b3c35c111c3d1830613720a08ef65a036a18fbc7d1"
+      "Hash": "21382b1b30e95a50ec8de2efe1a59372ca4cfeebdd95c6d200292889a0107010"
     },
     "h1:okg": {
       "Key": "okg",
@@ -182469,7 +182599,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "f7973e79f816efd72815aa22f2886c11baabb470a7eb897bd2ad96c5e83039a9"
+      "Hash": "b97e0832fd036d0933bf9af049949927529219d50c23612dc782848304cf4d3f"
     },
     "h1:owox": {
       "Key": "owox",
@@ -189542,7 +189672,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8723e6566c6bf73b62d5562a52a00b7da9447be7c79286ccde82561c65ed1b6d"
+      "Hash": "65d9da93c91ed9803523212f361589fa267ae13fe4febdee0f3b8b0d14564165"
     },
     "h1:slack": {
       "Key": "slack",
@@ -190252,7 +190382,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "83d3dcb25ce186899358694c40fc67eacf9383552d32b8b4304a09b154fb67f0"
+      "Hash": "dde85e8f7001a4e7d37bbc64d992309725fde934c69faf82b98eae667ac4f4ad"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -190655,7 +190785,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "c12e67f4147205f67183aefff9747ff453d24132cb01bd0e53ce05fd6a754c7f"
+      "Hash": "07aa4f70a8d9688db71a762ba62d971ede4285769c073ba3ea671cf5a550b19f"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -191123,7 +191253,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3014a30996438c0f0e044c404c3291b0d5965bc74beba933e3577453a8d5847a"
+      "Hash": "cbaea934d8c6dadaac57b7dfab25492ffc068022b361347a8651ab799184f7ca"
     },
     "h1:taxwell-vdp": {
       "Key": "taxwell-vdp",
@@ -191295,7 +191425,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "81490b0cf21e0ec3985a4a76c6310ed3348b981edc9537aa2db61ccc6652d3c9"
+      "Hash": "2d392d6c1810d983d4e824a51c610fa30651879a0be3df6697e6d71210029d29"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -191707,7 +191837,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f01fd755e9dfe2d970f63f7b7218a9e3c01859d8a9f2ce7c7cb72ce8cda8b182"
+      "Hash": "28bd0c0cf5f6a36424059caa502edfa1e013610fc2b77cb03017b4ddb22bd6bf"
     },
     "h1:tiktok": {
       "Key": "tiktok",
@@ -192017,7 +192147,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bfcd3514dcd152dd35e472575320e0b7aa080d6805b659939180473054a8e66e"
+      "Hash": "ea30c5a9170368bb6b2cc288d9c38e68238471046f88958270a95b9a5dc0f4f7"
     },
     "h1:toolsforhumanity": {
       "Key": "toolsforhumanity",
@@ -194657,7 +194787,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "16f12f6e2fb989323a04a9041fc43a02bc2ba619b59a1859662f6a8778dded7b"
+      "Hash": "f5899ab937c5fac4b38f2d54769e8ddfcb28d4297eed6dbd8156cc44d6fec2ae"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -194937,7 +195067,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "b8af033a4a29632596ea4ed734f5f3eff8c0ca684a8a29fea07b3df421f9d150"
+      "Hash": "39f92a4385b30f3aa236662dac1108786da45938344703197e763954e6527bf5"
     },
     "h1:verily_life_sciences": {
       "Key": "verily_life_sciences",
@@ -197300,7 +197430,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f9dec676dd2a1f9cf1c95caf98ed9ee1be7b91eb92a28b472205cd847f4d47d4"
+      "Hash": "f11fbfbdb2324ab96152555f304a14ac982a3f5ded77477c943a9a36685f893c"
     },
     "h1:wordpress": {
       "Key": "wordpress",
@@ -197834,7 +197964,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4bcda3885fadbdba382353b69410393c5cd5d89bb2cd36cd8c710c5fa1725934"
+      "Hash": "c8af26bd9b7812dbc715ab65c073708d2e8f4e6bba05b1c18c88352880b3c914"
     },
     "h1:xvideos": {
       "Key": "xvideos",
@@ -202953,260 +203083,6 @@
       },
       "OutScope": {},
       "Hash": "53b2fab1df76425b23e61269aaf51227372c6c5c9fcefbca6afd092a2fa1fd62"
-    },
-    "in:768ad323-335b-4710-9370-6b81925c122f": {
-      "Key": "768ad323-335b-4710-9370-6b81925c122f",
-      "Name": "Kinepolis Group",
-      "URL": "https://www.intigriti.com/programs/kinepolis/website/detail",
-      "InScope": {
-        "*.kinepolis.be": {
-          "ID": "*.kinepolis.be",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.ch": {
-          "ID": "*.kinepolis.ch",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.com": {
-          "ID": "*.kinepolis.com",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.fr": {
-          "ID": "*.kinepolis.fr",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.lu": {
-          "ID": "*.kinepolis.lu",
-          "Type": "wildcard"
-        },
-        "*.kinepolis.nl": {
-          "ID": "*.kinepolis.nl",
-          "Type": "wildcard"
-        },
-        "*.klubcinema.fr": {
-          "ID": "*.klubcinema.fr",
-          "Type": "wildcard"
-        },
-        "*.landmarkcinemas.com": {
-          "ID": "*.landmarkcinemas.com",
-          "Type": "wildcard"
-        },
-        "*.megatix.be  ": {
-          "ID": "*.megatix.be  ",
-          "Type": "wildcard"
-        },
-        "*.mjrtheatres.com": {
-          "ID": "*.mjrtheatres.com",
-          "Type": "wildcard"
-        },
-        "522089287": {
-          "ID": "522089287",
-          "Type": "ios"
-        },
-        "booking.mjrtheatres.com": {
-          "ID": "booking.mjrtheatres.com",
-          "Type": "url"
-        },
-        "business.kinepolis.be": {
-          "ID": "business.kinepolis.be",
-          "Type": "url"
-        },
-        "business.kinepolis.lu": {
-          "ID": "business.kinepolis.lu",
-          "Type": "url"
-        },
-        "business.kinepolis.nl": {
-          "ID": "business.kinepolis.nl",
-          "Type": "url"
-        },
-        "com.inthepocket.kinepolis": {
-          "ID": "com.inthepocket.kinepolis",
-          "Type": "android"
-        },
-        "egaming.kinepolis.es": {
-          "ID": "egaming.kinepolis.es",
-          "Type": "url"
-        },
-        "extras-acc.landmarkcinemas.com": {
-          "ID": "extras-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "extras.landmarkcinemas.com": {
-          "ID": "extras.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "https://movieclub-int.kinepolis.com": {
-          "ID": "https://movieclub-int.kinepolis.com",
-          "Type": "url"
-        },
-        "https://movienow-int.kinepolis.be/admin": {
-          "ID": "https://movienow-int.kinepolis.be/admin",
-          "Type": "url"
-        },
-        "https://shop-acc.kinepolis.be/": {
-          "ID": "https://shop-acc.kinepolis.be/",
-          "Type": "url"
-        },
-        "identityserver-acc.landmarkcinemas.com": {
-          "ID": "identityserver-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "identityserver.landmarkcinemas.com": {
-          "ID": "identityserver.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "kinepolis-studio.be": {
-          "ID": "kinepolis-studio.be",
-          "Type": "url"
-        },
-        "kinepolis.megatix.be": {
-          "ID": "kinepolis.megatix.be",
-          "Type": "url"
-        },
-        "kinepolis/id368204284": {
-          "ID": "kinepolis/id368204284",
-          "Type": "ios"
-        },
-        "luxfilmfestfilms.megatix.be": {
-          "ID": "luxfilmfestfilms.megatix.be",
-          "Type": "url"
-        },
-        "luxfilmfestproducts.megatix.be": {
-          "ID": "luxfilmfestproducts.megatix.be",
-          "Type": "url"
-        },
-        "luxfilmfesttickets.megatix.be": {
-          "ID": "luxfilmfesttickets.megatix.be",
-          "Type": "url"
-        },
-        "movieapi.kinepolis.megatix.be": {
-          "ID": "movieapi.kinepolis.megatix.be",
-          "Type": "url"
-        },
-        "nz.co.vista.android.movie.mjrtheatres": {
-          "ID": "nz.co.vista.android.movie.mjrtheatres",
-          "Type": "android"
-        },
-        "stage.landmarkcinemas.com": {
-          "ID": "stage.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "tickets.kinepolis.be": {
-          "ID": "tickets.kinepolis.be",
-          "Type": "url"
-        },
-        "tickets.kinepolis.ch": {
-          "ID": "tickets.kinepolis.ch",
-          "Type": "url"
-        },
-        "tickets.kinepolis.es": {
-          "ID": "tickets.kinepolis.es",
-          "Type": "url"
-        },
-        "tickets.kinepolis.fr": {
-          "ID": "tickets.kinepolis.fr",
-          "Type": "url"
-        },
-        "tickets.kinepolis.lu": {
-          "ID": "tickets.kinepolis.lu",
-          "Type": "url"
-        },
-        "tickets.kinepolis.nl": {
-          "ID": "tickets.kinepolis.nl",
-          "Type": "url"
-        },
-        "userprofile-acc.landmarkcinemas.com": {
-          "ID": "userprofile-acc.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "userprofile-ui.landmarkcinemas.com": {
-          "ID": "userprofile-ui.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "www.kinepolis.be ": {
-          "ID": "www.kinepolis.be ",
-          "Type": "url"
-        },
-        "www.kinepolis.biz": {
-          "ID": "www.kinepolis.biz",
-          "Type": "url"
-        },
-        "www.kinepolis.ch ": {
-          "ID": "www.kinepolis.ch ",
-          "Type": "url"
-        },
-        "www.kinepolis.com ": {
-          "ID": "www.kinepolis.com ",
-          "Type": "url"
-        },
-        "www.kinepolis.es ": {
-          "ID": "www.kinepolis.es ",
-          "Type": "url"
-        },
-        "www.kinepolis.fr ": {
-          "ID": "www.kinepolis.fr ",
-          "Type": "url"
-        },
-        "www.kinepolis.lu ": {
-          "ID": "www.kinepolis.lu ",
-          "Type": "url"
-        },
-        "www.kinepolis.nl ": {
-          "ID": "www.kinepolis.nl ",
-          "Type": "url"
-        },
-        "www.landmarkcinemas.com": {
-          "ID": "www.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "www.mjrtheatres.com": {
-          "ID": "www.mjrtheatres.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.cineramabios.nl": {
-          "ID": "*.cineramabios.nl",
-          "Type": "wildcard"
-        },
-        "dev.kinepolis.com": {
-          "ID": "dev.kinepolis.com",
-          "Type": "url"
-        },
-        "helpdesk.landmarkcinemas.com": {
-          "ID": "helpdesk.landmarkcinemas.com",
-          "Type": "url"
-        },
-        "jobs.kinepolis.com": {
-          "ID": "jobs.kinepolis.com",
-          "Type": "url"
-        },
-        "l.kinepolis.com": {
-          "ID": "l.kinepolis.com",
-          "Type": "url"
-        },
-        "openx.kinepolis.com": {
-          "ID": "openx.kinepolis.com",
-          "Type": "url"
-        },
-        "shop.kinepolis.be ": {
-          "ID": "shop.kinepolis.be ",
-          "Type": "url"
-        },
-        "shop.kinepolis.es": {
-          "ID": "shop.kinepolis.es",
-          "Type": "url"
-        },
-        "shop.kinepolis.fr ": {
-          "ID": "shop.kinepolis.fr ",
-          "Type": "url"
-        },
-        "shop.kinepolis.lu": {
-          "ID": "shop.kinepolis.lu",
-          "Type": "url"
-        }
-      },
-      "Hash": "a7c2a49ea9d26ca6c2af09d4ed22aae3fadc5aae6aabaca8caf1244b61f50a0e"
     },
     "in:784ffbc6-daaa-4e7e-8eba-c38a101d7b12": {
       "Key": "784ffbc6-daaa-4e7e-8eba-c38a101d7b12",
