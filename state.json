@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-24T17:04:43Z",
+  "captured_at": "2026-09-24T20:27:23Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -17692,7 +17692,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "28c6a4cd7ab30126b670f3ebad536105743f8efb96363f0d17d4618c1d20b68f"
+      "Hash": "f94aee8feb6a9866189fe4414190670cd15c5b3eaeffbc21c2e618400630ca4b"
     },
     "bc:Xfinity Home \u0026 xFi": {
       "Key": "Xfinity Home \u0026 xFi",
@@ -26679,7 +26679,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6ec5de6776c72f92cc4e1e291a5cbceb0613ece448be99cd6e823e11d0d22987"
+      "Hash": "5b3477737b4551bc0c3f571e7ea310faa8bd1394b6b443fa225d066d00bd3f6f"
     },
     "h1:anthropic": {
       "Key": "anthropic",
@@ -28649,7 +28649,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b310666ba5bd9689c957fd0d7b964aa9f38af61b72f8f8212a84b9457ff0474b"
+      "Hash": "a3fda2ebb001e9b9803e4725842061ed7a4a6936e7e5d7ae84be64af933d5c84"
     },
     "h1:autodesk": {
       "Key": "autodesk",
@@ -31188,7 +31188,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a4f298af64fa43f7375dbe34f4ceb7e168734c5d6e99277aeab32b5f8b9f9d86"
+      "Hash": "e89f6b053f1de9678222ec780946207ba8134f8987a3b24b5dff36c9ebf40214"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -31500,7 +31500,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5214a01da69e620eef5567f378421cd2b69a6ef94c6e8fe335057dc0d874789b"
+      "Hash": "c3810d9da0c7b31b90b857bdab6107957a73d053e9864da2f6e1a7738158e1ec"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -31508,7 +31508,7 @@
       "URL": "https://hackerone.com/beiersdorf",
       "InScope": {},
       "OutScope": {},
-      "Hash": "a4709908ac1a81e16fd1b35552ac03661a2eef96b4dcb63420a8c1fb82916c1f"
+      "Hash": "e392075dc5a12028f931e98a85ddb3144d79c334634f59c0782554bb87babcd0"
     },
     "h1:bestbuy": {
       "Key": "bestbuy",
@@ -32559,7 +32559,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e14e91b65bbb9bebee320e544eff48a3d99f78b15fa46f2be68345bb514249ac"
+      "Hash": "899bdc2b314faa9d1f7df9cb8a95d18899cff70d715c94624242a7b3d283951e"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -32765,7 +32765,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c7cd99eeae57412f79bccd96386e27ae190a1fe2922140c3f66a03ef90421f91"
+      "Hash": "f3a6f76a1958bca99aa737336d4604dd747b6bda0ac7e99b16dbc07746678216"
     },
     "h1:capital-one": {
       "Key": "capital-one",
@@ -68286,7 +68286,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ecc84e9b9a87d5db9959d07859ba3403b5c72c31c825a0585d2c07793ee7cec9"
+      "Hash": "313132b389bc3b1dccbb4f1da3a649ab923c33c2d0fadb38764d5f321f9e75f6"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -96524,7 +96524,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6638e95f2c8d55c9f8f810d8b348dff5c7f1d05fc2bb88c6232c2df39aa23a35"
+      "Hash": "3fb945bbdaa664248c819ed75095b548662d0eaf166e94c6e5aec93f4deb60f1"
     },
     "h1:django": {
       "Key": "django",
@@ -104204,7 +104204,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d642dd63801874bf46c69ec1665eff361dacd56eb2c40f512fbdfd1bfb75a26a"
+      "Hash": "4a8dcd61361c8ed14d42c6c1bb6d82de7f377f7c33959577854e3cd7127ed81e"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -105061,7 +105061,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e5ff06bde8e2c0f3c9b619746b9fb9b8f208a100301e2eea12785aac9ec18f80"
+      "Hash": "0de8049c18c9de81ca03e63a5d010dbc6746f10b052894d6fc4f86a1c48bd1b7"
     },
     "h1:experian": {
       "Key": "experian",
@@ -107533,7 +107533,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3c868739b8f94ba937665165b1ad4afd79bcb420d119f31349edbddd745c3b18"
+      "Hash": "fa8f327193790a5547502f59563b034cd35bb3e27bca8501061e4ec8e5e872b9"
     },
     "h1:files": {
       "Key": "files",
@@ -110622,86 +110622,6 @@
           "ID": "cert-api-fiservapps-x-saw1.ns1.fiservapis.com",
           "Type": "URL"
         },
-        "cert-api-fiservapps-x-usc1.ns1.fiservapis.com": {
-          "ID": "cert-api-fiservapps-x-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-fiservapps-x-use4.ns1.fiservapis.com": {
-          "ID": "cert-api-fiservapps-x-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-ipg-online-x-asns1.ns1.fiservapis.com": {
-          "ID": "cert-api-ipg-online-x-asns1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-ipg-online-x-ause1.ns1.fiservapis.com": {
-          "ID": "cert-api-ipg-online-x-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-ipg-online-x-euw1.ns1.fiservapis.com": {
-          "ID": "cert-api-ipg-online-x-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-ipg-online-x-euw3.ns1.fiservapis.com": {
-          "ID": "cert-api-ipg-online-x-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-ipg-online-x-sae1.ns1.fiservapis.com": {
-          "ID": "cert-api-ipg-online-x-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-ipg-online-x-saw1.ns1.fiservapis.com": {
-          "ID": "cert-api-ipg-online-x-saw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-ipg-online-x-usc1.ns1.fiservapis.com": {
-          "ID": "cert-api-ipg-online-x-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-ipg-online-x-use4.ns1.fiservapis.com": {
-          "ID": "cert-api-ipg-online-x-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-api-ipg-online.ns1.fiservapis.com": {
-          "ID": "cert-api-ipg-online.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-apigee-fiservapps-x-asns1.ns1.fiservapis.com": {
-          "ID": "cert-apigee-fiservapps-x-asns1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-apigee-fiservapps-x-ause1.ns1.fiservapis.com": {
-          "ID": "cert-apigee-fiservapps-x-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-apigee-fiservapps-x-euw1.ns1.fiservapis.com": {
-          "ID": "cert-apigee-fiservapps-x-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-apigee-fiservapps-x-euw3.ns1.fiservapis.com": {
-          "ID": "cert-apigee-fiservapps-x-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-apigee-fiservapps-x-sae1.ns1.fiservapis.com": {
-          "ID": "cert-apigee-fiservapps-x-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-apigee-fiservapps-x-saw1.ns1.fiservapis.com": {
-          "ID": "cert-apigee-fiservapps-x-saw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-apigee-fiservapps-x-usc1.ns1.fiservapis.com": {
-          "ID": "cert-apigee-fiservapps-x-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-apigee-fiservapps-x-use4.ns1.fiservapis.com": {
-          "ID": "cert-apigee-fiservapps-x-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-axiom.fiservapps.com": {
-          "ID": "cert-axiom.fiservapps.com",
-          "Type": "URL"
-        },
         "cert-caedd.moneynetwork.com": {
           "ID": "cert-caedd.moneynetwork.com",
           "Type": "URL"
@@ -110762,14 +110682,6 @@
           "ID": "cert-eddpaymentportal.moneynetwork.com",
           "Type": "URL"
         },
-        "cert-emea-api-fiservapps-x-euw1.ns1.fiservapis.com": {
-          "ID": "cert-emea-api-fiservapps-x-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-emea-api-fiservapps-x-euw3.ns1.fiservapis.com": {
-          "ID": "cert-emea-api-fiservapps-x-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "cert-fdpos-x-usc1.ns1.fiservapis.com": {
           "ID": "cert-fdpos-x-usc1.ns1.fiservapis.com",
           "Type": "URL"
@@ -110804,14 +110716,6 @@
         },
         "cert-implementationhub.carat.fiserv.com": {
           "ID": "cert-implementationhub.carat.fiserv.com",
-          "Type": "URL"
-        },
-        "cert-latam-api-fiservapps-x-sae1.ns1.fiservapis.com": {
-          "ID": "cert-latam-api-fiservapps-x-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "cert-latam-api-fiservapps-x-saw1.ns1.fiservapis.com": {
-          "ID": "cert-latam-api-fiservapps-x-saw1.ns1.fiservapis.com",
           "Type": "URL"
         },
         "cert-moogsoft.fiservapis.com": {
@@ -111100,14 +111004,6 @@
         },
         "checkout-v2-production-radware.getbento.com": {
           "ID": "checkout-v2-production-radware.getbento.com",
-          "Type": "URL"
-        },
-        "checkoutv2-nonprod-nextgen-radware.bentopreprod.com": {
-          "ID": "checkoutv2-nonprod-nextgen-radware.bentopreprod.com",
-          "Type": "URL"
-        },
-        "checkoutv2-prod-radware.getbento.com": {
-          "ID": "checkoutv2-prod-radware.getbento.com",
           "Type": "URL"
         },
         "checkoutv2-staging-radware.bentosandbox.com": {
@@ -111402,10 +111298,6 @@
           "ID": "cld-stage-www.fiserv.com.pa",
           "Type": "URL"
         },
-        "cld-stage-www.merchantreferrals.com": {
-          "ID": "cld-stage-www.merchantreferrals.com",
-          "Type": "URL"
-        },
         "cld-stage-www.polcard.pl": {
           "ID": "cld-stage-www.polcard.pl",
           "Type": "URL"
@@ -111420,10 +111312,6 @@
         },
         "cld-stage.franchise.fiserv.com": {
           "ID": "cld-stage.franchise.fiserv.com",
-          "Type": "URL"
-        },
-        "cld-stage.ignitepayments.co.uk": {
-          "ID": "cld-stage.ignitepayments.co.uk",
           "Type": "URL"
         },
         "cld-stage.talent.fiserv.com": {
@@ -111546,10 +111434,6 @@
           "ID": "cn3.omnipaygroup.com",
           "Type": "URL"
         },
-        "cnb-temp.olbanking.com": {
-          "ID": "cnb-temp.olbanking.com",
-          "Type": "URL"
-        },
         "cnb.olbanking.com": {
           "ID": "cnb.olbanking.com",
           "Type": "URL"
@@ -111656,14 +111540,6 @@
         },
         "commercehub-cdn.fiservapps.com": {
           "ID": "commercehub-cdn.fiservapps.com",
-          "Type": "URL"
-        },
-        "commercehub-dev-x-ause1.ns1.fiservapis.com": {
-          "ID": "commercehub-dev-x-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "commercehub-dev-x-usc1.ns1.fiservapis.com": {
-          "ID": "commercehub-dev-x-usc1.ns1.fiservapis.com",
           "Type": "URL"
         },
         "commercehub-dev.fiserv.com": {
@@ -111798,132 +111674,12 @@
           "ID": "configsitef.softwareexpress.com.br",
           "Type": "URL"
         },
-        "connect-asns1.apac.ns1.fiservapis.com": {
-          "ID": "connect-asns1.apac.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-ause1.apac.ns1.fiservapis.com": {
-          "ID": "connect-ause1.apac.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-cert-asns1.apac.ns1.fiservapis.com": {
-          "ID": "connect-cert-asns1.apac.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-cert-ause1.apac.ns1.fiservapis.com": {
-          "ID": "connect-cert-ause1.apac.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-cert-euw1.emea.ns1.fiservapis.com": {
-          "ID": "connect-cert-euw1.emea.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-cert-euw3.emea.ns1.fiservapis.com": {
-          "ID": "connect-cert-euw3.emea.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-cert-sae1.latam.ns1.fiservapis.com": {
-          "ID": "connect-cert-sae1.latam.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-cert.apac.fiservapis.com": {
-          "ID": "connect-cert.apac.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-cert.emea.fiservapis.com": {
-          "ID": "connect-cert.emea.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-cert.fiservapis.com": {
-          "ID": "connect-cert.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-cert.fiservapps.com": {
-          "ID": "connect-cert.fiservapps.com",
-          "Type": "URL"
-        },
-        "connect-cert.latam.fiservapis.com": {
-          "ID": "connect-cert.latam.fiservapis.com",
-          "Type": "URL"
-        },
         "connect-dev.apac.fiservapis.com": {
           "ID": "connect-dev.apac.fiservapis.com",
           "Type": "URL"
         },
-        "connect-dev.emea.fiservapis.com": {
-          "ID": "connect-dev.emea.fiservapis.com",
-          "Type": "URL"
-        },
         "connect-dev.fiservapis.com": {
           "ID": "connect-dev.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-dev.latam.fiservapis.com": {
-          "ID": "connect-dev.latam.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-euw1.emea.ns1.fiservapis.com": {
-          "ID": "connect-euw1.emea.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-euw3.emea.ns1.fiservapis.com": {
-          "ID": "connect-euw3.emea.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-int-x-usc1.ns1.fiservapis.com": {
-          "ID": "connect-int-x-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-int-x-use4.ns1.fiservapis.com": {
-          "ID": "connect-int-x-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-int.fiservapis.com": {
-          "ID": "connect-int.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-int.ns1.fiservapis.com": {
-          "ID": "connect-int.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-qa.apac.fiservapis.com": {
-          "ID": "connect-qa.apac.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-qa.emea.fiservapis.com": {
-          "ID": "connect-qa.emea.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-qa.fiservapis.com": {
-          "ID": "connect-qa.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-qa.latam.fiservapis.com": {
-          "ID": "connect-qa.latam.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-sae1.latam.ns1.fiservapis.com": {
-          "ID": "connect-sae1.latam.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-saw1.latam.ns1.fiservapis.com": {
-          "ID": "connect-saw1.latam.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-test.apac.fiservapis.com": {
-          "ID": "connect-test.apac.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-test.emea.fiservapis.com": {
-          "ID": "connect-test.emea.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-test.fiservapis.com": {
-          "ID": "connect-test.fiservapis.com",
-          "Type": "URL"
-        },
-        "connect-test.latam.fiservapis.com": {
-          "ID": "connect-test.latam.fiservapis.com",
           "Type": "URL"
         },
         "connect-uat-emea-fiservapis-euw1.ns1.fiservapis.com": {
@@ -112056,22 +111812,6 @@
         },
         "cooporiental-dc.cert.fec-dc.fiservapps.com": {
           "ID": "cooporiental-dc.cert.fec-dc.fiservapps.com",
-          "Type": "URL"
-        },
-        "copilot-api-uat.cardconnect.com": {
-          "ID": "copilot-api-uat.cardconnect.com",
-          "Type": "URL"
-        },
-        "copilot-api-uat.cardpointe.com": {
-          "ID": "copilot-api-uat.cardpointe.com",
-          "Type": "URL"
-        },
-        "copilot-uat.cardpointe.com": {
-          "ID": "copilot-uat.cardpointe.com",
-          "Type": "URL"
-        },
-        "copilotapi-uat.cardconnect.com": {
-          "ID": "copilotapi-uat.cardconnect.com",
           "Type": "URL"
         },
         "corilliancert.fiserv.io": {
@@ -112322,10 +112062,6 @@
           "ID": "cst-virtualtrainer.fiservapps.com",
           "Type": "URL"
         },
-        "ctbcbank-temp.olbanking.com": {
-          "ID": "ctbcbank-temp.olbanking.com",
-          "Type": "URL"
-        },
         "ctbcbank.olbanking.com": {
           "ID": "ctbcbank.olbanking.com",
           "Type": "URL"
@@ -112472,10 +112208,6 @@
         },
         "datacompass.fiservapps.com": {
           "ID": "datacompass.fiservapps.com",
-          "Type": "URL"
-        },
-        "dataexchange-temp.olbanking.com": {
-          "ID": "dataexchange-temp.olbanking.com",
           "Type": "URL"
         },
         "davcoe-tableau-naexternal-dr.fiservapps.com": {
@@ -112642,30 +112374,6 @@
           "ID": "dev-admin.fiserv.com",
           "Type": "URL"
         },
-        "dev-alt-int.catalyst.clover.com": {
-          "ID": "dev-alt-int.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "dev-alt.catalyst.clover.com": {
-          "ID": "dev-alt.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "dev-api-ipg-online-ause1.ns1.fiservapis.com": {
-          "ID": "dev-api-ipg-online-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "dev-api-ipg-online-euw3.ns1.fiservapis.com": {
-          "ID": "dev-api-ipg-online-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "dev-api-ipg-online-sae1.ns1.fiservapis.com": {
-          "ID": "dev-api-ipg-online-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "dev-api-ipg-online-usc1.ns1.fiservapis.com": {
-          "ID": "dev-api-ipg-online-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "dev-api-ipg-online-use4.ns1.fiservapis.com": {
           "ID": "dev-api-ipg-online-use4.ns1.fiservapis.com",
           "Type": "URL"
@@ -112682,10 +112390,6 @@
           "ID": "dev-dma.fiserv.com",
           "Type": "URL"
         },
-        "dev-fileexchange.fiservapis.com": {
-          "ID": "dev-fileexchange.fiservapis.com",
-          "Type": "URL"
-        },
         "dev-gsg-east.gift.solutions": {
           "ID": "dev-gsg-east.gift.solutions",
           "Type": "URL"
@@ -112698,20 +112402,8 @@
           "ID": "dev-implementationhub.carat.fiserv.com",
           "Type": "URL"
         },
-        "dev-merchant-portal-tw-api.gift.solutions": {
-          "ID": "dev-merchant-portal-tw-api.gift.solutions",
-          "Type": "URL"
-        },
         "dev-miam.businesstrack.com": {
           "ID": "dev-miam.businesstrack.com",
-          "Type": "URL"
-        },
-        "dev-myfiserv.fiservapps.com": {
-          "ID": "dev-myfiserv.fiservapps.com",
-          "Type": "URL"
-        },
-        "dev-otp.catalyst.clover.com": {
-          "ID": "dev-otp.catalyst.clover.com",
           "Type": "URL"
         },
         "dev-proxy.businesstrack.com": {
@@ -112734,40 +112426,8 @@
           "ID": "dev-test-studio.marketplace.fiserv.com",
           "Type": "URL"
         },
-        "dev-unifieddeveloper.fiserv.com": {
-          "ID": "dev-unifieddeveloper.fiserv.com",
-          "Type": "URL"
-        },
         "dev-www.wgiftcard.com": {
           "ID": "dev-www.wgiftcard.com",
-          "Type": "URL"
-        },
-        "dev-x-01-ause1.ns1.fiservapis.com": {
-          "ID": "dev-x-01-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "dev-x-01-euw1.ns1.fiservapis.com": {
-          "ID": "dev-x-01-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "dev-x-01-euw3.ns1.fiservapis.com": {
-          "ID": "dev-x-01-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "dev-x-01-sae1.ns1.fiservapis.com": {
-          "ID": "dev-x-01-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "dev-x-01-usc1.ns1.fiservapis.com": {
-          "ID": "dev-x-01-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "dev-x-01-use4.ns1.fiservapis.com": {
-          "ID": "dev-x-01-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "dev.api.ipg-online.com": {
-          "ID": "dev.api.ipg-online.com",
           "Type": "URL"
         },
         "dev.fimu.me": {
@@ -112844,10 +112504,6 @@
         },
         "digitalbillpay.firstcitizens.com": {
           "ID": "digitalbillpay.firstcitizens.com",
-          "Type": "URL"
-        },
-        "dime-temp.olbanking.com": {
-          "ID": "dime-temp.olbanking.com",
           "Type": "URL"
         },
         "dime.architect-cert.fiservapps.com": {
@@ -113066,14 +112722,6 @@
           "ID": "dna-btat2.fiservapps.com",
           "Type": "URL"
         },
-        "dnawebtest.fiserv.io": {
-          "ID": "dnawebtest.fiserv.io",
-          "Type": "URL"
-        },
-        "dnawebtest2.fiserv.io": {
-          "ID": "dnawebtest2.fiserv.io",
-          "Type": "URL"
-        },
         "dnawebtest3.fiserv.io": {
           "ID": "dnawebtest3.fiserv.io",
           "Type": "URL"
@@ -113084,10 +112732,6 @@
         },
         "dollarbank.architect-cert.fiservapps.com": {
           "ID": "dollarbank.architect-cert.fiservapps.com",
-          "Type": "URL"
-        },
-        "dominion-temp.olbanking.com": {
-          "ID": "dominion-temp.olbanking.com",
           "Type": "URL"
         },
         "dominion.olbanking.com": {
@@ -113186,10 +112830,6 @@
           "ID": "download.fiservapps.com",
           "Type": "URL"
         },
-        "dr-axiom.fiservapps.com": {
-          "ID": "dr-axiom.fiservapps.com",
-          "Type": "URL"
-        },
         "dr-libra-prod.fiservapps.com": {
           "ID": "dr-libra-prod.fiservapps.com",
           "Type": "URL"
@@ -113254,10 +112894,6 @@
           "ID": "dwightfsb.onlinebank.com",
           "Type": "URL"
         },
-        "dx-temp.olbanking.com": {
-          "ID": "dx-temp.olbanking.com",
-          "Type": "URL"
-        },
         "dx.olbanking.com": {
           "ID": "dx.olbanking.com",
           "Type": "URL"
@@ -113292,10 +112928,6 @@
         },
         "eastwest-cc.olbanking.com": {
           "ID": "eastwest-cc.olbanking.com",
-          "Type": "URL"
-        },
-        "eastwest-temp.olbanking.com": {
-          "ID": "eastwest-temp.olbanking.com",
           "Type": "URL"
         },
         "eastwestcert-temp.olbanking.com": {
@@ -113510,14 +113142,6 @@
           "ID": "emfederalcreditunion-dn.financial-net.com",
           "Type": "URL"
         },
-        "emfi-bankinghub-cert-usc1.ns1.fiservapis.com": {
-          "ID": "emfi-bankinghub-cert-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "emfi-bankinghub-cert-use4.ns1.fiservapis.com": {
-          "ID": "emfi-bankinghub-cert-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "emfi-bankinghub-cert.fiservapis.com": {
           "ID": "emfi-bankinghub-cert.fiservapis.com",
           "Type": "URL"
@@ -113528,10 +113152,6 @@
         },
         "emfi-bankinghub-usc1.ns1.fiservapis.com": {
           "ID": "emfi-bankinghub-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "emfi-bankinghub-use4.ns1.fiservapis.com": {
-          "ID": "emfi-bankinghub-use4.ns1.fiservapis.com",
           "Type": "URL"
         },
         "emfi-bankinghub.fiservapis.com": {
@@ -113700,10 +113320,6 @@
         },
         "eu-ssoca.fiservapp.com": {
           "ID": "eu-ssoca.fiservapp.com",
-          "Type": "URL"
-        },
-        "eu.clover.com": {
-          "ID": "eu.clover.com",
           "Type": "URL"
         },
         "eu.fimu.me": {
@@ -114058,24 +113674,12 @@
           "ID": "feds.output.fiserv.com",
           "Type": "URL"
         },
-        "feedback-app-nonprod-nextgen-radware.bentopreprod.com": {
-          "ID": "feedback-app-nonprod-nextgen-radware.bentopreprod.com",
-          "Type": "URL"
-        },
-        "feedback-app-prod-nextgen-radware.getbento.com": {
-          "ID": "feedback-app-prod-nextgen-radware.getbento.com",
-          "Type": "URL"
-        },
         "feedback-app-staging-radware.bentosandbox.com": {
           "ID": "feedback-app-staging-radware.bentosandbox.com",
           "Type": "URL"
         },
         "feedback-prod-radware.getbento.com": {
           "ID": "feedback-prod-radware.getbento.com",
-          "Type": "URL"
-        },
-        "feedback-staging-radware.bentosandbox.com": {
-          "ID": "feedback-staging-radware.bentosandbox.com",
           "Type": "URL"
         },
         "fenfcu.com": {
@@ -114128,10 +113732,6 @@
         },
         "ffsbweb.onlinebank.com": {
           "ID": "ffsbweb.onlinebank.com",
-          "Type": "URL"
-        },
-        "fhb-temp.olbanking.com": {
-          "ID": "fhb-temp.olbanking.com",
           "Type": "URL"
         },
         "fhb.olbanking.com": {
@@ -114210,16 +113810,8 @@
           "ID": "filesdev2.dev.clover.com",
           "Type": "URL"
         },
-        "filesdev3.dev.clover.com": {
-          "ID": "filesdev3.dev.clover.com",
-          "Type": "URL"
-        },
         "filesdev5.dev.clover.com": {
           "ID": "filesdev5.dev.clover.com",
-          "Type": "URL"
-        },
-        "filessandbox.dev.clover.com": {
-          "ID": "filessandbox.dev.clover.com",
           "Type": "URL"
         },
         "filesstg2.dev.clover.com": {
@@ -114380,10 +113972,6 @@
         },
         "firstfinancial2-test.fiserv.io": {
           "ID": "firstfinancial2-test.fiserv.io",
-          "Type": "URL"
-        },
-        "firstfoundation-temp.olbanking.com": {
-          "ID": "firstfoundation-temp.olbanking.com",
           "Type": "URL"
         },
         "firstfoundation.olbanking.com": {
@@ -114584,10 +114172,6 @@
         },
         "fiservtestservicepoint.fiservapps.com": {
           "ID": "fiservtestservicepoint.fiservapps.com",
-          "Type": "URL"
-        },
-        "flagstar-temp.olbanking.com": {
-          "ID": "flagstar-temp.olbanking.com",
           "Type": "URL"
         },
         "flagstar.architect-cert.fiservapps.com": {
@@ -115074,10 +114658,6 @@
           "ID": "fswdepot.net",
           "Type": "URL"
         },
-        "ftexpress-tdbank-temp.olbanking.com": {
-          "ID": "ftexpress-tdbank-temp.olbanking.com",
-          "Type": "URL"
-        },
         "ftexpress.tdbank.com": {
           "ID": "ftexpress.tdbank.com",
           "Type": "URL"
@@ -115218,10 +114798,6 @@
           "ID": "gcsstest.fiserv.io",
           "Type": "URL"
         },
-        "genesisbank-temp.olbanking.com": {
-          "ID": "genesisbank-temp.olbanking.com",
-          "Type": "URL"
-        },
         "genesisbankcert-temp.olbanking.com": {
           "ID": "genesisbankcert-temp.olbanking.com",
           "Type": "URL"
@@ -115340,10 +114916,6 @@
         },
         "gotomycardcat.fdecs.com": {
           "ID": "gotomycardcat.fdecs.com",
-          "Type": "URL"
-        },
-        "gpag-cat.softwareexpress.com.br": {
-          "ID": "gpag-cat.softwareexpress.com.br",
           "Type": "URL"
         },
         "gplafcu-admin.originate.fiservapps.com": {
@@ -115602,10 +115174,6 @@
           "ID": "hawaiifcu-dc.cert.fec-dc.fiservapps.com",
           "Type": "URL"
         },
-        "hbc-temp.olbanking.com": {
-          "ID": "hbc-temp.olbanking.com",
-          "Type": "URL"
-        },
         "hbc.olbanking.com": {
           "ID": "hbc.olbanking.com",
           "Type": "URL"
@@ -115840,10 +115408,6 @@
         },
         "homestbk.onlinebank.com": {
           "ID": "homestbk.onlinebank.com",
-          "Type": "URL"
-        },
-        "hometrust-temp.olbanking.com": {
-          "ID": "hometrust-temp.olbanking.com",
           "Type": "URL"
         },
         "hometrust.olbanking.com": {
@@ -119126,28 +118690,12 @@
           "ID": "http://centrustbank.originate.fiservapps.com",
           "Type": "URL"
         },
-        "http://cert-api-invoca.catalyst.clover.com": {
-          "ID": "http://cert-api-invoca.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "http://cert-api-payments-exchange-rtp.fiservapps.com": {
-          "ID": "http://cert-api-payments-exchange-rtp.fiservapps.com",
-          "Type": "URL"
-        },
-        "http://cert-api-rest.catalyst.clover.com": {
-          "ID": "http://cert-api-rest.catalyst.clover.com",
-          "Type": "URL"
-        },
         "http://cert-api.marketplace.fiserv.com": {
           "ID": "http://cert-api.marketplace.fiserv.com",
           "Type": "URL"
         },
         "http://cert-developer-portal.fiserv.com": {
           "ID": "http://cert-developer-portal.fiserv.com",
-          "Type": "URL"
-        },
-        "http://cert-developer.firstdata.com": {
-          "ID": "http://cert-developer.firstdata.com",
           "Type": "URL"
         },
         "http://cert-ea.financial-net.com": {
@@ -120134,10 +119682,6 @@
           "ID": "http://citizen.cat.emsgws.emessenger-fd.com",
           "Type": "URL"
         },
-        "http://citizensbankonline.fta.cashedge.com": {
-          "ID": "http://citizensbankonline.fta.cashedge.com",
-          "Type": "URL"
-        },
         "http://citizensbanktrust.architect-cert.fiservapps.com": {
           "ID": "http://citizensbanktrust.architect-cert.fiservapps.com",
           "Type": "URL"
@@ -120586,10 +120130,6 @@
           "ID": "http://consumer.prosperity.bank",
           "Type": "URL"
         },
-        "http://consumerbillpayqa.onlinebanking.pnc.com": {
-          "ID": "http://consumerbillpayqa.onlinebanking.pnc.com",
-          "Type": "URL"
-        },
         "http://consumercu-dc.cert.fec-dc.fiservapps.com": {
           "ID": "http://consumercu-dc.cert.fec-dc.fiservapps.com",
           "Type": "URL"
@@ -120628,10 +120168,6 @@
         },
         "http://coosapines.streamlendvelocity.net": {
           "ID": "http://coosapines.streamlendvelocity.net",
-          "Type": "URL"
-        },
-        "http://copilot-uat.cardconnect.com": {
-          "ID": "http://copilot-uat.cardconnect.com",
           "Type": "URL"
         },
         "http://copilot.cardconnect.com": {
@@ -120966,10 +120502,6 @@
           "ID": "http://ctbi.originate.fiservapps.com",
           "Type": "URL"
         },
-        "http://cte-cardvalet-ws.fiservapps.com": {
-          "ID": "http://cte-cardvalet-ws.fiservapps.com",
-          "Type": "URL"
-        },
         "http://cte.client-central.com": {
           "ID": "http://cte.client-central.com",
           "Type": "URL"
@@ -121178,10 +120710,6 @@
           "ID": "http://db.telecash.shop",
           "Type": "URL"
         },
-        "http://ddf-southcarolina-c.fiservapps.com": {
-          "ID": "http://ddf-southcarolina-c.fiservapps.com",
-          "Type": "URL"
-        },
         "http://ddf-southcarolina-p.fiservapps.com": {
           "ID": "http://ddf-southcarolina-p.fiservapps.com",
           "Type": "URL"
@@ -121250,20 +120778,8 @@
           "ID": "http://depositreturns-g2.fiservsco.com",
           "Type": "URL"
         },
-        "http://dev-acct-mgmt.catalyst.clover.com": {
-          "ID": "http://dev-acct-mgmt.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "http://dev-api-invoca.catalyst.clover.com": {
-          "ID": "http://dev-api-invoca.catalyst.clover.com",
-          "Type": "URL"
-        },
         "http://dev-api-rest.catalyst.clover.com": {
           "ID": "http://dev-api-rest.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "http://dev-api.catalyst.clover.com": {
-          "ID": "http://dev-api.catalyst.clover.com",
           "Type": "URL"
         },
         "http://dev-api.marketplace.fiserv.com": {
@@ -121478,10 +120994,6 @@
           "ID": "http://directnet.checkfreepay.com",
           "Type": "URL"
         },
-        "http://disbursementsapi-uat.popmoney.com": {
-          "ID": "http://disbursementsapi-uat.popmoney.com",
-          "Type": "URL"
-        },
         "http://discover.apac.3ds.firstdata.com": {
           "ID": "http://discover.apac.3ds.firstdata.com",
           "Type": "URL"
@@ -121508,14 +121020,6 @@
         },
         "http://districtcreditunion-dn.financial-net.com": {
           "ID": "http://districtcreditunion-dn.financial-net.com",
-          "Type": "URL"
-        },
-        "http://dit1-cardvalet-ws.fiservapps.com": {
-          "ID": "http://dit1-cardvalet-ws.fiservapps.com",
-          "Type": "URL"
-        },
-        "http://dit3-cardvalet-ws.fiservapps.com": {
-          "ID": "http://dit3-cardvalet-ws.fiservapps.com",
           "Type": "URL"
         },
         "http://dixiecupfcu-dn.financial-net.com": {
@@ -121660,10 +121164,6 @@
         },
         "http://dqen.firstdataclients.com": {
           "ID": "http://dqen.firstdataclients.com",
-          "Type": "URL"
-        },
-        "http://dr-ess.firstdataeservices.com": {
-          "ID": "http://dr-ess.firstdataeservices.com",
           "Type": "URL"
         },
         "http://dr-fileexchange.fiservapps.com": {
@@ -121812,30 +121312,6 @@
         },
         "http://eagleexpressfcu.originate.fiservapps.com": {
           "ID": "http://eagleexpressfcu.originate.fiservapps.com",
-          "Type": "URL"
-        },
-        "http://earchive.ddsservicebureau.com": {
-          "ID": "http://earchive.ddsservicebureau.com",
-          "Type": "URL"
-        },
-        "http://earchive2.ddsservicebureau.com": {
-          "ID": "http://earchive2.ddsservicebureau.com",
-          "Type": "URL"
-        },
-        "http://earchive4.ddsservicebureau.com": {
-          "ID": "http://earchive4.ddsservicebureau.com",
-          "Type": "URL"
-        },
-        "http://earchive5.ddsservicebureau.com": {
-          "ID": "http://earchive5.ddsservicebureau.com",
-          "Type": "URL"
-        },
-        "http://earchive6.ddsservicebureau.com": {
-          "ID": "http://earchive6.ddsservicebureau.com",
-          "Type": "URL"
-        },
-        "http://earchive7.ddsservicebureau.com": {
-          "ID": "http://earchive7.ddsservicebureau.com",
           "Type": "URL"
         },
         "http://east-accounts.businesstrack.com": {
@@ -122252,10 +121728,6 @@
         },
         "http://estarstation.com": {
           "ID": "http://estarstation.com",
-          "Type": "URL"
-        },
-        "http://estatements.cowww.com": {
-          "ID": "http://estatements.cowww.com",
           "Type": "URL"
         },
         "http://estatements1-uat.hepsiian.com": {
@@ -123630,10 +123102,6 @@
           "ID": "http://fsvportalcarat.softwareexpress.com.br",
           "Type": "URL"
         },
-        "http://fswidget.creditplus.com": {
-          "ID": "http://fswidget.creditplus.com",
-          "Type": "URL"
-        },
         "http://fswidget.dev.finlocker.com": {
           "ID": "http://fswidget.dev.finlocker.com",
           "Type": "URL"
@@ -123830,10 +123298,6 @@
           "ID": "http://gogmfcu.originate.fiservapps.com",
           "Type": "URL"
         },
-        "http://golden1.fta.popmoney.com": {
-          "ID": "http://golden1.fta.popmoney.com",
-          "Type": "URL"
-        },
         "http://goldencirclecu-dc.cert.fec-dc.fiservapps.com": {
           "ID": "http://goldencirclecu-dc.cert.fec-dc.fiservapps.com",
           "Type": "URL"
@@ -123868,14 +123332,6 @@
         },
         "http://goxroads.com": {
           "ID": "http://goxroads.com",
-          "Type": "URL"
-        },
-        "http://gpag.softwareexpress.com.br": {
-          "ID": "http://gpag.softwareexpress.com.br",
-          "Type": "URL"
-        },
-        "http://gpagpreprod.softwareexpress.com.br": {
-          "ID": "http://gpagpreprod.softwareexpress.com.br",
           "Type": "URL"
         },
         "http://gracofcu-dc.cert.fec-dc.fiservapps.com": {
@@ -124594,10 +124050,6 @@
           "ID": "http://hsbc-achex-uat.onefiserv.com",
           "Type": "URL"
         },
-        "http://hsbc.oao.cashedge.com": {
-          "ID": "http://hsbc.oao.cashedge.com",
-          "Type": "URL"
-        },
         "http://hsefcu-dc.cert.fec-dc.fiservapps.com": {
           "ID": "http://hsefcu-dc.cert.fec-dc.fiservapps.com",
           "Type": "URL"
@@ -124870,32 +124322,12 @@
           "ID": "http://insight.aibms.com",
           "Type": "URL"
         },
-        "http://int.apac.api.fiservapps.com": {
-          "ID": "http://int.apac.api.fiservapps.com",
-          "Type": "URL"
-        },
-        "http://int.api.firstdata.com": {
-          "ID": "http://int.api.firstdata.com",
-          "Type": "URL"
-        },
-        "http://int.api.fiservapps.com": {
-          "ID": "http://int.api.fiservapps.com",
-          "Type": "URL"
-        },
         "http://int.catalyst.clover.com": {
           "ID": "http://int.catalyst.clover.com",
           "Type": "URL"
         },
-        "http://int.emea.api.fiservapps.com": {
-          "ID": "http://int.emea.api.fiservapps.com",
-          "Type": "URL"
-        },
         "http://int.emea.eventgateway.fiservapp.com": {
           "ID": "http://int.emea.eventgateway.fiservapp.com",
-          "Type": "URL"
-        },
-        "http://int.latam.api.fiservapps.com": {
-          "ID": "http://int.latam.api.fiservapps.com",
           "Type": "URL"
         },
         "http://int.portal.fiserv.dev": {
@@ -124952,14 +124384,6 @@
         },
         "http://intqacompass.ft.cashedge.com": {
           "ID": "http://intqacompass.ft.cashedge.com",
-          "Type": "URL"
-        },
-        "http://intqafundsxpress.fta.popmoney.com": {
-          "ID": "http://intqafundsxpress.fta.popmoney.com",
-          "Type": "URL"
-        },
-        "http://intqagolden1.fta.popmoney.com": {
-          "ID": "http://intqagolden1.fta.popmoney.com",
           "Type": "URL"
         },
         "http://intqamobileweb.ft1.cashedge.com": {
@@ -125042,10 +124466,6 @@
           "ID": "http://iqanavigator.ft1.cashedge.com",
           "Type": "URL"
         },
-        "http://iqaonfn.ft1.cashedge.com": {
-          "ID": "http://iqaonfn.ft1.cashedge.com",
-          "Type": "URL"
-        },
         "http://iqapcisso.fta.cashedge.com": {
           "ID": "http://iqapcisso.fta.cashedge.com",
           "Type": "URL"
@@ -125072,10 +124492,6 @@
         },
         "http://iqassovn.ft1.cashedge.com": {
           "ID": "http://iqassovn.ft1.cashedge.com",
-          "Type": "URL"
-        },
-        "http://iqatdbank2.fta.popmoney.com": {
-          "ID": "http://iqatdbank2.fta.popmoney.com",
           "Type": "URL"
         },
         "http://iqavn.ft1.cashedge.com": {
@@ -125236,10 +124652,6 @@
         },
         "http://johnhancock.hepsiian.com": {
           "ID": "http://johnhancock.hepsiian.com",
-          "Type": "URL"
-        },
-        "http://join.alecu.org": {
-          "ID": "http://join.alecu.org",
           "Type": "URL"
         },
         "http://jtvaecu-dc.cert.fec-dc.fiservapps.com": {
@@ -126314,10 +125726,6 @@
           "ID": "http://merchantsecure-cat.firstdata.com",
           "Type": "URL"
         },
-        "http://merchantsecureapp.com": {
-          "ID": "http://merchantsecureapp.com",
-          "Type": "URL"
-        },
         "http://merchantselfboarding.businesstrack.com": {
           "ID": "http://merchantselfboarding.businesstrack.com",
           "Type": "URL"
@@ -127008,10 +126416,6 @@
         },
         "http://myfarmersbank.originate.fiservapps.com": {
           "ID": "http://myfarmersbank.originate.fiservapps.com",
-          "Type": "URL"
-        },
-        "http://myfiserv.fiservapps.com": {
-          "ID": "http://myfiserv.fiservapps.com",
           "Type": "URL"
         },
         "http://myfm.architect-cert.fiservapps.com": {
@@ -127858,10 +127262,6 @@
           "ID": "http://npocu-dn.financial-net.com",
           "Type": "URL"
         },
-        "http://ntrs.fta.popmoney.com": {
-          "ID": "http://ntrs.fta.popmoney.com",
-          "Type": "URL"
-        },
         "http://nwmissouri-dn.financial-net.com": {
           "ID": "http://nwmissouri-dn.financial-net.com",
           "Type": "URL"
@@ -128334,10 +127734,6 @@
           "ID": "http://online.asecu.com",
           "Type": "URL"
         },
-        "http://online.bancorpsouth.com": {
-          "ID": "http://online.bancorpsouth.com",
-          "Type": "URL"
-        },
         "http://online.baptisthealthfcu.org": {
           "ID": "http://online.baptisthealthfcu.org",
           "Type": "URL"
@@ -128354,16 +127750,8 @@
           "ID": "http://online.boulderdamcu.org",
           "Type": "URL"
         },
-        "http://online.cadencebank.com": {
-          "ID": "http://online.cadencebank.com",
-          "Type": "URL"
-        },
         "http://online.cahpcu.org": {
           "ID": "http://online.cahpcu.org",
-          "Type": "URL"
-        },
-        "http://online.callfederal.org": {
-          "ID": "http://online.callfederal.org",
           "Type": "URL"
         },
         "http://online.camuycooperativa.com": {
@@ -128526,10 +127914,6 @@
           "ID": "http://online.iufcu.org",
           "Type": "URL"
         },
-        "http://online.lajoyacreditunion.coop": {
-          "ID": "http://online.lajoyacreditunion.coop",
-          "Type": "URL"
-        },
         "http://online.llcu.org": {
           "ID": "http://online.llcu.org",
           "Type": "URL"
@@ -128554,20 +127938,12 @@
           "ID": "http://online.merco.org",
           "Type": "URL"
         },
-        "http://online.merituscu.net": {
-          "ID": "http://online.merituscu.net",
-          "Type": "URL"
-        },
         "http://online.mesquitecu.org": {
           "ID": "http://online.mesquitecu.org",
           "Type": "URL"
         },
         "http://online.mocse.org": {
           "ID": "http://online.mocse.org",
-          "Type": "URL"
-        },
-        "http://online.mysunwest.com": {
-          "ID": "http://online.mysunwest.com",
           "Type": "URL"
         },
         "http://online.naheola.com": {
@@ -128600,10 +127976,6 @@
         },
         "http://online.pccuonline.com": {
           "ID": "http://online.pccuonline.com",
-          "Type": "URL"
-        },
-        "http://online.pcfcu.org": {
-          "ID": "http://online.pcfcu.org",
           "Type": "URL"
         },
         "http://online.raymondjamesbank.com": {
@@ -128678,10 +128050,6 @@
           "ID": "http://online.ugefcu.com",
           "Type": "URL"
         },
-        "http://online.usemployees.org": {
-          "ID": "http://online.usemployees.org",
-          "Type": "URL"
-        },
         "http://online.uspsfcupcu.org": {
           "ID": "http://online.uspsfcupcu.org",
           "Type": "URL"
@@ -128704,10 +128072,6 @@
         },
         "http://online.westtexascu.com": {
           "ID": "http://online.westtexascu.com",
-          "Type": "URL"
-        },
-        "http://online.wsfcu.org": {
-          "ID": "http://online.wsfcu.org",
           "Type": "URL"
         },
         "http://onlinea2a.pat.td.com": {
@@ -128888,10 +128252,6 @@
         },
         "http://originate-api-consumer.fiservapps.com": {
           "ID": "http://originate-api-consumer.fiservapps.com",
-          "Type": "URL"
-        },
-        "http://originate-member.louviers.com": {
-          "ID": "http://originate-member.louviers.com",
           "Type": "URL"
         },
         "http://originate.ahcu.org": {
@@ -129166,10 +128526,6 @@
           "ID": "http://pathward.originate.fiservapps.com",
           "Type": "URL"
         },
-        "http://pathways-btat2.fiservapps.com": {
-          "ID": "http://pathways-btat2.fiservapps.com",
-          "Type": "URL"
-        },
         "http://pathways-cert.fiservapps.com": {
           "ID": "http://pathways-cert.fiservapps.com",
           "Type": "URL"
@@ -129192,10 +128548,6 @@
         },
         "http://pawfcu-dn.financial-net.com": {
           "ID": "http://pawfcu-dn.financial-net.com",
-          "Type": "URL"
-        },
-        "http://payanyone2.fta.popmoney.com": {
-          "ID": "http://payanyone2.fta.popmoney.com",
           "Type": "URL"
         },
         "http://paybill.com": {
@@ -129438,24 +128790,8 @@
           "ID": "http://pepcofcu-dn.financial-net.com",
           "Type": "URL"
         },
-        "http://perf-api-rest.catalyst.clover.com": {
-          "ID": "http://perf-api-rest.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "http://perf-api.catalyst.clover.com": {
-          "ID": "http://perf-api.catalyst.clover.com",
-          "Type": "URL"
-        },
         "http://perf-developer-portal.fiserv.com": {
           "ID": "http://perf-developer-portal.fiserv.com",
-          "Type": "URL"
-        },
-        "http://perf-int.catalyst.clover.com": {
-          "ID": "http://perf-int.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "http://perf.catalyst.clover.com": {
-          "ID": "http://perf.catalyst.clover.com",
           "Type": "URL"
         },
         "http://personalpay.onlinepayments.regions.com": {
@@ -129464,10 +128800,6 @@
         },
         "http://personalpay.onlinepayments.regionstest.com": {
           "ID": "http://personalpay.onlinepayments.regionstest.com",
-          "Type": "URL"
-        },
-        "http://personalpayregions.fta.popmoney.com": {
-          "ID": "http://personalpayregions.fta.popmoney.com",
           "Type": "URL"
         },
         "http://personsbankingcompany-admin.originate.fiservapps.com": {
@@ -129484,10 +128816,6 @@
         },
         "http://petefishskiles.originate.fiservapps.com": {
           "ID": "http://petefishskiles.originate.fiservapps.com",
-          "Type": "URL"
-        },
-        "http://pfac-merchantportal.com": {
-          "ID": "http://pfac-merchantportal.com",
           "Type": "URL"
         },
         "http://pfcu.architect-cert.fiservapps.com": {
@@ -129666,10 +128994,6 @@
           "ID": "http://plp.firstdata.com",
           "Type": "URL"
         },
-        "http://pncbank.cashedge.com": {
-          "ID": "http://pncbank.cashedge.com",
-          "Type": "URL"
-        },
         "http://pncpaycard.com": {
           "ID": "http://pncpaycard.com",
           "Type": "URL"
@@ -129752,10 +129076,6 @@
         },
         "http://popmoney-test.arvest.com": {
           "ID": "http://popmoney-test.arvest.com",
-          "Type": "URL"
-        },
-        "http://popmoney.arvest.com": {
-          "ID": "http://popmoney.arvest.com",
           "Type": "URL"
         },
         "http://popmoney.ft1.cashedge.com": {
@@ -130106,14 +129426,6 @@
           "ID": "http://prod.api.firstdata.com",
           "Type": "URL"
         },
-        "http://prod.api.fiservapps.com": {
-          "ID": "http://prod.api.fiservapps.com",
-          "Type": "URL"
-        },
-        "http://prod.api.ipg-online.com": {
-          "ID": "http://prod.api.ipg-online.com",
-          "Type": "URL"
-        },
         "http://prod.emea.api.fiservapps.com": {
           "ID": "http://prod.emea.api.fiservapps.com",
           "Type": "URL"
@@ -130218,10 +129530,6 @@
           "ID": "http://psbofcolfax.vbwebservices.com",
           "Type": "URL"
         },
-        "http://pscufs.fta.popmoney.com": {
-          "ID": "http://pscufs.fta.popmoney.com",
-          "Type": "URL"
-        },
         "http://psecreditunion-admin.originate.fiservapps.com": {
           "ID": "http://psecreditunion-admin.originate.fiservapps.com",
           "Type": "URL"
@@ -130242,24 +129550,8 @@
           "ID": "http://pstcfcu-dn.financial-net.com",
           "Type": "URL"
         },
-        "http://pyramid.cfree.com": {
-          "ID": "http://pyramid.cfree.com",
-          "Type": "URL"
-        },
-        "http://qa-acct-mgmt.catalyst.clover.com": {
-          "ID": "http://qa-acct-mgmt.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "http://qa-api-invoca.catalyst.clover.com": {
-          "ID": "http://qa-api-invoca.catalyst.clover.com",
-          "Type": "URL"
-        },
         "http://qa-api-rest.catalyst.clover.com": {
           "ID": "http://qa-api-rest.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "http://qa-api.catalyst.clover.com": {
-          "ID": "http://qa-api.catalyst.clover.com",
           "Type": "URL"
         },
         "http://qa-api.marketplace.fiserv.com": {
@@ -130374,18 +129666,6 @@
           "ID": "http://qa-west-www.businesstrack.com",
           "Type": "URL"
         },
-        "http://qa.apac.api.fiservapps.com": {
-          "ID": "http://qa.apac.api.fiservapps.com",
-          "Type": "URL"
-        },
-        "http://qa.api.firstdata.com": {
-          "ID": "http://qa.api.firstdata.com",
-          "Type": "URL"
-        },
-        "http://qa.api.fiservapps.com": {
-          "ID": "http://qa.api.fiservapps.com",
-          "Type": "URL"
-        },
         "http://qa.billpay.synovus.com": {
           "ID": "http://qa.billpay.synovus.com",
           "Type": "URL"
@@ -130410,10 +129690,6 @@
           "ID": "http://qa.ea.financial-net.com",
           "Type": "URL"
         },
-        "http://qa.emea.api.fiservapps.com": {
-          "ID": "http://qa.emea.api.fiservapps.com",
-          "Type": "URL"
-        },
         "http://qa.financial-net.com": {
           "ID": "http://qa.financial-net.com",
           "Type": "URL"
@@ -130428,10 +129704,6 @@
         },
         "http://qa.ipcws.fiserv.com": {
           "ID": "http://qa.ipcws.fiserv.com",
-          "Type": "URL"
-        },
-        "http://qa.latam.api.fiservapps.com": {
-          "ID": "http://qa.latam.api.fiservapps.com",
           "Type": "URL"
         },
         "http://qa.pclender.com": {
@@ -135718,20 +134990,12 @@
           "ID": "https://eagleexpress.originate.fiservapps.com",
           "Type": "URL"
         },
-        "https://emoney.cashedge.com": {
-          "ID": "https://emoney.cashedge.com",
-          "Type": "URL"
-        },
         "https://ftadmin.compass1.cashedge.com": {
           "ID": "https://ftadmin.compass1.cashedge.com",
           "Type": "URL"
         },
         "https://ftadmin.compass2.cashedge.com": {
           "ID": "https://ftadmin.compass2.cashedge.com",
-          "Type": "URL"
-        },
-        "https://join-admin.alecu.org": {
-          "ID": "https://join-admin.alecu.org",
           "Type": "URL"
         },
         "https://lusocu.luso-american.com": {
@@ -136242,10 +135506,6 @@
           "ID": "https://originate-admin.kearnybank.com",
           "Type": "URL"
         },
-        "https://originate-admin.louviers.com": {
-          "ID": "https://originate-admin.louviers.com",
-          "Type": "URL"
-        },
         "https://originate-admin.membersonenj.org": {
           "ID": "https://originate-admin.membersonenj.org",
           "Type": "URL"
@@ -136340,10 +135600,6 @@
         },
         "https://payments-exchange-rtp.fiservapps.com": {
           "ID": "https://payments-exchange-rtp.fiservapps.com",
-          "Type": "URL"
-        },
-        "https://pnc.agg.cashedge.com": {
-          "ID": "https://pnc.agg.cashedge.com",
           "Type": "URL"
         },
         "https://premier-admin.originate.fiservapps.com": {
@@ -136522,10 +135778,6 @@
           "ID": "icom.fiserv.com",
           "Type": "URL"
         },
-        "idbny-temp.olbanking.com": {
-          "ID": "idbny-temp.olbanking.com",
-          "Type": "URL"
-        },
         "idbny.olbanking.com": {
           "ID": "idbny.olbanking.com",
           "Type": "URL"
@@ -136556,10 +135808,6 @@
         },
         "ig-belmontbank.onlinebank.com": {
           "ID": "ig-belmontbank.onlinebank.com",
-          "Type": "URL"
-        },
-        "ignitepayments.co.uk": {
-          "ID": "ignitepayments.co.uk",
           "Type": "URL"
         },
         "iherb.wgiftcard.com": {
@@ -136616,10 +135864,6 @@
         },
         "independencestatebank.onlinebank.com": {
           "ID": "independencestatebank.onlinebank.com",
-          "Type": "URL"
-        },
-        "independent-temp.olbanking.com": {
-          "ID": "independent-temp.olbanking.com",
           "Type": "URL"
         },
         "independent.olbanking.com": {
@@ -136682,60 +135926,12 @@
           "ID": "inspirebrands.wgiftcard.com",
           "Type": "URL"
         },
-        "int-api-firstdata-ause1.ns1.fiservapis.com": {
-          "ID": "int-api-firstdata-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-api-firstdata-euw3.ns1.fiservapis.com": {
-          "ID": "int-api-firstdata-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-api-firstdata-sae1.ns1.fiservapis.com": {
-          "ID": "int-api-firstdata-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-api-firstdata-usc1.ns1.fiservapis.com": {
-          "ID": "int-api-firstdata-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "int-api-firstdata-use4.ns1.fiservapis.com": {
           "ID": "int-api-firstdata-use4.ns1.fiservapis.com",
           "Type": "URL"
         },
-        "int-api-fiservapps-ause1.ns1.fiservapis.com": {
-          "ID": "int-api-fiservapps-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-api-fiservapps-euw3.ns1.fiservapis.com": {
-          "ID": "int-api-fiservapps-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-api-fiservapps-sae1.ns1.fiservapis.com": {
-          "ID": "int-api-fiservapps-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-api-fiservapps-usc1.ns1.fiservapis.com": {
-          "ID": "int-api-fiservapps-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "int-api-fiservapps-use4.ns1.fiservapis.com": {
           "ID": "int-api-fiservapps-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-apigee-fiservapps-ause1.ns1.fiservapis.com": {
-          "ID": "int-apigee-fiservapps-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-apigee-fiservapps-euw3.ns1.fiservapis.com": {
-          "ID": "int-apigee-fiservapps-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-apigee-fiservapps-sae1.ns1.fiservapis.com": {
-          "ID": "int-apigee-fiservapps-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-apigee-fiservapps-usc1.ns1.fiservapis.com": {
-          "ID": "int-apigee-fiservapps-usc1.ns1.fiservapis.com",
           "Type": "URL"
         },
         "int-apigee-fiservapps-use4.ns1.fiservapis.com": {
@@ -136746,28 +135942,8 @@
           "ID": "int-cert-caedd.moneynetwork.com",
           "Type": "URL"
         },
-        "int-gp-api-fiservapps-ause1.ns1.fiservapis.com": {
-          "ID": "int-gp-api-fiservapps-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-gp-api-fiservapps-euw3.ns1.fiservapis.com": {
-          "ID": "int-gp-api-fiservapps-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-gp-api-fiservapps-sae1.ns1.fiservapis.com": {
-          "ID": "int-gp-api-fiservapps-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-gp-api-fiservapps-usc1.ns1.fiservapis.com": {
-          "ID": "int-gp-api-fiservapps-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "int-gp-api-fiservapps-use4.ns1.fiservapis.com": {
           "ID": "int-gp-api-fiservapps-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "int-latam-api-fiservapps.ns1.fiservapis.com": {
-          "ID": "int-latam-api-fiservapps.ns1.fiservapis.com",
           "Type": "URL"
         },
         "int.apigee.fiservapps.com": {
@@ -136808,10 +135984,6 @@
         },
         "iowatrust-p2.onlinebank.com": {
           "ID": "iowatrust-p2.onlinebank.com",
-          "Type": "URL"
-        },
-        "ippweb-cat.fiservapp.com": {
-          "ID": "ippweb-cat.fiservapp.com",
           "Type": "URL"
         },
         "ircocu-admin.originate.fiservapps.com": {
@@ -137094,14 +136266,6 @@
           "ID": "kiosk-api.bpm-int.io",
           "Type": "URL"
         },
-        "kiosk-prod-radware.getbento.com": {
-          "ID": "kiosk-prod-radware.getbento.com",
-          "Type": "URL"
-        },
-        "kiosk-staging-radware.bentosandbox.com": {
-          "ID": "kiosk-staging-radware.bentosandbox.com",
-          "Type": "URL"
-        },
         "kirkwoodbank-p2.onlinebank.com": {
           "ID": "kirkwoodbank-p2.onlinebank.com",
           "Type": "URL"
@@ -137160,10 +136324,6 @@
         },
         "la-fimu-x-saw1.ns1.fiservapis.com": {
           "ID": "la-fimu-x-saw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "la.clover.com": {
-          "ID": "la.clover.com",
           "Type": "URL"
         },
         "la.fimu.me": {
@@ -137798,10 +136958,6 @@
           "ID": "mclennancountyefcu.vbwebservices.com",
           "Type": "URL"
         },
-        "mcnative-uat.cardconnect.com": {
-          "ID": "mcnative-uat.cardconnect.com",
-          "Type": "URL"
-        },
         "mcnbbanks-p2.onlinebank.com": {
           "ID": "mcnbbanks-p2.onlinebank.com",
           "Type": "URL"
@@ -137830,22 +136986,6 @@
           "ID": "mcxstore.wgiftcard.com",
           "Type": "URL"
         },
-        "mdm-uat.fiservapp.com": {
-          "ID": "mdm-uat.fiservapp.com",
-          "Type": "URL"
-        },
-        "mdm-uat.skytef.com.br": {
-          "ID": "mdm-uat.skytef.com.br",
-          "Type": "URL"
-        },
-        "mdm.fiservapp.com": {
-          "ID": "mdm.fiservapp.com",
-          "Type": "URL"
-        },
-        "mdm.skytef.com.br": {
-          "ID": "mdm.skytef.com.br",
-          "Type": "URL"
-        },
         "me1stcu-admin.originate.fiservapps.com": {
           "ID": "me1stcu-admin.originate.fiservapps.com",
           "Type": "URL"
@@ -137860,10 +137000,6 @@
         },
         "mechanics.olbanking.com": {
           "ID": "mechanics.olbanking.com",
-          "Type": "URL"
-        },
-        "mechanicsbank-temp.olbanking.com": {
-          "ID": "mechanicsbank-temp.olbanking.com",
           "Type": "URL"
         },
         "mechanicscert-temp.olbanking.com": {
@@ -137978,16 +137114,8 @@
           "ID": "mercantilcb.fdecs.com",
           "Type": "URL"
         },
-        "merchant-portal-tw-api.gift.solutions": {
-          "ID": "merchant-portal-tw-api.gift.solutions",
-          "Type": "URL"
-        },
         "merchantcenter.fiservapp.com": {
           "ID": "merchantcenter.fiservapp.com",
-          "Type": "URL"
-        },
-        "merchants-temp.olbanking.com": {
-          "ID": "merchants-temp.olbanking.com",
           "Type": "URL"
         },
         "merchants.fiserv.com": {
@@ -138128,10 +137256,6 @@
         },
         "midlandfederal.originate.fiservapps.com": {
           "ID": "midlandfederal.originate.fiservapps.com",
-          "Type": "URL"
-        },
-        "midpenn-temp.olbanking.com": {
-          "ID": "midpenn-temp.olbanking.com",
           "Type": "URL"
         },
         "midpenn.olbanking.com": {
@@ -138374,10 +137498,6 @@
           "ID": "montanahealthcu-dc.cert.fec-dc.fiservapps.com",
           "Type": "URL"
         },
-        "montecito-temp.olbanking.com": {
-          "ID": "montecito-temp.olbanking.com",
-          "Type": "URL"
-        },
         "montecitocert-temp.olbanking.com": {
           "ID": "montecitocert-temp.olbanking.com",
           "Type": "URL"
@@ -138580,10 +137700,6 @@
         },
         "myamex-uat.fiserv.io": {
           "ID": "myamex-uat.fiserv.io",
-          "Type": "URL"
-        },
-        "myamexdev.fiserv.io": {
-          "ID": "myamexdev.fiserv.io",
           "Type": "URL"
         },
         "mybankpsb-admin.originate.fiservapps.com": {
@@ -138986,10 +138102,6 @@
           "ID": "niam.fiserv.com",
           "Type": "URL"
         },
-        "nickandsams.wgiftcard.com": {
-          "ID": "nickandsams.wgiftcard.com",
-          "Type": "URL"
-        },
         "nike.wgiftcard.com": {
           "ID": "nike.wgiftcard.com",
           "Type": "URL"
@@ -139078,10 +138190,6 @@
           "ID": "northwest-bankcat.fdecs.com",
           "Type": "URL"
         },
-        "northwest-temp.olbanking.com": {
-          "ID": "northwest-temp.olbanking.com",
-          "Type": "URL"
-        },
         "northwest.olbanking.com": {
           "ID": "northwest.olbanking.com",
           "Type": "URL"
@@ -139134,10 +138242,6 @@
           "ID": "novafcu.originate.fiservapps.com",
           "Type": "URL"
         },
-        "np-qa-merchant-portal-tw-api.gift.solutions": {
-          "ID": "np-qa-merchant-portal-tw-api.gift.solutions",
-          "Type": "URL"
-        },
         "npocu-dc.cert.fec-dc.fiservapps.com": {
           "ID": "npocu-dc.cert.fec-dc.fiservapps.com",
           "Type": "URL"
@@ -139160,10 +138264,6 @@
         },
         "nwpluscu-dc.cert.fec-dc.fiservapps.com": {
           "ID": "nwpluscu-dc.cert.fec-dc.fiservapps.com",
-          "Type": "URL"
-        },
-        "nwwarren-temp.olbanking.com": {
-          "ID": "nwwarren-temp.olbanking.com",
           "Type": "URL"
         },
         "nwwarren.olbanking.com": {
@@ -139208,14 +138308,6 @@
         },
         "oakwood-temp.olbanking.com": {
           "ID": "oakwood-temp.olbanking.com",
-          "Type": "URL"
-        },
-        "oakwood.olbanking.com": {
-          "ID": "oakwood.olbanking.com",
-          "Type": "URL"
-        },
-        "oakwoodcert.olbanking.com": {
-          "ID": "oakwoodcert.olbanking.com",
           "Type": "URL"
         },
         "oamportal.fdvs.com": {
@@ -139324,10 +138416,6 @@
         },
         "olb.greenwoodcu.org": {
           "ID": "olb.greenwoodcu.org",
-          "Type": "URL"
-        },
-        "oldnational-temp.olbanking.com": {
-          "ID": "oldnational-temp.olbanking.com",
           "Type": "URL"
         },
         "oldnational.olbanking.com": {
@@ -139470,10 +138558,6 @@
           "ID": "online.beneficialstatebank.com",
           "Type": "URL"
         },
-        "online.championsfirst.org": {
-          "ID": "online.championsfirst.org",
-          "Type": "URL"
-        },
         "online.kembafcu.org": {
           "ID": "online.kembafcu.org",
           "Type": "URL"
@@ -139484,10 +138568,6 @@
         },
         "online.mif.elca.org": {
           "ID": "online.mif.elca.org",
-          "Type": "URL"
-        },
-        "online.parkebank.com": {
-          "ID": "online.parkebank.com",
           "Type": "URL"
         },
         "online.sawyersavings.bank": {
@@ -139822,10 +138902,6 @@
           "ID": "parkersburg.fdecs.com",
           "Type": "URL"
         },
-        "parknational-temp.olbanking.com": {
-          "ID": "parknational-temp.olbanking.com",
-          "Type": "URL"
-        },
         "parknationalbank.olbanking.com": {
           "ID": "parknationalbank.olbanking.com",
           "Type": "URL"
@@ -140002,10 +139078,6 @@
           "ID": "pentest.cardhub.fiservapps.com",
           "Type": "URL"
         },
-        "pentest.fiserv.io": {
-          "ID": "pentest.fiserv.io",
-          "Type": "URL"
-        },
         "peoples.fdecs.com": {
           "ID": "peoples.fdecs.com",
           "Type": "URL"
@@ -140046,10 +139118,6 @@
           "ID": "perf-accesscontrol.gbs.fiserv.com",
           "Type": "URL"
         },
-        "perf-api-invoca.catalyst.clover.com": {
-          "ID": "perf-api-invoca.catalyst.clover.com",
-          "Type": "URL"
-        },
         "perf-cert-caedd.moneynetwork.com": {
           "ID": "perf-cert-caedd.moneynetwork.com",
           "Type": "URL"
@@ -140068,10 +139136,6 @@
         },
         "perf-implementationhub.carat.fiserv.com": {
           "ID": "perf-implementationhub.carat.fiserv.com",
-          "Type": "URL"
-        },
-        "perf-otp.catalyst.clover.com": {
-          "ID": "perf-otp.catalyst.clover.com",
           "Type": "URL"
         },
         "perf-self-serve-ui.catalyst.clover.com": {
@@ -140370,10 +139434,6 @@
           "ID": "popeyes.wgiftcard.com",
           "Type": "URL"
         },
-        "popmoney.americafirst.com": {
-          "ID": "popmoney.americafirst.com",
-          "Type": "URL"
-        },
         "portal-carat-proxy.fiservapp.com": {
           "ID": "portal-carat-proxy.fiservapp.com",
           "Type": "URL"
@@ -140392,10 +139452,6 @@
         },
         "portal.cards.spring.citi.com": {
           "ID": "portal.cards.spring.citi.com",
-          "Type": "URL"
-        },
-        "portal.coruja.com.br": {
-          "ID": "portal.coruja.com.br",
           "Type": "URL"
         },
         "portal.vanilla.fiserv.com.br": {
@@ -140420,46 +139476,6 @@
         },
         "portofsubs.wgiftcard.com": {
           "ID": "portofsubs.wgiftcard.com",
-          "Type": "URL"
-        },
-        "pos-api-dev-radware.bentosandbox.com": {
-          "ID": "pos-api-dev-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "pos-api-integration-radware.bentosandbox.com": {
-          "ID": "pos-api-integration-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "pos-api-preview-radware.bentosandbox.com": {
-          "ID": "pos-api-preview-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "pos-api-prod-radware.getbento.com": {
-          "ID": "pos-api-prod-radware.getbento.com",
-          "Type": "URL"
-        },
-        "pos-api-sandbox-radware.bentosandbox.com": {
-          "ID": "pos-api-sandbox-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "pos-api-staging-radware.bentosandbox.com": {
-          "ID": "pos-api-staging-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "pos-diner-app-nonprod-radware.bentopreprod.com": {
-          "ID": "pos-diner-app-nonprod-radware.bentopreprod.com",
-          "Type": "URL"
-        },
-        "pos-diner-app-production-radware.getbento.com": {
-          "ID": "pos-diner-app-production-radware.getbento.com",
-          "Type": "URL"
-        },
-        "pos-diner-app-staging-radware.bentosandbox.com": {
-          "ID": "pos-diner-app-staging-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "pos-webapp-production-radware.getbento.com": {
-          "ID": "pos-webapp-production-radware.getbento.com",
           "Type": "URL"
         },
         "pospayweb.secureaps.com": {
@@ -140562,22 +139578,6 @@
           "ID": "prod-apac-api-fiservapps-x-ause1.ns1.fiservapis.com",
           "Type": "URL"
         },
-        "prod-api-firstdata-x-asns1.ns1.fiservapis.com": {
-          "ID": "prod-api-firstdata-x-asns1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-firstdata-x-ause1.ns1.fiservapis.com": {
-          "ID": "prod-api-firstdata-x-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-firstdata-x-euw1.ns1.fiservapis.com": {
-          "ID": "prod-api-firstdata-x-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-firstdata-x-euw3.ns1.fiservapis.com": {
-          "ID": "prod-api-firstdata-x-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "prod-api-firstdata-x-sae1.ns1.fiservapis.com": {
           "ID": "prod-api-firstdata-x-sae1.ns1.fiservapis.com",
           "Type": "URL"
@@ -140598,108 +139598,8 @@
           "ID": "prod-api-firstdata.ns1.fiservapis.com",
           "Type": "URL"
         },
-        "prod-api-fiservapps-x-asns1.ns1.fiservapis.com": {
-          "ID": "prod-api-fiservapps-x-asns1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-fiservapps-x-ause1.ns1.fiservapis.com": {
-          "ID": "prod-api-fiservapps-x-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-fiservapps-x-euw1.ns1.fiservapis.com": {
-          "ID": "prod-api-fiservapps-x-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-fiservapps-x-euw3.ns1.fiservapis.com": {
-          "ID": "prod-api-fiservapps-x-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-fiservapps-x-sae1.ns1.fiservapis.com": {
-          "ID": "prod-api-fiservapps-x-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-fiservapps-x-saw1.ns1.fiservapis.com": {
-          "ID": "prod-api-fiservapps-x-saw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-fiservapps-x-usc1.ns1.fiservapis.com": {
-          "ID": "prod-api-fiservapps-x-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-fiservapps-x-use4.ns1.fiservapis.com": {
-          "ID": "prod-api-fiservapps-x-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-ipg-online-x-asns1.ns1.fiservapis.com": {
-          "ID": "prod-api-ipg-online-x-asns1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-ipg-online-x-ause1.ns1.fiservapis.com": {
-          "ID": "prod-api-ipg-online-x-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-ipg-online-x-euw1.ns1.fiservapis.com": {
-          "ID": "prod-api-ipg-online-x-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-ipg-online-x-euw3.ns1.fiservapis.com": {
-          "ID": "prod-api-ipg-online-x-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-ipg-online-x-sae1.ns1.fiservapis.com": {
-          "ID": "prod-api-ipg-online-x-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-ipg-online-x-saw1.ns1.fiservapis.com": {
-          "ID": "prod-api-ipg-online-x-saw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-ipg-online-x-usc1.ns1.fiservapis.com": {
-          "ID": "prod-api-ipg-online-x-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-api-ipg-online-x-use4.ns1.fiservapis.com": {
-          "ID": "prod-api-ipg-online-x-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "prod-api-ipg-online.ns1.fiservapis.com": {
           "ID": "prod-api-ipg-online.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-apigee-fiservapps-x-asns1.ns1.fiservapis.com": {
-          "ID": "prod-apigee-fiservapps-x-asns1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-apigee-fiservapps-x-ause1.ns1.fiservapis.com": {
-          "ID": "prod-apigee-fiservapps-x-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-apigee-fiservapps-x-euw1.ns1.fiservapis.com": {
-          "ID": "prod-apigee-fiservapps-x-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-apigee-fiservapps-x-euw3.ns1.fiservapis.com": {
-          "ID": "prod-apigee-fiservapps-x-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-apigee-fiservapps-x-sae1.ns1.fiservapis.com": {
-          "ID": "prod-apigee-fiservapps-x-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-apigee-fiservapps-x-saw1.ns1.fiservapis.com": {
-          "ID": "prod-apigee-fiservapps-x-saw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-apigee-fiservapps-x-usc1.ns1.fiservapis.com": {
-          "ID": "prod-apigee-fiservapps-x-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-apigee-fiservapps-x-use4.ns1.fiservapis.com": {
-          "ID": "prod-apigee-fiservapps-x-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-b2bservice-boa.fiservapps.com": {
-          "ID": "prod-b2bservice-boa.fiservapps.com",
           "Type": "URL"
         },
         "prod-dr-websocket.catalyst.clover.com": {
@@ -140712,42 +139612,6 @@
         },
         "prod-emea-api-fiservapps-x-euw3.ns1.fiservapis.com": {
           "ID": "prod-emea-api-fiservapps-x-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-gp-api-fiservapps-x-asns1.ns1.fiservapis.com": {
-          "ID": "prod-gp-api-fiservapps-x-asns1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-gp-api-fiservapps-x-ause1.ns1.fiservapis.com": {
-          "ID": "prod-gp-api-fiservapps-x-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-gp-api-fiservapps-x-euw1.ns1.fiservapis.com": {
-          "ID": "prod-gp-api-fiservapps-x-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-gp-api-fiservapps-x-euw3.ns1.fiservapis.com": {
-          "ID": "prod-gp-api-fiservapps-x-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-gp-api-fiservapps-x-sae1.ns1.fiservapis.com": {
-          "ID": "prod-gp-api-fiservapps-x-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-gp-api-fiservapps-x-saw1.ns1.fiservapis.com": {
-          "ID": "prod-gp-api-fiservapps-x-saw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-gp-api-fiservapps-x-usc1.ns1.fiservapis.com": {
-          "ID": "prod-gp-api-fiservapps-x-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-gp-api-fiservapps-x-use4.ns1.fiservapis.com": {
-          "ID": "prod-gp-api-fiservapps-x-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "prod-gp-api-fiservapps.ns1.fiservapis.com": {
-          "ID": "prod-gp-api-fiservapps.ns1.fiservapis.com",
           "Type": "URL"
         },
         "prod-latam-api-fiservapps-x-sae1.ns1.fiservapis.com": {
@@ -140778,16 +139642,8 @@
           "ID": "prod.dbp.cdn.fiservapps.com",
           "Type": "URL"
         },
-        "prod.gp.api.fiservapps.com": {
-          "ID": "prod.gp.api.fiservapps.com",
-          "Type": "URL"
-        },
         "prod.smsservicesnow.com": {
           "ID": "prod.smsservicesnow.com",
-          "Type": "URL"
-        },
-        "prodposapac.fiservclients.com": {
-          "ID": "prodposapac.fiservclients.com",
           "Type": "URL"
         },
         "productionvision.com": {
@@ -140812,10 +139668,6 @@
         },
         "prosperfeds-uat.hepsiian.com": {
           "ID": "prosperfeds-uat.hepsiian.com",
-          "Type": "URL"
-        },
-        "prosperity-temp.olbanking.com": {
-          "ID": "prosperity-temp.olbanking.com",
           "Type": "URL"
         },
         "prosperity.olbanking.com": {
@@ -140906,68 +139758,12 @@
           "ID": "qa-admin.fiserv.com",
           "Type": "URL"
         },
-        "qa-alt-int.catalyst.clover.com": {
-          "ID": "qa-alt-int.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "qa-alt.catalyst.clover.com": {
-          "ID": "qa-alt.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "qa-apac-api-fiservapps-ause1.ns1.fiservapis.com": {
-          "ID": "qa-apac-api-fiservapps-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-firstdata-ause1.ns1.fiservapis.com": {
-          "ID": "qa-api-firstdata-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-firstdata-euw3.ns1.fiservapis.com": {
-          "ID": "qa-api-firstdata-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-firstdata-sae1.ns1.fiservapis.com": {
-          "ID": "qa-api-firstdata-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-firstdata-usc1.ns1.fiservapis.com": {
-          "ID": "qa-api-firstdata-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "qa-api-firstdata-use4.ns1.fiservapis.com": {
           "ID": "qa-api-firstdata-use4.ns1.fiservapis.com",
           "Type": "URL"
         },
-        "qa-api-fiservapps-ause1.ns1.fiservapis.com": {
-          "ID": "qa-api-fiservapps-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-fiservapps-euw3.ns1.fiservapis.com": {
-          "ID": "qa-api-fiservapps-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-fiservapps-sae1.ns1.fiservapis.com": {
-          "ID": "qa-api-fiservapps-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-fiservapps-usc1.ns1.fiservapis.com": {
-          "ID": "qa-api-fiservapps-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "qa-api-fiservapps-use4.ns1.fiservapis.com": {
           "ID": "qa-api-fiservapps-use4.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-ipg-online-ause1.ns1.fiservapis.com": {
-          "ID": "qa-api-ipg-online-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-ipg-online-euw3.ns1.fiservapis.com": {
-          "ID": "qa-api-ipg-online-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-api-ipg-online-sae1.ns1.fiservapis.com": {
-          "ID": "qa-api-ipg-online-sae1.ns1.fiservapis.com",
           "Type": "URL"
         },
         "qa-api-ipg-online-usc1.ns1.fiservapis.com": {
@@ -140980,22 +139776,6 @@
         },
         "qa-api.businesstrack.com": {
           "ID": "qa-api.businesstrack.com",
-          "Type": "URL"
-        },
-        "qa-apigee-fiservapps-ause1.ns1.fiservapis.com": {
-          "ID": "qa-apigee-fiservapps-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-apigee-fiservapps-euw3.ns1.fiservapis.com": {
-          "ID": "qa-apigee-fiservapps-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-apigee-fiservapps-sae1.ns1.fiservapis.com": {
-          "ID": "qa-apigee-fiservapps-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-apigee-fiservapps-usc1.ns1.fiservapis.com": {
-          "ID": "qa-apigee-fiservapps-usc1.ns1.fiservapis.com",
           "Type": "URL"
         },
         "qa-apigee-fiservapps-use4.ns1.fiservapis.com": {
@@ -141118,14 +139898,6 @@
           "ID": "qa-x-01-use4.ns1.fiservapis.com",
           "Type": "URL"
         },
-        "qa.api.ipg-online.com": {
-          "ID": "qa.api.ipg-online.com",
-          "Type": "URL"
-        },
-        "qa.apigee.fiservapps.com": {
-          "ID": "qa.apigee.fiservapps.com",
-          "Type": "URL"
-        },
         "qa.fimu.me": {
           "ID": "qa.fimu.me",
           "Type": "URL"
@@ -141152,10 +139924,6 @@
         },
         "qa1.cardhub.fiservapps.com": {
           "ID": "qa1.cardhub.fiservapps.com",
-          "Type": "URL"
-        },
-        "qa2-sales.fiserv.com": {
-          "ID": "qa2-sales.fiserv.com",
           "Type": "URL"
         },
         "qa2.authenticare.com": {
@@ -145937,7 +144705,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "09470d729afa5f30b4228d3ef99eac37cb11fc0de13962e5bc5c04edf3a28e86"
+      "Hash": "6645bd5bd6d3d58237fb77bb681f29eb11b9e5606a75734bd7794cae9f8fb394"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -146590,7 +145358,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "de89316ddd1226af26c37879ba67412d5868512f78f00ed312fa6768d8752ce3"
+      "Hash": "d609326105758e949a1c1d52734ac8c6e90774b82c34ee31c65131a38f9c393a"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -146975,7 +145743,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "168c4b319ad12d6bf49b79f87593037969e7e054741d9d4f1dd89a98d494b316"
+      "Hash": "c2e4dab2cb537dd7293df8fd5e56e9b0f1e9a434a46407d2ac17176947baa355"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -150109,7 +148877,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e7f6a506fdb83b69a9f604c4b065620e096528eb8043e99b316f3df4aec0b022"
+      "Hash": "bb58269e6fee60b83cb01aa503090f6bce75b1d0fb242c17fbc61c70575e92d5"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -151029,7 +149797,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "771def2febd28b213580f9a880c88769e30e1afe428849ef2ef80796efd237aa"
+      "Hash": "10f307590153c553f7d80309f28b8b61a92dcb541934f75b38a19a40a859fb7b"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -162949,6 +161717,10 @@
           "ID": "machinefinderdevlaws.tal.deere.com",
           "Type": "URL"
         },
+        "machinefinderpro.deere.com": {
+          "ID": "machinefinderpro.deere.com",
+          "Type": "URL"
+        },
         "machinefindertest.deere.com": {
           "ID": "machinefindertest.deere.com",
           "Type": "URL"
@@ -167440,7 +166212,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "46f28618a89815b4132730a1aea8190c4fc5585c652b848e7aa31b7c691b0dce"
+      "Hash": "0131446f126a3aea636d276555e88b1e6922d6e472532071a4c3778481f3a214"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -167478,28 +166250,6 @@
       },
       "OutScope": {},
       "Hash": "3ec132d1f7fb85403aabad10ddc89cfc877a2680cb8452c959c0a46adb902a50"
-    },
-    "h1:kaltura": {
-      "Key": "kaltura",
-      "Name": "Kaltura",
-      "URL": "https://hackerone.com/kaltura",
-      "InScope": {
-        "kmc.kaltura.com": {
-          "ID": "kmc.kaltura.com",
-          "Type": "URL"
-        },
-        "mediaspace.kaltura.com": {
-          "ID": "mediaspace.kaltura.com",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {
-        "eventplatform.kaltura.com": {
-          "ID": "eventplatform.kaltura.com",
-          "Type": "URL"
-        }
-      },
-      "Hash": "34e50d91077e28eb2fe9e0c00c357841948402236165d23378ebbca75caf8e0f"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -168587,7 +167337,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "19cf7d01e68bad726e42e269d659219dd0f6cc4d81fc9dee46c16cf73454fa56"
+      "Hash": "0146b4c82e4a871b0474f324f830c81721fc24c1967c3a635830e991c7715242"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -169035,7 +167785,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "1914494d85d2910a61a8d6bc16275f872f69032ee908d2ba25566a39550f7922"
+      "Hash": "fb5cb4d2d2d20451b510bfc2189a2b5e44c2b17886867af4a72e4e7a4160e952"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -169112,7 +167862,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c17c6fc6c6a96a423e4928455dfd7cc9dc4065f95c30d01d8651014c8f1e53fd"
+      "Hash": "5c36ec23d9920419a46df2c95c8e6c30dc5a02ffbdd5c77813963cc3bf7cb990"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -169410,6 +168160,115 @@
       },
       "OutScope": {},
       "Hash": "5445c0d6b277e1d79a4fecb394e1c34821ac8a6c02b45ddb0cb1d002d56d3735"
+    },
+    "h1:live_nation": {
+      "Key": "live_nation",
+      "Name": "Live Nation",
+      "URL": "https://hackerone.com/live_nation",
+      "InScope": {
+        "app.livenation.com": {
+          "ID": "app.livenation.com",
+          "Type": "URL"
+        },
+        "app.ticketmaster.ca": {
+          "ID": "app.ticketmaster.ca",
+          "Type": "URL"
+        },
+        "app.ticketmaster.co.uk": {
+          "ID": "app.ticketmaster.co.uk",
+          "Type": "URL"
+        },
+        "app.ticketmaster.com": {
+          "ID": "app.ticketmaster.com",
+          "Type": "URL"
+        },
+        "app.ticketmaster.com.au": {
+          "ID": "app.ticketmaster.com.au",
+          "Type": "URL"
+        },
+        "app.ticketmaster.com.mx": {
+          "ID": "app.ticketmaster.com.mx",
+          "Type": "URL"
+        },
+        "app.ticketmaster.eu": {
+          "ID": "app.ticketmaster.eu",
+          "Type": "URL"
+        },
+        "app.ticketmaster.ie": {
+          "ID": "app.ticketmaster.ie",
+          "Type": "URL"
+        },
+        "dk.royalarena.app": {
+          "ID": "dk.royalarena.app",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "frontgatetickets.com": {
+          "ID": "frontgatetickets.com",
+          "Type": "URL"
+        },
+        "https://apps.apple.com/no/app/royal-arena/id1181913144": {
+          "ID": "https://apps.apple.com/no/app/royal-arena/id1181913144",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565": {
+          "ID": "https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565",
+          "Type": "APPLE_STORE_APP_ID"
+        },
+        "https://signup.ticketmaster.com/bugbountytest": {
+          "ID": "https://signup.ticketmaster.com/bugbountytest",
+          "Type": "URL"
+        },
+        "livenation.com": {
+          "ID": "livenation.com",
+          "Type": "URL"
+        },
+        "livenation.me": {
+          "ID": "livenation.me",
+          "Type": "URL"
+        },
+        "ticketmaster.ca": {
+          "ID": "ticketmaster.ca",
+          "Type": "URL"
+        },
+        "ticketmaster.co.uk": {
+          "ID": "ticketmaster.co.uk",
+          "Type": "URL"
+        },
+        "ticketmaster.com": {
+          "ID": "ticketmaster.com",
+          "Type": "URL"
+        },
+        "ticketmaster.com.br": {
+          "ID": "ticketmaster.com.br",
+          "Type": "URL"
+        },
+        "ticketmaster.com.mx": {
+          "ID": "ticketmaster.com.mx",
+          "Type": "URL"
+        },
+        "ticketmaster.de": {
+          "ID": "ticketmaster.de",
+          "Type": "URL"
+        },
+        "www.lineup.com.mx": {
+          "ID": "www.lineup.com.mx",
+          "Type": "URL"
+        },
+        "www.livenation.co.uk": {
+          "ID": "www.livenation.co.uk",
+          "Type": "URL"
+        },
+        "www.onthewaterfrontfestival.com": {
+          "ID": "www.onthewaterfrontfestival.com",
+          "Type": "URL"
+        },
+        "www.royalarena.dk": {
+          "ID": "www.royalarena.dk",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {},
+      "Hash": "4d6e1f174a33e0fc5482751cfddb5c925da6a9944c58b6a324069461bfdd4718"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -183639,7 +182498,7 @@
       "URL": "https://hackerone.com/phabricator",
       "InScope": {},
       "OutScope": {},
-      "Hash": "1fdbf3f5d65a393bcb54edceb6c95ac556c41a303ca74431c66b158a26b90021"
+      "Hash": "fa701a1b1815fe29be34716d5c5737fefe8117f86230007062ee746e038e2f87"
     },
     "h1:phonepe_vdp": {
       "Key": "phonepe_vdp",
@@ -183999,7 +182858,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b0540bf56d542e10963b3e357536161a3f6b088ad2fe75e74ab65628f4303542"
+      "Hash": "71ff001432b1ed972a8f6dc36a0a2aaea5b6b74d352d5024a2fb969fe59c1425"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -185117,7 +183976,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2e4950562da6dc4d7759be36b141d920698c5cff787fd6c885d43e32f4f04d34"
+      "Hash": "dd0fe35df64eacaf6f81001d9b53a86a50ec8a21e85070b8688fb32f75e8ead6"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -187274,7 +186133,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "84191809efcbab360022665a45df6c6b1f12bf22f8c1c8ec68ae911d413f0ebe"
+      "Hash": "ea0045010ff6ea944bf6cab8d1f416c4700b7daac663f15df621a1bc143fa3b4"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -187618,7 +186477,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "2b0f64d08273a869647cd2b9476d7e4b6b1ee1a54d17735997c5fe785e3454be"
+      "Hash": "c751189897cce74cd113c720884b5f67dd05f535ca0b02f5565fca6d26bae828"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -189104,7 +187963,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8723e6566c6bf73b62d5562a52a00b7da9447be7c79286ccde82561c65ed1b6d"
+      "Hash": "d83c9570d94d5896d3b63df8d2e20cf91e3191dcd749061887dc8e030377c549"
     },
     "h1:slack": {
       "Key": "slack",
@@ -189546,10 +188405,6 @@
           "ID": "Android SDK",
           "Type": "SOURCE_CODE"
         },
-        "Confidence Domains": {
-          "ID": "Confidence Domains",
-          "Type": "OTHER"
-        },
         "Core Assets": {
           "ID": "Core Assets",
           "Type": "OTHER"
@@ -189676,6 +188531,10 @@
         }
       },
       "OutScope": {
+        "Confidence Domains": {
+          "ID": "Confidence Domains",
+          "Type": "OTHER"
+        },
         "Findaway": {
           "ID": "Findaway",
           "Type": "OTHER"
@@ -189705,7 +188564,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f0cb23d0dbfbb241f28b5e1799bd392f93eb61c137ad8e5441133b88992cebaa"
+      "Hash": "c8fa70b7381ffc0b54cf2631aa973416183b9a3bd7322ea94d8e95c00f151917"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -190877,7 +189736,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9f6d4bd8ae413e638adf79d116d1664c03b08a66f70d232f55284744b17f5320"
+      "Hash": "e680fc5bb4caa49bc97f5fb78e8ae179cddef53007e04ebb13fcb8911368ec57"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -194197,7 +193056,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8843e123883f88cb1db3e58a1ca4929802bf1816bd91913d06665b164b8a59d8"
+      "Hash": "f1b9ad33499685d9d152ff10f63506e632a714511d9bb6ef15ca3ae0961c3ed7"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -194243,7 +193102,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "97190cc8b863d1922a34263015821dab17d7911b6b74f34e607fcf336d5edd11"
+      "Hash": "f7deb02b3dc64a5ecfbc94564e8c109dbf6bbd14ae593736ccf9f8bfbef727ff"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -195886,7 +194745,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "24c8c36a70f9d5eb6479147003caeadc0dbc351c7ed7f69b29068ba357fc062c"
+      "Hash": "fc20e859b7d555d083c0aada9ca9a63736cdadb3d3e5cd7c89c2df915ce7a31b"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -197643,7 +196502,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fa323d25435c3719cfef09220c7a64fab93ed8011dd79acb38f56fd0ee88a45b"
+      "Hash": "7c8bd7ac7f2f0e31847638c765264d75768c4324e413d5e55abcb509f3481ae8"
     },
     "h1:zabbix": {
       "Key": "zabbix",
@@ -205964,6 +204823,128 @@
       "OutScope": {},
       "Hash": "c15048ae3df28fb06b273c9e606673b7e8e5eaadae9abbab4ee3c20f008d38a3"
     },
+    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
+      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
+      "Name": "DataCamp",
+      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "InScope": {
+        "*.datacamp.com": {
+          "ID": "*.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/certification": {
+          "ID": "app.datacamp.com/certification",
+          "Type": "url"
+        },
+        "app.datacamp.com/groups": {
+          "ID": "app.datacamp.com/groups",
+          "Type": "url"
+        },
+        "app.datacamp.com/learn": {
+          "ID": "app.datacamp.com/learn",
+          "Type": "url"
+        },
+        "assessment-api.datacamp.com": {
+          "ID": "assessment-api.datacamp.com",
+          "Type": "url"
+        },
+        "assessment-v2.datacamp.com ": {
+          "ID": "assessment-v2.datacamp.com ",
+          "Type": "url"
+        },
+        "assessment.datacamp.com": {
+          "ID": "assessment.datacamp.com",
+          "Type": "url"
+        },
+        "campus.datacamp.com": {
+          "ID": "campus.datacamp.com",
+          "Type": "url"
+        },
+        "com.datacamp": {
+          "ID": "com.datacamp",
+          "Type": "android"
+        },
+        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
+          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+          "Type": "ios"
+        },
+        "practice.datacamp.com": {
+          "ID": "practice.datacamp.com",
+          "Type": "url"
+        },
+        "profiles-api.datacamp.com": {
+          "ID": "profiles-api.datacamp.com",
+          "Type": "url"
+        },
+        "projects.datacamp.com": {
+          "ID": "projects.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com": {
+          "ID": "www.datacamp.com",
+          "Type": "url"
+        },
+        "www.datacamp.com/datalab": {
+          "ID": "www.datacamp.com/datalab",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "*.it.datacamp.com": {
+          "ID": "*.it.datacamp.com",
+          "Type": "wildcard"
+        },
+        "app.datacamp.com/recruit": {
+          "ID": "app.datacamp.com/recruit",
+          "Type": "url"
+        },
+        "ast-viewer.datacamp.com": {
+          "ID": "ast-viewer.datacamp.com",
+          "Type": "url"
+        },
+        "confluence.datacamp.com": {
+          "ID": "confluence.datacamp.com",
+          "Type": "url"
+        },
+        "dccertified.datacamp.com": {
+          "ID": "dccertified.datacamp.com",
+          "Type": "url"
+        },
+        "intranet.datacamp.com": {
+          "ID": "intranet.datacamp.com",
+          "Type": "url"
+        },
+        "jira.datacamp.com": {
+          "ID": "jira.datacamp.com",
+          "Type": "url"
+        },
+        "links.datacamp.com": {
+          "ID": "links.datacamp.com",
+          "Type": "url"
+        },
+        "rdocumentation.datacamp.com": {
+          "ID": "rdocumentation.datacamp.com",
+          "Type": "url"
+        },
+        "signature.datacamp.com": {
+          "ID": "signature.datacamp.com",
+          "Type": "url"
+        },
+        "status.datacamp.com": {
+          "ID": "status.datacamp.com",
+          "Type": "url"
+        },
+        "support.datacamp.com": {
+          "ID": "support.datacamp.com",
+          "Type": "url"
+        },
+        "talent-jobs-api.datacamp.com": {
+          "ID": "talent-jobs-api.datacamp.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
+    },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
       "Name": "Axel Springer SE Vulnerability Disclosure Program",
@@ -207129,7 +206110,7 @@
           "Type": "url"
         }
       },
-      "Hash": "f983b3c74add483025d513ebee2d1e79d35e36acf62cb5de112e6aa6e5a4cd33"
+      "Hash": "1797507395da1ea1e873ebc8582429c6b6a997295c17b7ff9e93753f7be018f8"
     },
     "in:e1dc7326-0466-4c06-bd52-3c6df82370be": {
       "Key": "e1dc7326-0466-4c06-bd52-3c6df82370be",
