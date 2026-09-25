@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-24T23:24:50Z",
+  "captured_at": "2026-09-25T01:52:10Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24606,6 +24606,31 @@
       },
       "Hash": "c714aa4f30b4e7233f66db0f51892e74f1305168546558cf2c6ea574a02fee48"
     },
+    "h1:algolia": {
+      "Key": "algolia",
+      "Name": "Algolia",
+      "URL": "https://hackerone.com/algolia",
+      "InScope": {
+        "*.algolia.net": {
+          "ID": "*.algolia.net",
+          "Type": "WILDCARD"
+        },
+        "*.algolianet.com": {
+          "ID": "*.algolianet.com",
+          "Type": "WILDCARD"
+        },
+        "dashboard.algolia.com": {
+          "ID": "dashboard.algolia.com",
+          "Type": "URL"
+        },
+        "www.algolia.com": {
+          "ID": "www.algolia.com",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {},
+      "Hash": "0bc809865380363975684eecbdea9320c965d879de8f2f8ff8892dcea5d9224f"
+    },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
       "Name": "Alibaba VDP",
@@ -32329,7 +32354,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "948d05589fce564727ad291db37dbdc529fc8f688af54c51a30bd5854d6d3a3f"
+      "Hash": "d0fb6ebf63c0665df6f6027e0427d1da09838190a460e7e45a340ec1a0f1117e"
     },
     "h1:bumble": {
       "Key": "bumble",
@@ -91569,7 +91594,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c22c22c52cb42420aa7b734b2c0f68a31a23142b6ee28f9e519be1e6e6e33cf1"
+      "Hash": "094582926cca86326471b161cc12a62fbf8bff332f743ea763a71c5cdeb760aa"
     },
     "h1:defectdojo": {
       "Key": "defectdojo",
@@ -105061,7 +105086,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0de8049c18c9de81ca03e63a5d010dbc6746f10b052894d6fc4f86a1c48bd1b7"
+      "Hash": "6561c9fa6e63dddfe2ac3e0c72a918fb72ceb570441d4c55ebb9a3c763891bff"
     },
     "h1:experian": {
       "Key": "experian",
@@ -107533,7 +107558,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3c868739b8f94ba937665165b1ad4afd79bcb420d119f31349edbddd745c3b18"
+      "Hash": "fa8f327193790a5547502f59563b034cd35bb3e27bca8501061e4ec8e5e872b9"
     },
     "h1:files": {
       "Key": "files",
@@ -144820,7 +144845,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ab5c65033a8ac43d8e1e5265d16a06dcfc35d3559bedd8a9b3776bc8ba66d42c"
+      "Hash": "21ba62dea0c9d627cfe5fddd5dc0affa6cffaf5f9b0cc85f30fa26fe3b12e1d1"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -145358,7 +145383,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d609326105758e949a1c1d52734ac8c6e90774b82c34ee31c65131a38f9c393a"
+      "Hash": "d167ec73e87d4f43605e63f41db2be2d3a683be786e5849f5a2fd07486bb06a6"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -150963,7 +150988,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "15c5ede8561db7d2a4503fbdc9948ae5be67057f6aed55857da6d547118b22cc"
+      "Hash": "4aab4c0dd945c029621ad6da865211dfdc01ce911ccbbb6c22e2ee4011d13cec"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -178355,7 +178380,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e63cdfc4c351139cf42201170be9193d33668caf328269c53680c4758c6c5ac0"
+      "Hash": "18f8e45d06c7121c0efcd4dbe09b86e55df7ca8958d3495338574b5d740d700c"
     },
     "h1:nebius_ai_vdp": {
       "Key": "nebius_ai_vdp",
@@ -179272,7 +179297,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "9679a1bbc4074b909c7842cfb6063a83399158206c30a56e45a5e529c801db43"
+      "Hash": "5749d47b45a4c6cdafec23c555f2322e00653b3475566544b684c487e912864a"
     },
     "h1:nisc": {
       "Key": "nisc",
@@ -179687,7 +179712,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "571faf2661fdf96fb0472c19ce11cc1a811cec88c3dfc7711e00d2291d1a9173"
+      "Hash": "497c9b21a40d5e8d57ec163b7e9bf76bd6f3d633daa11b148fd7748a6f0963f2"
     },
     "h1:okg": {
       "Key": "okg",
@@ -182764,7 +182789,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7d8ee479cb6b07682ee067c460c36cae279acab4c9c1716341b6c504bfe65bd7"
+      "Hash": "74beb92295360e453702ab93831692791710bb21d9e2ed56425b2b021d3fc375"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -186133,7 +186158,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ea0045010ff6ea944bf6cab8d1f416c4700b7daac663f15df621a1bc143fa3b4"
+      "Hash": "84191809efcbab360022665a45df6c6b1f12bf22f8c1c8ec68ae911d413f0ebe"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -188289,7 +188314,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "19556ab181e7bb269b365a0c01b2ea448b00087e76ef35b0e385436b426e16f5"
+      "Hash": "b81a44c9abc0576b74881a0fde09c31f1bd240604d76edc7f6c4dfdd8db8abe7"
     },
     "h1:solidus": {
       "Key": "solidus",
@@ -188311,7 +188336,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "039d54575f2f2977913c0015e6632c2296b334b7968c9785d7666a0d6fe7fa82"
+      "Hash": "2dcd63fd5305b479f5648cba31ff6ad0288e9205ae0b7a40051d3503cc8a96a6"
     },
     "h1:sony": {
       "Key": "sony",
@@ -190458,7 +190483,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6e2f0549553817c0e65e6f860ace120584b92e25a0beb2510b03df8eb0c1fc72"
+      "Hash": "84973796d962511f0325c52e89a0e1dbb9ed995741972645885c99c27d57a053"
     },
     "h1:toolsforhumanity": {
       "Key": "toolsforhumanity",
