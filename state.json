@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-25T13:40:46Z",
+  "captured_at": "2026-09-25T18:31:41Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -5250,7 +5250,7 @@
           "Type": "website"
         }
       },
-      "Hash": "2195abcf64dc12c7f6f08cc13954305275faa9632f69f6228a4fa3eebd61de24"
+      "Hash": "db9f34b7ae5d827e97dd0a6bafbfd87a7db605093a20504290d98783fec0bd61"
     },
     "bc:Flourish": {
       "Key": "Flourish",
@@ -24637,7 +24637,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b3e3d07cf306a93ca55836b93b25a6616215567e6e3f8863fcb9e9fa568ff3b1"
+      "Hash": "06a9b46a6ff57caa081fc28d20ffea1f474a2d38f967ebdbca18616c605da213"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -24791,6 +24791,10 @@
         },
         "Aero USB RFID Reader": {
           "ID": "Aero USB RFID Reader",
+          "Type": "HARDWARE"
+        },
+        "Axa Remote 2.0": {
+          "ID": "Axa Remote 2.0",
           "Type": "HARDWARE"
         },
         "BLEGateway (IF-4041)": {
@@ -25296,7 +25300,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "165e4abc58470178aca6b5dc7d2904c15b1207020896df402cfcdb24d0f6924d"
+      "Hash": "3d0b4042e049c152fbaa934bf64a7996aad90f31c9e3164f6605c43a9062e883"
     },
     "h1:alohi": {
       "Key": "alohi",
@@ -28294,7 +28298,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cd0a0d83121087e2bcc18c378ee564fbae9bea5a7d2e8c867d5e101f61f8e991"
+      "Hash": "a7ab3ba5329e828e95aefa2d524cbb5a7830b605a5e0ce7913e78e2a5a226e95"
     },
     "h1:att": {
       "Key": "att",
@@ -31533,7 +31537,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c3810d9da0c7b31b90b857bdab6107957a73d053e9864da2f6e1a7738158e1ec"
+      "Hash": "dd065ff9c4fe6f05a79f5dd6e8798e898ecf3789127090fa6ffa93a07b7eb683"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -32211,7 +32215,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bc9556822791e294031009a08cc459dc124cc7c19abb21f97d8bd49e432e383e"
+      "Hash": "135efa8ba87a76d8b3ab32f9c31726d856629479ef40950fb408df6375d325b7"
     },
     "h1:brave": {
       "Key": "brave",
@@ -33037,7 +33041,7 @@
       "URL": "https://hackerone.com/caterpillar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "0358c348e6d214a8111e8968211db29176784c32981a75a544c9b28106cdf5c8"
+      "Hash": "d9fd2e12e8e9c9df15400e5ec8d64bf857610d8308283f27b7ed782aaea0f190"
     },
     "h1:cbre": {
       "Key": "cbre",
@@ -68106,7 +68110,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "05e61d26929799a09257ce0fd5262af688440ca97d165b96f1afaea19a53caab"
+      "Hash": "659464b1b6d771a01f5b87ebec48fe124f13adc1e72eaab606486b89d5e7c5cf"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -90052,8 +90056,13 @@
           "Type": "URL"
         }
       },
-      "OutScope": {},
-      "Hash": "f32827765aea458d8b1a7753e63f2d2ddbd3f8a166f222dcbc082b7aebff00cb"
+      "OutScope": {
+        "Falcon Browser Extension V2": {
+          "ID": "Falcon Browser Extension V2",
+          "Type": "OTHER"
+        }
+      },
+      "Hash": "426dd963d97dcfa925d3f56d4755748fa416e9786f10f582bf0f9367a82ca131"
     },
     "h1:crypto": {
       "Key": "crypto",
@@ -91602,7 +91611,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "7f14c5a0110452ee7993211a2cd887aa2089df946890f7c3ffd772e7b9718f99"
+      "Hash": "86b094e218bfdf587eba55f83ec70ca59856470f84084b48e3e7794b94cf0716"
     },
     "h1:defectdojo": {
       "Key": "defectdojo",
@@ -96406,7 +96415,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c8889d3257edda0a4898558ae592d571ab20ca88c83a862ad3948290a3f720d5"
+      "Hash": "1f857a0bfbbe1d573b3e0db564b5c50c044d7bdf82a030130185fb1c59c6f7f1"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -96557,7 +96566,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3fb945bbdaa664248c819ed75095b548662d0eaf166e94c6e5aec93f4deb60f1"
+      "Hash": "f74d7370e17f1faa91f874d817ac8122dd8dd9cd9d240eb69e3ddae7940942b0"
     },
     "h1:django": {
       "Key": "django",
@@ -96755,7 +96764,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "949f29207b22a3acdc6da7f415104400c1d725d8679666fec0b98d2d3d808bc1"
+      "Hash": "b48c047efb00155a12b79c7545a7d4cfb83d6d9d87496260945c11f707ab6c6b"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -97429,7 +97438,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "8f873e2c62f899f268afa3b0ae5d1c240f6e78afed0abd65d1ec83bf7706c7ec"
+      "Hash": "17090fd9bf017d4fa6f6080d1f541b31353036001c394cc5c44ff56bf37bbeff"
     },
     "h1:elastic": {
       "Key": "elastic",
@@ -98560,7 +98569,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "68f14ebe92484072ec416c780de61277716363a469a2fd86e5f112c9f5625069"
+      "Hash": "e8a1b2f98eaaeb973b4cd84d729d43455a8456cb9a49fce3ede62a41d34f7769"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -104283,7 +104292,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "251b44fef20743438ff81d416f3f8ece7662259b536cc986a8f55507c38b159f"
+      "Hash": "79a3d05d615940218353ef8b8d4c40a7237d0654039647640d55b071a0b6ce84"
     },
     "h1:exness": {
       "Key": "exness",
@@ -105086,7 +105095,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6071ea326b30362ec53afb9c2d9b1a7409f2ae54815c6ba8ec2829760636eac7"
+      "Hash": "586bbf6ef96d77cef33e75bfe01258f43d9b310bc65f75eb54ce534257ab9708"
     },
     "h1:experian": {
       "Key": "experian",
@@ -107624,7 +107633,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "54f54e150624517429f809a3cc6d42abb8cce8f57b63a79b16a242ca2b4993f1"
+      "Hash": "3e88a70a480a0e296577ac1bb617da738683c91912addd76c99f390a093ca740"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -129583,10 +129592,6 @@
           "ID": "http://qa-depositreturns.fiservsco.com",
           "Type": "URL"
         },
-        "http://qa-developer-portal.fiserv.com": {
-          "ID": "http://qa-developer-portal.fiserv.com",
-          "Type": "URL"
-        },
         "http://qa-developer.fiserv.com": {
           "ID": "http://qa-developer.fiserv.com",
           "Type": "URL"
@@ -129619,10 +129624,6 @@
           "ID": "http://qa-merchantselfboarding.businesstrack.com",
           "Type": "URL"
         },
-        "http://qa-myfiserv.fiservapps.com": {
-          "ID": "http://qa-myfiserv.fiservapps.com",
-          "Type": "URL"
-        },
         "http://qa-onlinestore.businesstrack.com": {
           "ID": "http://qa-onlinestore.businesstrack.com",
           "Type": "URL"
@@ -129639,24 +129640,12 @@
           "ID": "http://qa-production.pclender.com",
           "Type": "URL"
         },
-        "http://qa-r1-cardvalet-ws.fiservapps.com": {
-          "ID": "http://qa-r1-cardvalet-ws.fiservapps.com",
-          "Type": "URL"
-        },
         "http://qa-r1.client-central.com": {
           "ID": "http://qa-r1.client-central.com",
           "Type": "URL"
         },
-        "http://qa-r2-cardvalet-ws.fiservapps.com": {
-          "ID": "http://qa-r2-cardvalet-ws.fiservapps.com",
-          "Type": "URL"
-        },
         "http://qa-r2.client-central.com": {
           "ID": "http://qa-r2.client-central.com",
-          "Type": "URL"
-        },
-        "http://qa-r3-cardvalet-ws.fiservapps.com": {
-          "ID": "http://qa-r3-cardvalet-ws.fiservapps.com",
           "Type": "URL"
         },
         "http://qa-test-studio.marketplace.fiserv.com": {
@@ -130131,10 +130120,6 @@
           "ID": "http://ria-01-mobilemoney.checkfree.com",
           "Type": "URL"
         },
-        "http://ria-mobilemoney-dr.fiservmobileapps.com": {
-          "ID": "http://ria-mobilemoney-dr.fiservmobileapps.com",
-          "Type": "URL"
-        },
         "http://ria-mobilemoney.checkfree.com": {
           "ID": "http://ria-mobilemoney.checkfree.com",
           "Type": "URL"
@@ -130399,16 +130384,8 @@
           "ID": "http://rxp-pod5-cert.fiservapps.com",
           "Type": "URL"
         },
-        "http://rxp-pod5-uat.fiservapps.com": {
-          "ID": "http://rxp-pod5-uat.fiservapps.com",
-          "Type": "URL"
-        },
         "http://rxp-pod5.checkfreeweb.com": {
           "ID": "http://rxp-pod5.checkfreeweb.com",
-          "Type": "URL"
-        },
-        "http://rxp-saml-btat2.fiservapps.com": {
-          "ID": "http://rxp-saml-btat2.fiservapps.com",
           "Type": "URL"
         },
         "http://rxp-saml-cert.fiservapps.com": {
@@ -130429,10 +130406,6 @@
         },
         "http://rxp-ui-test1.checkfreeweb.com": {
           "ID": "http://rxp-ui-test1.checkfreeweb.com",
-          "Type": "URL"
-        },
-        "http://rxp-ui-uat.checkfreeweb.com": {
-          "ID": "http://rxp-ui-uat.checkfreeweb.com",
           "Type": "URL"
         },
         "http://rxp1.checkfreeweb.com": {
@@ -130683,10 +130656,6 @@
           "ID": "http://scotiapos.firstdata.com",
           "Type": "URL"
         },
-        "http://scv.gyft.com": {
-          "ID": "http://scv.gyft.com",
-          "Type": "URL"
-        },
         "http://sd3fcu-dc.cert.fec-dc.fiservapps.com": {
           "ID": "http://sd3fcu-dc.cert.fec-dc.fiservapps.com",
           "Type": "URL"
@@ -130793,10 +130762,6 @@
         },
         "http://secure-efcula.org": {
           "ID": "http://secure-efcula.org",
-          "Type": "URL"
-        },
-        "http://secure-elmerbank.com": {
-          "ID": "http://secure-elmerbank.com",
           "Type": "URL"
         },
         "http://secure-firstbankak.com": {
@@ -131327,10 +131292,6 @@
           "ID": "http://smb-cert.solspark.com",
           "Type": "URL"
         },
-        "http://smb-test.gyft.com": {
-          "ID": "http://smb-test.gyft.com",
-          "Type": "URL"
-        },
         "http://smb.solspark.com": {
           "ID": "http://smb.solspark.com",
           "Type": "URL"
@@ -131691,10 +131652,6 @@
           "ID": "http://sso.ft.cashedge.com",
           "Type": "URL"
         },
-        "http://sso.ft2.cashedge.com": {
-          "ID": "http://sso.ft2.cashedge.com",
-          "Type": "URL"
-        },
         "http://sso.fta.cashedge.com": {
           "ID": "http://sso.fta.cashedge.com",
           "Type": "URL"
@@ -131739,16 +131696,8 @@
           "ID": "http://ssp.navient.com",
           "Type": "URL"
         },
-        "http://stage-api-invoca.catalyst.clover.com": {
-          "ID": "http://stage-api-invoca.catalyst.clover.com",
-          "Type": "URL"
-        },
         "http://stage-api-rest.catalyst.clover.com": {
           "ID": "http://stage-api-rest.catalyst.clover.com",
-          "Type": "URL"
-        },
-        "http://stage-api.catalyst.clover.com": {
-          "ID": "http://stage-api.catalyst.clover.com",
           "Type": "URL"
         },
         "http://stage-api.marketplace.fiserv.com": {
@@ -131821,10 +131770,6 @@
         },
         "http://staging-east-proxy.businesstrack.com": {
           "ID": "http://staging-east-proxy.businesstrack.com",
-          "Type": "URL"
-        },
-        "http://staging-east-www.businesstrack.com": {
-          "ID": "http://staging-east-www.businesstrack.com",
           "Type": "URL"
         },
         "http://staging-fswidget.ibbie.com": {
@@ -139787,10 +139732,6 @@
           "ID": "qa-api-fiservapps-use4.ns1.fiservapis.com",
           "Type": "URL"
         },
-        "qa-api-ipg-online-usc1.ns1.fiservapis.com": {
-          "ID": "qa-api-ipg-online-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
         "qa-api-ipg-online-use4.ns1.fiservapis.com": {
           "ID": "qa-api-ipg-online-use4.ns1.fiservapis.com",
           "Type": "URL"
@@ -139809,10 +139750,6 @@
         },
         "qa-dma.fiserv.com": {
           "ID": "qa-dma.fiserv.com",
-          "Type": "URL"
-        },
-        "qa-emea-api-fiservapps-euw3.ns1.fiservapis.com": {
-          "ID": "qa-emea-api-fiservapps-euw3.ns1.fiservapis.com",
           "Type": "URL"
         },
         "qa-gp-api-fiservapps-ause1.ns1.fiservapis.com": {
@@ -139843,28 +139780,12 @@
           "ID": "qa-implementationhub.carat.fiserv.com",
           "Type": "URL"
         },
-        "qa-latam-api-fiservapps.ns1.fiservapis.com": {
-          "ID": "qa-latam-api-fiservapps.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-merchant-portal-tw-api.gift.solutions": {
-          "ID": "qa-merchant-portal-tw-api.gift.solutions",
-          "Type": "URL"
-        },
-        "qa-merchant-portal.gift-dev.solutions": {
-          "ID": "qa-merchant-portal.gift-dev.solutions",
-          "Type": "URL"
-        },
         "qa-miam.businesstrack.com": {
           "ID": "qa-miam.businesstrack.com",
           "Type": "URL"
         },
         "qa-onlinebanking.firstdata.com": {
           "ID": "qa-onlinebanking.firstdata.com",
-          "Type": "URL"
-        },
-        "qa-otp.catalyst.clover.com": {
-          "ID": "qa-otp.catalyst.clover.com",
           "Type": "URL"
         },
         "qa-proxy.businesstrack.com": {
@@ -139887,36 +139808,8 @@
           "ID": "qa-self-serve-ui.catalyst.clover.com",
           "Type": "URL"
         },
-        "qa-unifieddeveloper.fiserv.com": {
-          "ID": "qa-unifieddeveloper.fiserv.com",
-          "Type": "URL"
-        },
         "qa-west-onlinebanking.firstdata.com": {
           "ID": "qa-west-onlinebanking.firstdata.com",
-          "Type": "URL"
-        },
-        "qa-x-01-ause1.ns1.fiservapis.com": {
-          "ID": "qa-x-01-ause1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-x-01-euw1.ns1.fiservapis.com": {
-          "ID": "qa-x-01-euw1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-x-01-euw3.ns1.fiservapis.com": {
-          "ID": "qa-x-01-euw3.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-x-01-sae1.ns1.fiservapis.com": {
-          "ID": "qa-x-01-sae1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-x-01-usc1.ns1.fiservapis.com": {
-          "ID": "qa-x-01-usc1.ns1.fiservapis.com",
-          "Type": "URL"
-        },
-        "qa-x-01-use4.ns1.fiservapis.com": {
-          "ID": "qa-x-01-use4.ns1.fiservapis.com",
           "Type": "URL"
         },
         "qa.fimu.me": {
@@ -140175,24 +140068,12 @@
           "ID": "republicbankuat.caaweb.com",
           "Type": "URL"
         },
-        "reservations-app-nonprod-nextgen-radware.bentopreprod.com": {
-          "ID": "reservations-app-nonprod-nextgen-radware.bentopreprod.com",
-          "Type": "URL"
-        },
-        "reservations-app-prod-nextgen-radware.getbento.com": {
-          "ID": "reservations-app-prod-nextgen-radware.getbento.com",
-          "Type": "URL"
-        },
         "reservations-app-production-radware.getbento.com": {
           "ID": "reservations-app-production-radware.getbento.com",
           "Type": "URL"
         },
         "reservations-app-staging-radware.bentosandbox.com": {
           "ID": "reservations-app-staging-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "reservations-staging-radware.bentosandbox.com": {
-          "ID": "reservations-staging-radware.bentosandbox.com",
           "Type": "URL"
         },
         "resourcebank-p2.onlinebank.com": {
@@ -140253,10 +140134,6 @@
         },
         "rhb24.onlinebank.com": {
           "ID": "rhb24.onlinebank.com",
-          "Type": "URL"
-        },
-        "ria2-mobilemoney-dr.fiservmobileapps.com": {
-          "ID": "ria2-mobilemoney-dr.fiservmobileapps.com",
           "Type": "URL"
         },
         "richchannel01-cert.comerica.com": {
@@ -140595,10 +140472,6 @@
           "ID": "santander-achhosted-dr.fiservapps.com",
           "Type": "URL"
         },
-        "santanderbankepl-temp.olbanking.com": {
-          "ID": "santanderbankepl-temp.olbanking.com",
-          "Type": "URL"
-        },
         "santanderdx-temp.olbanking.com": {
           "ID": "santanderdx-temp.olbanking.com",
           "Type": "URL"
@@ -140621,10 +140494,6 @@
         },
         "santandereeuat.olbanking.com": {
           "ID": "santandereeuat.olbanking.com",
-          "Type": "URL"
-        },
-        "santanderlink-temp.olbanking.com": {
-          "ID": "santanderlink-temp.olbanking.com",
           "Type": "URL"
         },
         "santanderlink.santanderbank.com": {
@@ -140721,22 +140590,6 @@
         },
         "scl-dev2.dev.clover.com": {
           "ID": "scl-dev2.dev.clover.com",
-          "Type": "URL"
-        },
-        "scl-dev5.dev.clover.com": {
-          "ID": "scl-dev5.dev.clover.com",
-          "Type": "URL"
-        },
-        "scl-sandbox.dev.clover.com": {
-          "ID": "scl-sandbox.dev.clover.com",
-          "Type": "URL"
-        },
-        "scl-sandboxprod.dev.clover.com": {
-          "ID": "scl-sandboxprod.dev.clover.com",
-          "Type": "URL"
-        },
-        "scl-stg1.dev.clover.com": {
-          "ID": "scl-stg1.dev.clover.com",
           "Type": "URL"
         },
         "scl.ap.staging.clover.com": {
@@ -140859,16 +140712,8 @@
           "ID": "servicegateway-qa4.fiservapps.com",
           "Type": "URL"
         },
-        "services.test-smsservicesnow.com": {
-          "ID": "services.test-smsservicesnow.com",
-          "Type": "URL"
-        },
         "services1.test-smsservicesnow.com": {
           "ID": "services1.test-smsservicesnow.com",
-          "Type": "URL"
-        },
-        "servis1st-temp.olbanking.com": {
-          "ID": "servis1st-temp.olbanking.com",
           "Type": "URL"
         },
         "servis1stcert-temp.olbanking.com": {
@@ -141107,10 +140952,6 @@
           "ID": "sitefexpressadmsc-uat.fiservapp.com",
           "Type": "URL"
         },
-        "sitefexpressadmsc.softwareexpress.com": {
-          "ID": "sitefexpressadmsc.softwareexpress.com",
-          "Type": "URL"
-        },
         "sitefmsc-arg-cat.fiservapp.com": {
           "ID": "sitefmsc-arg-cat.fiservapp.com",
           "Type": "URL"
@@ -141149,18 +140990,6 @@
         },
         "slvfed.onlinebank.com": {
           "ID": "slvfed.onlinebank.com",
-          "Type": "URL"
-        },
-        "smb-stage.gyft.com": {
-          "ID": "smb-stage.gyft.com",
-          "Type": "URL"
-        },
-        "smokeybones.wgiftcard.com": {
-          "ID": "smokeybones.wgiftcard.com",
-          "Type": "URL"
-        },
-        "smokeybonesstore.wgiftcard.com": {
-          "ID": "smokeybonesstore.wgiftcard.com",
           "Type": "URL"
         },
         "sms-cert-temp.olbanking.com": {
@@ -141281,10 +141110,6 @@
         },
         "snappysalads.wgiftcard.com": {
           "ID": "snappysalads.wgiftcard.com",
-          "Type": "URL"
-        },
-        "snb-temp.olbanking.com": {
-          "ID": "snb-temp.olbanking.com",
           "Type": "URL"
         },
         "snb.olbanking.com": {
@@ -141411,10 +141236,6 @@
           "ID": "southmet.configure-digital.cert.fiservapps.com",
           "Type": "URL"
         },
-        "southmet.onlinebank.com": {
-          "ID": "southmet.onlinebank.com",
-          "Type": "URL"
-        },
         "southsidebank.fdecs.com": {
           "ID": "southsidebank.fdecs.com",
           "Type": "URL"
@@ -141535,10 +141356,6 @@
           "ID": "stage-accesscontrol.gbs.fiserv.com",
           "Type": "URL"
         },
-        "stage-acct-mgmt.catalyst.clover.com": {
-          "ID": "stage-acct-mgmt.catalyst.clover.com",
-          "Type": "URL"
-        },
         "stage-admin.fiserv.com": {
           "ID": "stage-admin.fiserv.com",
           "Type": "URL"
@@ -141561,10 +141378,6 @@
         },
         "stage-implementationhub.carat.fiserv.com": {
           "ID": "stage-implementationhub.carat.fiserv.com",
-          "Type": "URL"
-        },
-        "stage-otp.catalyst.clover.com": {
-          "ID": "stage-otp.catalyst.clover.com",
           "Type": "URL"
         },
         "stage-sales.fiserv.com": {
@@ -141601,22 +141414,6 @@
         },
         "staging-miam.businesstrack.com": {
           "ID": "staging-miam.businesstrack.com",
-          "Type": "URL"
-        },
-        "staging-pos-dev-radware.bentosandbox.com": {
-          "ID": "staging-pos-dev-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "staging-pos-integration-radware.bentosandbox.com": {
-          "ID": "staging-pos-integration-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "staging-pos-preview-radware.bentosandbox.com": {
-          "ID": "staging-pos-preview-radware.bentosandbox.com",
-          "Type": "URL"
-        },
-        "staging-pos-radware.bentosandbox.com": {
-          "ID": "staging-pos-radware.bentosandbox.com",
           "Type": "URL"
         },
         "staging-proxy.businesstrack.com": {
@@ -141661,10 +141458,6 @@
         },
         "starbucksmex.wgiftcard.com": {
           "ID": "starbucksmex.wgiftcard.com",
-          "Type": "URL"
-        },
-        "starion-temp.olbanking.com": {
-          "ID": "starion-temp.olbanking.com",
           "Type": "URL"
         },
         "starion.olbanking.com": {
@@ -141745,10 +141538,6 @@
         },
         "stifel-tc.olbanking.com": {
           "ID": "stifel-tc.olbanking.com",
-          "Type": "URL"
-        },
-        "stifel-temp.olbanking.com": {
-          "ID": "stifel-temp.olbanking.com",
           "Type": "URL"
         },
         "stifelcert-temp.olbanking.com": {
@@ -141855,10 +141644,6 @@
           "ID": "sundancestate.originate.fiservapps.com",
           "Type": "URL"
         },
-        "sunflower-temp.olbanking.com": {
-          "ID": "sunflower-temp.olbanking.com",
-          "Type": "URL"
-        },
         "sunflower.olbanking.com": {
           "ID": "sunflower.olbanking.com",
           "Type": "URL"
@@ -141881,10 +141666,6 @@
         },
         "sunpacific-dc.cert.fec-dc.fiservapps.com": {
           "ID": "sunpacific-dc.cert.fec-dc.fiservapps.com",
-          "Type": "URL"
-        },
-        "sunwest-temp.olbanking.com": {
-          "ID": "sunwest-temp.olbanking.com",
           "Type": "URL"
         },
         "sunwest.olbanking.com": {
@@ -144726,7 +144507,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "90eeaee81c470e2dc9b43ea43ae189701e65dcb2ecdcc61c83fd562064d7cb8a"
+      "Hash": "40f2faf5cb3503c412f8dba1cedb301f6df3291ef399365c275c419cde7bc453"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -144890,7 +144671,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "bc226bebd1a0da92a7b6fb0caf80ba9397b7af94a1886ed3cb438196d8d32ec0"
+      "Hash": "b816388bca231f548d8f451dd9f78548ce64bdd32a8209f2646310006b8dac0f"
     },
     "h1:floqast": {
       "Key": "floqast",
@@ -145764,7 +145545,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "15946d4313dea47380b004653fe4f41e5bac2ddaf3ed5cacadc315a40803d391"
+      "Hash": "82d5e771220bd3288eb569b0c6c2019a271f699b1739cc1d0bd2a45167a95cc6"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -145987,7 +145768,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3910b7e4e5dbc365df817a456348d391dd930ce5efe79b918eaa00f9153839fe"
+      "Hash": "ccb88b2b3eb4ab0ec53d0b98a5c9ba57cf957b0e0798300b2e5dd7bb695c5498"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -146173,7 +145954,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "87dd15ce92d6e30d899f6930c3df4c0cc2dbd9f2c442db5601aaf4382a9bf5ce"
+      "Hash": "e4514166d5f2b66f265915e0a7320d1222f20e5438be182e3c8b3b83063c2585"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -149734,7 +149515,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c80eebcd236a30fe2fc663453eb13b43a20621a65c63c6a665723644523ba154"
+      "Hash": "7f76ca0d837937ec067d3d4afbfd16c8f613f67802e80be88c1d36c74a146cc8"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -157477,10 +157258,6 @@
           "ID": "testing.itau.co",
           "Type": "URL"
         },
-        "tiendanaranja.co": {
-          "ID": "tiendanaranja.co",
-          "Type": "URL"
-        },
         "tracking.clienteitau.co": {
           "ID": "tracking.clienteitau.co",
           "Type": "URL"
@@ -157535,7 +157312,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1a45d221148ef3c09ff6c684cdf2835d408035dee11743b01eddba69e7cbd0d5"
+      "Hash": "008fcae3fd08b31d1af48a31e8927bd40d5022ee299ab5a81c24aa8ec25860d6"
     },
     "h1:jetblue": {
       "Key": "jetblue",
@@ -159046,6 +158823,10 @@
         },
         "biomcp.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com": {
           "ID": "biomcp.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com",
+          "Type": "URL"
+        },
+        "blog.machinefinder.com": {
+          "ID": "blog.machinefinder.com",
           "Type": "URL"
         },
         "blueriver.ai": {
@@ -166055,7 +165836,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0131446f126a3aea636d276555e88b1e6922d6e472532071a4c3778481f3a214"
+      "Hash": "b14bca1f292d8f80ece434a993548f1f058e212fe514034f29992aa0498f9c87"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -166093,6 +165874,28 @@
       },
       "OutScope": {},
       "Hash": "3ec132d1f7fb85403aabad10ddc89cfc877a2680cb8452c959c0a46adb902a50"
+    },
+    "h1:kaltura": {
+      "Key": "kaltura",
+      "Name": "Kaltura",
+      "URL": "https://hackerone.com/kaltura",
+      "InScope": {
+        "kmc.kaltura.com": {
+          "ID": "kmc.kaltura.com",
+          "Type": "URL"
+        },
+        "mediaspace.kaltura.com": {
+          "ID": "mediaspace.kaltura.com",
+          "Type": "URL"
+        }
+      },
+      "OutScope": {
+        "eventplatform.kaltura.com": {
+          "ID": "eventplatform.kaltura.com",
+          "Type": "URL"
+        }
+      },
+      "Hash": "5855b333b05a600a06bb6405811861823c0448cace44f107078e6463a57c64db"
     },
     "h1:kaseya": {
       "Key": "kaseya",
@@ -166254,7 +166057,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "2786f1d930d9bb48471d0ea44172c7af6750115e59a70c944d7f04b4d365feb6"
+      "Hash": "d651ec98f76ea02382d358c3b5d5628cbf55ad815ec79a652d5398b3101b520b"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -167705,13 +167508,133 @@
         }
       },
       "OutScope": {},
-      "Hash": "7ff0bff9ecbb5ff2999238ef0eea77eb78cbb1e46de64cfe4a8454d7e3aca41c"
+      "Hash": "7f1ddeb8b78245cd9901dcebe971843843f25ede7dca77c0e8af5eaa48f655c1"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
       "Name": "LATAM Airlines",
       "URL": "https://hackerone.com/latamairlines",
       "InScope": {
+        "*.apislatam.com": {
+          "ID": "*.apislatam.com",
+          "Type": "WILDCARD"
+        },
+        "*.aplicacioneslatam.com.ar": {
+          "ID": "*.aplicacioneslatam.com.ar",
+          "Type": "WILDCARD"
+        },
+        "*.appslatamtravel.com": {
+          "ID": "*.appslatamtravel.com",
+          "Type": "WILDCARD"
+        },
+        "*.cuidomidestino.cl": {
+          "ID": "*.cuidomidestino.cl",
+          "Type": "WILDCARD"
+        },
+        "*.e-tam.com.br": {
+          "ID": "*.e-tam.com.br",
+          "Type": "WILDCARD"
+        },
+        "*.ladeco.cl": {
+          "ID": "*.ladeco.cl",
+          "Type": "WILDCARD"
+        },
+        "*.lamchile.cl": {
+          "ID": "*.lamchile.cl",
+          "Type": "WILDCARD"
+        },
+        "*.lan-airlines.com": {
+          "ID": "*.lan-airlines.com",
+          "Type": "WILDCARD"
+        },
+        "*.lan-chile.cl": {
+          "ID": "*.lan-chile.cl",
+          "Type": "WILDCARD"
+        },
+        "*.lan-chile.com": {
+          "ID": "*.lan-chile.com",
+          "Type": "WILDCARD"
+        },
+        "*.lan-express.cl": {
+          "ID": "*.lan-express.cl",
+          "Type": "WILDCARD"
+        },
+        "*.lancargo.com": {
+          "ID": "*.lancargo.com",
+          "Type": "WILDCARD"
+        },
+        "*.lanchile.aero": {
+          "ID": "*.lanchile.aero",
+          "Type": "WILDCARD"
+        },
+        "*.lanchile.com.br": {
+          "ID": "*.lanchile.com.br",
+          "Type": "WILDCARD"
+        },
+        "*.lanchile.com.pe": {
+          "ID": "*.lanchile.com.pe",
+          "Type": "WILDCARD"
+        },
+        "*.lanecuador.com": {
+          "ID": "*.lanecuador.com",
+          "Type": "WILDCARD"
+        },
+        "*.lanpass.aero": {
+          "ID": "*.lanpass.aero",
+          "Type": "WILDCARD"
+        },
+        "*.lantours.aero": {
+          "ID": "*.lantours.aero",
+          "Type": "WILDCARD"
+        },
+        "*.latamairlinesgroup.net": {
+          "ID": "*.latamairlinesgroup.net",
+          "Type": "WILDCARD"
+        },
+        "*.latamcargo.com": {
+          "ID": "*.latamcargo.com",
+          "Type": "WILDCARD"
+        },
+        "*.latamtrade.com": {
+          "ID": "*.latamtrade.com",
+          "Type": "WILDCARD"
+        },
+        "*.latamtravel.com": {
+          "ID": "*.latamtravel.com",
+          "Type": "WILDCARD"
+        },
+        "*.mplu.com.br": {
+          "ID": "*.mplu.com.br",
+          "Type": "WILDCARD"
+        },
+        "*.multiplusfidelidade.com.br": {
+          "ID": "*.multiplusfidelidade.com.br",
+          "Type": "WILDCARD"
+        },
+        "*.mundolatamtravel.com": {
+          "ID": "*.mundolatamtravel.com",
+          "Type": "WILDCARD"
+        },
+        "*.ndcbylatamairlines.com": {
+          "ID": "*.ndcbylatamairlines.com",
+          "Type": "WILDCARD"
+        },
+        "*.pontosmultiplus.com": {
+          "ID": "*.pontosmultiplus.com",
+          "Type": "WILDCARD"
+        },
+        "*.pontosmultiplus.com.br": {
+          "ID": "*.pontosmultiplus.com.br",
+          "Type": "WILDCARD"
+        },
+        "*.tam.com.br": {
+          "ID": "*.tam.com.br",
+          "Type": "WILDCARD"
+        },
+        "*.tamviagens.com.br": {
+          "ID": "*.tamviagens.com.br",
+          "Type": "WILDCARD"
+        },
         "acintra.appslatam.com": {
           "ID": "acintra.appslatam.com",
           "Type": "URL"
@@ -167856,6 +167779,10 @@
           "ID": "https://wtm.intg.appslatam.com",
           "Type": "URL"
         },
+        "latampass.com.br": {
+          "ID": "latampass.com.br",
+          "Type": "URL"
+        },
         "payflow.appslatam.com": {
           "ID": "payflow.appslatam.com",
           "Type": "URL"
@@ -167911,7 +167838,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "81c4ad54a4f9c9326eb4f0a7939854afb674bb1df7970a5a3493ce05394526fc"
+      "Hash": "f06410b9de8b6b1d6398ce88b55a88d929aafd5b0020277244c4f268af5f11fc"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -168502,7 +168429,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "82504ebcc8f64b7ef291cddbb41769b6f5fe2190f8ad512f132b612561f8d1aa"
+      "Hash": "6635034609b4ac0be52a4f32b6db0eaab2a59e07e21ee556cec07182f5fa1653"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -170011,7 +169938,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8b05596068461a1407c48aeea505ca2655e65956203826d5986bb6d5d6d8db54"
+      "Hash": "9ee778d1114a76696fd58dbf3496e7de5df977b48ebb89c23a4e5d0985d745d6"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -170789,7 +170716,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "72b257715a0dd8625d1a58402db5ea0025859dce29bb12057ecdebb6544e18e7"
+      "Hash": "4a416c9383260de717a7c78bebf151364bfe788133870ca7e416704d1586132e"
     },
     "h1:mintel": {
       "Key": "mintel",
@@ -173490,7 +173417,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a752429d900612a0424c4154cde0750551ecb567df32ea7fb0a814ad03655dd2"
+      "Hash": "6b59d9d63b8eb667024f48c708450eb14567bdfb4e28f273f220240ed3bf8d77"
     },
     "h1:moov": {
       "Key": "moov",
@@ -178198,7 +178125,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "18f8e45d06c7121c0efcd4dbe09b86e55df7ca8958d3495338574b5d740d700c"
+      "Hash": "e63cdfc4c351139cf42201170be9193d33668caf328269c53680c4758c6c5ac0"
     },
     "h1:nebius_ai_vdp": {
       "Key": "nebius_ai_vdp",
@@ -178316,7 +178243,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6f3612eb34f73dc087cd49a65e09bd7fc0ef47457f69af47d79f7aca4c0b4144"
+      "Hash": "5969d0038c4990989edb6dfee3e79c0a8180d9c25e6b56cd2a805b74faeaed08"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -178601,7 +178528,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6b1912ed9adeaf7a1349a18d46cf9258f4c4bcd60a6c372d62fbd91046521818"
+      "Hash": "8b6e45fec5c4c626793d30d434172ea60c26185749454dd34386c340b65d33ee"
     },
     "h1:newegg": {
       "Key": "newegg",
@@ -181033,7 +180960,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f254776a3642c4778b714915781be9bd2937f83cec518ee682f1081db8a251c2"
+      "Hash": "fa7cedf78155ed94f44ae9711b097d913edaa124962b31e7c7c7e4ce2815fcf7"
     },
     "h1:paypal": {
       "Key": "paypal",
@@ -181300,7 +181227,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c113b53090a778f2e1781951a5be5f0acee72cfd544d1b047e3800a59bcb3851"
+      "Hash": "cdb6e4f310dd611acc41c9192325528e11b2bcd50dfae094d7d79540f7fc5b05"
     },
     "h1:peloton": {
       "Key": "peloton",
@@ -182394,7 +182321,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1e3972457ae3f47337b35afdad2baa1b12b44ec0ed444f436908c06ad3bcedaa"
+      "Hash": "3db8771ac1bdf2f6a16715054a3ca345bd89e03ed3f75a922d4612dbd9f6840c"
     },
     "h1:phpbb": {
       "Key": "phpbb",
@@ -187022,7 +186949,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fba8412bf0871e0aa4eedd5f5026884fc92a027b6b25cdb842d03cf43527c686"
+      "Hash": "abc46775de0d4a3e9a278f4e630debc1feca990f187865a07287ddea49393c55"
     },
     "h1:servicenow-disclosure": {
       "Key": "servicenow-disclosure",
@@ -187389,7 +187316,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "b4def5a6a2dbf2be0ed466c2e6caa6174a0ccc0db6c20a32dfeaf6f3120957e1"
+      "Hash": "b23d590eb63f1ba02e406b2969a895d83ef06ad6b37fc3c0a696442308fd3993"
     },
     "h1:simple_poll": {
       "Key": "simple_poll",
@@ -187806,7 +187733,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c6e2f14cdd741b19c53a9acdc8c65b2c2fe91f9b047f2d1cce983ad904e6b90d"
+      "Hash": "d913a925e7105c03d98614965824f95b9df2158135b7cbe0edc396858417cdde"
     },
     "h1:slack": {
       "Key": "slack",
@@ -188520,7 +188447,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "58eec7c0809459797eb19776cbe07cff49a8788a6c3d7157de70b34abc29330a"
+      "Hash": "7a7cac410564fa22b940ab5b4c3b7afd5b1265002d88baeb19988e1f0d89336d"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -191829,7 +191756,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bcb8bdd03f59b4ca8619d520887ac0e966e9c39a6558140c02bf495cce13ae72"
+      "Hash": "d7664b0293d2029c093f20d7c326427f8015894be376b27b3ec1900cea1ce001"
     },
     "h1:uber": {
       "Key": "uber",
@@ -192776,7 +192703,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3afbe9d0221e4d4dffbfb62882dd209a0fae64169703ce119a618eea8ad6b385"
+      "Hash": "f3163eccb74188d3e7c9d43d31000bc950c60cbcdf47c2a5227ae81bfa0aa67d"
     },
     "h1:valve": {
       "Key": "valve",
@@ -192886,7 +192813,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "631b849f616217a61e936f90bee035333539b2ce48a4578f20a817b617271466"
+      "Hash": "4d0ae369aab5be69403d3dee620f2aa1182bc067ee9ce026f1862d0b0c183461"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -193258,7 +193185,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6fd48370193d18f3321a93bc1c73b8b002b1ab861e98a08fbe5c11a4a430bc38"
+      "Hash": "7bbe647c880b9af55bc0a17028ca103d2624563fb45d6331c19d5cb258324f21"
     },
     "h1:versioncake": {
       "Key": "versioncake",
@@ -195146,7 +195073,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "229ad122fcd8454da00c5bce0ab96ddd029e0a015afc8b2caa1bcb5da94bdb18"
+      "Hash": "68aa955db0dba9e3fb1158a0f58ada5c2e4063da5c7af9ba631b5d5e3981a6eb"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -196312,7 +196239,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "eb60cc40a04a0f0dbea4c41eca9d808641233ca4f866121a1048efd1c7207cf1"
+      "Hash": "6fc4a1bf097a7fa27a96e1650de89297a6ef509e06ce91c137e37c8149aa0418"
     },
     "h1:yuga_labs": {
       "Key": "yuga_labs",
@@ -196399,7 +196326,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d19fd37caaf797c23e39e10942dae21eb2961b28981390bbb59f0c2bad9d1872"
+      "Hash": "d7f8724edb9fc5b3a335c4614acbab1269f49df3bb1656ca8bc0041262840670"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
@@ -204608,128 +204535,6 @@
       },
       "OutScope": {},
       "Hash": "c15048ae3df28fb06b273c9e606673b7e8e5eaadae9abbab4ee3c20f008d38a3"
-    },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
     },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
