@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-25T01:52:10Z",
+  "captured_at": "2026-09-25T07:41:48Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23791,7 +23791,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "893d0ecfa4aafcdececded1fa3bd7d498ad18975570e67bba888098b03d1d938"
+      "Hash": "8772942b722aceefc65b2fba61786c7f41d1f831d13773a2b656058aa14cf320"
     },
     "h1:abercrombie_fitch_bbp": {
       "Key": "abercrombie_fitch_bbp",
@@ -24629,7 +24629,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0bc809865380363975684eecbdea9320c965d879de8f2f8ff8892dcea5d9224f"
+      "Hash": "aba3bff1e3e15be9fe6abb15f717c62de36b17a88b8830d49b2858127ef80088"
     },
     "h1:alibaba_vdp": {
       "Key": "alibaba_vdp",
@@ -32203,7 +32203,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "68ce192fa8125062e8edfcb70ea54f178d92c757e4b3b68ead66aa6572421f28"
+      "Hash": "f2703817e470d978c9e637e15cc5343999377502bd8465f5785f8a716665be43"
     },
     "h1:brave": {
       "Key": "brave",
@@ -32341,7 +32341,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "db93ad3dd22aa1cd7e46517669a8eb18d038fb8c55cd5744f76dd062e4267be2"
+      "Hash": "ec733ce2ab628345c70bc1c798c87e173ac855684be5f8e06a506f47e766a20b"
     },
     "h1:bumba_bbp": {
       "Key": "bumba_bbp",
@@ -32584,7 +32584,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "899bdc2b314faa9d1f7df9cb8a95d18899cff70d715c94624242a7b3d283951e"
+      "Hash": "e14e91b65bbb9bebee320e544eff48a3d99f78b15fa46f2be68345bb514249ac"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -33029,7 +33029,7 @@
       "URL": "https://hackerone.com/caterpillar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "d9fd2e12e8e9c9df15400e5ec8d64bf857610d8308283f27b7ed782aaea0f190"
+      "Hash": "56af00d66b2463525cd1990022e2639f0f0fe9132678229d7fe7df4f012068ea"
     },
     "h1:cbre": {
       "Key": "cbre",
@@ -68328,7 +68328,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3ed9dcf8092347fccb72fba6927eaa55502b69418bba94753b910dbd8abb7e29"
+      "Hash": "61860d54adb57bff0930afa818d2b70a125be65688113ded70825b51fe16cadb"
     },
     "h1:clarivate": {
       "Key": "clarivate",
@@ -88454,7 +88454,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fe83ce88e73d7872bb74a8d898e009c7ddaddb79076150069db366d8f3889ef9"
+      "Hash": "6ffd044cc931021287ccc4a648066a84b39d0d298bf248bd1e246de772ce98f9"
     },
     "h1:clear": {
       "Key": "clear",
@@ -89281,7 +89281,7 @@
           "Type": "API"
         }
       },
-      "Hash": "b12f616f6a3cdd53e5db08b140390ef1ff9310cbf68c2a886f38ad64ed034d2d"
+      "Hash": "067fd8e80e44b4aefde67bedea8b8813d9970e52ab8d13a62043687a790acdb0"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -96689,7 +96689,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "482694065e231c36820c74c5e675ae06178c125f983cc9b18e2a0414aadc7284"
+      "Hash": "f9064adc0153564608dc88fa0574241c3e02cd5e7c8d508fb0f657b7fd3c33ed"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -96747,7 +96747,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "409c7c12cf154fdb397e0482cfc812bad0c13fecdd1498531055c726abb51ae0"
+      "Hash": "42f0a3199fd5ae9bafde2b77bfbe350e3d0942b0a1cc4a9350cd69f5b971f5d9"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -104229,7 +104229,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4a8dcd61361c8ed14d42c6c1bb6d82de7f377f7c33959577854e3cd7127ed81e"
+      "Hash": "d642dd63801874bf46c69ec1665eff361dacd56eb2c40f512fbdfd1bfb75a26a"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -145739,7 +145739,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "c83050013364ee95d6c7e6b24b494fdbbc94b39754bfa9d7c9f0a1f3bc7ca15f"
+      "Hash": "15c9bba1efc275a685a758426b1719447e618b720c65179ee9f81d5fd08dda4e"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -145825,7 +145825,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4874741177aad67477bdccfbf458abc98334258b173c7fc07f2d2968eb53f261"
+      "Hash": "8808715fbfe0b60995072d5d69d31add0215d1b23e7ab4f5c61e37e7e85f2c91"
     },
     "h1:github": {
       "Key": "github",
@@ -146414,184 +146414,6 @@
         }
       },
       "Hash": "487c5fb1552647ae8fed239baf024532f6654d0bfc6f90375122bb49cada6799"
-    },
-    "h1:gocardless_bbp": {
-      "Key": "gocardless_bbp",
-      "Name": "GoCardless Bug Bounty Program",
-      "URL": "https://hackerone.com/gocardless_bbp",
-      "InScope": {
-        "*.gocardless-cicd.io": {
-          "ID": "*.gocardless-cicd.io",
-          "Type": "WILDCARD"
-        },
-        "*.gocardless-lab.io": {
-          "ID": "*.gocardless-lab.io",
-          "Type": "WILDCARD"
-        },
-        "*.gocardless.dev": {
-          "ID": "*.gocardless.dev",
-          "Type": "WILDCARD"
-        },
-        "*.gocardless.io,*.gocardless-banking.io": {
-          "ID": "*.gocardless.io,*.gocardless-banking.io",
-          "Type": "WILDCARD"
-        },
-        "api-sandbox.gocardless.com": {
-          "ID": "api-sandbox.gocardless.com",
-          "Type": "URL"
-        },
-        "auth0.gocardless.com": {
-          "ID": "auth0.gocardless.com",
-          "Type": "URL"
-        },
-        "bankaccountdata.gocardless.com": {
-          "ID": "bankaccountdata.gocardless.com",
-          "Type": "OTHER"
-        },
-        "connect-sandbox.gocardless.com": {
-          "ID": "connect-sandbox.gocardless.com",
-          "Type": "URL"
-        },
-        "developer.gocardless.com": {
-          "ID": "developer.gocardless.com",
-          "Type": "URL"
-        },
-        "http://sso-demo.gocardless-staging.io": {
-          "ID": "http://sso-demo.gocardless-staging.io",
-          "Type": "URL"
-        },
-        "https://github.com/gocardless": {
-          "ID": "https://github.com/gocardless",
-          "Type": "SOURCE_CODE"
-        },
-        "https://ob-sandbox.gocardless.io": {
-          "ID": "https://ob-sandbox.gocardless.io",
-          "Type": "API"
-        },
-        "manage-sandbox.gocardless.com": {
-          "ID": "manage-sandbox.gocardless.com",
-          "Type": "URL"
-        },
-        "oauth-sandbox.gocardless.com": {
-          "ID": "oauth-sandbox.gocardless.com",
-          "Type": "URL"
-        },
-        "ob.gocardless.com": {
-          "ID": "ob.gocardless.com",
-          "Type": "URL"
-        },
-        "pay-sandbox.gocardless.com": {
-          "ID": "pay-sandbox.gocardless.com",
-          "Type": "URL"
-        },
-        "payer-details-sandbox.gocardless.com": {
-          "ID": "payer-details-sandbox.gocardless.com",
-          "Type": "URL"
-        },
-        "www.gocardless.com": {
-          "ID": "www.gocardless.com",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {
-        "*.gocardless-staging.io": {
-          "ID": "*.gocardless-staging.io",
-          "Type": "WILDCARD"
-        },
-        "api-staging.gocardless.com": {
-          "ID": "api-staging.gocardless.com",
-          "Type": "URL"
-        },
-        "api.gocardless.com": {
-          "ID": "api.gocardless.com",
-          "Type": "URL"
-        },
-        "brand.gocardless.com": {
-          "ID": "brand.gocardless.com",
-          "Type": "URL"
-        },
-        "connect.gocardless.com": {
-          "ID": "connect.gocardless.com",
-          "Type": "URL"
-        },
-        "gc4x-api-sandbox.gocardless.com": {
-          "ID": "gc4x-api-sandbox.gocardless.com",
-          "Type": "URL"
-        },
-        "gocardless-status.com, status.gocardless.com": {
-          "ID": "gocardless-status.com, status.gocardless.com",
-          "Type": "OTHER"
-        },
-        "gocardless.atlassian.net": {
-          "ID": "gocardless.atlassian.net",
-          "Type": "URL"
-        },
-        "https://github.com/gocardless/woocommerce-gateway-gocardless": {
-          "ID": "https://github.com/gocardless/woocommerce-gateway-gocardless",
-          "Type": "SOURCE_CODE"
-        },
-        "learn.gocardless.com": {
-          "ID": "learn.gocardless.com",
-          "Type": "URL"
-        },
-        "manage.gocardless.com": {
-          "ID": "manage.gocardless.com",
-          "Type": "URL"
-        },
-        "oauth-staging.gocardless.com": {
-          "ID": "oauth-staging.gocardless.com",
-          "Type": "URL"
-        },
-        "oauth.gocardless.com": {
-          "ID": "oauth.gocardless.com",
-          "Type": "URL"
-        },
-        "outgrow.gocardless.com": {
-          "ID": "outgrow.gocardless.com",
-          "Type": "URL"
-        },
-        "partnerportal.gocardless.com, gocardless.my.site.com": {
-          "ID": "partnerportal.gocardless.com, gocardless.my.site.com",
-          "Type": "OTHER"
-        },
-        "pay.gocardless.com": {
-          "ID": "pay.gocardless.com",
-          "Type": "URL"
-        },
-        "payer-details.gocardless.com": {
-          "ID": "payer-details.gocardless.com",
-          "Type": "URL"
-        },
-        "privacy.gocardless.com": {
-          "ID": "privacy.gocardless.com",
-          "Type": "URL"
-        },
-        "qbo-api.gocardless.com": {
-          "ID": "qbo-api.gocardless.com",
-          "Type": "URL"
-        },
-        "storybook.gocardless.io": {
-          "ID": "storybook.gocardless.io",
-          "Type": "URL"
-        },
-        "support.gocardless.com": {
-          "ID": "support.gocardless.com",
-          "Type": "URL"
-        },
-        "xero-sandbox.gocardless.com": {
-          "ID": "xero-sandbox.gocardless.com",
-          "Type": "URL"
-        },
-        "xero-staging.gocardless.com": {
-          "ID": "xero-staging.gocardless.com",
-          "Type": "URL"
-        },
-        "xero.gocardless.com": {
-          "ID": "xero.gocardless.com",
-          "Type": "URL"
-        }
-      },
-      "Hash": "1e65d80a995a1583bba1c831e91ab37584c4dcc382b72910d9ac6b7b7eb8dac1"
     },
     "h1:godaddy-vdp": {
       "Key": "godaddy-vdp",
@@ -149822,7 +149644,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "10f307590153c553f7d80309f28b8b61a92dcb541934f75b38a19a40a859fb7b"
+      "Hash": "771def2febd28b213580f9a880c88769e30e1afe428849ef2ef80796efd237aa"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -157717,7 +157539,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "884d76f1163ca9687662c1949e00570d71cecfe09a8f2653accb9b2afeeb1e3a"
+      "Hash": "1a45d221148ef3c09ff6c684cdf2835d408035dee11743b01eddba69e7cbd0d5"
     },
     "h1:jetblue": {
       "Key": "jetblue",
@@ -167194,7 +167016,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3c058217395fdc771cbb51ca53e8e76746637034d2bc9512c9cc5a3844f5d999"
+      "Hash": "0ae772f5996ad5d0e4b01a537b965a8e868196d8018a985973ffd001e23b03ac"
     },
     "h1:koho": {
       "Key": "koho",
@@ -167887,7 +167709,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5c36ec23d9920419a46df2c95c8e6c30dc5a02ffbdd5c77813963cc3bf7cb990"
+      "Hash": "7ff0bff9ecbb5ff2999238ef0eea77eb78cbb1e46de64cfe4a8454d7e3aca41c"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -171898,7 +171720,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a101f28b3c6558c0907a446d016013b52484e6006f1e84c46ddcfd4d7d26b7cc"
+      "Hash": "6e0af5a243afb518eb946b51f033b95824587573ecad5d3a6233fe43c29f1e84"
     },
     "h1:modern_treasury": {
       "Key": "modern_treasury",
@@ -178498,7 +178320,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "db0a4eedbf5caaf81772a9968b4d54a49498480f78ec67eeb22b1be1176f3d9f"
+      "Hash": "6f3612eb34f73dc087cd49a65e09bd7fc0ef47457f69af47d79f7aca4c0b4144"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -182883,7 +182705,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "71ff001432b1ed972a8f6dc36a0a2aaea5b6b74d352d5024a2fb969fe59c1425"
+      "Hash": "5cd3e5df2c4819d1c8c58e7c6ac5e776f18e9da505b58d29fbee06eee2e22683"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -182945,7 +182767,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d936d135ea557ec1d0ebaeaf9f91736fa2d80ce118d416809ef67cb896f0378e"
+      "Hash": "7af01068215d01b7519b91d5bd6205a14bf77b022d275c30cf96b4fe724f2475"
     },
     "h1:planet-labs": {
       "Key": "planet-labs",
@@ -183075,7 +182897,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a8ec2118247c9b723347f189ab2d4e020ecffecc8f4f10e3d8b63db16297ff4e"
+      "Hash": "c0b403e755cf75c999aabdb800a475c91758862a4015e13a76f5ac3cb3369cd7"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -187279,7 +187101,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "91e24b5ffe24bd5e021a2a861e62525fa0f77bd0263187c806e661dc9eddc40a"
+      "Hash": "4c95970e65f9352586fbc78f671178568ae9cb65b8e4404c60654f9891f1b7ed"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -189581,7 +189403,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f3d6fb9e66e515b1415ead5a36d0ed23c99d75564c329573cd316764f8bb8a77"
+      "Hash": "914c5d470273a756c5e6d63d516b1efdc9a8a00651651b3c8b2d9f841156ff2c"
     },
     "h1:taxwell-vdp": {
       "Key": "taxwell-vdp",
@@ -191629,7 +191451,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a284bcbae858c6044729e4f34b58a9468b0b976781dc1c932069810fe9d41732"
+      "Hash": "39a0bd304159b47689997124c5a891ba181c2550f4015a0b77e260b4529e9294"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -191781,7 +191603,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "822d1ccc47ddfc078e11e831f299b371595ef4e951c940f6fe46e700e982e48d"
+      "Hash": "eaf3b2355d942835ce96ad78cf88b740f771c8a253c50af51a0472c11aa645dd"
     },
     "h1:twilio": {
       "Key": "twilio",
@@ -197254,7 +197076,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ffc32c8ef42d5a04108b89fc642434194665821588af908188b1738d91eefe0e"
+      "Hash": "5b8771a0821a6c7e5fc7e82ae99c65a131328bc0528c1d9731ade4374724906d"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -206557,23 +206379,6 @@
         }
       },
       "Hash": "fdd640fb20752c43c274d2acf1f123edcf6a8184655e8d70d3bc6f8f75c3b097"
-    },
-    "in:ecf9c610-36eb-47df-8b25-bb496aff8015": {
-      "Key": "ecf9c610-36eb-47df-8b25-bb496aff8015",
-      "Name": "Nexuzhealth Web PACS",
-      "URL": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
-      "InScope": {
-        " idp-contact.nexuzhealth.be": {
-          "ID": " idp-contact.nexuzhealth.be",
-          "Type": "url"
-        },
-        "media.nexuzhealth.be/patient/ ": {
-          "ID": "media.nexuzhealth.be/patient/ ",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
     },
     "in:ed04d1ef-1aa3-49dd-92f1-06f50f9756b9": {
       "Key": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
