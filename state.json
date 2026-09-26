@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-26T14:42:46Z",
+  "captured_at": "2026-09-26T18:32:39Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -32612,7 +32612,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7214136e8af46baa037e71eec0b7c647fdd732ddd2fed89f8afe99cf6ac44bb8"
+      "Hash": "ef93e9e5910d4a7dfc4187ac25bc62cfb5b2b82a30bd8815d85b63fb910e9a92"
     },
     "h1:bykea": {
       "Key": "bykea",
@@ -68081,7 +68081,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "05e61d26929799a09257ce0fd5262af688440ca97d165b96f1afaea19a53caab"
+      "Hash": "659464b1b6d771a01f5b87ebec48fe124f13adc1e72eaab606486b89d5e7c5cf"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -91536,7 +91536,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "d857d1578ed5ab952612f61bcd87483d9a3595bba4e96b7b1ac3a8e1eca33a85"
+      "Hash": "e89c09c820d4351d96d0c2fe3f84e237292179fffb2a545707b69853d37e0907"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -146113,7 +146113,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "22e18168ed27ee6eb9ff4f65bdeda258dcabe969922d0f5b756c12dfcbed4337"
+      "Hash": "f53880e63630cfd06d709d38dbf78e19c4eefd958ff80237738146279a696166"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -150746,7 +150746,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1ceb3a10868575ad5cf3ee87a1536614346ea62b30ff8ee1cd76206c7e222f4b"
+      "Hash": "2d028ebfdb821d01efcde4be3c490aca2ea39b74c559b4f8aed763131ef2d423"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -166034,28 +166034,6 @@
       "OutScope": {},
       "Hash": "3ec132d1f7fb85403aabad10ddc89cfc877a2680cb8452c959c0a46adb902a50"
     },
-    "h1:kaltura": {
-      "Key": "kaltura",
-      "Name": "Kaltura",
-      "URL": "https://hackerone.com/kaltura",
-      "InScope": {
-        "kmc.kaltura.com": {
-          "ID": "kmc.kaltura.com",
-          "Type": "URL"
-        },
-        "mediaspace.kaltura.com": {
-          "ID": "mediaspace.kaltura.com",
-          "Type": "URL"
-        }
-      },
-      "OutScope": {
-        "eventplatform.kaltura.com": {
-          "ID": "eventplatform.kaltura.com",
-          "Type": "URL"
-        }
-      },
-      "Hash": "5855b333b05a600a06bb6405811861823c0448cace44f107078e6463a57c64db"
-    },
     "h1:kaseya": {
       "Key": "kaseya",
       "Name": "Kaseya",
@@ -166302,7 +166280,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6bd7512a4224346d3572166cb87a8ba7a1052980002b6937af2ab2dbe37c75c3"
+      "Hash": "a7b4914a4885d8f23307ab95a0b221ef93bca7f23149823f050940d2ea0e7d3a"
     },
     "h1:keybank": {
       "Key": "keybank",
@@ -169071,7 +169049,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d511468128da4f15ad0b9c7d00e590ecb8c0e76e848158041ce049e5d03e5cfb"
+      "Hash": "e06c1dca94ff41dfbfc03cec25301cd135782159688da0bbda61bafe47a1bb10"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -178666,7 +178644,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9891fe0da596fda8cafe0f91f61dd37dfcce438c30862aca2bd09a3049c126b2"
+      "Hash": "af08052595eca96f7712f82a7fe8aad11e519bf53659a4c48f1ef173a5b9e47b"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -184129,7 +184107,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "4d323fe66442a5f354fdee3f15e20c1d0f023a63719edefe0c0eb350f8f4c2cb"
+      "Hash": "84fbcf5eeaff9383176debc2b90a068c1cb484f36e2669c30fe21c653c8f1b90"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -186062,7 +186040,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a6728517ada4cfbb27d43201765f3f28f8e255aad93d54af024d64165944aff5"
+      "Hash": "eb87bc54303c7eb1f3782b5954f741c8783535090885f13cda7bc74cbaaeae66"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -187313,7 +187291,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "10ddcc454a2997b178a2d78cf81f1e81a9bb99553f6e4a6aa24eccd4b177f165"
+      "Hash": "b63c3987d7e9c54583f261270749a3454b182d0fd74672d0e0c9f0edad67ba8e"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -187475,7 +187453,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "af69465b3836209661ceecc8f7275daa2891ec52455febd8abdf2d2316bbd75d"
+      "Hash": "8378d76c8a1d080959f18ebc2195a7be3336a44307bce99f20871a3e876b504d"
     },
     "h1:simple_poll": {
       "Key": "simple_poll",
@@ -188240,7 +188218,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "2dcb442ce52bd65e5715c06eab5e34be870d5b3343afbe106c8f5c9ec9548b80"
+      "Hash": "d50abfe1a77eb4f02c9ae4a64e399753393cb933780c10e87bde8b90dd475b17"
     },
     "h1:sony": {
       "Key": "sony",
@@ -195364,7 +195342,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "16f55b94eb45d814926680b9520dc86fe20ed4722a5e9320f8074254bcbec26d"
+      "Hash": "8d04a8680563a3ea6ef1e5b4be99b03b61496d4498663c5a7ecf10ab6d3279cb"
     },
     "h1:who-covid-19-mobile-app": {
       "Key": "who-covid-19-mobile-app",
@@ -195526,7 +195504,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "839de7c22c2d43eeb99fd225315e3be2ad0016f9285bbdcb16c72ba31a0ad1a6"
+      "Hash": "186ae9846af662792a85e5d664f065083773cb9c15cd61e0c2ec6b6eed66d70d"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
@@ -195816,7 +195794,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c8f807980e854ce56413ac0badd573f23cb67d0cc4273d26e9062e3946956916"
+      "Hash": "ded3d80b2d921c5e4dc06ee89b67a8b443754a24c192b7300baec0f095b01176"
     },
     "h1:worklytics": {
       "Key": "worklytics",
