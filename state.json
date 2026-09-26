@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-25T21:48:11Z",
+  "captured_at": "2026-09-26T00:35:04Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -23849,7 +23849,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "aa0d762f6b6d7e7ed122c394f718008d7c33ab9b90d078b4b84e5a2c79387bf7"
+      "Hash": "293cd6c3e62156e19237e491566cda2b4e258df8b83d9805b2644bafde6aa83f"
     },
     "h1:abn_amro_vdp": {
       "Key": "abn_amro_vdp",
@@ -31545,7 +31545,7 @@
       "URL": "https://hackerone.com/beiersdorf",
       "InScope": {},
       "OutScope": {},
-      "Hash": "924c887255d3deeaa3d8d27fbfb418175a544cad8e12cf6d331061fe082f3d8f"
+      "Hash": "fd009f7f5c60d52c0ddf0b2fac2d45902271bfd2356742b1ae05db6dadd675c2"
     },
     "h1:bestbuy": {
       "Key": "bestbuy",
@@ -68081,7 +68081,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "659464b1b6d771a01f5b87ebec48fe124f13adc1e72eaab606486b89d5e7c5cf"
+      "Hash": "05e61d26929799a09257ce0fd5262af688440ca97d165b96f1afaea19a53caab"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -98934,7 +98934,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "a6c7e5236970af63f35a542b9759f636408faf1e238b737de78e416f7806f1c8"
+      "Hash": "d3f923bf9c86e4ea92f673b7b73410c08c20d8ba0bc2bc18835f49f2c9a24ea3"
     },
     "h1:equifax": {
       "Key": "equifax",
@@ -104263,7 +104263,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "251b44fef20743438ff81d416f3f8ece7662259b536cc986a8f55507c38b159f"
+      "Hash": "8968ebc6123e2386e75e44c3a31c5e86cf01b2af3826e5c5252aeeb20b107526"
     },
     "h1:exness": {
       "Key": "exness",
@@ -168197,7 +168197,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "beed637db1f8b40c01258d46bff5ec08eeb6de1d6220e6ebab08dc8aeaa8dcd2"
+      "Hash": "f4b5eebe4ce4b806d041468afd1c67311eb1d412f6fac5808869a60636f77190"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -179362,7 +179362,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "912f575c2593940af76b7a413fa05c93a667c80ea335905eb3c8f774c3597561"
+      "Hash": "3a7e2dc184b36fd5d54feaa5fed5d37f1052646296ddd68100edc9e62ff7794d"
     },
     "h1:nutanix": {
       "Key": "nutanix",
@@ -182411,7 +182411,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8ba3acfa753967c83bc3c2a1f3c88a11490b061cc3c28ff9071ae5181ef2c002"
+      "Hash": "b215c32e2e95f9e64021e85eb57cb43e1134be54a87a9a4ef0a24d14a113dccc"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -182693,7 +182693,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3ebf8a5ecd175844ddf7e9ba3f686311776ee41f4b398e6431862c8063f9f621"
+      "Hash": "9eab03d3c3c644a08011f39f01abe635469e39c850c912fe4de208f64180c935"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -182979,7 +182979,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e8a25ac0d7ec5713765a81dd77b152daa415e221f9ebf57acf1fa2fc9339b83b"
+      "Hash": "13932d56f3719dbb7be3ac98ee321ea62b603ba0a764bf80e1d564247cd9ad52"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -186494,7 +186494,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "9714d05f378e83ddd66ba775f19e4ff79076cad4f0e112d166140e13724f08f9"
+      "Hash": "ab76f59498d854c997e005a70e0261e5ded41005f6a3fc110b9d0fff0e227b57"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -187313,7 +187313,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "86d56d5db8dd703d56184ce0dfcd1d6fc2ca5e6219aeb1970d4f2ee91e14da3d"
+      "Hash": "4a1695fc7206ca14921f40047634d1135d0448137200f46b53c429c97afa0a00"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -193201,7 +193201,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "24e1ac6356fc5cfee3553969e5d6c4106e76737d2e8e750e98cb8ddff9b046b5"
+      "Hash": "b1dfcf77b01a2254ac28a4b59ff6eb376493b90d64a0a9852b0826303b6fba8a"
     },
     "h1:vercel": {
       "Key": "vercel",
@@ -195190,7 +195190,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "62f45196d33b3c043832eca99e8bc380ac77ecc647a7bc5d55e197bc23f2fb96"
+      "Hash": "2d9426915a32ab5cda3f5ec214b6ae0034622223e6c4f2138c8e829822985a37"
     },
     "h1:weblate": {
       "Key": "weblate",
