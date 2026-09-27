@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-27T19:43:57Z",
+  "captured_at": "2026-09-27T22:59:00Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -3741,9 +3741,13 @@
         "https://www.wien.gv.at/advuew/*": {
           "ID": "https://www.wien.gv.at/advuew/*",
           "Type": "website"
+        },
+        "https://www.wien.gv.at/umfrage/*": {
+          "ID": "https://www.wien.gv.at/umfrage/*",
+          "Type": "website"
         }
       },
-      "Hash": "f4030bb5df532d1e1d8aa0a0fb174b31c1300c955affe82d45de4f0c18437dfa"
+      "Hash": "df7a36acea3ee424ac466e3afa3ab0ee7e565488efda9203093a885d3e94626e"
     },
     "bc:ClassDojo": {
       "Key": "ClassDojo",
@@ -24758,7 +24762,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e9398e36275a30e4d7d1e692d3817e3c8e56981d2579b5db9b38a441ab8915cd"
+      "Hash": "ccae44256b7c8f20557ab996f9fd47815ba265397bd0399a6c63dee8d6a4fe54"
     },
     "h1:allegion": {
       "Key": "allegion",
@@ -88862,7 +88866,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "039286dbdf5bdcd41800757383c4ba1c24e9356c8f6bf073fbb3e8ad4e51afbf"
+      "Hash": "95aa915742df18514afa54768ec63d64ef6fb0ea60eb20c61c4c83f2c3dbcb75"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -90205,7 +90209,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b9e94763ad9cb509d3a1d5016b4e69a81f50f92c3717026f790236a073a42466"
+      "Hash": "ef1c559e045173372e69e0fb6c502ce0cb3db1bcd5fc5ac9894e4aa8908204f8"
     },
     "h1:csg-public": {
       "Key": "csg-public",
@@ -90347,7 +90351,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8899b28aa46a7de1c7e6d85d81888c7610ecc9610c64f367fde3ddf913ff9745"
+      "Hash": "9ba50d0b23eaf2fcee2454c8408bf1b611f84920cb05d76d5165fcfdb0cb21df"
     },
     "h1:curl": {
       "Key": "curl",
@@ -91665,7 +91669,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0402ef927bb320cba4d0178bbe9618134ac7e768ef6240559d12ca3b24127bcb"
+      "Hash": "aa3d0d514c1773ec81f33994cb084079bbd50724670a137b57b1ff40cd104f94"
     },
     "h1:deriv": {
       "Key": "deriv",
@@ -96677,7 +96681,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5ce95a200e1cdbc31cac8b0331de2f97f781ec45aeed63f8ce28096c8d34e2ac"
+      "Hash": "865bd28611b6971d41bdff7438efa7cf464b8206061a41d0203b47739edbd35a"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -104263,7 +104267,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d27c0e79e02364bef8f7ef64186307325f23cd059dae58e5b4d0b2e60fbcf297"
+      "Hash": "a58be927ee08efa330229bc51be4072b4c297c315acf3fecc442512b5afa19e0"
     },
     "h1:exness": {
       "Key": "exness",
@@ -166194,7 +166198,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "d651ec98f76ea02382d358c3b5d5628cbf55ad815ec79a652d5398b3101b520b"
+      "Hash": "2786f1d930d9bb48471d0ea44172c7af6750115e59a70c944d7f04b4d365feb6"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -187291,7 +187295,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6c38d58269d4902017529100dbaecda63a48f639bf3eba5aaf926e511e231811"
+      "Hash": "aba908d4765bac41af8eff500c19005650364a94e5703f563421464fe0c31b18"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -190509,7 +190513,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7bff11cc5bced00fc4d981f6954d13fedfd78944c34ab37d602edf077fddad9d"
+      "Hash": "1b86003ae69e15492464e37ccddeea9b9fb92675068d0390eb03b19e53f25d10"
     },
     "h1:toyota": {
       "Key": "toyota",
@@ -196314,7 +196318,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1a354e7d9cfb2458133fa94ba7736945cc0e72c20c4d90f4fd49716606bef55a"
+      "Hash": "e2e51e7f2d405da73a85bf266b3280306b06e86af2a2788404579fd26c1ba3e1"
     },
     "h1:yoti": {
       "Key": "yoti",
