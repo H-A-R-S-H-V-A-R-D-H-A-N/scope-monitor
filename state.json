@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-26T23:51:28Z",
+  "captured_at": "2026-09-27T05:12:02Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24241,7 +24241,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "e376e6c6810907c6e378679933834cb32f36505be157a7c48cb7fc37d11d4c35"
+      "Hash": "00eaf62c3c2887761756a9b8f52bef1915e1519d373b2e68c4cbdaab9d847dc0"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -28095,7 +28095,7 @@
       "URL": "https://hackerone.com/arkadiyt-projects",
       "InScope": {},
       "OutScope": {},
-      "Hash": "72c3da6ea8caa975bb836879c68a7e5643ea42eac362aac06c9088b9dfb83735"
+      "Hash": "681f8669d0b4a96aefd97cdbda81f647c0b9cb5e13b365f743df39922ae1d0ce"
     },
     "h1:arkose_labs": {
       "Key": "arkose_labs",
@@ -28298,7 +28298,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a7ab3ba5329e828e95aefa2d524cbb5a7830b605a5e0ce7913e78e2a5a226e95"
+      "Hash": "cd0a0d83121087e2bcc18c378ee564fbae9bea5a7d2e8c867d5e101f61f8e991"
     },
     "h1:att": {
       "Key": "att",
@@ -28982,7 +28982,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "14fe22e42b1ec2889817ad42fafbb2e784569a045e82fc872c222bba0483863c"
+      "Hash": "a954d3adbc6238f34982014761b7bccd7633e500a04fea3b118b28102218a317"
     },
     "h1:aven_response": {
       "Key": "aven_response",
@@ -97409,7 +97409,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "17090fd9bf017d4fa6f6080d1f541b31353036001c394cc5c44ff56bf37bbeff"
+      "Hash": "8f873e2c62f899f268afa3b0ae5d1c240f6e78afed0abd65d1ec83bf7706c7ec"
     },
     "h1:elastic": {
       "Key": "elastic",
@@ -144872,7 +144872,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "135abd892ec6796e7eebe6b234dffa7e86b0e15842343fdfcd2627a4cf398456"
+      "Hash": "7a80de3267ed07eb2d4d1aa8c3c04cd0ee5f8e24f80c2a3c691bcc3ad3c9db28"
     },
     "h1:flutteruki": {
       "Key": "flutteruki",
@@ -148660,7 +148660,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1a267717184d85439db01927b1d36ca605f02d364aceba4d80bb27315fb59b5c"
+      "Hash": "daa2539f1d6b974225424c86ff4b62f9f51f22a28b6513175a4d3c387f36251a"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -168066,7 +168066,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1ebf0ea202865cf89cc56b986fc00c5f826571f6ceb53f4567e84f603f7bcbef"
+      "Hash": "50fcc1dde08bc8c938784de66012cc2bd5f7e76b338c51722e47c50c88474aaf"
     },
     "h1:live_nation": {
       "Key": "live_nation",
@@ -169020,7 +169020,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7a8b022f2be0d4824c3f5b992f5358fe295036a3f68dac1e980800b84a0163e6"
+      "Hash": "c761433d3645c2e537f8b94db22fbbfa75dd0570819bc88fd1d758bfc87b8b73"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -180903,7 +180903,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "0c216635cf666056635540a317c18e5bdd973a958cb83f32e16d3a5d8c210e7a"
+      "Hash": "7b0f228ab9e2aa7317186e8b3cf6c91bb2b11ffea887c1564dff608814f04232"
     },
     "h1:palantir_public": {
       "Key": "palantir_public",
@@ -182957,7 +182957,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "13dd8d41c7cf248e6928560544ecc6949be1e4aa1d3d23c3090848b140050071"
+      "Hash": "fdf144f934151e967bd3f533aacc9fc52c7548db0b86bb74a81a6ae63f826d3d"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -188471,7 +188471,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0611037da36fa4fbe8b6e1aa63cae72e38eb6227d9554ca2f66e299c382e0ebe"
+      "Hash": "b58a0a60c6c90bba34e57f3add6d69dd1fef680fe78f91ce3b15c314d88632b6"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
