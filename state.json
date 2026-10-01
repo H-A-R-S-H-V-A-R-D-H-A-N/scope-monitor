@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-01T00:48:26Z",
+  "captured_at": "2026-10-01T07:09:24Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -203,6 +203,111 @@
       },
       "Hash": "bd07223be7cdda41d41f25589a3187ae8e022e6bb690768eaf75aac22c38466d"
     },
+    "bc:AI | Apps+ Marketplace Bug Bounty Program ": {
+      "Key": "AI | Apps+ Marketplace Bug Bounty Program ",
+      "Name": "AI | Apps+ Marketplace Bug Bounty Program ",
+      "URL": "https://bugcrowd.com/engagements/apps-plus2",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1227541/ai-badges-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227541/ai-badges-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227543/ai-grammar-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227543/ai-grammar-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227544/ai-summary-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227544/ai-summary-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227545/ai-sentiment-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227545/ai-sentiment-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227546/ai-glossary-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227546/ai-glossary-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227547/ai-tables-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227547/ai-tables-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227548/ai-polls-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227548/ai-polls-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227549/ai-tooltips-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227549/ai-tooltips-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227550/ai-tags-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227550/ai-tags-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227551/ai-tabs-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227551/ai-tabs-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227552/ai-latex-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227552/ai-latex-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227553/ai-headings-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227553/ai-headings-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227554/ai-forms-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227554/ai-forms-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227555/ai-copywriter-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227555/ai-copywriter-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227556/ai-code-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227556/ai-code-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227557/ai-labels-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227557/ai-labels-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227558/ai-macros-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227558/ai-macros-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227559/ai-checklists-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227559/ai-checklists-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227560/ai-buttons-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227560/ai-buttons-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1227561/ai-images-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1227561/ai-images-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1229018/ai-photos-for-confluence?tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1229018/ai-photos-for-confluence?tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1232262/ai-support-for-jira?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1232262/ai-support-for-jira?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1235733/ai-autofill-for-jira?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1235733/ai-autofill-for-jira?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1237726/ai-charts-for-confluence?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1237726/ai-charts-for-confluence?hosting=cloud",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "e550e500ea525a64fdad99fd01bc8fff990aa128ffd85c0400fcfefafa0b62e8"
+    },
     "bc:APTIS": {
       "Key": "APTIS",
       "Name": "APTIS",
@@ -310,86 +415,62 @@
       "Name": "Afterpay Bug Bounty Program",
       "URL": "https://bugcrowd.com/engagements/afterpay",
       "InScope": {
-        "https://afterpay.com": {
-          "ID": "https://afterpay.com",
+        "████████████": {
+          "ID": "████████████",
           "Type": "website"
         },
-        "https://api.clearpay.com": {
-          "ID": "https://api.clearpay.com",
+        "██████████████": {
+          "ID": "██████████████",
+          "Type": "website"
+        },
+        "████████████████": {
+          "ID": "████████████████",
           "Type": "api"
         },
-        "https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588": {
-          "ID": "https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186": {
-          "ID": "https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186",
-          "Type": "ios"
-        },
-        "https://clearpay.co.uk": {
-          "ID": "https://clearpay.co.uk",
+        "███████████████████": {
+          "ID": "███████████████████",
           "Type": "website"
         },
-        "https://clearpay.com": {
-          "ID": "https://clearpay.com",
-          "Type": "website"
-        },
-        "https://developers.afterpay.com": {
-          "ID": "https://developers.afterpay.com",
-          "Type": "website"
-        },
-        "https://mobileapi.afterpay.com": {
-          "ID": "https://mobileapi.afterpay.com",
-          "Type": "api"
-        },
-        "https://mobileapi.clearpay.com": {
-          "ID": "https://mobileapi.clearpay.com",
-          "Type": "api"
-        },
-        "https://play.google.com/store/apps/details?id=com.afterpaymobile.uk": {
-          "ID": "https://play.google.com/store/apps/details?id=com.afterpaymobile.uk",
+        "████████████████████": {
+          "ID": "████████████████████",
           "Type": "android"
         },
-        "https://play.google.com/store/apps/details?id=com.afterpaymobile.us\u0026hl=en_US\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.afterpaymobile.us\u0026hl=en_US\u0026gl=US",
-          "Type": "android"
-        },
-        "https://portal.afterpay.com": {
-          "ID": "https://portal.afterpay.com",
+        "█████████████████████": {
+          "ID": "█████████████████████",
           "Type": "website"
         },
-        "https://portal.clearpay.co.uk": {
-          "ID": "https://portal.clearpay.co.uk",
-          "Type": "website"
-        },
-        "https://portal.clearpay.com": {
-          "ID": "https://portal.clearpay.com",
-          "Type": "website"
-        },
-        "https://portalapi.eu.clearpay.co.uk": {
-          "ID": "https://portalapi.eu.clearpay.co.uk",
+        "██████████████████████": {
+          "ID": "██████████████████████",
           "Type": "api"
         },
-        "https://portalapi.us.afterpay.com": {
-          "ID": "https://portalapi.us.afterpay.com",
+        "███████████████████████": {
+          "ID": "███████████████████████",
+          "Type": "website"
+        },
+        "████████████████████████": {
+          "ID": "████████████████████████",
+          "Type": "api"
+        },
+        "███████████████████████████": {
+          "ID": "███████████████████████████",
           "Type": "api"
         }
       },
       "OutScope": {
-        "https://afterpaytechblog.com": {
-          "ID": "https://afterpaytechblog.com",
+        "███████████████████": {
+          "ID": "███████████████████",
           "Type": "website"
         },
-        "https://genderfree.afterpay.com": {
-          "ID": "https://genderfree.afterpay.com",
+        "████████████████████": {
+          "ID": "████████████████████",
           "Type": "website"
         },
-        "https://www.moneybyafterpay.com/": {
-          "ID": "https://www.moneybyafterpay.com/",
+        "███████████████████████": {
+          "ID": "███████████████████████",
           "Type": "website"
         }
       },
-      "Hash": "630c7d9b7142d5cbf2212b2bc11e07ea748ab1260ecb4eeebbadaf89e01231fd"
+      "Hash": "b4f7a768887788513b2ad690abb4409384e22fde863c6fb9ca97b33d196ace93"
     },
     "bc:AgilePulse Marketplace Bug Bounty Program": {
       "Key": "AgilePulse Marketplace Bug Bounty Program",
@@ -2650,37 +2731,37 @@
       "Name": "Block Open Source",
       "URL": "https://bugcrowd.com/engagements/blockopensource",
       "InScope": {
-        "https://github.com/afterpay/sdk-android": {
-          "ID": "https://github.com/afterpay/sdk-android",
+        "██████████████████████████████": {
+          "ID": "██████████████████████████████",
           "Type": "other"
         },
-        "https://github.com/afterpay/sdk-ios": {
-          "ID": "https://github.com/afterpay/sdk-ios",
+        "███████████████████████████████": {
+          "ID": "███████████████████████████████",
           "Type": "other"
         },
-        "https://github.com/cashapp/cash-app-pay-android-sdk": {
-          "ID": "https://github.com/cashapp/cash-app-pay-android-sdk",
+        "█████████████████████████████████": {
+          "ID": "█████████████████████████████████",
           "Type": "other"
         },
-        "https://github.com/cashapp/cash-app-pay-ios-sdk": {
-          "ID": "https://github.com/cashapp/cash-app-pay-ios-sdk",
+        "███████████████████████████████████": {
+          "ID": "███████████████████████████████████",
           "Type": "other"
         },
-        "https://github.com/cashapp/hermit": {
-          "ID": "https://github.com/cashapp/hermit",
+        "███████████████████████████████████████": {
+          "ID": "███████████████████████████████████████",
           "Type": "other"
         },
-        "https://github.com/cashapp/misk": {
-          "ID": "https://github.com/cashapp/misk",
+        "███████████████████████████████████████████████": {
+          "ID": "███████████████████████████████████████████████",
           "Type": "other"
         },
-        "https://github.com/square/wire": {
-          "ID": "https://github.com/square/wire",
+        "███████████████████████████████████████████████████": {
+          "ID": "███████████████████████████████████████████████████",
           "Type": "other"
         }
       },
       "OutScope": {},
-      "Hash": "53b37b9d8190e018498b5fb549f77bbfc46ea559b4601be098fc48172df404d3"
+      "Hash": "0509f70c2dc12e86ffa19dc7f5241bc3049c092213e84a5225beff75d5cca0ab"
     },
     "bc:Blockchain.com Managed Bug Bounty Engagement": {
       "Key": "Blockchain.com Managed Bug Bounty Engagement",
@@ -2747,6 +2828,83 @@
       },
       "OutScope": {},
       "Hash": "aeba92a764163ff668b086bee885d0f7cb7182d5d8bbaa30f458d2f3a64b9036"
+    },
+    "bc:Bloompeak's Bug Bounty": {
+      "Key": "Bloompeak's Bug Bounty",
+      "Name": "Bloompeak's Bug Bounty",
+      "URL": "https://bugcrowd.com/engagements/bloompeak",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1221826/status-time-reports-time-in-status?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221826/status-time-reports-time-in-status?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1221826/status-time?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1221826/status-time?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1222051/status-time-free?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1222051/status-time-free?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1222051/status-time-reports-free-time-in-status?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1222051/status-time-reports-free-time-in-status?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1222833/restore-deleted-issues?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1222833/restore-deleted-issues?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1223002/track-deleted-issues?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1223002/track-deleted-issues?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1223088/project-roles-groups-and-users?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1223088/project-roles-groups-and-users?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224410/manage-users-for-jira-cloud?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1224410/manage-users-for-jira-cloud?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224572/issue-translator?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224572/issue-translator?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1226140/issue-translator-free?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1226140/issue-translator-free?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1226734/easy-reports-free-custom-charts-for-jira-dashboard?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=datacenter\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1231321/sum-up-reports-for-jira?hosting=datacenter\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/2529437344/sprint-capacity-planner-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/2529437344/sprint-capacity-planner-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "1de431d607fff82962ef3f7149fd00e7471a8be64b7b7bcbd25ce9a55f7ffa2f"
     },
     "bc:Bolt Technology OÜ": {
       "Key": "Bolt Technology OÜ",
@@ -3223,25 +3381,25 @@
       "Name": "Cash App",
       "URL": "https://bugcrowd.com/engagements/cashapp",
       "InScope": {
-        "*.cashstaging.app": {
-          "ID": "*.cashstaging.app",
+        "██████████": {
+          "ID": "██████████",
           "Type": "website"
         },
-        "https://cash.app": {
-          "ID": "https://cash.app",
+        "█████████████████": {
+          "ID": "█████████████████",
           "Type": "website"
         },
-        "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8": {
-          "ID": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
+        "███████████████████████████████████": {
+          "ID": "███████████████████████████████████",
           "Type": "ios"
         },
-        "https://play.google.com/store/apps/details?id=com.squareup.cash": {
-          "ID": "https://play.google.com/store/apps/details?id=com.squareup.cash",
+        "███████████████████████████████████████": {
+          "ID": "███████████████████████████████████████",
           "Type": "android"
         }
       },
       "OutScope": {},
-      "Hash": "cbc03d18fb7275405d1481a27775de72dff35f088d2589b272228c632c5be354"
+      "Hash": "29c63ed3bbacaafc86731e274c7052e6c5b03fd78c809ed66ed4640abf3cedb1"
     },
     "bc:Catapult Labs Bug Bounty": {
       "Key": "Catapult Labs Bug Bounty",
@@ -8597,6 +8755,31 @@
         }
       },
       "Hash": "46f9315cac210ca2cb953020995bfed5a07f26d80fbdec69483bfbc418fb8bd6"
+    },
+    "bc:Meetical": {
+      "Key": "Meetical",
+      "Name": "Meetical",
+      "URL": "https://bugcrowd.com/engagements/meetical",
+      "InScope": {
+        "For reporting purposes only. Use staging environment listed in brief.": {
+          "ID": "For reporting purposes only. Use staging environment listed in brief.",
+          "Type": "website"
+        },
+        "For reporting purposes only. Use staging environment listed in brief. ": {
+          "ID": "For reporting purposes only. Use staging environment listed in brief. ",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1222405/meetical-for-confluence-cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1222405/meetical-for-confluence-cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1229489/easy-calendar-integration-for-jira-sync-issues-ics-export?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1229489/easy-calendar-integration-for-jira-sync-issues-ics-export?hosting=cloud\u0026tab=overview",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "aff9972fb51658f7458c0f14ad63e2e259204e7e6ccdef2cbdb9f16d1c817993"
     },
     "bc:MobilityStream Bug Bounty": {
       "Key": "MobilityStream Bug Bounty",
@@ -15027,74 +15210,74 @@
       "Name": "Square",
       "URL": "https://bugcrowd.com/engagements/square",
       "InScope": {
-        "Square Register": {
-          "ID": "Square Register",
+        "██████████": {
+          "ID": "██████████",
+          "Type": "website"
+        },
+        "████████████": {
+          "ID": "████████████",
+          "Type": "website"
+        },
+        "█████████████": {
+          "ID": "█████████████",
+          "Type": "website"
+        },
+        "██████████████": {
+          "ID": "██████████████",
+          "Type": "website"
+        },
+        "███████████████": {
+          "ID": "███████████████",
           "Type": "hardware"
         },
-        "Square Terminal": {
-          "ID": "Square Terminal",
-          "Type": "hardware"
-        },
-        "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788": {
-          "ID": "https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788",
+        "███████████████████████████████████████████████": {
+          "ID": "███████████████████████████████████████████████",
           "Type": "ios"
         },
-        "https://play.google.com/store/apps/details?id=com.squareup\u0026hl=en_US\u0026gl=US": {
-          "ID": "https://play.google.com/store/apps/details?id=com.squareup\u0026hl=en_US\u0026gl=US",
+        "███████████████████████████████████████████████████": {
+          "ID": "███████████████████████████████████████████████████",
           "Type": "android"
-        },
-        "https://square.online": {
-          "ID": "https://square.online",
-          "Type": "website"
-        },
-        "https://squareup.com/": {
-          "ID": "https://squareup.com/",
-          "Type": "website"
-        },
-        "https://www.weebly.com/": {
-          "ID": "https://www.weebly.com/",
-          "Type": "website"
         }
       },
       "OutScope": {
-        "Any vulnerabilities found in Third-party software": {
-          "ID": "Any vulnerabilities found in Third-party software",
+        "█████████": {
+          "ID": "█████████",
           "Type": "website"
         },
-        "http://community.squareup.com": {
-          "ID": "http://community.squareup.com",
+        "███████████": {
+          "ID": "███████████",
+          "Type": "website"
+        },
+        "██████████████": {
+          "ID": "██████████████",
+          "Type": "website"
+        },
+        "████████████████████": {
+          "ID": "████████████████████",
+          "Type": "website"
+        },
+        "███████████████████████": {
+          "ID": "███████████████████████",
           "Type": "other"
         },
-        "https://afterpay.com": {
-          "ID": "https://afterpay.com",
-          "Type": "website"
-        },
-        "https://app.squareupstaging.com/v1/ask-ai/copilot/spotlight/query": {
-          "ID": "https://app.squareupstaging.com/v1/ask-ai/copilot/spotlight/query",
-          "Type": "other"
-        },
-        "https://cash.me": {
-          "ID": "https://cash.me",
-          "Type": "website"
-        },
-        "https://designers.weebly.com/": {
-          "ID": "https://designers.weebly.com/",
-          "Type": "website"
-        },
-        "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8": {
-          "ID": "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
+        "███████████████████████████████████": {
+          "ID": "███████████████████████████████████",
           "Type": "ios"
         },
-        "https://play.google.com/store/apps/details?id=com.squareup.cash": {
-          "ID": "https://play.google.com/store/apps/details?id=com.squareup.cash",
+        "███████████████████████████████████████": {
+          "ID": "███████████████████████████████████████",
           "Type": "android"
         },
-        "https://tidal.com/": {
-          "ID": "https://tidal.com/",
+        "█████████████████████████████████████████████████": {
+          "ID": "█████████████████████████████████████████████████",
           "Type": "website"
+        },
+        "█████████████████████████████████████████████████████████": {
+          "ID": "█████████████████████████████████████████████████████████",
+          "Type": "other"
         }
       },
-      "Hash": "0676ef903d13e66fd813ee5c80a7763550ddc43d541d170eb9fca9f0047672ff"
+      "Hash": "66ef9b0c93de6fd42350a0bba6fa93a16c14bd2f72fb571ee6af70f97150c916"
     },
     "bc:Statuspage": {
       "Key": "Statuspage",
@@ -15573,58 +15756,46 @@
       "Name": "TIDAL",
       "URL": "https://bugcrowd.com/engagements/tidal-bugbounty",
       "InScope": {
-        "*.tdl.sh": {
-          "ID": "*.tdl.sh",
+        "████████": {
+          "ID": "████████",
           "Type": "website"
         },
-        "*.tidalhifi.com": {
-          "ID": "*.tidalhifi.com",
+        "███████████": {
+          "ID": "███████████",
           "Type": "website"
         },
-        "*.wimpmusic.com": {
-          "ID": "*.wimpmusic.com",
-          "Type": "website"
-        },
-        "*tidalhi.fi": {
-          "ID": "*tidalhi.fi",
-          "Type": "website"
-        },
-        "Tidal Client for Android": {
-          "ID": "Tidal Client for Android",
-          "Type": "android"
-        },
-        "Tidal Client for iOS": {
-          "ID": "Tidal Client for iOS",
-          "Type": "ios"
-        },
-        "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)": {
-          "ID": "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)",
-          "Type": "other"
-        },
-        "api.tidal.com": {
-          "ID": "api.tidal.com",
+        "█████████████": {
+          "ID": "█████████████",
           "Type": "api"
         },
-        "https://offer.tidal.com/download": {
-          "ID": "https://offer.tidal.com/download",
+        "███████████████": {
+          "ID": "███████████████",
+          "Type": "website"
+        },
+        "████████████████████": {
+          "ID": "████████████████████",
           "Type": "other"
         },
-        "https://tidal.com/": {
-          "ID": "https://tidal.com/",
-          "Type": "website"
+        "████████████████████████": {
+          "ID": "████████████████████████",
+          "Type": "android"
+        },
+        "████████████████████████████████████████████████████████████████████████": {
+          "ID": "████████████████████████████████████████████████████████████████████████",
+          "Type": "other"
         }
       },
       "OutScope": {
-        "https://developer.tidal.com": {
-          "ID": "https://developer.tidal.com",
+        "███████████████": {
+          "ID": "███████████████",
           "Type": "other"
         },
-        "https://embed.tidal.com": {
-          "ID": "https://embed.tidal.com",
+        "███████████████████": {
+          "ID": "███████████████████",
           "Type": "other"
         }
       },
-      "Hash": "49955e7872fd0f957109e4277e952e15877328460848efce72c2caf775e77a56"
+      "Hash": "8c41dd2dcb67b6624a19868730b37aecee8cc05f7e5257e58a500ad022d745c2"
     },
     "bc:TRM Labs Public Bug Bounty Engagement": {
       "Key": "TRM Labs Public Bug Bounty Engagement",
@@ -27967,7 +28138,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e1f7de20b5d351fb008f1f7ef8c00fa8d23b19b58456992a3bdc13721fd1896f"
+      "Hash": "f4ed24835907b9ae06694cf6897366eef0a78c634df125216ad732f627281fcc"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -28131,7 +28302,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e31784fd7b34365577ea9658d5fc6632db85ecc87aecc77515b6b16d1751ec56"
+      "Hash": "341e7a0908cfc6007097afbd2af9fb61f63ebe9bf4246bb30505ce8a5645d19e"
     },
     "h1:arkadiyt-projects": {
       "Key": "arkadiyt-projects",
@@ -31269,7 +31440,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "731183969d9333bce73d1b1eadc9355fc99a2445770a24f5a1f537a925ed6a56"
+      "Hash": "08544dfb270c92019c3337a9d66465caca05f687f7806702ad60892a331c5038"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -33077,7 +33248,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d7aec28dd6e84fb3775eb01b710150b18cb5582e056718d5ea0d8c9d95acf0e0"
+      "Hash": "763e62ca58b99ced38d237cc17ccea3e2977fa8322dac0311cfa950ef66939bb"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -89131,7 +89302,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "868590fa4b4b0fc4513f7a582ca540268eec5b90572a18aa131ba84a01cd4490"
+      "Hash": "aae32bbf7e2fea47661124b117735b05eacaa6c071cd19dc79a24024cbaf1313"
     },
     "h1:coinbase": {
       "Key": "coinbase",
@@ -89341,7 +89512,7 @@
           "Type": "API"
         }
       },
-      "Hash": "c58136d57ec69b337517ef0223634837622e11b7c7700d19cd24a088e45a4ba4"
+      "Hash": "d0e33483463c0c48d094a08f4316175c073fef44e734380b63b6c779b7d28c4b"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -90008,7 +90179,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "821263a52a48f190f2edbc6512299baf04552bdf06883d9c6d8d9a1381783db8"
+      "Hash": "da8e4c9b1e9ffc653ba50b78302046870585ee71a9b227c713fc46c5e9b7a284"
     },
     "h1:crowdstrike": {
       "Key": "crowdstrike",
@@ -91659,7 +91830,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "e0db6b61c2fb248085f4b2acb4c9e11aab1afa1405f551d23913fffce05d8764"
+      "Hash": "c0687e60de04b627ec07211e923cb251855a1f3edff7a4a44d4b72b1c962c661"
     },
     "h1:defectdojo": {
       "Key": "defectdojo",
@@ -96463,7 +96634,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8182660555e481aa912ac6c8f799c5ea1c6ecbcf4799bcfa80c650ffa10789df"
+      "Hash": "0deac02d61cef51bcd6e87ca8ab4848bacc2ac8ae968353114f684af7ef561cc"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -104282,7 +104453,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "030dfeb5a88c26ee9d89a43fc8d9cdb4fe1cafca5c0622cf171dc4b4ca1bcaa1"
+      "Hash": "7ba569db1c078a1331a988fd92499774fc24c5a43bf605f4a5bbf8f4bb9e5dd0"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -106809,7 +106980,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3b07987f1552e6f66e787492ce378e683b59ab29790f21b6d2767a4f75eb92d2"
+      "Hash": "be9cfa52ab5b5bc368637628ecd61d54992696299fa403cbf38f6d9e043d0828"
     },
     "h1:fertitta_entertainment": {
       "Key": "fertitta_entertainment",
@@ -148460,7 +148631,7 @@
       "URL": "https://hackerone.com/fresenius",
       "InScope": {},
       "OutScope": {},
-      "Hash": "43be208516b2680011032d45ef25731cb87628c61fa3bf2a1064d347d7fdc800"
+      "Hash": "497a30ae28f2d35a9b5c315bdf23f5776dd0b65da5042511560102ffa4a0704b"
     },
     "h1:fronthq": {
       "Key": "fronthq",
@@ -153531,7 +153702,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b5d516f0f1bdb45fde9ca7ce4259f8b58499f130ce7c5c6b71d4c6dabd028da9"
+      "Hash": "5c9d556fe03294e3daa934fa1f40628b30e0a2fbb79a9c86e896a8e002e92ed8"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -153876,7 +154047,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fcfece58bb3400dc348a438f7078e3458ecc0404373251a654b06dc3baef9b43"
+      "Hash": "1976aebfb6003ab2c9d5a8049e4f267866707b107329bb7885e3713f26a5e58f"
     },
     "h1:intuit_rdp": {
       "Key": "intuit_rdp",
@@ -159691,7 +159862,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b8efac2c26893ee7cc4978f9cbee5bd4ef8eccd7b9b6ce853e129327e76c10ae"
+      "Hash": "d5c42f36cd802da7e2a6369d0223ddc0d0b844210b88f193e086446bf309ad3b"
     },
     "h1:ips": {
       "Key": "ips",
@@ -168983,7 +169154,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "dadc6c04a864cdeb7810e7ce137db1cd7fedbbae3b4708d52b602fc876b08c2d"
+      "Hash": "261a93f1a63032bb8bd7c3137d1aff80ad1d213e00e48b5f8a4da3c50f422d2d"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -170964,7 +171135,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "00ceb72822e748b3155c71a1f23d08766e99682fdc0dfa9c9ecd7811760ccbd8"
+      "Hash": "772bdf810528a55693e8b8d15400384f2150ce2848e576806998bec03fc8e75f"
     },
     "h1:liverpool_victoria": {
       "Key": "liverpool_victoria",
@@ -173002,7 +173173,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3b9763bda91179e38218a0601d84afb0fc34f6fff0a44b41b492451a283f1275"
+      "Hash": "84795c215044e3bbb7bd6081699babb79557b997430791b43773b88c7c4c0770"
     },
     "h1:mendix": {
       "Key": "mendix",
@@ -176192,7 +176363,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7b9766e3f90c6743d9416a1de5ca6291399232c7a44a4d1d86c6e57bf67a42a6"
+      "Hash": "2e96361350a21126fed554fa8fba345adf94c20da7d2048bc8f6b518b30490a7"
     },
     "h1:moonpay": {
       "Key": "moonpay",
@@ -181448,7 +181619,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6df7514c126f2f4a6ec5cf6a87f9ae35d68f342ce2c428991b531c796cd8846f"
+      "Hash": "838d6e2f5eaf748bd740f3c3a2c75ddef11d9dae21428b6cd6559ec010bf2dd3"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -181519,7 +181690,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "06f8db799c8b7475c61a6b45c80ea04bb9449795ebbadec95e3374992f1296e9"
+      "Hash": "f8ddde2446aa297510330ba30fea5c2bf6686accf802f5a6f9b894bc823f43e4"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -181983,7 +182154,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "60181c66278afde1ad82c905032058bbb3ff280bb6a5fa5dc65d3aa42efc77b5"
+      "Hash": "28d2c7c4b815c52342817569b2216f39d7ada113bd278dcb86eb277ccc747d6f"
     },
     "h1:nisc": {
       "Key": "nisc",
@@ -183601,7 +183772,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "3a7acb264cf5d2cb6b9fadc7712a4e0a9ce2ba3a6eb907443ec123c804c9c1a2"
+      "Hash": "f3b69041a4f95fce569e666ffccd620beb2ca0276d818d1da93bdd7097555ff4"
     },
     "h1:owox": {
       "Key": "owox",
@@ -185270,7 +185441,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c5171807f7e368bf11844dd8c2a4ba609b436e313cc61ba1f991d240a4fd2bb4"
+      "Hash": "c051d42ef58828e4582849816252fefa683d0a7bce773ee04cfbf34747eac171"
     },
     "h1:phpbb": {
       "Key": "phpbb",
@@ -185483,7 +185654,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9eab03d3c3c644a08011f39f01abe635469e39c850c912fe4de208f64180c935"
+      "Hash": "3ebf8a5ecd175844ddf7e9ba3f686311776ee41f4b398e6431862c8063f9f621"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -189196,7 +189367,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "9e033c9ea3314e2edc409d27fb8d5c17126c253fc9ce271ec19f5d35a6a48956"
+      "Hash": "a91cf6ac76041958d688e1d3f6696ed8e5563a835a6f1f7e2c7aff59d7de69f1"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -189266,7 +189437,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "01862d3d7526c875ff6f0c2a15945b55ed6a842770c9a73bec2217030c48c324"
+      "Hash": "17587ea73c9d6a524470b291e76947df42a3aa6a08dce7c9d23989dae1bf5fbe"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -189973,7 +190144,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2e23256cdffcd2317da06ea72ea66fdd73de3c4de12271186a7cc15b85201727"
+      "Hash": "412429351f30fe9c7f1866a9349989cff39ec018b0eed5c9375f101d9b85ff14"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -191502,7 +191673,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "6e3c82338c54bd7a6fcbe4bcc741061e50d9ca7a02da6f7773fdf4901d947e1b"
+      "Hash": "00709d131c86164c3eedcdd5e1b680b7192f389e084f54480053bdfb83892967"
     },
     "h1:streak_com": {
       "Key": "streak_com",
@@ -192455,7 +192626,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2bcdcd9430e46b0185b35b673b9e2e1c3e95c13317366f6ca482a1a1f10da74b"
+      "Hash": "c2f9b991669a3a2517c3952b4f0b3d681a0dd7f00ea614e89b992c791a9eaa14"
     },
     "h1:td-bank": {
       "Key": "td-bank",
@@ -195187,7 +195358,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a148c0e244e878f05cd4d91f9a4956cb87f959c953394f3ae8312e948a012232"
+      "Hash": "5cb43288e7fc6e3f1c3b83416bd00265976bb5fed33a3f6e69c3c732ad5b9ff6"
     },
     "h1:unico_idtech": {
       "Key": "unico_idtech",
@@ -195261,7 +195432,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "733370de059c3a788f105f45acbd0d4594a74a4ba8e28aa81e638a10b5927bb4"
+      "Hash": "5204c1d339eb0b0c8f55b031c305f933d74619e395a24019339338154f440141"
     },
     "h1:unitigroup": {
       "Key": "unitigroup",
@@ -195579,7 +195750,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c98b7000b09e30784f7bc345cf266ca71c9a03201dd7359fee5e4399fadccd32"
+      "Hash": "6a5edf485085fb9b10d82e3cccfb9296c9743c70a20fd0ef4da924a36bf4ba2a"
     },
     "h1:usps": {
       "Key": "usps",
@@ -197468,7 +197639,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ced208c26497f6536d147dcf5996854220b4c3ee7c528a6f21d6eefea198a211"
+      "Hash": "0fe39fad758e437fafdd86a4f5a5f781fdfcbd9393c3135f94b53cbb466d689f"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -199204,7 +199375,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cc8376b4eb8231199e41d614e96f42a2b513258660601a1c54771ec321698651"
+      "Hash": "398617097cbacaa87fd5a8fcdfa4ccfcccd61b408bc9532252044793ca9262a4"
     },
     "h1:yuga_labs": {
       "Key": "yuga_labs",
@@ -199238,60 +199409,6 @@
       },
       "OutScope": {},
       "Hash": "fa323d25435c3719cfef09220c7a64fab93ed8011dd79acb38f56fd0ee88a45b"
-    },
-    "h1:zabbix": {
-      "Key": "zabbix",
-      "Name": "Zabbix",
-      "URL": "https://hackerone.com/zabbix",
-      "InScope": {
-        "https://www.zabbix.com/download_sources": {
-          "ID": "https://www.zabbix.com/download_sources",
-          "Type": "SOURCE_CODE"
-        }
-      },
-      "OutScope": {
-        "https://academy.zabbix.com/": {
-          "ID": "https://academy.zabbix.com/",
-          "Type": "URL"
-        },
-        "https://blog.zabbix.com/": {
-          "ID": "https://blog.zabbix.com/",
-          "Type": "URL"
-        },
-        "https://cloud.zabbix.com/": {
-          "ID": "https://cloud.zabbix.com/",
-          "Type": "URL"
-        },
-        "https://exam.zabbix.com/": {
-          "ID": "https://exam.zabbix.com/",
-          "Type": "URL"
-        },
-        "https://git.zabbix.com/": {
-          "ID": "https://git.zabbix.com/",
-          "Type": "URL"
-        },
-        "https://shop.zabbix.com": {
-          "ID": "https://shop.zabbix.com",
-          "Type": "URL"
-        },
-        "https://space.zabbix.com/": {
-          "ID": "https://space.zabbix.com/",
-          "Type": "URL"
-        },
-        "https://support.zabbix.com/": {
-          "ID": "https://support.zabbix.com/",
-          "Type": "URL"
-        },
-        "https://translate.zabbix.com/": {
-          "ID": "https://translate.zabbix.com/",
-          "Type": "URL"
-        },
-        "https://www.zabbix.com/": {
-          "ID": "https://www.zabbix.com/",
-          "Type": "URL"
-        }
-      },
-      "Hash": "6c981bbe38471ee0f1831051551b36ebfa3e636ec5e615934f6a2eaa2be7e2d7"
     },
     "h1:zebra_vdp": {
       "Key": "zebra_vdp",
