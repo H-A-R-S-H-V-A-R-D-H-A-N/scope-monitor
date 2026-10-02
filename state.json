@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-02T00:10:05Z",
+  "captured_at": "2026-10-02T06:08:00Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24402,7 +24402,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d25d3ecb14427b6a76945f1145faeaef4a9086b066c2bc07f3ccba33aa64a17e"
+      "Hash": "26128e83c7f6bd8c97166fd02875ff88793e6caeed8d504e3d5288c6d51d44d6"
     },
     "h1:aig": {
       "Key": "aig",
@@ -31748,7 +31748,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "e4f9970c32d2aec87e802cfaffe85d8dc585cb370bf82cad08e13c499c90e6a3"
+      "Hash": "a2fb30a09d451ba05410b614bc344ee99d1612d7124418488cf317e7920391e0"
     },
     "h1:bitwarden": {
       "Key": "bitwarden",
@@ -68292,7 +68292,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cb434d485865627340c747aa68f9469206cc55f76fd8010851bb0d735b3b237e"
+      "Hash": "5d5b607bd788797c5b0db7db5c75b86eb69501c06b69f379fd08c9650d673828"
     },
     "h1:chia_network": {
       "Key": "chia_network",
@@ -89421,7 +89421,7 @@
           "Type": "API"
         }
       },
-      "Hash": "785b9f92b55a498ab6b4705b72548aef9072a7e1b928726fc5c8df690fc104e5"
+      "Hash": "ba3e1875c81c6edcea5925c553b6224f30b8f0a0e88c3a0212ec764f0198e3dc"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -106889,7 +106889,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "be9cfa52ab5b5bc368637628ecd61d54992696299fa403cbf38f6d9e043d0828"
+      "Hash": "a9df2fc663f9a536835e8f2e3a36b01ef60e98047b00bfa203cd0d9cd24f7d77"
     },
     "h1:fertitta_entertainment": {
       "Key": "fertitta_entertainment",
@@ -153589,20 +153589,112 @@
           "ID": "*.indriverapp.com",
           "Type": "WILDCARD"
         },
+        "ab-api-gw-cf.global.aws.indriverapp.com": {
+          "ID": "ab-api-gw-cf.global.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "ab-api-gw-scf.global.aws.indriverapp.com": {
+          "ID": "ab-api-gw-scf.global.aws.indriverapp.com",
+          "Type": "URL"
+        },
         "alternativa.film": {
           "ID": "alternativa.film",
+          "Type": "URL"
+        },
+        "api-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "api-gw-scf.sa.apse1.aws.indriverapp.com",
           "Type": "URL"
         },
         "api.ryadom.kz": {
           "ID": "api.ryadom.kz",
           "Type": "URL"
         },
+        "arsentomsky.indrive.com": {
+          "ID": "arsentomsky.indrive.com",
+          "Type": "URL"
+        },
+        "ath-cf.euce1.indriverapp.com": {
+          "ID": "ath-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "ath-gw-cf.euce1.indriverapp.com": {
+          "ID": "ath-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "ath-gw-scf.euce1.indriverapp.com": {
+          "ID": "ath-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
         "auroratechaward.com": {
           "ID": "auroratechaward.com",
           "Type": "URL"
         },
+        "av.indrive.com": {
+          "ID": "av.indrive.com",
+          "Type": "URL"
+        },
+        "baf-gw-cf.africa.afso1.aws.indriverapp.com": {
+          "ID": "baf-gw-cf.africa.afso1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "baf-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "baf-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "balance-api-front.eu-east-1.indriverapp.com": {
+          "ID": "balance-api-front.eu-east-1.indriverapp.com",
+          "Type": "URL"
+        },
+        "balance-api.eu-east-1.indriverapp.com": {
+          "ID": "balance-api.eu-east-1.indriverapp.com",
+          "Type": "URL"
+        },
+        "bc-cf.latam-co.saea1.aws.indriverapp.com": {
+          "ID": "bc-cf.latam-co.saea1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "bc-gw-cf.latam-pe.saea1.aws.indriverapp.com": {
+          "ID": "bc-gw-cf.latam-pe.saea1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "bdu-cf.euce1.indriverapp.com": {
+          "ID": "bdu-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "bdu-gw-cf.euce1.indriverapp.com": {
+          "ID": "bdu-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "bdu-gw-scf.euce1.indriverapp.com": {
+          "ID": "bdu-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "bf-cf.latam-co.saea1.aws.indriverapp.com": {
+          "ID": "bf-cf.latam-co.saea1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "bf-gw-cf.latam-pe.saea1.aws.indriverapp.com": {
+          "ID": "bf-gw-cf.latam-pe.saea1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "bid-cf.africa.afso1.aws.indriverapp.com": {
+          "ID": "bid-cf.africa.afso1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "bid-gw-cf.africa.afso1.aws.indriverapp.com": {
+          "ID": "bid-gw-cf.africa.afso1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "bid-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "bid-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
         "blog.indrive.com": {
           "ID": "blog.indrive.com",
+          "Type": "URL"
+        },
+        "ca-gw-cf.latam-mx.usea1.aws.indriverapp.com": {
+          "ID": "ca-gw-cf.latam-mx.usea1.aws.indriverapp.com",
           "Type": "URL"
         },
         "careers.indrive.com": {
@@ -153613,8 +153705,80 @@
           "ID": "cargo.indrive.com",
           "Type": "URL"
         },
+        "cas-cf.euce1.indriverapp.com": {
+          "ID": "cas-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "cas-gw-cf.euce1.indriverapp.com": {
+          "ID": "cas-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "cas-gw-scf.euce1.indriverapp.com": {
+          "ID": "cas-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "cas.eu-east-1.indriverapp.com": {
+          "ID": "cas.eu-east-1.indriverapp.com",
+          "Type": "URL"
+        },
+        "cca-cf.latam-mx.usea1.aws.indriverapp.com": {
+          "ID": "cca-cf.latam-mx.usea1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "chat.eu-east-1.indriverapp.com": {
+          "ID": "chat.eu-east-1.indriverapp.com",
+          "Type": "URL"
+        },
+        "cht-cf.euce1.indriverapp.com": {
+          "ID": "cht-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "cht-gw-cf.euce1.indriverapp.com": {
+          "ID": "cht-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "cht-gw-scf.euce1.indriverapp.com": {
+          "ID": "cht-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "cm-cf.euce1.indriverapp.com": {
+          "ID": "cm-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "cmf-cf.euce1.indriverapp.com": {
+          "ID": "cmf-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "co-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "co-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "co-in-cf.mena.meso1.aws.indriverapp.com": {
+          "ID": "co-in-cf.mena.meso1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "co-in-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "co-in-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "company.indrive.com": {
+          "ID": "company.indrive.com",
+          "Type": "URL"
+        },
+        "coms.ryadom.kz": {
+          "ID": "coms.ryadom.kz",
+          "Type": "URL"
+        },
+        "courier-gw-cf.cis.euce1.aws.indriverapp.com": {
+          "ID": "courier-gw-cf.cis.euce1.aws.indriverapp.com",
+          "Type": "URL"
+        },
         "couriers.indrive.com": {
           "ID": "couriers.indrive.com",
+          "Type": "URL"
+        },
+        "daw-cf.euce1.indriverapp.com": {
+          "ID": "daw-cf.euce1.indriverapp.com",
           "Type": "URL"
         },
         "debug.clairvoyance.indrive.tech": {
@@ -153625,13 +153789,153 @@
           "ID": "delivery-webview.indrive.com",
           "Type": "URL"
         },
+        "dh-cf.mena.meso1.aws.indriverapp.com": {
+          "ID": "dh-cf.mena.meso1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "dh-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "dh-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "dr-gw-cf.euce1.indriverapp.com": {
+          "ID": "dr-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "es-gw-cf.euce1.indriverapp.com": {
+          "ID": "es-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "exs-dtu-gw-cf.africa.afso1.aws.indriverapp.com": {
+          "ID": "exs-dtu-gw-cf.africa.afso1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
         "external.indrive.dev": {
           "ID": "external.indrive.dev",
+          "Type": "URL"
+        },
+        "fch-cf.euce1.indriverapp.com": {
+          "ID": "fch-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "fch-gw-cf.euce1.indriverapp.com": {
+          "ID": "fch-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "fch-gw-scf.euce1.indriverapp.com": {
+          "ID": "fch-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "fch-scf.euce1.indriverapp.com": {
+          "ID": "fch-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "fe-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "fe-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "fic-cf.euce1.indriverapp.com": {
+          "ID": "fic-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "file-storage-front.aws.indriverapp.com": {
+          "ID": "file-storage-front.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "fp-cf.global.aws.indriverapp.com": {
+          "ID": "fp-cf.global.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "fsf-gw-cf.euce1.indriverapp.com": {
+          "ID": "fsf-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "fsf-scf.euce1.indriverapp.com": {
+          "ID": "fsf-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "g2-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "g2-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "gt-gw-cf-0.cis.euce1.aws.indriverapp.com": {
+          "ID": "gt-gw-cf-0.cis.euce1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "gt-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "gt-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "gvt-cf.euce1.indriverapp.com": {
+          "ID": "gvt-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "gvt-scf.euce1.indriverapp.com": {
+          "ID": "gvt-scf.euce1.indriverapp.com",
           "Type": "URL"
         },
         "https://*.indriver.io": {
           "ID": "https://*.indriver.io",
           "Type": "WILDCARD"
+        },
+        "ic3-cf.euce1.indriverapp.com": {
+          "ID": "ic3-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "ic3-gw-cf.euce1.indriverapp.com": {
+          "ID": "ic3-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "ic3-gw-scf.euce1.indriverapp.com": {
+          "ID": "ic3-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "icl-cf.euce1.indriverapp.com": {
+          "ID": "icl-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "icl-gw-cf.euce1.indriverapp.com": {
+          "ID": "icl-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "icl-gw-scf.euce1.indriverapp.com": {
+          "ID": "icl-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "icl-scf.euce1.indriverapp.com": {
+          "ID": "icl-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "idc-cf.cis.euce1.aws.indriverapp.com": {
+          "ID": "idc-cf.cis.euce1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "idc-gw-cf.cis.euce1.aws.indriverapp.com": {
+          "ID": "idc-gw-cf.cis.euce1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "idp-cf.euce1.indriverapp.com": {
+          "ID": "idp-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "idp-gw-cf.latam-mx.usea1.aws.indriverapp.com": {
+          "ID": "idp-gw-cf.latam-mx.usea1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "idp-scf.euce1.indriverapp.com": {
+          "ID": "idp-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "in-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "in-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "inc-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "inc-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
         },
         "indrive.com": {
           "ID": "indrive.com",
@@ -153649,8 +153953,32 @@
           "ID": "invisionu.education",
           "Type": "URL"
         },
+        "is-cf.euce1.indriverapp.com": {
+          "ID": "is-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "isa-cf.euce1.indriverapp.com": {
+          "ID": "isa-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "isa-gw-cf.euce1.indriverapp.com": {
+          "ID": "isa-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "jlml-wf.indrive.com": {
+          "ID": "jlml-wf.indrive.com",
+          "Type": "URL"
+        },
+        "jlml.indrive.com": {
+          "ID": "jlml.indrive.com",
+          "Type": "URL"
+        },
         "job.ryadom.kz": {
           "ID": "job.ryadom.kz",
+          "Type": "URL"
+        },
+        "juntasllegamos.indrive.com": {
+          "ID": "juntasllegamos.indrive.com",
           "Type": "URL"
         },
         "landing.ryadom.kz": {
@@ -153665,8 +153993,116 @@
           "ID": "movie.indrive.com",
           "Type": "URL"
         },
+        "msg-cf.euce1.indriverapp.com": {
+          "ID": "msg-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "msg-gw-cf.euce1.indriverapp.com": {
+          "ID": "msg-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "msg-gw-scf.euce1.indriverapp.com": {
+          "ID": "msg-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "nb-cf.euce1.indriverapp.com": {
+          "ID": "nb-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "ncc-cf.latam-br.saea1.aws.indriverapp.com": {
+          "ID": "ncc-cf.latam-br.saea1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "ncc-gw-cf.latam-pe.saea1.aws.indriverapp.com": {
+          "ID": "ncc-gw-cf.latam-pe.saea1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "nf-cf.latam-mx.usea1.aws.indriverapp.com": {
+          "ID": "nf-cf.latam-mx.usea1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "nf-of-cf.euce1.indriverapp.com": {
+          "ID": "nf-of-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "nha-cf.euce1.indriverapp.com": {
+          "ID": "nha-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "nha-gw-cf.euce1.indriverapp.com": {
+          "ID": "nha-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "nha-gw-scf.euce1.indriverapp.com": {
+          "ID": "nha-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "no-gw-cf.africa.afso1.aws.indriverapp.com": {
+          "ID": "no-gw-cf.africa.afso1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "no-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "no-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
         "oymyakon.indriver.io": {
           "ID": "oymyakon.indriver.io",
+          "Type": "URL"
+        },
+        "pa-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "pa-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "pages.indriverapp.com": {
+          "ID": "pages.indriverapp.com",
+          "Type": "URL"
+        },
+        "pc-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "pc-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "pf-gw-cf.euce1.indriverapp.com": {
+          "ID": "pf-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "pf-gw-scf.euce1.indriverapp.com": {
+          "ID": "pf-gw-scf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "pm-gw-scf.sa.apse1.aws.indriverapp.com": {
+          "ID": "pm-gw-scf.sa.apse1.aws.indriverapp.com",
+          "Type": "URL"
+        },
+        "pot-cf.euce1.indriverapp.com": {
+          "ID": "pot-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "pp-cf.euce1.indriverapp.com": {
+          "ID": "pp-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "pp-gw-cf.euce1.indriverapp.com": {
+          "ID": "pp-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "ppw-gw-cf.euce1.indriverapp.com": {
+          "ID": "ppw-gw-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "ppw.euce1.indriverapp.com": {
+          "ID": "ppw.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "pristegnimechty.indrive.com": {
+          "ID": "pristegnimechty.indrive.com",
+          "Type": "URL"
+        },
+        "ps-cf.euce1.indriverapp.com": {
+          "ID": "ps-cf.euce1.indriverapp.com",
+          "Type": "URL"
+        },
+        "referral-program.indrive.com": {
+          "ID": "referral-program.indrive.com",
           "Type": "URL"
         },
         "ryadom.kz": {
@@ -153696,6 +154132,10 @@
         "wga.volans.tech": {
           "ID": "wga.volans.tech",
           "Type": "URL"
+        },
+        "www.juntasllegamos.indrive.com": {
+          "ID": "www.juntasllegamos.indrive.com",
+          "Type": "URL"
         }
       },
       "OutScope": {
@@ -153720,7 +154160,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9bdf03992b26f284c33a2e602c70692fff0a77b606e362ee9a25baca0185562b"
+      "Hash": "81cbf952df8df0e292bb707800f877f282386d5fa4d91a0cf2150e501f2972a0"
     },
     "h1:informatica": {
       "Key": "informatica",
@@ -172145,7 +172585,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ec4b16d6b060effb28a0ec47e0d56f145976d0c4cc8ecb144043dfe0a6625c47"
+      "Hash": "fbdd964fc462e4481285cdb180d17a94fbbe6078c479f14867ec0caada08c02c"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -176795,7 +177235,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2ab47b782498d8030dd80c0bd56e83cf58fbe501ecfc69ed6137d5b7826bc2e5"
+      "Hash": "804f8cd29855b7a38ef56b04e130e1dfe57ad5c2f02c793e0a6e72de96af6473"
     },
     "h1:mtb": {
       "Key": "mtb",
@@ -181406,7 +181846,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0359b698b90e1be4ac6c828db1aea831d4bfe04e28efcb4a702ac07a652dab30"
+      "Hash": "53e3a3345d957553070bc6b1d0dd3e224374d7e2d10856d8b30b706c0c954e6e"
     },
     "h1:nebius_ai_vdp": {
       "Key": "nebius_ai_vdp",
@@ -182323,7 +182763,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "28d2c7c4b815c52342817569b2216f39d7ada113bd278dcb86eb277ccc747d6f"
+      "Hash": "92099da63025e735c88af7dcdaee7cf2e93d59b0fafe003350667a76ea9adecd"
     },
     "h1:nisc": {
       "Key": "nisc",
@@ -184456,7 +184896,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5e04d725c69bb2401d92446eaf5953f05e8da94b9c5c11348224f2fbb3792e7d"
+      "Hash": "c9c9c9d02baaef0d1397460ae432b13d01bb75cc37190739b50e07b41f63f6c8"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -185546,7 +185986,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4beeac0c5ec529d891f43ab17f57b08735a26313cddb68a88cd58be5a22308c3"
+      "Hash": "802ca0265a855ce04f9684066eeeb4c1da03a6532386a84527b25f2deee28b12"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -186482,7 +186922,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4d519d16705b15b9a6469082a4850f4d6c86020f8ea95d4bcc9813edfabf7798"
+      "Hash": "157892e67021d5827437b168c4d8f88b04497779461059cbc3574f627024d66f"
     },
     "h1:portswigger": {
       "Key": "portswigger",
@@ -187468,7 +187908,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fc227cb4ae08f3963bbbd0f2b012c88987df459d3c94575f36404662adce18b4"
+      "Hash": "2f4309d09cdc79e94465671820273baa6f055fce09f3ad5160ac38116c5ca274"
     },
     "h1:redis-vdp": {
       "Key": "redis-vdp",
@@ -187509,7 +187949,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "66ce958a88e853f9b6f636a8a8537276b86ee567b5533cc7ab6158f40c5c8062"
+      "Hash": "8c13824d1a1f694732a267b5ad61b8ce132e9ef8362849792008f7088934bca9"
     },
     "h1:redox_bbp": {
       "Key": "redox_bbp",
@@ -187763,7 +188203,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c2f632626c7cff180072fd061b327dfbfa31afb0a8b06db70d3782890cb352b3"
+      "Hash": "0185218fda6885085503183d7c82b476d88e9b27f880bd327bc30c7a4dc9fe27"
     },
     "h1:rei_vdp": {
       "Key": "rei_vdp",
@@ -189549,7 +189989,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "5c6327505035afb16c62bf54ab1482a678f0fb78f4e57c4d953fb1003f01e324"
+      "Hash": "ecae119bece695473a1aeafb26d989c827a38e77c73fd53e81ba03e9b291cfdd"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -189699,7 +190139,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d10f49dfa73212ff079fe2e3690cbb5a127ce5b74795cafdc5721ec8bda19d31"
+      "Hash": "4334aaadeb49794734f741fee4122814fef732b801a5b0a764e2b75ad96aacef"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
@@ -192897,7 +193337,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "cca5ce878a091a799c72bac61b2e272c44c747e57a920ebf5cec6032d0589243"
+      "Hash": "7541b98af6be8ba09890d3a91dd32af4e4dbf449e0047638149f09a12711284c"
     },
     "h1:temu": {
       "Key": "temu",
@@ -196120,7 +196560,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "ea92b43cd25787b393aa9463d08b66a7e8a10df070a38f489255b9a06a4f6866"
+      "Hash": "f4b6a6f0e0bf0d11b12c45988488991855c5ab5fc15eca7f6740d97891fdb950"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -198951,7 +199391,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "ae4debd906f8cbdb0f82f9d209a0531b23800279748dd11a16aac67599a52793"
+      "Hash": "7d9a6c2d98af0ad448a37da11c001601a6ddcb90056a2212149e97fdbfa49c51"
     },
     "h1:x": {
       "Key": "x",
@@ -201064,96 +201504,6 @@
       },
       "Hash": "ebe20a581cc14a27d1b35138c3ddf4deb6dabd5e1e70d7d6fbe228ca8c1672b4"
     },
-    "in:0fd1d85b-2d33-4966-b5a0-caabfda5108e": {
-      "Key": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
-      "Name": "Ninja Kiwi Games Bug Bounty program",
-      "URL": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "InScope": {
-        "*.ninjakiwi.me": {
-          "ID": "*.ninjakiwi.me",
-          "Type": "wildcard"
-        },
-        "*.nkstatic.com": {
-          "ID": "*.nkstatic.com",
-          "Type": "wildcard"
-        },
-        "*.souparea.com": {
-          "ID": "*.souparea.com",
-          "Type": "wildcard"
-        },
-        "alerts.ninjakiwi.com": {
-          "ID": "alerts.ninjakiwi.com",
-          "Type": "url"
-        },
-        "analytics.ninjakiwi.com": {
-          "ID": "analytics.ninjakiwi.com",
-          "Type": "url"
-        },
-        "api.ninjakiwi.com": {
-          "ID": "api.ninjakiwi.com",
-          "Type": "url"
-        },
-        "battles.tv": {
-          "ID": "battles.tv",
-          "Type": "url"
-        },
-        "boomer2.ninjakiwi.com": {
-          "ID": "boomer2.ninjakiwi.com",
-          "Type": "url"
-        },
-        "ct.ninjakiwi.com": {
-          "ID": "ct.ninjakiwi.com",
-          "Type": "url"
-        },
-        "data.ninjakiwi.com": {
-          "ID": "data.ninjakiwi.com",
-          "Type": "url"
-        },
-        "guts.ninjakiwi.com": {
-          "ID": "guts.ninjakiwi.com",
-          "Type": "url"
-        },
-        "mynk-dash.ninjakiwi.com": {
-          "ID": "mynk-dash.ninjakiwi.com",
-          "Type": "url"
-        },
-        "mynk.ninjakiwi.com": {
-          "ID": "mynk.ninjakiwi.com",
-          "Type": "url"
-        },
-        "ninja.kiwi": {
-          "ID": "ninja.kiwi",
-          "Type": "url"
-        },
-        "ninjakiwi.com": {
-          "ID": "ninjakiwi.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "icarusadmin.ninjakiwi.com": {
-          "ID": "icarusadmin.ninjakiwi.com",
-          "Type": "url"
-        },
-        "rancher.ninjakiwi.com": {
-          "ID": "rancher.ninjakiwi.com",
-          "Type": "url"
-        },
-        "rancher.ninjakiwi.me": {
-          "ID": "rancher.ninjakiwi.me",
-          "Type": "url"
-        },
-        "store.ninjakiwi.com": {
-          "ID": "store.ninjakiwi.com",
-          "Type": "url"
-        },
-        "support.ninjakiwi.com": {
-          "ID": "support.ninjakiwi.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "81dc8548db8a520a1d4ff298cd873a5a6af3d9d18e4010f582a579872707d915"
-    },
     "in:104ed53e-3c29-4d16-b89a-d322c9df5e9a": {
       "Key": "104ed53e-3c29-4d16-b89a-d322c9df5e9a",
       "Name": "MAGNIFIC VDP",
@@ -202133,184 +202483,6 @@
       },
       "OutScope": {},
       "Hash": "591fde6c66b23aa5d1b977f3bdef593cde72ed39a81dee8972c90415d8cdd34f"
-    },
-    "in:2cf03670-6a2d-4ac7-8b1e-2e0d84338204": {
-      "Key": "2cf03670-6a2d-4ac7-8b1e-2e0d84338204",
-      "Name": "UZ Leuven",
-      "URL": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-      "InScope": {
-        "*.contactallerg(y|ie).uzleuven.be": {
-          "ID": "*.contactallerg(y|ie).uzleuven.be",
-          "Type": "wildcard"
-        },
-        "*.kwsdose.be": {
-          "ID": "*.kwsdose.be",
-          "Type": "wildcard"
-        },
-        "*.mir.uzleuven.be": {
-          "ID": "*.mir.uzleuven.be",
-          "Type": "wildcard"
-        },
-        "*.playuzleuven.be": {
-          "ID": "*.playuzleuven.be",
-          "Type": "wildcard"
-        },
-        "*.uzleuven.*": {
-          "ID": "*.uzleuven.*",
-          "Type": "wildcard"
-        },
-        "*dev.uzleuven.be": {
-          "ID": "*dev.uzleuven.be",
-          "Type": "wildcard"
-        },
-        "*idp*.uzleuven.be": {
-          "ID": "*idp*.uzleuven.be",
-          "Type": "wildcard"
-        },
-        "*stag*.uzleuven.be": {
-          "ID": "*stag*.uzleuven.be",
-          "Type": "wildcard"
-        },
-        "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111": {
-          "ID": "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
-          "Type": "iprange"
-        },
-        "autodiscover.uzleuven.be": {
-          "ID": "autodiscover.uzleuven.be",
-          "Type": "url"
-        },
-        "cardsonline.azdiest.be": {
-          "ID": "cardsonline.azdiest.be",
-          "Type": "url"
-        },
-        "cardsonlinetst.azdiest.be": {
-          "ID": "cardsonlinetst.azdiest.be",
-          "Type": "url"
-        },
-        "ecrf.uzleuven.be": {
-          "ID": "ecrf.uzleuven.be",
-          "Type": "url"
-        },
-        "extranet-asa.uzleuven.be": {
-          "ID": "extranet-asa.uzleuven.be",
-          "Type": "url"
-        },
-        "extranet.uzleuven.be": {
-          "ID": "extranet.uzleuven.be",
-          "Type": "url"
-        },
-        "files.uzleuven.be": {
-          "ID": "files.uzleuven.be",
-          "Type": "url"
-        },
-        "kumulus.uzleuven.be": {
-          "ID": "kumulus.uzleuven.be",
-          "Type": "url"
-        },
-        "liquidfiles.uzleuven.be": {
-          "ID": "liquidfiles.uzleuven.be",
-          "Type": "url"
-        },
-        "liquidfilestest.uzleuven.be": {
-          "ID": "liquidfilestest.uzleuven.be",
-          "Type": "url"
-        },
-        "mijnacc.uzleuven.be": {
-          "ID": "mijnacc.uzleuven.be",
-          "Type": "url"
-        },
-        "mirc.uzleuven.be": {
-          "ID": "mirc.uzleuven.be",
-          "Type": "url"
-        },
-        "mx1.uzleuven.be": {
-          "ID": "mx1.uzleuven.be",
-          "Type": "url"
-        },
-        "mx2.uzleuven.be": {
-          "ID": "mx2.uzleuven.be",
-          "Type": "url"
-        },
-        "pcrstudioruzb.uzleuven.be": {
-          "ID": "pcrstudioruzb.uzleuven.be",
-          "Type": "url"
-        },
-        "prddnighting01.uzleuven.be": {
-          "ID": "prddnighting01.uzleuven.be",
-          "Type": "url"
-        },
-        "prddsplunkhf.uzleuven.be": {
-          "ID": "prddsplunkhf.uzleuven.be",
-          "Type": "url"
-        },
-        "random.uzleuven.be/random/": {
-          "ID": "random.uzleuven.be/random/",
-          "Type": "url"
-        },
-        "sts.uzleuven.be": {
-          "ID": "sts.uzleuven.be",
-          "Type": "url"
-        },
-        "teststs.uzleuven.be": {
-          "ID": "teststs.uzleuven.be",
-          "Type": "url"
-        },
-        "w1.uzleuven.be": {
-          "ID": "w1.uzleuven.be",
-          "Type": "url"
-        },
-        "w1.uzleuven.be/random": {
-          "ID": "w1.uzleuven.be/random",
-          "Type": "url"
-        },
-        "wp5-truststroke.uzleuven.be": {
-          "ID": "wp5-truststroke.uzleuven.be",
-          "Type": "url"
-        },
-        "www.uzleuven.be": {
-          "ID": "www.uzleuven.be",
-          "Type": "url"
-        },
-        "ziekenhuisschool.be": {
-          "ID": "ziekenhuisschool.be",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "boekentoy.firebaseio.com": {
-          "ID": "boekentoy.firebaseio.com",
-          "Type": "url"
-        },
-        "boekentoy.uzleuven.be": {
-          "ID": "boekentoy.uzleuven.be",
-          "Type": "url"
-        },
-        "jobs.uzleuven.be": {
-          "ID": "jobs.uzleuven.be",
-          "Type": "url"
-        },
-        "laboboeken.uzleuven.be": {
-          "ID": "laboboeken.uzleuven.be",
-          "Type": "url"
-        },
-        "uz-laboboeken.firebaseio.com": {
-          "ID": "uz-laboboeken.firebaseio.com",
-          "Type": "url"
-        },
-        "uz-laboboeken.web.app": {
-          "ID": "uz-laboboeken.web.app",
-          "Type": "url"
-        },
-        "uzleuven.atlassian.net": {
-          "ID": "uzleuven.atlassian.net",
-          "Type": "url"
-        },
-        "vacatures.uzleuven.be": {
-          "ID": "vacatures.uzleuven.be",
-          "Type": "url"
-        }
-      },
-      "Hash": "553bcda14b932cb8623bbd9f4d524e48a91197f2521a7b05789d6f21d4e2aa7a"
     },
     "in:2de0c513-e7e8-4e4f-b0d9-885e45c1f767": {
       "Key": "2de0c513-e7e8-4e4f-b0d9-885e45c1f767",
@@ -203387,64 +203559,6 @@
         }
       },
       "Hash": "7a294a972fde147d56ca8b76d1b4fbd8d489fd9e5fbcb653306586d93f9e1688"
-    },
-    "in:56339d19-36cc-49a0-8e8f-b2502e00d165": {
-      "Key": "56339d19-36cc-49a0-8e8f-b2502e00d165",
-      "Name": "Moralis VDP",
-      "URL": "https://www.intigriti.com/programs/moralis/moralisio/detail",
-      "InScope": {
-        "*.bigmoralis.com": {
-          "ID": "*.bigmoralis.com",
-          "Type": "wildcard"
-        },
-        "*.grandmoralis.com": {
-          "ID": "*.grandmoralis.com",
-          "Type": "wildcard"
-        },
-        "*.moralis-internal.io": {
-          "ID": "*.moralis-internal.io",
-          "Type": "wildcard"
-        },
-        "*.moralis-streams.com": {
-          "ID": "*.moralis-streams.com",
-          "Type": "wildcard"
-        },
-        "*.moralis.com": {
-          "ID": "*.moralis.com",
-          "Type": "wildcard"
-        },
-        "*.moralis.io ": {
-          "ID": "*.moralis.io ",
-          "Type": "wildcard"
-        },
-        "*.moralisapp.com": {
-          "ID": "*.moralisapp.com",
-          "Type": "wildcard"
-        },
-        "*.moralishost.com": {
-          "ID": "*.moralishost.com",
-          "Type": "wildcard"
-        },
-        "*.moralisweb3.com": {
-          "ID": "*.moralisweb3.com",
-          "Type": "wildcard"
-        },
-        "*.usemoralis.com": {
-          "ID": "*.usemoralis.com",
-          "Type": "wildcard"
-        }
-      },
-      "OutScope": {
-        "docs.moralis.io": {
-          "ID": "docs.moralis.io",
-          "Type": "url"
-        },
-        "status.moralis.io": {
-          "ID": "status.moralis.io",
-          "Type": "url"
-        }
-      },
-      "Hash": "136ef32d008350bce53638dceb4994532616f629f0e1a12f7191378622f9072f"
     },
     "in:5ae71f99-d61e-42d2-b74e-b218530bb3b5": {
       "Key": "5ae71f99-d61e-42d2-b74e-b218530bb3b5",
