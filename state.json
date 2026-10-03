@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-02T22:31:35Z",
+  "captured_at": "2026-10-03T01:24:06Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24355,7 +24355,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5281819a038b9cabe929f2af12279fd78bfcd6951cf6a4b1c20549a8d899266a"
+      "Hash": "3443f6620edf4ff8aeca83c9caf2146be906df42b7c5259ba59885c45aeb04e8"
     },
     "h1:affirm": {
       "Key": "affirm",
@@ -28038,7 +28038,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "64f0f79ef4f5103d4a985c0bda21b24b409fe105d2797755fff9e1816b361145"
+      "Hash": "f76b3a1ada0a7a9010ae56b67d8f8c8189803731d503c7eaacd0e00ec0d42500"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -29032,7 +29032,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fa4b6e1d96ad5edd3c88a0aebd41804b41b7c1ba3199a8b884a49052d78087e1"
+      "Hash": "301c5e037d0d6dc575788d95e92ce217a77ad82a53cd4df6ba8fcfdc3bafbd24"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -89069,7 +89069,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b2943100aa22696b487b31b4166f83bf5b861e5be59b73fb674d1477d1c3aafa"
+      "Hash": "337b7930041f6405910a08ff2c76552402b25bd38d26ff8fe429e47d2f6dbafc"
     },
     "h1:cognizant": {
       "Key": "cognizant",
@@ -89392,7 +89392,7 @@
           "Type": "API"
         }
       },
-      "Hash": "3cbc905256fd6cbfce0130a0bce429917251af25fc7d4a152d8e0126bc53bad1"
+      "Hash": "1df9ff2b5ee4d1dbbf3092c19f33b7bd7b856d40d45f90fce00eeb23a8f76707"
     },
     "h1:compass-bbp": {
       "Key": "compass-bbp",
@@ -89948,7 +89948,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a0ac09880e82e3a6771f0e2a832e5326d742e7e3c36c0484f75791f23776da8b"
+      "Hash": "bf922085fc2b2c055e5bb28a75ee9a9fd067295c33c7537b0c20bc7b7c662f72"
     },
     "h1:coursera": {
       "Key": "coursera",
@@ -90118,14 +90118,6 @@
           "ID": "hybrid-analysis.com",
           "Type": "URL"
         },
-        "onum-labs.com": {
-          "ID": "onum-labs.com",
-          "Type": "URL"
-        },
-        "onum.com": {
-          "ID": "onum.com",
-          "Type": "URL"
-        },
         "play.google.com/store/apps/details?id=com.crowdstrike.falconmobile": {
           "ID": "play.google.com/store/apps/details?id=com.crowdstrike.falconmobile",
           "Type": "GOOGLE_PLAY_APP_ID"
@@ -90159,9 +90151,17 @@
         "Falcon Browser Extension V2": {
           "ID": "Falcon Browser Extension V2",
           "Type": "OTHER"
+        },
+        "onum-labs.com": {
+          "ID": "onum-labs.com",
+          "Type": "URL"
+        },
+        "onum.com": {
+          "ID": "onum.com",
+          "Type": "URL"
         }
       },
-      "Hash": "8b4fceced6f2c9437871e4fbb6e022b79c0847b8fbc12f4a0127b8fc558413fc"
+      "Hash": "49f3d08637d23a1980190799030cadc21df5d6e8ef40847a143902a110d09513"
     },
     "h1:crypto": {
       "Key": "crypto",
@@ -107728,7 +107728,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "26ea3939ea84ee2c89e6682d77444756ed67f9f4725d9817717caaec7b77d11a"
+      "Hash": "19f1bd18e3e187861baa95cbd4aaad957c9b844e366163e0cf7b0f0a5f9fe631"
     },
     "h1:finnair_vdp": {
       "Key": "finnair_vdp",
@@ -150565,7 +150565,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "676e5e3521c92916f42f3dbe8f342aefdedd826fd052d1e56b08c98e9fea32bf"
+      "Hash": "cd1ffb1cfe19c1780de5e3ed698d55832cd1214e8b7dde2947e19f7e74c4a203"
     },
     "h1:greenhouse": {
       "Key": "greenhouse",
@@ -171790,7 +171790,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "952ced96dc35b37d308e61dd0e8338132106b66af481b24c30e55340f549222e"
+      "Hash": "336cc166946c2871e2034f5ef56d3e5863a0a4b03d7c52ca24bbb6146f4c4b5d"
     },
     "h1:live_nation": {
       "Key": "live_nation",
@@ -187046,7 +187046,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0a5e4c50fe9266281b813bae4a9fda2e3041db9b10a2dc0cc5fdd2f817b02b32"
+      "Hash": "4cc0dfc006f2dd2ecead8dbeadfb28613a520964a31ee0323fc4ca6d71690e2f"
     },
     "h1:polygon-technology": {
       "Key": "polygon-technology",
@@ -192042,7 +192042,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "09f5b5328185fc65a6034516412f18b498ef694ca765b5fff5356c6864c96f3c"
+      "Hash": "d1ddb471c7b771d3abbcc592aad7e213c14f1d3ed2a1a9cce6acbee910ff5412"
     },
     "h1:sony": {
       "Key": "sony",
@@ -192060,7 +192060,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "4a7211953f5c1e7c0e6ea568e0d3c23dbda6173ca539c232cbae9aaab66ebd51"
+      "Hash": "160125302a473c51fb4b83f5cad1665e0629009437c1e06191ad7d98cba6c968"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -192445,7 +192445,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "40fd304a79a51a860626e734b20a57bc4fc5c9f0af870446be94c6cca8d643e7"
+      "Hash": "606f8c974c56d31db34853d3eb4ab81b3e58c515ab0fd4e25cbaffea51fd9683"
     },
     "h1:starling_bank": {
       "Key": "starling_bank",
@@ -193242,7 +193242,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "759efeb64b5aff93845cd3b2d030df4e013c17a2ea3db4a403a11ecea71a836a"
+      "Hash": "26cdb6ae905ee6cae0c37b81eb5f0d1f1879dad4e4c18abba8197efc431c9473"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -194189,7 +194189,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9bc4b0485aba1b6b4b14acbc63ad42f37f4676fd1cdfbd2fc4aa4b02e180fb01"
+      "Hash": "55c7f7d8157ebb2497f0050b9ce2246331e4aef65e3c83a21bcec96694e018e0"
     },
     "h1:toolsforhumanity": {
       "Key": "toolsforhumanity",
@@ -196867,7 +196867,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "603fe5907a3a4ed8e235c33f012bceecf2cd57ca3bedd39c4812bec86aab4117"
+      "Hash": "7fc959b99ab88afa875f9effa1d4642b11c7dacaa12a173469285db6e420df11"
     },
     "h1:vendasta": {
       "Key": "vendasta",
@@ -197733,7 +197733,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5d3d2683fa3573420fb36b9c230096ffb9f7b84e3b32eb2ab5a9dd43b8c37cbc"
+      "Hash": "7bf01740d213e19300b13bac5db92c41ff7711e28c1e9db3e7c5ac1810e19a42"
     },
     "h1:visa": {
       "Key": "visa",
@@ -200019,7 +200019,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "272f996e696d01081908d3bf0c7822008aed5717303c4fda8306f9eb71971147"
+      "Hash": "e34a2519b9f8511ff9e17ee08e925d417ce07d1db38889c5dcd22bce4feac8f5"
     },
     "h1:yelp": {
       "Key": "yelp",
