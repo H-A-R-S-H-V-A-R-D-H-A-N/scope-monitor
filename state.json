@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-03T16:41:21Z",
+  "captured_at": "2026-10-03T19:49:42Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -28038,7 +28038,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e885f76dde47d84c61a05c74c56894c0106f55b4e185a572f19b61c7fdafd3f4"
+      "Hash": "a47b6f8724343bca197f0ffc9e820d44dcc7abfc200f7e7879be3cc7c830add7"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -88668,7 +88668,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8feb47ceccc9904c23c51f8d0bafc22846aaf9bd1f64c41c5c2331d7ed698ad0"
+      "Hash": "4a59f9a213c56673eb9736ce42ea192b36d06500e1fe4310f017b398762de5c2"
     },
     "h1:cloudflare": {
       "Key": "cloudflare",
@@ -96673,7 +96673,7 @@
       "URL": "https://hackerone.com/django",
       "InScope": {},
       "OutScope": {},
-      "Hash": "f7be5ba206c30c3b9adfdda99d3be980c91a9ef5475368511a0c0c24da465424"
+      "Hash": "dcc87a2c6cf26bf1bd8749076894352c1d18c5e2b28314b6cf9e5f923473fe12"
     },
     "h1:docusign": {
       "Key": "docusign",
@@ -104042,7 +104042,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fb9fe7840f2da4489b20c2e469f00b8c395756531f76dd34384c3e96c2aac9cf"
+      "Hash": "feab496801b7bcd7766be603fd390a8872b2d683743d333ed1930c79571ad964"
     },
     "h1:eternal": {
       "Key": "eternal",
@@ -153204,7 +153204,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "79e608b9eafb9c21adf0f913b78d62a7d7b06dd377046687d9ed21df7d658020"
+      "Hash": "d6d95a69f74df64af423e0732d3a6eb0cea1a6a07e2555087bd32871d7e1ed6c"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -154515,7 +154515,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "67632946a0e55fb6e4e5b667e5a6427a1841de57850aa06733bb9bed79915326"
+      "Hash": "8a03c1320832f784d176a9364a0a5c7a7303f27cf0bdca1f3dcac873165ed1d4"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -171790,7 +171790,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "336cc166946c2871e2034f5ef56d3e5863a0a4b03d7c52ca24bbb6146f4c4b5d"
+      "Hash": "952ced96dc35b37d308e61dd0e8338132106b66af481b24c30e55340f549222e"
     },
     "h1:live_nation": {
       "Key": "live_nation",
@@ -172777,7 +172777,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9b43ee19ad88be37262e047b74c7178aa41d96186e0f169793e0824e1d239774"
+      "Hash": "89ceb57c050a783746d8ff79d9a81ecc01984c45a8430d8db1fbbc9a8bad1fb0"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -173807,7 +173807,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "54bce3e458c05519cebec053dada2212e57ef8b6531388012c39575bf6c5aa80"
+      "Hash": "7701caf54e1a74954ab7005b17af3a469b3db6de47710d8594a91c04ebbe8254"
     },
     "h1:meesho_bbp": {
       "Key": "meesho_bbp",
@@ -190292,7 +190292,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "beadac9077d958f2f1aaf69ebbefa59c40c8f742c91578e7a10cddebbcf80610"
+      "Hash": "aba282b577302037b755f7d2b7615749566295ed0a8424793a459fbb63ba3a2d"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -192042,7 +192042,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "b939b5150daf8dce6193637e216a66908ac8e98e3d93af0be95e27b3fdaa70c7"
+      "Hash": "598a9bd4617903caab351ca68ba59007c91a91f7d70fbc5d7b788c2e5cfd7557"
     },
     "h1:sony": {
       "Key": "sony",
@@ -192060,7 +192060,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "28c3ed3960a28a376b94f47d613d9d03f06d0371f4369a2b5214244dea1973b4"
+      "Hash": "01907fbf6f25c5a6413368f85c69e95aa7cb17efbc047796683f1cf8acad2602"
     },
     "h1:sorare": {
       "Key": "sorare",
@@ -192819,7 +192819,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "34871c7e522994c29b529780bff02be08e68c7e0269de4f113fb4bd3b92eccdc"
+      "Hash": "5697f45c6a1eb60338e2e2f44fea73abb158b451f90c4d35805fa2c02ff4a669"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -196716,7 +196716,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "02b6d81746752be9097afd029a39b97cb310928d388538fad6abb0c63b7fb6eb"
+      "Hash": "fbdb9800116ef70d8def6565dc26eab07265d6e000ad0e74ca965bc665a75370"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -200680,7 +200680,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a33604a3f3f32b3bb63738408c05b0dbd439ae26ec4c94409a237744ddd7cc7c"
+      "Hash": "b16c2574ee9763c266b4d358f2beb4329f6755ff02401da8a712de3971404fc1"
     },
     "h1:zurich-insurance": {
       "Key": "zurich-insurance",
