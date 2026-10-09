@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-09T14:19:34Z",
+  "captured_at": "2026-10-09T19:42:46Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -8958,207 +8958,6 @@
       "OutScope": {},
       "Hash": "b3e47d4ff8bafb53280672ad9680f5c9da7db9bf501e9355082fdda1cf6035ff"
     },
-    "bc:Monash University Bug Bounty": {
-      "Key": "Monash University Bug Bounty",
-      "Name": "Monash University Bug Bounty",
-      "URL": "https://bugcrowd.com/engagements/monash-mbb",
-      "InScope": {
-        " mix.monash.edu ": {
-          "ID": " mix.monash.edu ",
-          "Type": "api"
-        },
-        "eassessment.monash.edu": {
-          "ID": "eassessment.monash.edu",
-          "Type": "website"
-        },
-        "http://apps.connect.monash.edu/": {
-          "ID": "http://apps.connect.monash.edu/",
-          "Type": "website"
-        },
-        "http://pay.monashcollege.edu.au/": {
-          "ID": "http://pay.monashcollege.edu.au/",
-          "Type": "website"
-        },
-        "https://*.gp.monash.edu": {
-          "ID": "https://*.gp.monash.edu",
-          "Type": "website"
-        },
-        "https://account-registration.monash.edu/": {
-          "ID": "https://account-registration.monash.edu/",
-          "Type": "website"
-        },
-        "https://agent.apps.monash.edu/": {
-          "ID": "https://agent.apps.monash.edu/",
-          "Type": "website"
-        },
-        "https://alumni-friends.monash.edu": {
-          "ID": "https://alumni-friends.monash.edu",
-          "Type": "website"
-        },
-        "https://apps.apple.com/au/app/monash-bsafe/id1462241951": {
-          "ID": "https://apps.apple.com/au/app/monash-bsafe/id1462241951",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/ky/app/m-space/id6761056432": {
-          "ID": "https://apps.apple.com/ky/app/m-space/id6761056432",
-          "Type": "ios"
-        },
-        "https://apps.apple.com/us/app/monash-study/id1462126829": {
-          "ID": "https://apps.apple.com/us/app/monash-study/id1462126829",
-          "Type": "ios"
-        },
-        "https://cms.mobile.monash/ ": {
-          "ID": "https://cms.mobile.monash/ ",
-          "Type": "website"
-        },
-        "https://collections.monash.edu/": {
-          "ID": "https://collections.monash.edu/",
-          "Type": "website"
-        },
-        "https://compulsoryunits.monash.edu/": {
-          "ID": "https://compulsoryunits.monash.edu/",
-          "Type": "website"
-        },
-        "https://connect.monash.edu": {
-          "ID": "https://connect.monash.edu",
-          "Type": "website"
-        },
-        "https://equella.monash.edu": {
-          "ID": "https://equella.monash.edu",
-          "Type": "website"
-        },
-        "https://evigilation.monash.edu": {
-          "ID": "https://evigilation.monash.edu",
-          "Type": "website"
-        },
-        "https://fileshare.ze.monash.edu": {
-          "ID": "https://fileshare.ze.monash.edu",
-          "Type": "website"
-        },
-        "https://formative.eassessment.monash.edu/": {
-          "ID": "https://formative.eassessment.monash.edu/",
-          "Type": "website"
-        },
-        "https://forms.apps.monash.edu/": {
-          "ID": "https://forms.apps.monash.edu/",
-          "Type": "website"
-        },
-        "https://identity.monash.edu": {
-          "ID": "https://identity.monash.edu",
-          "Type": "website"
-        },
-        "https://identity.monash.edu/": {
-          "ID": "https://identity.monash.edu/",
-          "Type": "website"
-        },
-        "https://ims.monash.edu": {
-          "ID": "https://ims.monash.edu",
-          "Type": "website"
-        },
-        "https://interviews.monash.edu/": {
-          "ID": "https://interviews.monash.edu/",
-          "Type": "website"
-        },
-        "https://mids.monash.edu/": {
-          "ID": "https://mids.monash.edu/",
-          "Type": "website"
-        },
-        "https://mlivetickets.monash.edu": {
-          "ID": "https://mlivetickets.monash.edu",
-          "Type": "website"
-        },
-        "https://mobile.monash/ ": {
-          "ID": "https://mobile.monash/ ",
-          "Type": "website"
-        },
-        "https://monash.app.nutrip.com": {
-          "ID": "https://monash.app.nutrip.com",
-          "Type": "website"
-        },
-        "https://monashcollege.edu.au": {
-          "ID": "https://monashcollege.edu.au",
-          "Type": "website"
-        },
-        "https://move.monash.edu/": {
-          "ID": "https://move.monash.edu/",
-          "Type": "website"
-        },
-        "https://myapp.monash.edu/": {
-          "ID": "https://myapp.monash.edu/",
-          "Type": "website"
-        },
-        "https://online.monash.edu/": {
-          "ID": "https://online.monash.edu/",
-          "Type": "website"
-        },
-        "https://partner.apps.monash.edu": {
-          "ID": "https://partner.apps.monash.edu",
-          "Type": "website"
-        },
-        "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share": {
-          "ID": "https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android\u0026pcampaignid=web_share",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=com.scu.bsafe": {
-          "ID": "https://play.google.com/store/apps/details?id=com.scu.bsafe",
-          "Type": "android"
-        },
-        "https://play.google.com/store/apps/details?id=edu.monash.monashmobile": {
-          "ID": "https://play.google.com/store/apps/details?id=edu.monash.monashmobile",
-          "Type": "android"
-        },
-        "https://research.monash.edu/": {
-          "ID": "https://research.monash.edu/",
-          "Type": "website"
-        },
-        "https://researchmgt.monash.edu/": {
-          "ID": "https://researchmgt.monash.edu/",
-          "Type": "website"
-        },
-        "https://shop.monash.edu/": {
-          "ID": "https://shop.monash.edu/",
-          "Type": "website"
-        },
-        "https://staff.monash": {
-          "ID": "https://staff.monash",
-          "Type": "website"
-        },
-        "https://status.mobile.monash/": {
-          "ID": "https://status.mobile.monash/",
-          "Type": "website"
-        },
-        "https://student.monash": {
-          "ID": "https://student.monash",
-          "Type": "website"
-        },
-        "https://studentplacements.monash.edu": {
-          "ID": "https://studentplacements.monash.edu",
-          "Type": "website"
-        },
-        "https://unihub.monash.edu/": {
-          "ID": "https://unihub.monash.edu/",
-          "Type": "website"
-        },
-        "https://www.monash.edu": {
-          "ID": "https://www.monash.edu",
-          "Type": "website"
-        },
-        "https://www.monashprofessional.edu.au/": {
-          "ID": "https://www.monashprofessional.edu.au/",
-          "Type": "website"
-        },
-        "mix-dev.monash.edu/*": {
-          "ID": "mix-dev.monash.edu/*",
-          "Type": "api"
-        },
-        "mix-qat.monash.edu/*": {
-          "ID": "mix-qat.monash.edu/*",
-          "Type": "api"
-        }
-      },
-      "OutScope": {},
-      "Hash": "dac404403426b7edfb207193dd93b18fd697d8e9f3472b46e967aaa5126a4c12"
-    },
     "bc:Moneytree KK": {
       "Key": "Moneytree KK",
       "Name": "Moneytree KK",
@@ -9947,6 +9746,76 @@
       },
       "OutScope": {},
       "Hash": "a4d27ae4789ff6c1114dd9734a45369a43f12be15b840ac14f907a791124fc02"
+    },
+    "bc:Octopus": {
+      "Key": "Octopus",
+      "Name": "Octopus",
+      "URL": "https://bugcrowd.com/engagements/octopus-og",
+      "InScope": {
+        "*.octopus.com": {
+          "ID": "*.octopus.com",
+          "Type": "website"
+        },
+        "https://github.com/OctopusDeploy": {
+          "ID": "https://github.com/OctopusDeploy",
+          "Type": "other"
+        },
+        "https://octopus.com": {
+          "ID": "https://octopus.com",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        " partners.octopus.com": {
+          "ID": " partners.octopus.com",
+          "Type": "website"
+        },
+        "*.octopus.app": {
+          "ID": "*.octopus.app",
+          "Type": "website"
+        },
+        "artifactorysample.octopus.com": {
+          "ID": "artifactorysample.octopus.com",
+          "Type": "website"
+        },
+        "bamboosample.octopus.com": {
+          "ID": "bamboosample.octopus.com",
+          "Type": "website"
+        },
+        "i.octopus.com": {
+          "ID": "i.octopus.com",
+          "Type": "other"
+        },
+        "ir.octopus.com": {
+          "ID": "ir.octopus.com",
+          "Type": "other"
+        },
+        "jenkinssample.octopus.com": {
+          "ID": "jenkinssample.octopus.com",
+          "Type": "website"
+        },
+        "myget.octopus.com": {
+          "ID": "myget.octopus.com",
+          "Type": "website"
+        },
+        "nexussample.octopus.com": {
+          "ID": "nexussample.octopus.com",
+          "Type": "website"
+        },
+        "shop.octopus.com": {
+          "ID": "shop.octopus.com",
+          "Type": "website"
+        },
+        "teamcitysample.octopus.com": {
+          "ID": "teamcitysample.octopus.com",
+          "Type": "website"
+        },
+        "trust.octopus.com": {
+          "ID": "trust.octopus.com",
+          "Type": "website"
+        }
+      },
+      "Hash": "853559a4e9f4db33fbc63a6fa2fce39b16950fc4a1bcba121f6cf0550d39b4ec"
     },
     "bc:Octopus Deploy": {
       "Key": "Octopus Deploy",
@@ -25501,7 +25370,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fa096ebd3f48ae46fdae04eb9d42b13605ba0acd389fcd488b5e6d7e9f701713"
+      "Hash": "ee12f0167e202afb12cef67e40b8aa61c33049d2f1b0f85f8d33f23c96cd3399"
     },
     "h1:aeromexico_vdp": {
       "Key": "aeromexico_vdp",
@@ -29443,7 +29312,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5b05a77de1f7b436f9835c82b3f0c12d141da58a01a6d23975cc45cabe2a3b9b"
+      "Hash": "8259adb79d235c40ca55217b38a1a0aee131e3dc6a78639932c8dfb65d74e2c1"
     },
     "h1:arkadiyt-projects": {
       "Key": "arkadiyt-projects",
@@ -32585,7 +32454,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "d39e0cc5a43050a269e1752baa319377c0fdd48671686b4a80b4d9b8b342492b"
+      "Hash": "be0a8963458d9c7d1c7e8987869497d66d28519e6de3811b531ea96dada762bd"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -32897,7 +32766,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "70bf2c647ea76a2e9da27cfe84d6569bb517ce5a627e8830e65c8cdf2662ee83"
+      "Hash": "b3eb3a376e0bf127d6216a70f3f3ce33bdbe921f72a9ae46f7df90eae8316047"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -33044,6 +32913,10 @@
           "ID": "https://github.com/bitwarden",
           "Type": "SOURCE_CODE"
         },
+        "https://github.com/bitwarden/clients": {
+          "ID": "https://github.com/bitwarden/clients",
+          "Type": "SOURCE_CODE"
+        },
         "https://github.com/bitwarden/server": {
           "ID": "https://github.com/bitwarden/server",
           "Type": "SOURCE_CODE"
@@ -33075,7 +32948,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "53cf50f86b2b4707dce993d6c4bdba96739b0444b00bbe0ee9ffeb6837297ee0"
+      "Hash": "83b9ffda1e905f4c08bf4cfb8ae1894cb991b6d5a0e534ef2e136d87610e159a"
     },
     "h1:blackrock": {
       "Key": "blackrock",
@@ -33965,7 +33838,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6456b92e76999fd68f13dd9e584fd28483fdcce0e11f1b6380a29b4d58a2f35c"
+      "Hash": "520a5fe5938f6ac1133fa915d9894e54fe992e7292ea1f078a83fc656b8e878b"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -91337,7 +91210,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e5db55eca63010c611dad4a47c2d8352683a9e86b3a9e09b758969179c456263"
+      "Hash": "b3b6fe7597f2e2ed5b7a5578e04b497884b6517d4ba382bab391cce656a25303"
     },
     "h1:crowdstrike": {
       "Key": "crowdstrike",
@@ -92942,7 +92815,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "06308bd5c2d708ef52497b4abd93e4ab0cf58c564348435ea206f054fc229e20"
+      "Hash": "88d2c032148d464f4902d748c206e8d3c42c04be731d2993ce048c7678d667ea"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -93071,7 +92944,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bf6e76970c599c5bf3a69088e84a625e6592a2d853f3c01ec835437b98ca9a62"
+      "Hash": "d2e720f48ee30f40aa3c184b7d3bd7c9fedd888811a95af62c13d9e29290786e"
     },
     "h1:deriv": {
       "Key": "deriv",
@@ -106852,7 +106725,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "865357862b5767fee0e6094654939357d1826e8ff1499a43c01ce257a2b9d4ca"
+      "Hash": "8ef72c963e8ff480226667a724dbc4bc1370f94a6e3153c44dac17298f83ade8"
     },
     "h1:experian": {
       "Key": "experian",
@@ -109316,7 +109189,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9f60c91e6dd864daad59dd750b0002ffa71fff2bf55b619d2cf79959b376faf1"
+      "Hash": "37ac1e040482d475f5033af47bfeb42b5e633c39e8519bc67f1b9caf50388f46"
     },
     "h1:files": {
       "Key": "files",
@@ -151429,7 +151302,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "1140943710ee907099f5a138528358b31c5051a10ff0e49ce97471edc5f4a2fc"
+      "Hash": "d51028743abc75e9b18a83a5a1312737bb31c81f96289fb97de47bde59d0ebcc"
     },
     "h1:flutteruki": {
       "Key": "flutteruki",
@@ -151759,7 +151632,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9f6a64bfa3d7639d4f6356ca9065340d55d88f4cbc28408246f1c29081997d7f"
+      "Hash": "6849b38a21b5fc2cb7cdabbda62da1249e57bfa3c0de7eae9555e8da579eb776"
     },
     "h1:ford": {
       "Key": "ford",
@@ -151876,7 +151749,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "be2fa2e7c1357bb1b470fc34d203af0e56cfd22bd81df1cfb30aef22e458073f"
+      "Hash": "3c80936ac90d8544f907b41f4f8d158a3ead921db2bf301c4487b2103bb72bb2"
     },
     "h1:forescout_technologies": {
       "Key": "forescout_technologies",
@@ -152261,7 +152134,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8e3e9eaf37baa2c19d6d208b7fab8d213848fca2084e01b168986579ba5391d4"
+      "Hash": "0bb5645a01e4ceaae51faa4ffe960f9a622e675049442a1de2c1fa80625492cb"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -156291,10 +156164,6 @@
           "ID": "book.beachbound.com",
           "Type": "URL"
         },
-        "book.booktandl.com": {
-          "ID": "book.booktandl.com",
-          "Type": "URL"
-        },
         "book.cheapcaribbean.com": {
           "ID": "book.cheapcaribbean.com",
           "Type": "URL"
@@ -156505,7 +156374,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "22c3d4d482ee71514216cdf9bac6fd20444e5179f9bc93ac508fea3ce8913e4a"
+      "Hash": "12da5f7aa10fc94cc535fc868ec9c2ae372a0d3fd66a4dd45dcdb0643bb44e6e"
     },
     "h1:hyland_software": {
       "Key": "hyland_software",
@@ -156616,7 +156485,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5c39fd3bc184222038f2b27a55e412feb23fde404750c0f3dfe051bc3a3952e7"
+      "Hash": "49064fac841b66ad41756dd075ced6a1c8b675f223667895de02748193cbf74d"
     },
     "h1:ibm": {
       "Key": "ibm",
@@ -157417,7 +157286,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d24cf37e4753dcc7b85b6185c6349156c6a1f8ad53192f38c18ec3f8eb5b657d"
+      "Hash": "6b239133698694fb055173caaa85d95598c36c1f5869d5ac866c658ab2989871"
     },
     "h1:insightly": {
       "Key": "insightly",
@@ -157584,7 +157453,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "287ef50f2416508fb808b9c7bc68c3a754f68c59f4e504b68a60eff0eb7a911a"
+      "Hash": "da643172b9cd7d4be2287e3ef87ac7f3f0fb7e0c33d3fd8023fb0ad7a70cce76"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -165793,12 +165662,20 @@
           "ID": "bomgar.bluerivertech.com",
           "Type": "URL"
         },
+        "bonomedico.jdiberica.deere.com": {
+          "ID": "bonomedico.jdiberica.deere.com",
+          "Type": "URL"
+        },
         "bpeople-ar-prod.deere.com": {
           "ID": "bpeople-ar-prod.deere.com",
           "Type": "URL"
         },
         "bsm.deere.com": {
           "ID": "bsm.deere.com",
+          "Type": "URL"
+        },
+        "bugharvest.ghns-dwe-transform-prod-vpn.use1.e00.c01.johndeerecloud.com": {
+          "ID": "bugharvest.ghns-dwe-transform-prod-vpn.use1.e00.c01.johndeerecloud.com",
           "Type": "URL"
         },
         "buildyourown.deere.com": {
@@ -166575,6 +166452,10 @@
         },
         "droneci.deere.com": {
           "ID": "droneci.deere.com",
+          "Type": "URL"
+        },
+        "drxapi.deere.com": {
+          "ID": "drxapi.deere.com",
           "Type": "URL"
         },
         "dtacsolutionviewer-devl.deere.com": {
@@ -169343,6 +169224,10 @@
         },
         "priorityboard.deere.com": {
           "ID": "priorityboard.deere.com",
+          "Type": "URL"
+        },
+        "procesoinventario.jdiberica.deere.com": {
+          "ID": "procesoinventario.jdiberica.deere.com",
           "Type": "URL"
         },
         "prod-api-financeconnect.jdf-alfa2-prod-vpn.eu.e10.c01.johndeerecloud.com": {
@@ -172792,7 +172677,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f4bceeb7d0719d80f3da4cfd906952d469debdda3e74005627a5189e54704f31"
+      "Hash": "f5420c757a58d49ea95ee8e8fc891f819e23b06c71d197cf199415004a365b96"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -174442,7 +174327,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3b74aadb09c07528e6da92334a0149672254306e5780a2a2db5a6905985f7ca1"
+      "Hash": "b52376033fd08412935e25d7a692f51ee1ceafcda7860cd08bae2257823ee3ae"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -175553,7 +175438,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ec2efce6d520656abbed09ee02f04158e94707e54a2494b98bfcd9c50a584682"
+      "Hash": "11bfadbf895b3175b1252eda97f4e4f9ed2fce057fe9ac6d9282938a4519b822"
     },
     "h1:magic-eden": {
       "Key": "magic-eden",
@@ -178596,6 +178481,10 @@
           "ID": "ca.oreobts.com",
           "Type": "URL"
         },
+        "cadbury.co.sa": {
+          "ID": "cadbury.co.sa",
+          "Type": "URL"
+        },
         "cadbury.co.uk": {
           "ID": "cadbury.co.uk",
           "Type": "URL"
@@ -179036,6 +178925,10 @@
           "ID": "loteriaoreo.pl",
           "Type": "URL"
         },
+        "lu.fr": {
+          "ID": "lu.fr",
+          "Type": "URL"
+        },
         "lubakery.co.uk": {
           "ID": "lubakery.co.uk",
           "Type": "URL"
@@ -179058,6 +178951,10 @@
         },
         "matt-pokora.milka.com": {
           "ID": "matt-pokora.milka.com",
+          "Type": "URL"
+        },
+        "mavieencouleurs.fr": {
+          "ID": "mavieencouleurs.fr",
           "Type": "URL"
         },
         "mdlzcollaboration.com": {
@@ -179280,6 +179177,10 @@
           "ID": "oreofun.dk",
           "Type": "URL"
         },
+        "oreokitchen.ma": {
+          "ID": "oreokitchen.ma",
+          "Type": "URL"
+        },
         "oreoplayful.ca": {
           "ID": "oreoplayful.ca",
           "Type": "URL"
@@ -179498,6 +179399,10 @@
         },
         "smukfest.marabou.dk": {
           "ID": "smukfest.marabou.dk",
+          "Type": "URL"
+        },
+        "snack-central.com": {
+          "ID": "snack-central.com",
           "Type": "URL"
         },
         "snackbites.in": {
@@ -179867,7 +179772,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5c04d6ec8b719a0256833daeebd5fc012bd8f0fdec150744c28f7b01db9e4322"
+      "Hash": "8d7a6ad62e97d101fae986a53f749edc7812f9db9899b29e3a0bba82ad50091e"
     },
     "h1:monero": {
       "Key": "monero",
@@ -185031,7 +184936,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ff95db0ad778ec075c950480818254c9cf0f7312181ceb2ea4142094857e63ac"
+      "Hash": "beb619118c54d988f0999e0cee8bcb7dc3bfa42248563dd942163a2e7410e74a"
     },
     "h1:nebius_ai_vdp": {
       "Key": "nebius_ai_vdp",
@@ -185124,7 +185029,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3ecd215e7fc3e86de39aecbccc060d0df4858f70f45e06c7b525c649f66dc2d2"
+      "Hash": "32e719b97fe9e1de9a74aebdcb81309e384dfcee5f55b061822360e0cabcc1b5"
     },
     "h1:neon_bbp": {
       "Key": "neon_bbp",
@@ -185386,7 +185291,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "21edb32fbec439f016b3fccfb8452ae8b7ce38fa3a2a4b0fc3fd49d9ae6a6e62"
+      "Hash": "a6ac6367cd692ea76e21f5d2c1c33985f163e62784a74a2119d34a4bbd0836f2"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -186011,7 +185916,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "eecffaadd72748ca8c4b58c64f6fbf1abb433f7f859eb779a0871306360a169e"
+      "Hash": "b0ed9655c9c4af83de31f7083914e5e513b256df3d72202c093613bab97e8e37"
     },
     "h1:nutanix": {
       "Key": "nutanix",
@@ -186356,7 +186261,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c43bee2ebc42af6b1271452924f14745038a112eddaec6d7a37b2e0b76eb1820"
+      "Hash": "5bcab6c3e670b12885fc5a7b47f880f9c364123bb816dba29f7b5f258cdf8a7d"
     },
     "h1:omnicell": {
       "Key": "omnicell",
@@ -189367,7 +189272,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c1dc82412c88c8f54a67f41432136c3a89f4b9cf21e1fb49425d9c1c22ef8c40"
+      "Hash": "305dcddbaed74e7ce35b04d7ef0748d581d7063a1d249c2ee4f30351d0b09b72"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -189922,7 +189827,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "fdec808feeb33bebcf8c9dbf899b3924421b369167261310af10eb8c2394609f"
+      "Hash": "bed053491b9ca60724ce689493455dfd7040ba7d3c9ceb57b5bf8809e06823de"
     },
     "h1:polygon-technology": {
       "Key": "polygon-technology",
@@ -190579,7 +190484,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "83006b74bf7030f30029509d527c54f2201cd4acd9fef0af5dc2cdee50706a94"
+      "Hash": "c961c0984c6358b04ebf307be58e87dc733ad5e97adb9f62c9c221379a9f53a7"
     },
     "h1:pubg": {
       "Key": "pubg",
@@ -190795,7 +190700,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "a46ae00371719a65d81e73a1d5b4310d6db56dfd50ab2429f85e190a8da68518"
+      "Hash": "7d964f6dd07f11444f0f5617259f1e1e4502885eb2e87a562f21f15e44f773b8"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -190865,7 +190770,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "621c5a9d3d6a1b75f35106cbddcbc401ed8963ae8df9b869509c4bf58aaf9da1"
+      "Hash": "98e7c910f496c7520b86262e5f494dd557f96fee91404b130d767deb84ffb810"
     },
     "h1:reddit": {
       "Key": "reddit",
@@ -192227,7 +192132,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "f9147420232dc6dbfca8696aea866d63d4232fa4dc780852d2de5dadeaac3f7a"
+      "Hash": "79c4b130ea65fea640e1292a946b890d72006ee7e5672a3172bf17e6fe83a703"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -195280,7 +195185,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "8204d980973bd8f561e7efd8fb47798203d435c0a94f9900ac33e121caefaca1"
+      "Hash": "101903258df7024f7ae1ff4029f80d3fb2b1702bb479f4bac6a86f62725f2616"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -196114,7 +196019,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2b3e64b44214ff7248d91a428a3d9ad352941f0b1032806b6a726cb5d6d31e9c"
+      "Hash": "e9afbb8dee865ad5a7d1532068f86550d491560cbfb01950382a4708c4101009"
     },
     "h1:syfe_bbp": {
       "Key": "syfe_bbp",
@@ -196957,7 +196862,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "cc8e3298ce71d744324a7aa9e0c597f9a1c95c77344a6e57dfe8664644d0b046"
+      "Hash": "af0bc05218ade6c97d84d77827ad70a8a32475b25e07f3dd953aba85029a94ad"
     },
     "h1:tinder": {
       "Key": "tinder",
@@ -201299,7 +201204,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e39a1ed95f9168f5939c34b6dba38a9ec8f4af0633a30ebac639332194126cbe"
+      "Hash": "a9213d5f69f421c803118b4874a00afe7387e048450a7569e964d97ff32548cf"
     },
     "h1:vodafone": {
       "Key": "vodafone",
@@ -201964,7 +201869,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "055178ba27c07c650d86d48295f052b5bac84d56f9698f519ac21370122a6392"
+      "Hash": "8692a045a00b03bd121aadf55055febf1acc148abd1956cd0b54ed313a0593a9"
     },
     "h1:whatnot": {
       "Key": "whatnot",
@@ -202973,7 +202878,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2db53fc350426f2a5160167a609a09d0e53a4e167a3267f0c4b08d620aab48b5"
+      "Hash": "370d611df01983d78fc04ff61e8283b3b6b2b7b2f86229888cf7d8fcad8966b6"
     },
     "h1:yoti": {
       "Key": "yoti",
@@ -211140,128 +211045,6 @@
       "OutScope": {},
       "Hash": "c15048ae3df28fb06b273c9e606673b7e8e5eaadae9abbab4ee3c20f008d38a3"
     },
-    "in:bd22f48d-633e-4b26-bf71-e4778d41b247": {
-      "Key": "bd22f48d-633e-4b26-bf71-e4778d41b247",
-      "Name": "DataCamp",
-      "URL": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "InScope": {
-        "*.datacamp.com": {
-          "ID": "*.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/certification": {
-          "ID": "app.datacamp.com/certification",
-          "Type": "url"
-        },
-        "app.datacamp.com/groups": {
-          "ID": "app.datacamp.com/groups",
-          "Type": "url"
-        },
-        "app.datacamp.com/learn": {
-          "ID": "app.datacamp.com/learn",
-          "Type": "url"
-        },
-        "assessment-api.datacamp.com": {
-          "ID": "assessment-api.datacamp.com",
-          "Type": "url"
-        },
-        "assessment-v2.datacamp.com ": {
-          "ID": "assessment-v2.datacamp.com ",
-          "Type": "url"
-        },
-        "assessment.datacamp.com": {
-          "ID": "assessment.datacamp.com",
-          "Type": "url"
-        },
-        "campus.datacamp.com": {
-          "ID": "campus.datacamp.com",
-          "Type": "url"
-        },
-        "com.datacamp": {
-          "ID": "com.datacamp",
-          "Type": "android"
-        },
-        "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087": {
-          "ID": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-          "Type": "ios"
-        },
-        "practice.datacamp.com": {
-          "ID": "practice.datacamp.com",
-          "Type": "url"
-        },
-        "profiles-api.datacamp.com": {
-          "ID": "profiles-api.datacamp.com",
-          "Type": "url"
-        },
-        "projects.datacamp.com": {
-          "ID": "projects.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com": {
-          "ID": "www.datacamp.com",
-          "Type": "url"
-        },
-        "www.datacamp.com/datalab": {
-          "ID": "www.datacamp.com/datalab",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "*.it.datacamp.com": {
-          "ID": "*.it.datacamp.com",
-          "Type": "wildcard"
-        },
-        "app.datacamp.com/recruit": {
-          "ID": "app.datacamp.com/recruit",
-          "Type": "url"
-        },
-        "ast-viewer.datacamp.com": {
-          "ID": "ast-viewer.datacamp.com",
-          "Type": "url"
-        },
-        "confluence.datacamp.com": {
-          "ID": "confluence.datacamp.com",
-          "Type": "url"
-        },
-        "dccertified.datacamp.com": {
-          "ID": "dccertified.datacamp.com",
-          "Type": "url"
-        },
-        "intranet.datacamp.com": {
-          "ID": "intranet.datacamp.com",
-          "Type": "url"
-        },
-        "jira.datacamp.com": {
-          "ID": "jira.datacamp.com",
-          "Type": "url"
-        },
-        "links.datacamp.com": {
-          "ID": "links.datacamp.com",
-          "Type": "url"
-        },
-        "rdocumentation.datacamp.com": {
-          "ID": "rdocumentation.datacamp.com",
-          "Type": "url"
-        },
-        "signature.datacamp.com": {
-          "ID": "signature.datacamp.com",
-          "Type": "url"
-        },
-        "status.datacamp.com": {
-          "ID": "status.datacamp.com",
-          "Type": "url"
-        },
-        "support.datacamp.com": {
-          "ID": "support.datacamp.com",
-          "Type": "url"
-        },
-        "talent-jobs-api.datacamp.com": {
-          "ID": "talent-jobs-api.datacamp.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "99b1af163e59b30e33957eca3caa8b124de1ba4e4d656edfad16e31e5cf4f84b"
-    },
     "in:bdbdcb88-3242-4d0b-8926-38775bd262bf": {
       "Key": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
       "Name": "Axel Springer SE Vulnerability Disclosure Program",
@@ -212785,6 +212568,200 @@
       },
       "OutScope": {},
       "Hash": "889eca9ce025ecf795f9e1906e881cc84a491bbe819affd49740a19b514c3045"
+    },
+    "in:ed04d1ef-1aa3-49dd-92f1-06f50f9756b9": {
+      "Key": "ed04d1ef-1aa3-49dd-92f1-06f50f9756b9",
+      "Name": "TrueLayer",
+      "URL": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "InScope": {
+        "*.truelayer.cloud": {
+          "ID": "*.truelayer.cloud",
+          "Type": "wildcard"
+        },
+        "*.truelayer.com": {
+          "ID": "*.truelayer.com",
+          "Type": "wildcard"
+        },
+        "*.truelayer.io": {
+          "ID": "*.truelayer.io",
+          "Type": "wildcard"
+        },
+        "C# SDK": {
+          "ID": "C# SDK",
+          "Type": "other"
+        },
+        "Java SDK": {
+          "ID": "Java SDK",
+          "Type": "other"
+        },
+        "PHP SDK": {
+          "ID": "PHP SDK",
+          "Type": "other"
+        },
+        "React Native SDK": {
+          "ID": "React Native SDK",
+          "Type": "other"
+        },
+        "Rust SDK": {
+          "ID": "Rust SDK",
+          "Type": "other"
+        },
+        "TrueLayer for Magento (Magento plugin)": {
+          "ID": "TrueLayer for Magento (Magento plugin)",
+          "Type": "other"
+        },
+        "Web SDK": {
+          "ID": "Web SDK",
+          "Type": "other"
+        },
+        "api.mtls.truelayer[-sandbox].com": {
+          "ID": "api.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "api.truelayer[-sandbox].com": {
+          "ID": "api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "app.truelayer[-sandbox].com": {
+          "ID": "app.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.mtls.truelayer[-sandbox].com": {
+          "ID": "auth.mtls.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "auth.truelayer[-sandbox].com": {
+          "ID": "auth.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console-backend.truelayer[-sandbox].com": {
+          "ID": "console-backend.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "console.truelayer[-sandbox].com": {
+          "ID": "console.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "iOS SDK": {
+          "ID": "iOS SDK",
+          "Type": "other"
+        },
+        "login-api.truelayer[-sandbox].com": {
+          "ID": "login-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "login.truelayer[-sandbox].com": {
+          "ID": "login.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "onboarding-api.truelayer.com": {
+          "ID": "onboarding-api.truelayer.com",
+          "Type": "url"
+        },
+        "pay-api.truelayer[-sandbox].com": {
+          "ID": "pay-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "pay.truelayer[-sandbox].com": {
+          "ID": "pay.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "paydirect.truelayer[-sandbox].com": {
+          "ID": "paydirect.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payment.truelayer[-sandbox].com": {
+          "ID": "payment.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "payments-experience-api.truelayer[-sandbox].com": {
+          "ID": "payments-experience-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "sftp.reports.truelayer.com": {
+          "ID": "sftp.reports.truelayer.com",
+          "Type": "url"
+        },
+        "shop-pay-app-api.truelayer.com": {
+          "ID": "shop-pay-app-api.truelayer.com",
+          "Type": "url"
+        },
+        "shopify-admin.truelayer.com": {
+          "ID": "shopify-admin.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer-signing": {
+          "ID": "truelayer-signing",
+          "Type": "other"
+        },
+        "user-authentication-api.truelayer[-sandbox].com": {
+          "ID": "user-authentication-api.truelayer[-sandbox].com",
+          "Type": "url"
+        },
+        "users-api.truelayer.com": {
+          "ID": "users-api.truelayer.com",
+          "Type": "url"
+        },
+        "webhooks.truelayer[-sandbox].com": {
+          "ID": "webhooks.truelayer[-sandbox].com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "TrueLayer for WooCommerce (WordPress plugin)": {
+          "ID": "TrueLayer for WooCommerce (WordPress plugin)",
+          "Type": "other"
+        },
+        "banks.truelayer.com": {
+          "ID": "banks.truelayer.com",
+          "Type": "url"
+        },
+        "careers.truelayer.com": {
+          "ID": "careers.truelayer.com",
+          "Type": "url"
+        },
+        "docs.houston.truelayer.com": {
+          "ID": "docs.houston.truelayer.com",
+          "Type": "url"
+        },
+        "docs.truelayer.com": {
+          "ID": "docs.truelayer.com",
+          "Type": "url"
+        },
+        "https://truelayer.com/contact/": {
+          "ID": "https://truelayer.com/contact/",
+          "Type": "url"
+        },
+        "index.truelayer.com": {
+          "ID": "index.truelayer.com",
+          "Type": "url"
+        },
+        "info.truelayer.com": {
+          "ID": "info.truelayer.com",
+          "Type": "url"
+        },
+        "signin.truelayer.com": {
+          "ID": "signin.truelayer.com",
+          "Type": "url"
+        },
+        "status.truelayer.com": {
+          "ID": "status.truelayer.com",
+          "Type": "url"
+        },
+        "support.truelayer.com": {
+          "ID": "support.truelayer.com",
+          "Type": "url"
+        },
+        "truelayer.zendesk.com": {
+          "ID": "truelayer.zendesk.com",
+          "Type": "url"
+        },
+        "trust.truelayer.com": {
+          "ID": "trust.truelayer.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "6e7c49c6e42efd8d28bacc6ae4ff3d769406a8c2460f5e2679ed9a023d849a82"
     },
     "in:ee2612e7-e188-492f-9bb2-ba48651523de": {
       "Key": "ee2612e7-e188-492f-9bb2-ba48651523de",
