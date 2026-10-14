@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-14T15:27:13Z",
+  "captured_at": "2026-10-14T19:39:44Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -24377,7 +24377,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3f03d7c6f5bcaf384a5e493194673858b246b877835161400b8a84f314c538b6"
+      "Hash": "ff52ee2e855d1625f9773189f52d75a078793cab41a5a80ad0e323f31fe2fc24"
     },
     "h1:adevinta_vdp": {
       "Key": "adevinta_vdp",
@@ -25756,7 +25756,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "ab3f97cc58f56fc7695e68b33073a4c52b067f3b927c0f7660d617e27bce07fb"
+      "Hash": "f0b1b044e3f903cae48569f50a36aed33ee23fa1c2ddaa2fed09cc36cc218fd0"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -30201,7 +30201,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1f4a1bc21030ce5aad621b53b9d64bc7ccb23e0689e10b65f1826ce271b0d9ca"
+      "Hash": "742d881e3dd8b73cc5c3b4b544505eaa0e8a67ad0d1222d9489e0d2fe576253d"
     },
     "h1:autodesk": {
       "Key": "autodesk",
@@ -33077,10 +33077,6 @@
           "ID": "*.divvy.co",
           "Type": "WILDCARD"
         },
-        "Other BILL assets": {
-          "ID": "Other BILL assets",
-          "Type": "OTHER"
-        },
         "app.bill.com": {
           "ID": "app.bill.com",
           "Type": "URL"
@@ -33114,9 +33110,13 @@
         "*.zipbooks.com": {
           "ID": "*.zipbooks.com",
           "Type": "WILDCARD"
+        },
+        "Other BILL assets": {
+          "ID": "Other BILL assets",
+          "Type": "OTHER"
         }
       },
-      "Hash": "60e89605f30005aeb7bfc529dd38211eb9536786ae857d2c30c5ab2302bb20d8"
+      "Hash": "6f0f590c96df63c671481df1fd167f272c5decf1d0992911cd54600a202c2246"
     },
     "h1:bitwarden": {
       "Key": "bitwarden",
@@ -93121,7 +93121,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "b8b7037f7b47d36efb2dc5ba687b2e9590454273c58ab265f142224afe5b915c"
+      "Hash": "77aa209525ae67f60da050087915e62b896d1a004a4603fcb972b9728471c313"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -94887,6 +94887,10 @@
           "ID": "angelfrost.ca.essd.northgrum.com",
           "Type": "URL"
         },
+        "apio.swri.org": {
+          "ID": "apio.swri.org",
+          "Type": "URL"
+        },
         "ash.ca.essd.northgrum.com": {
           "ID": "ash.ca.essd.northgrum.com",
           "Type": "URL"
@@ -95027,12 +95031,20 @@
           "ID": "cc2-ests.cc2.myngc.com",
           "Type": "URL"
         },
+        "ccas.swri.org": {
+          "ID": "ccas.swri.org",
+          "Type": "URL"
+        },
         "cedar.ca.essd.northgrum.com": {
           "ID": "cedar.ca.essd.northgrum.com",
           "Type": "URL"
         },
         "certdata.northropgrumman.com": {
           "ID": "certdata.northropgrumman.com",
+          "Type": "URL"
+        },
+        "cex260-edge-1.swri.org": {
+          "ID": "cex260-edge-1.swri.org",
           "Type": "URL"
         },
         "cfgsvr05.ca.essd.northgrum.com": {
@@ -95081,6 +95093,18 @@
         },
         "cole.ca.essd.northgrum.com": {
           "ID": "cole.ca.essd.northgrum.com",
+          "Type": "URL"
+        },
+        "comms.chem.swri.org": {
+          "ID": "comms.chem.swri.org",
+          "Type": "URL"
+        },
+        "confluence-public.d10.us.swri.org": {
+          "ID": "confluence-public.d10.us.swri.org",
+          "Type": "URL"
+        },
+        "confluence.spaceops.swri.org": {
+          "ID": "confluence.spaceops.swri.org",
           "Type": "URL"
         },
         "connect-dr.caci.com": {
@@ -95207,8 +95231,16 @@
           "ID": "enterpriseenrollment.ngc.com",
           "Type": "URL"
         },
+        "epc03.swri.org": {
+          "ID": "epc03.swri.org",
+          "Type": "URL"
+        },
         "eportal.northropgrumman.com": {
           "ID": "eportal.northropgrumman.com",
+          "Type": "URL"
+        },
+        "et.swri.org": {
+          "ID": "et.swri.org",
           "Type": "URL"
         },
         "extlyncc30.ngc.com": {
@@ -95231,6 +95263,14 @@
           "ID": "falcon.gitlab.drs.com",
           "Type": "OTHER"
         },
+        "fdlrdportal.swri.org": {
+          "ID": "fdlrdportal.swri.org",
+          "Type": "URL"
+        },
+        "filetransfer.swri.org": {
+          "ID": "filetransfer.swri.org",
+          "Type": "URL"
+        },
         "fisher.ca.essd.northgrum.com": {
           "ID": "fisher.ca.essd.northgrum.com",
           "Type": "URL"
@@ -95241,6 +95281,10 @@
         },
         "flightpakdev.northropgrumman.com": {
           "ID": "flightpakdev.northropgrumman.com",
+          "Type": "URL"
+        },
+        "fs.us.swri.org": {
+          "ID": "fs.us.swri.org",
           "Type": "URL"
         },
         "fssfmctest.myngc.com": {
@@ -95257,6 +95301,10 @@
         },
         "globalconnect.in.myngc.com": {
           "ID": "globalconnect.in.myngc.com",
+          "Type": "URL"
+        },
+        "grain.d10.us.swri.org": {
+          "ID": "grain.d10.us.swri.org",
           "Type": "URL"
         },
         "greenfish.ca.essd.northgrum.com": {
@@ -95293,6 +95341,10 @@
         },
         "gw1.apogeeworx.com": {
           "ID": "gw1.apogeeworx.com",
+          "Type": "URL"
+        },
+        "h4ydev.d10.us.swri.org": {
+          "ID": "h4ydev.d10.us.swri.org",
           "Type": "URL"
         },
         "halsey.ca.essd.northgrum.com": {
@@ -96719,6 +96771,10 @@
           "ID": "hull.ca.essd.northgrum.com",
           "Type": "URL"
         },
+        "ibex.swri.org": {
+          "ID": "ibex.swri.org",
+          "Type": "URL"
+        },
         "ibits.benefits.northgrum.com": {
           "ID": "ibits.benefits.northgrum.com",
           "Type": "URL"
@@ -96755,8 +96811,24 @@
           "ID": "itun.myngc.com",
           "Type": "URL"
         },
+        "jdmspecifications.swri.org": {
+          "ID": "jdmspecifications.swri.org",
+          "Type": "URL"
+        },
         "jira-msst270.ms.northropgrumman.com": {
           "ID": "jira-msst270.ms.northropgrumman.com",
+          "Type": "URL"
+        },
+        "jira-public.d10.us.swri.org": {
+          "ID": "jira-public.d10.us.swri.org",
+          "Type": "URL"
+        },
+        "jira-sm-public.d10.us.swri.org": {
+          "ID": "jira-sm-public.d10.us.swri.org",
+          "Type": "URL"
+        },
+        "jira.spaceops.swri.org": {
+          "ID": "jira.spaceops.swri.org",
           "Type": "URL"
         },
         "jstars.northgrum.com": {
@@ -96770,6 +96842,10 @@
         "keeper.centurum.com": {
           "ID": "keeper.centurum.com",
           "Type": "OTHER"
+        },
+        "ky-demo.d10.us.swri.org": {
+          "ID": "ky-demo.d10.us.swri.org",
+          "Type": "URL"
         },
         "ldapproxy.ngc.com": {
           "ID": "ldapproxy.ngc.com",
@@ -96799,6 +96875,10 @@
           "ID": "lockwood.ca.essd.northgrum.com",
           "Type": "URL"
         },
+        "lucy.swri.org": {
+          "ID": "lucy.swri.org",
+          "Type": "URL"
+        },
         "ma-edge-access.marsys.ngc.com": {
           "ID": "ma-edge-access.marsys.ngc.com",
           "Type": "URL"
@@ -96821,6 +96901,10 @@
         },
         "mail.marsys.ngc.com": {
           "ID": "mail.marsys.ngc.com",
+          "Type": "URL"
+        },
+        "mail.spaceops.swri.org": {
+          "ID": "mail.spaceops.swri.org",
           "Type": "URL"
         },
         "mail01.orl01.cymysecure.com": {
@@ -96963,6 +97047,10 @@
           "ID": "neiasu01.northgrum.com",
           "Type": "URL"
         },
+        "nfsp.swri.org": {
+          "ID": "nfsp.swri.org",
+          "Type": "URL"
+        },
         "ngc-ebip.myngc.com": {
           "ID": "ngc-ebip.myngc.com",
           "Type": "URL"
@@ -97035,6 +97123,10 @@
           "ID": "northropgrummanwest.myngc.com",
           "Type": "URL"
         },
+        "npsscore.div18.swri.org": {
+          "ID": "npsscore.div18.swri.org",
+          "Type": "URL"
+        },
         "ns1.ext.cymycloud.com": {
           "ID": "ns1.ext.cymycloud.com",
           "Type": "URL"
@@ -97045,6 +97137,10 @@
         },
         "ns1.nsgslbt.myngc.com": {
           "ID": "ns1.nsgslbt.myngc.com",
+          "Type": "URL"
+        },
+        "ns2-e.swri.org": {
+          "ID": "ns2-e.swri.org",
           "Type": "URL"
         },
         "ns2.ext.cymycloud.com": {
@@ -97061,6 +97157,10 @@
         },
         "nsbw01.northropgrumman.com": {
           "ID": "nsbw01.northropgrumman.com",
+          "Type": "URL"
+        },
+        "nt01-isl.d01.us.swri.org": {
+          "ID": "nt01-isl.d01.us.swri.org",
           "Type": "URL"
         },
         "nteucasvc23.myngc.com": {
@@ -97155,6 +97255,10 @@
           "ID": "pdsso.ca.essd.northgrum.com",
           "Type": "URL"
         },
+        "pegasus.swri.org": {
+          "ID": "pegasus.swri.org",
+          "Type": "URL"
+        },
         "phlox.ca.essd.northgrum.com": {
           "ID": "phlox.ca.essd.northgrum.com",
           "Type": "URL"
@@ -97173,6 +97277,10 @@
         },
         "portal.ngc-mfa.cc2.myngc.com": {
           "ID": "portal.ngc-mfa.cc2.myngc.com",
+          "Type": "URL"
+        },
+        "proget-public.d10.us.swri.org": {
+          "ID": "proget-public.d10.us.swri.org",
           "Type": "URL"
         },
         "projects1.div18dmz.local": {
@@ -97203,16 +97311,36 @@
           "ID": "puffer.ca.essd.northgrum.com",
           "Type": "URL"
         },
+        "punch.spaceops.swri.org": {
+          "ID": "punch.spaceops.swri.org",
+          "Type": "URL"
+        },
         "pvedge.northropgrumman.com": {
           "ID": "pvedge.northropgrumman.com",
+          "Type": "URL"
+        },
+        "pwc.swri.org": {
+          "ID": "pwc.swri.org",
+          "Type": "URL"
+        },
+        "pwchange.div18.swri.org": {
+          "ID": "pwchange.div18.swri.org",
           "Type": "URL"
         },
         "qebasent3.ca.essd.northgrum.com": {
           "ID": "qebasent3.ca.essd.northgrum.com",
           "Type": "URL"
         },
+        "qrs.swri.org": {
+          "ID": "qrs.swri.org",
+          "Type": "URL"
+        },
         "queenfish.ca.essd.northgrum.com": {
           "ID": "queenfish.ca.essd.northgrum.com",
+          "Type": "URL"
+        },
+        "rd-rosi-images.d10.us.swri.org": {
+          "ID": "rd-rosi-images.d10.us.swri.org",
           "Type": "URL"
         },
         "register-test.myngc.com": {
@@ -97231,12 +97359,20 @@
           "ID": "relaywest.northgrum.com",
           "Type": "URL"
         },
+        "remedy-web-test.d10.us.swri.org": {
+          "ID": "remedy-web-test.d10.us.swri.org",
+          "Type": "URL"
+        },
         "remoteaccess.northropgrumman.com": {
           "ID": "remoteaccess.northropgrumman.com",
           "Type": "URL"
         },
         "reports.benefits.northgrum.com": {
           "ID": "reports.benefits.northgrum.com",
+          "Type": "URL"
+        },
+        "resapp.swri.org": {
+          "ID": "resapp.swri.org",
           "Type": "URL"
         },
         "rosebud.ca.essd.northgrum.com": {
@@ -97311,6 +97447,10 @@
           "ID": "seavin.ts.northropgrumman.com",
           "Type": "URL"
         },
+        "securemail.swri.org": {
+          "ID": "securemail.swri.org",
+          "Type": "URL"
+        },
         "seic.ms.northropgrumman.com": {
           "ID": "seic.ms.northropgrumman.com",
           "Type": "URL"
@@ -97325,6 +97465,14 @@
         },
         "sftp.myngc.com": {
           "ID": "sftp.myngc.com",
+          "Type": "URL"
+        },
+        "sgdmz1.d10.us.swri.org": {
+          "ID": "sgdmz1.d10.us.swri.org",
+          "Type": "URL"
+        },
+        "share.div18.swri.org": {
+          "ID": "share.div18.swri.org",
           "Type": "URL"
         },
         "sharecenter.myngc.com": {
@@ -97375,6 +97523,10 @@
           "ID": "source1.div18dmz.local",
           "Type": "URL"
         },
+        "spaceops.swri.org": {
+          "ID": "spaceops.swri.org",
+          "Type": "URL"
+        },
         "sslebxdnx01.northgrum.com": {
           "ID": "sslebxdnx01.northgrum.com",
           "Type": "URL"
@@ -97389,6 +97541,10 @@
         },
         "staffuptest.ms.northropgrumman.com": {
           "ID": "staffuptest.ms.northropgrumman.com",
+          "Type": "URL"
+        },
+        "stash.spaceops.swri.org": {
+          "ID": "stash.spaceops.swri.org",
           "Type": "URL"
         },
         "sugarscoop.ca.essd.northgrum.com": {
@@ -97599,6 +97755,10 @@
           "ID": "vagwebedge19.plte.ngc.com",
           "Type": "URL"
         },
+        "valassis-codev.d10.us.swri.org": {
+          "ID": "valassis-codev.d10.us.swri.org",
+          "Type": "URL"
+        },
         "valebtpdepopgtm-c01.northropgrumman.com": {
           "ID": "valebtpdepopgtm-c01.northropgrumman.com",
           "Type": "URL"
@@ -97751,6 +97911,10 @@
           "ID": "yorktown.ca.essd.northgrum.com",
           "Type": "URL"
         },
+        "youtrack.div18.swri.org": {
+          "ID": "youtrack.div18.swri.org",
+          "Type": "URL"
+        },
         "ztna.myngc.com": {
           "ID": "ztna.myngc.com",
           "Type": "URL"
@@ -97759,10 +97923,6 @@
       "OutScope": {
         "allegro.boulder.swri.edu": {
           "ID": "allegro.boulder.swri.edu",
-          "Type": "URL"
-        },
-        "apio.swri.org": {
-          "ID": "apio.swri.org",
           "Type": "URL"
         },
         "aspera-3.org": {
@@ -97777,16 +97937,8 @@
           "ID": "cassinimag.space.swri.edu",
           "Type": "URL"
         },
-        "ccas.swri.org": {
-          "ID": "ccas.swri.org",
-          "Type": "URL"
-        },
         "ceres.space.swri.edu": {
           "ID": "ceres.space.swri.edu",
-          "Type": "URL"
-        },
-        "cex260-edge-1.swri.org": {
-          "ID": "cex260-edge-1.swri.org",
           "Type": "URL"
         },
         "classlab.space.swri.edu": {
@@ -97799,18 +97951,6 @@
         },
         "codice.space.swri.edu": {
           "ID": "codice.space.swri.edu",
-          "Type": "URL"
-        },
-        "comms.chem.swri.org": {
-          "ID": "comms.chem.swri.org",
-          "Type": "URL"
-        },
-        "confluence-public.d10.us.swri.org": {
-          "ID": "confluence-public.d10.us.swri.org",
-          "Type": "URL"
-        },
-        "confluence.spaceops.swri.org": {
-          "ID": "confluence.spaceops.swri.org",
           "Type": "URL"
         },
         "cusp.space.swri.edu": {
@@ -97841,32 +97981,12 @@
           "ID": "eon.space.swri.edu",
           "Type": "URL"
         },
-        "epc03.swri.org": {
-          "ID": "epc03.swri.org",
-          "Type": "URL"
-        },
         "erock.space.swri.edu": {
           "ID": "erock.space.swri.edu",
           "Type": "URL"
         },
-        "et.swri.org": {
-          "ID": "et.swri.org",
-          "Type": "URL"
-        },
         "europauvs.space.swri.edu": {
           "ID": "europauvs.space.swri.edu",
-          "Type": "URL"
-        },
-        "fdlrdportal.swri.org": {
-          "ID": "fdlrdportal.swri.org",
-          "Type": "URL"
-        },
-        "filetransfer.swri.org": {
-          "ID": "filetransfer.swri.org",
-          "Type": "URL"
-        },
-        "fs.us.swri.org": {
-          "ID": "fs.us.swri.org",
           "Type": "URL"
         },
         "geoviz.space.swri.edu": {
@@ -97875,14 +97995,6 @@
         },
         "grad.space.swri.edu": {
           "ID": "grad.space.swri.edu",
-          "Type": "URL"
-        },
-        "grain.d10.us.swri.org": {
-          "ID": "grain.d10.us.swri.org",
-          "Type": "URL"
-        },
-        "h4ydev.d10.us.swri.org": {
-          "ID": "h4ydev.d10.us.swri.org",
           "Type": "URL"
         },
         "heliopub.space.swri.edu": {
@@ -98105,28 +98217,8 @@
           "ID": "https://uat2.acqcenter.com",
           "Type": "URL"
         },
-        "ibex.swri.org": {
-          "ID": "ibex.swri.org",
-          "Type": "URL"
-        },
         "inms-support.space.swri.edu": {
           "ID": "inms-support.space.swri.edu",
-          "Type": "URL"
-        },
-        "jdmspecifications.swri.org": {
-          "ID": "jdmspecifications.swri.org",
-          "Type": "URL"
-        },
-        "jira-public.d10.us.swri.org": {
-          "ID": "jira-public.d10.us.swri.org",
-          "Type": "URL"
-        },
-        "jira-sm-public.d10.us.swri.org": {
-          "ID": "jira-sm-public.d10.us.swri.org",
-          "Type": "URL"
-        },
-        "jira.spaceops.swri.org": {
-          "ID": "jira.spaceops.swri.org",
           "Type": "URL"
         },
         "juiceuvs.space.swri.edu": {
@@ -98141,24 +98233,12 @@
           "ID": "junoworkshop.space.swri.edu",
           "Type": "URL"
         },
-        "ky-demo.d10.us.swri.org": {
-          "ID": "ky-demo.d10.us.swri.org",
-          "Type": "URL"
-        },
         "lamp.space.swri.edu": {
           "ID": "lamp.space.swri.edu",
           "Type": "URL"
         },
-        "lucy.swri.org": {
-          "ID": "lucy.swri.org",
-          "Type": "URL"
-        },
         "mad-cuda.space.swri.edu": {
           "ID": "mad-cuda.space.swri.edu",
-          "Type": "URL"
-        },
-        "mail.spaceops.swri.org": {
-          "ID": "mail.spaceops.swri.org",
           "Type": "URL"
         },
         "mattermost.boulder.swri.edu": {
@@ -98189,26 +98269,6 @@
           "ID": "nc.space.swri.edu",
           "Type": "URL"
         },
-        "nfsp.swri.org": {
-          "ID": "nfsp.swri.org",
-          "Type": "URL"
-        },
-        "npsscore.div18.swri.org": {
-          "ID": "npsscore.div18.swri.org",
-          "Type": "URL"
-        },
-        "ns2-e.swri.org": {
-          "ID": "ns2-e.swri.org",
-          "Type": "URL"
-        },
-        "nt01-isl.d01.us.swri.org": {
-          "ID": "nt01-isl.d01.us.swri.org",
-          "Type": "URL"
-        },
-        "pegasus.swri.org": {
-          "ID": "pegasus.swri.org",
-          "Type": "URL"
-        },
         "phidrates.space.swri.edu": {
           "ID": "phidrates.space.swri.edu",
           "Type": "URL"
@@ -98217,44 +98277,12 @@
           "ID": "planetarysciences.space.swri.edu",
           "Type": "URL"
         },
-        "proget-public.d10.us.swri.org": {
-          "ID": "proget-public.d10.us.swri.org",
-          "Type": "URL"
-        },
         "progress-uiowa-physics.space.swri.edu": {
           "ID": "progress-uiowa-physics.space.swri.edu",
           "Type": "URL"
         },
         "pubdata.space.swri.edu": {
           "ID": "pubdata.space.swri.edu",
-          "Type": "URL"
-        },
-        "punch.spaceops.swri.org": {
-          "ID": "punch.spaceops.swri.org",
-          "Type": "URL"
-        },
-        "pwc.swri.org": {
-          "ID": "pwc.swri.org",
-          "Type": "URL"
-        },
-        "pwchange.div18.swri.org": {
-          "ID": "pwchange.div18.swri.org",
-          "Type": "URL"
-        },
-        "qrs.swri.org": {
-          "ID": "qrs.swri.org",
-          "Type": "URL"
-        },
-        "rd-rosi-images.d10.us.swri.org": {
-          "ID": "rd-rosi-images.d10.us.swri.org",
-          "Type": "URL"
-        },
-        "remedy-web-test.d10.us.swri.org": {
-          "ID": "remedy-web-test.d10.us.swri.org",
-          "Type": "URL"
-        },
-        "resapp.swri.org": {
-          "ID": "resapp.swri.org",
           "Type": "URL"
         },
         "rhessi16.boulder.swri.edu": {
@@ -98273,32 +98301,12 @@
           "ID": "securemail.swri.edu",
           "Type": "URL"
         },
-        "securemail.swri.org": {
-          "ID": "securemail.swri.org",
-          "Type": "URL"
-        },
-        "sgdmz1.d10.us.swri.org": {
-          "ID": "sgdmz1.d10.us.swri.org",
-          "Type": "URL"
-        },
-        "share.div18.swri.org": {
-          "ID": "share.div18.swri.org",
-          "Type": "URL"
-        },
-        "spaceops.swri.org": {
-          "ID": "spaceops.swri.org",
-          "Type": "URL"
-        },
         "sphere.boulder.swri.edu": {
           "ID": "sphere.boulder.swri.edu",
           "Type": "URL"
         },
         "sswrf.boulder.swri.edu": {
           "ID": "sswrf.boulder.swri.edu",
-          "Type": "URL"
-        },
-        "stash.spaceops.swri.org": {
-          "ID": "stash.spaceops.swri.org",
           "Type": "URL"
         },
         "swap.space.swri.edu": {
@@ -98321,10 +98329,6 @@
           "ID": "uvsops.space.swri.edu",
           "Type": "URL"
         },
-        "valassis-codev.d10.us.swri.org": {
-          "ID": "valassis-codev.d10.us.swri.org",
-          "Type": "URL"
-        },
         "vseo.space.swri.edu": {
           "ID": "vseo.space.swri.edu",
           "Type": "URL"
@@ -98340,13 +98344,9 @@
         "yes.space.swri.edu": {
           "ID": "yes.space.swri.edu",
           "Type": "URL"
-        },
-        "youtrack.div18.swri.org": {
-          "ID": "youtrack.div18.swri.org",
-          "Type": "URL"
         }
       },
-      "Hash": "72c5d64a0af034645f28001bd1730db23a26e3dfb73cafebd0492e816f34e163"
+      "Hash": "3111fe8eb200375a2f4fdd32f66b9c3c447bb62b411d1009065182cb6583fa42"
     },
     "h1:disclosure-assistance": {
       "Key": "disclosure-assistance",
@@ -98522,7 +98522,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a97b6975be40d4080d4b59e641317a114f2f3d3a28cb2a8ba51ca0d446e2a6fc"
+      "Hash": "554e723267c4c04073f9ebb18e392f2d3e4305329806b6aa0e33e3b9464e7617"
     },
     "h1:docusign": {
       "Key": "docusign",
@@ -100509,7 +100509,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4df8a50cbefce953a65e2f8cb076150b9637aa4589031d8b04d21bb57a9d48e1"
+      "Hash": "bce6e4743586ff4ff34e44b8e85c7f4d6ebfcbd2f4392a8e264b950e3bfa7c09"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -107312,7 +107312,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "40d9faf5924a14d024d4332fa7f563f932298866f95bd6c897764c1b9938dd11"
+      "Hash": "8a12da018f4109c70cb475baf21c5818b8e38fcee63b7875ee13e4186462fac4"
     },
     "h1:ferrero": {
       "Key": "ferrero",
@@ -131424,6 +131424,10 @@
           "ID": "http://mvafcu-dn.financial-net.com",
           "Type": "URL"
         },
+        "http://mvafcu.org": {
+          "ID": "http://mvafcu.org",
+          "Type": "URL"
+        },
         "http://mvafcu.vbwebservices.com": {
           "ID": "http://mvafcu.vbwebservices.com",
           "Type": "URL"
@@ -144548,6 +144552,10 @@
           "ID": "nwccu-dc.cert.fec-dc.fiservapps.com",
           "Type": "URL"
         },
+        "nwccu-dn.financial-net.com": {
+          "ID": "nwccu-dn.financial-net.com",
+          "Type": "URL"
+        },
         "nwfcu.caaweb.com": {
           "ID": "nwfcu.caaweb.com",
           "Type": "URL"
@@ -151584,6 +151592,10 @@
           "ID": "unitybank-p2.onlinebank.com",
           "Type": "URL"
         },
+        "unitycatholiccu-admin.originate.fiservapps.com": {
+          "ID": "unitycatholiccu-admin.originate.fiservapps.com",
+          "Type": "URL"
+        },
         "unitycatholiccu.originate.fiservapps.com": {
           "ID": "unitycatholiccu.originate.fiservapps.com",
           "Type": "URL"
@@ -153543,7 +153555,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "47898557b733a316c3582e1b8e2465b234384c6d6e77d80c099d561b050e06cb"
+      "Hash": "d06b8b12855378051d5ef4f5f03a70144592ec7cd88582d72422e61d12c7c1ed"
     },
     "h1:flexport_vdp": {
       "Key": "flexport_vdp",
@@ -153749,7 +153761,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "eed110d9629c02234b3e539cd1c1f38f540a6b9a33b89aab6a60448f36c3ba72"
+      "Hash": "16b16da4d7d26ac265bd7337eced36068b2621ea136e78c1acb606dcba65a9c2"
     },
     "h1:flutteruki": {
       "Key": "flutteruki",
@@ -154079,7 +154091,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4e7f08e3191fe5f553d74e20773a5c2f33b3f8c44547866f0a83510a585ddfea"
+      "Hash": "c10403534b20cdba13120245eef78623e449946c9c17cf121939c4b1f6f2d664"
     },
     "h1:ford": {
       "Key": "ford",
@@ -157521,7 +157533,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6c1701e636cea0c114b30f930d91099be80c19935672d0c3b5b057eacb6c5825"
+      "Hash": "c33ebc7962d6dca96e7664aba5032fd9b1f6ea3d17ea81c8c4cbfd37fc3b4f07"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -165991,7 +166003,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2a6f833a2de4c3bba803e2fe9ce3f2f29d3be4311d7c4b8346ed35fb932cfa6b"
+      "Hash": "920083a232e16d241cc94f1a74d2400ac3ff7f242c3c1f4b968ab1143783e718"
     },
     "h1:ips": {
       "Key": "ips",
@@ -175311,7 +175323,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c5e1762614bc96be9ba17fd8dcb9f98016035bb6e189a586611ab63c4dba1316"
+      "Hash": "ecded91c7d453714a001c2d1e07c2bdccc2e5b47bbb4de6b78bc23fadf4ac229"
     },
     "h1:kayak": {
       "Key": "kayak",
@@ -175397,7 +175409,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d71a41b260c6eadeced7b5d9190e3b84206cdfac5acea95d1e4502e2fcf7d889"
+      "Hash": "a220b1ae7ae25582ca33ec1e21c546cbb5b8688b0cee4332d9cabf33c0d5144d"
     },
     "h1:keybank": {
       "Key": "keybank",
@@ -177833,7 +177845,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ceb52aafcc7d3b81059ed5a2f61f89bd3846ea003e8ed7338b36959acacc12bd"
+      "Hash": "ccda1edfa967099f5246e60ebd56059431fdab90e31ba3c2aee8dff82e291da2"
     },
     "h1:magic-eden": {
       "Key": "magic-eden",
@@ -182415,7 +182427,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6eb4ea806420bb2ce69c55ed98bbc6d896bb8fa204d83c1ee87c9c6601966dd5"
+      "Hash": "8f6114daf5c189bf24f65f6535a13c6daf7138abc2e00820de5e5bde6f9ed7a1"
     },
     "h1:msci": {
       "Key": "msci",
@@ -187481,7 +187493,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a5082299b4dd8b09689e5e365772aee2d92aa02ea42ce2b494700095e7676aed"
+      "Hash": "32e92984a1459dc61aabc7cb92d200c5b4df8e8c4f8befe8e0e7c0697994e4c3"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -188099,7 +188111,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "11a07288a1e9158c76219f75a1dce2bd0bdeb02576fb0d1109093092764b2f0c"
+      "Hash": "499aaba3f59b07655518c7c934e54f5cbd610b133b006731cb8c309c759bb029"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -189651,7 +189663,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "4dd3fe1765223ef02e555ad1f5d4b2b21bef5d56dec001185288121647dbc927"
+      "Hash": "b215e491dc08441426393fe3f5d871e0773859c676a11bbd909fe4f85976e59d"
     },
     "h1:owox": {
       "Key": "owox",
@@ -192487,7 +192499,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "173870ba0101234dcd3a827a913c422ecf16ff064e9293307c7e62bb87b2c565"
+      "Hash": "495554902b1262ea4089166bf98e5d605cdee3d51c98a1434581f450c096611c"
     },
     "h1:prism_vdp": {
       "Key": "prism_vdp",
@@ -192965,7 +192977,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "11702ded11858c05376b7062f4d3c8af0b5aa7864efc7922c5139d33e08b8f0c"
+      "Hash": "092e98a930d6b13c38ecb2b9c49c094b58ba0722b0fd069db4a439f9b5373f31"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -195334,7 +195346,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "39269acc9e210955b5d4248c0e23cea0ef5c06a35f9990bf4516c54f0d3d6b97"
+      "Hash": "b2107fd89fe0423f742fb4a4fe0f3c5288a54783028d3e2be99c558e8cd3d24a"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -195437,7 +195449,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5584c4916c9cff2f4738e90ffabab2a6d5f6b84e084d2e02563ed72ec80ba325"
+      "Hash": "e454e4d1f824ae8628a6b1e338fb6e1416970a2f8022e0c27aabbf9148038a8b"
     },
     "h1:scopely": {
       "Key": "scopely",
@@ -196149,7 +196161,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "ae5d44f0e1deca07d171b1286ea0747c2c4d0be5bb4c2e4dccfd9a2c80572ba9"
+      "Hash": "6bac0a4b712418cbf6f48ae6e57bfa7d505e0f75372eeea3d57a6084659c2e6c"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -197080,7 +197092,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c3a1ee07ec46c85a6a629af14e4c90a7e91eb08d83821c93c99d9aceef9358b8"
+      "Hash": "f82ccd3651bde03b0be4f5c44ba5587b77b4d6f5b5e96df00183d3573a4e3f4d"
     },
     "h1:sony": {
       "Key": "sony",
@@ -198317,7 +198329,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "1b5d1579da7d347c49568d5e5e904f404b9e93de96013dc41f8fe4497904fc01"
+      "Hash": "f09d0734584e21c41c46499ab1193fad6a615ff0d83c80ec001d6b5bc0d4731e"
     },
     "h1:taxwell-vdp": {
       "Key": "taxwell-vdp",
@@ -200508,7 +200520,7 @@
         },
         "api.sendgrid.com": {
           "ID": "api.sendgrid.com",
-          "Type": "URL"
+          "Type": "API"
         },
         "api.stytch.com": {
           "ID": "api.stytch.com",
@@ -200933,7 +200945,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "63584606cc0c31073c6d2c1c91099600b1ac31d0ef759f30d214f284fa1a13c7"
+      "Hash": "be628ad52b5c902dd74a6d49fb630d410733ded605eae6283d96d2111648b913"
     },
     "h1:uber": {
       "Key": "uber",
@@ -205975,7 +205987,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "08e6cb19160c03ab46acb669bca76f572c89d37fb51fadffbd911cbd7297be34"
+      "Hash": "c0f59e27ea4d58ed17ce9f4d51ce4a9333cd19084d51273a536590b584115dbd"
     },
     "h1:zurich-insurance": {
       "Key": "zurich-insurance",
@@ -206152,7 +206164,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "99842f6761bc69cdbc7a78358cca0416353ee881f6a83efd40bec6fbc81fc5eb"
+      "Hash": "d00dd238d30e8aa70e8b7015f65b55f85f816157b9a90a2bde29cf89ef829167"
     },
     "in:0083a5bf-e54f-4f79-a972-12a795272c8b": {
       "Key": "0083a5bf-e54f-4f79-a972-12a795272c8b",
@@ -208087,6 +208099,184 @@
       },
       "OutScope": {},
       "Hash": "2c807da526de819b4837d46df2428cde441988c8b1ee4c67148d10ca7caa1b04"
+    },
+    "in:2cf03670-6a2d-4ac7-8b1e-2e0d84338204": {
+      "Key": "2cf03670-6a2d-4ac7-8b1e-2e0d84338204",
+      "Name": "UZ Leuven",
+      "URL": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+      "InScope": {
+        "*.contactallerg(y|ie).uzleuven.be": {
+          "ID": "*.contactallerg(y|ie).uzleuven.be",
+          "Type": "wildcard"
+        },
+        "*.kwsdose.be": {
+          "ID": "*.kwsdose.be",
+          "Type": "wildcard"
+        },
+        "*.mir.uzleuven.be": {
+          "ID": "*.mir.uzleuven.be",
+          "Type": "wildcard"
+        },
+        "*.playuzleuven.be": {
+          "ID": "*.playuzleuven.be",
+          "Type": "wildcard"
+        },
+        "*.uzleuven.*": {
+          "ID": "*.uzleuven.*",
+          "Type": "wildcard"
+        },
+        "*dev.uzleuven.be": {
+          "ID": "*dev.uzleuven.be",
+          "Type": "wildcard"
+        },
+        "*idp*.uzleuven.be": {
+          "ID": "*idp*.uzleuven.be",
+          "Type": "wildcard"
+        },
+        "*stag*.uzleuven.be": {
+          "ID": "*stag*.uzleuven.be",
+          "Type": "wildcard"
+        },
+        "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111": {
+          "ID": "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
+          "Type": "iprange"
+        },
+        "autodiscover.uzleuven.be": {
+          "ID": "autodiscover.uzleuven.be",
+          "Type": "url"
+        },
+        "cardsonline.azdiest.be": {
+          "ID": "cardsonline.azdiest.be",
+          "Type": "url"
+        },
+        "cardsonlinetst.azdiest.be": {
+          "ID": "cardsonlinetst.azdiest.be",
+          "Type": "url"
+        },
+        "ecrf.uzleuven.be": {
+          "ID": "ecrf.uzleuven.be",
+          "Type": "url"
+        },
+        "extranet-asa.uzleuven.be": {
+          "ID": "extranet-asa.uzleuven.be",
+          "Type": "url"
+        },
+        "extranet.uzleuven.be": {
+          "ID": "extranet.uzleuven.be",
+          "Type": "url"
+        },
+        "files.uzleuven.be": {
+          "ID": "files.uzleuven.be",
+          "Type": "url"
+        },
+        "kumulus.uzleuven.be": {
+          "ID": "kumulus.uzleuven.be",
+          "Type": "url"
+        },
+        "liquidfiles.uzleuven.be": {
+          "ID": "liquidfiles.uzleuven.be",
+          "Type": "url"
+        },
+        "liquidfilestest.uzleuven.be": {
+          "ID": "liquidfilestest.uzleuven.be",
+          "Type": "url"
+        },
+        "mijnacc.uzleuven.be": {
+          "ID": "mijnacc.uzleuven.be",
+          "Type": "url"
+        },
+        "mirc.uzleuven.be": {
+          "ID": "mirc.uzleuven.be",
+          "Type": "url"
+        },
+        "mx1.uzleuven.be": {
+          "ID": "mx1.uzleuven.be",
+          "Type": "url"
+        },
+        "mx2.uzleuven.be": {
+          "ID": "mx2.uzleuven.be",
+          "Type": "url"
+        },
+        "pcrstudioruzb.uzleuven.be": {
+          "ID": "pcrstudioruzb.uzleuven.be",
+          "Type": "url"
+        },
+        "prddnighting01.uzleuven.be": {
+          "ID": "prddnighting01.uzleuven.be",
+          "Type": "url"
+        },
+        "prddsplunkhf.uzleuven.be": {
+          "ID": "prddsplunkhf.uzleuven.be",
+          "Type": "url"
+        },
+        "random.uzleuven.be/random/": {
+          "ID": "random.uzleuven.be/random/",
+          "Type": "url"
+        },
+        "sts.uzleuven.be": {
+          "ID": "sts.uzleuven.be",
+          "Type": "url"
+        },
+        "teststs.uzleuven.be": {
+          "ID": "teststs.uzleuven.be",
+          "Type": "url"
+        },
+        "w1.uzleuven.be": {
+          "ID": "w1.uzleuven.be",
+          "Type": "url"
+        },
+        "w1.uzleuven.be/random": {
+          "ID": "w1.uzleuven.be/random",
+          "Type": "url"
+        },
+        "wp5-truststroke.uzleuven.be": {
+          "ID": "wp5-truststroke.uzleuven.be",
+          "Type": "url"
+        },
+        "www.uzleuven.be": {
+          "ID": "www.uzleuven.be",
+          "Type": "url"
+        },
+        "ziekenhuisschool.be": {
+          "ID": "ziekenhuisschool.be",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "boekentoy.firebaseio.com": {
+          "ID": "boekentoy.firebaseio.com",
+          "Type": "url"
+        },
+        "boekentoy.uzleuven.be": {
+          "ID": "boekentoy.uzleuven.be",
+          "Type": "url"
+        },
+        "jobs.uzleuven.be": {
+          "ID": "jobs.uzleuven.be",
+          "Type": "url"
+        },
+        "laboboeken.uzleuven.be": {
+          "ID": "laboboeken.uzleuven.be",
+          "Type": "url"
+        },
+        "uz-laboboeken.firebaseio.com": {
+          "ID": "uz-laboboeken.firebaseio.com",
+          "Type": "url"
+        },
+        "uz-laboboeken.web.app": {
+          "ID": "uz-laboboeken.web.app",
+          "Type": "url"
+        },
+        "uzleuven.atlassian.net": {
+          "ID": "uzleuven.atlassian.net",
+          "Type": "url"
+        },
+        "vacatures.uzleuven.be": {
+          "ID": "vacatures.uzleuven.be",
+          "Type": "url"
+        }
+      },
+      "Hash": "553bcda14b932cb8623bbd9f4d524e48a91197f2521a7b05789d6f21d4e2aa7a"
     },
     "in:2de0c513-e7e8-4e4f-b0d9-885e45c1f767": {
       "Key": "2de0c513-e7e8-4e4f-b0d9-885e45c1f767",
