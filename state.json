@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-13T21:30:47Z",
+  "captured_at": "2026-10-14T00:35:03Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -5600,9 +5600,25 @@
       "Name": "Fivetran",
       "URL": "https://bugcrowd.com/engagements/fivetran-mbb-og",
       "InScope": {
+        "https://*.dbt.com": {
+          "ID": "https://*.dbt.com",
+          "Type": "website"
+        },
+        "https://*.dbtlabs.com": {
+          "ID": "https://*.dbtlabs.com",
+          "Type": "website"
+        },
+        "https://*.getdbt.com": {
+          "ID": "https://*.getdbt.com",
+          "Type": "website"
+        },
         "https://fivetran.com/login": {
           "ID": "https://fivetran.com/login",
           "Type": "website"
+        },
+        "https://it-fivetran.com": {
+          "ID": "https://it-fivetran.com",
+          "Type": "other"
         }
       },
       "OutScope": {
@@ -5643,7 +5659,7 @@
           "Type": "website"
         }
       },
-      "Hash": "db9f34b7ae5d827e97dd0a6bafbfd87a7db605093a20504290d98783fec0bd61"
+      "Hash": "611a32db809b31fe585c394ee8b4bb7a786b07fdc0e27523f0f371f1b85b5cc0"
     },
     "bc:Flourish": {
       "Key": "Flourish",
@@ -24496,7 +24512,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4bd9d59c829d528f0435e05e143146626bede239798dc420746ed24ecdaf4d21"
+      "Hash": "ff65d0b3fe53bef0c9f29eb96bb79f9ae2e063f04aebe2b2876d7731ee8eb71e"
     },
     "h1:aegean_airlines_vdp": {
       "Key": "aegean_airlines_vdp",
@@ -32707,6 +32723,10 @@
           "ID": "https://github.com/awslabs/*",
           "Type": "WILDCARD"
         },
+        "https://github.com/deepjavalibrary/*": {
+          "ID": "https://github.com/deepjavalibrary/*",
+          "Type": "WILDCARD"
+        },
         "https://github.com/strands-agents/*": {
           "ID": "https://github.com/strands-agents/*",
           "Type": "WILDCARD"
@@ -32726,7 +32746,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "72d056e6c9d273f22d7fb0b644002ca2e174e753f8658f3eb71a2bf3bc718f45"
+      "Hash": "80b2175c5af1b2d905e4714c65809e2eeb27f0a13b891a9ec1bb948fd5467ada"
     },
     "h1:baird_vdp": {
       "Key": "baird_vdp",
@@ -32985,7 +33005,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e003a80499f07addd200d3ceda75eba07ba6f531d4641b5e919112e044987b8b"
+      "Hash": "68bc0a0284e49d7da12419e44100f075cf7fc0c3b50c281df45d848ff54035d8"
     },
     "h1:bcny": {
       "Key": "bcny",
@@ -33608,7 +33628,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "43ccea6dbedd8a5d2ec7c0fd978c5015fb89e135efe0898392ba374aa94169c0"
+      "Hash": "31e15b724b0735be071297af851d52cb2806118bf9b55f5fb40764b6a738745e"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -175114,7 +175134,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "23efa4a33da2f6a1a0c76ab7098c6b51e01e2174794004ce121a958371c40bb1"
+      "Hash": "2e750b08bd505814236e5e0279555c1fe103d896154ea5a9f9403af84c1c02a7"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -188018,7 +188038,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "846650641ce377a1b4bf4da4019f25c2579610b3a7a692f8b9d359decb1ad31c"
+      "Hash": "74da09a6e059f879ba8890f5f2bc8037fcf6e2986274e99fe80fedee9bb47a2c"
     },
     "h1:nisc": {
       "Key": "nisc",
@@ -192489,7 +192509,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "173870ba0101234dcd3a827a913c422ecf16ff064e9293307c7e62bb87b2c565"
+      "Hash": "6c73032d5c122443f2f41280235be34fc5c6d94ed6957b208a9b7bb8d3b84e86"
     },
     "h1:prism_vdp": {
       "Key": "prism_vdp",
@@ -194257,7 +194277,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "dc0340ab7ceed07967563879c89143e9385806f48ef832008fe4781ccf8e195a"
+      "Hash": "1c2a0c3c65d2ac164373aa88ab3d51000ac1daf737e53f3fde8a36f68ad68c6d"
     },
     "h1:ring": {
       "Key": "ring",
@@ -197060,7 +197080,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0050f1f8b786c8e8dc662644f23457d60e630e3436fff82f85a49a5a64231d39"
+      "Hash": "a5202ddbadb63e9d434402430c21fdf0b541dd8e7d6686558f6520373f1be0a4"
     },
     "h1:solidus": {
       "Key": "solidus",
@@ -197335,7 +197355,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "02bfb1a2c8abba00e61b99d3e6614dd012275b08bc196bf34ce951f478091df8"
+      "Hash": "159ab7eb167e80cfa80b3554f8be563735fa5b057d41c39ca515d893e17e5464"
     },
     "h1:stagingdoteverydotorg": {
       "Key": "stagingdoteverydotorg",
@@ -198588,7 +198608,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e98725ff70d600490ab74723c671ef87affeeee11491391dadbf7811ff560ea9"
+      "Hash": "12c881ef5574af266ca63a49140987d2d1f3bdf4153a7402030e5c43ba24e189"
     },
     "h1:temu": {
       "Key": "temu",
@@ -200484,13 +200504,13 @@
           "ID": "*.sip.*.twilio.com",
           "Type": "WILDCARD"
         },
+        "1console.twilio.com": {
+          "ID": "1console.twilio.com",
+          "Type": "URL"
+        },
         "Any host/web property verified to be owned by Twilio et al.": {
           "ID": "Any host/web property verified to be owned by Twilio et al.",
           "Type": "OTHER"
-        },
-        "Twilio APIs": {
-          "ID": "Twilio APIs",
-          "Type": "API"
         },
         "accounts.twilio.com": {
           "ID": "accounts.twilio.com",
@@ -200672,25 +200692,9 @@
           "ID": "help.twilio.com",
           "Type": "URL"
         },
-        "http://help.twilio.com": {
-          "ID": "http://help.twilio.com",
-          "Type": "URL"
-        },
-        "http://tsock.us1.twilio.com": {
-          "ID": "http://tsock.us1.twilio.com",
-          "Type": "URL"
-        },
-        "http://twilio.com/blog": {
-          "ID": "http://twilio.com/blog",
-          "Type": "URL"
-        },
         "https://github.com/stytchauth": {
           "ID": "https://github.com/stytchauth",
           "Type": "SOURCE_CODE"
-        },
-        "https://segment.com/docs/connections/sources/": {
-          "ID": "https://segment.com/docs/connections/sources/",
-          "Type": "URL"
         },
         "https://stytch.com/blog": {
           "ID": "https://stytch.com/blog",
@@ -200698,30 +200702,6 @@
         },
         "https://stytch.com/dashboard": {
           "ID": "https://stytch.com/dashboard",
-          "Type": "URL"
-        },
-        "https://www.authy.com/download/": {
-          "ID": "https://www.authy.com/download/",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
-        "https://www.twilio.com/docs/authy/api": {
-          "ID": "https://www.twilio.com/docs/authy/api",
-          "Type": "API"
-        },
-        "https://www.twilio.com/docs/libraries": {
-          "ID": "https://www.twilio.com/docs/libraries",
-          "Type": "OTHER"
-        },
-        "https://www.twilio.com/docs/verify/api": {
-          "ID": "https://www.twilio.com/docs/verify/api",
-          "Type": "API"
-        },
-        "https://www.twilio.com/en-us/blog/get-started-webrtc": {
-          "ID": "https://www.twilio.com/en-us/blog/get-started-webrtc",
-          "Type": "OTHER"
-        },
-        "https://www.twilio.com/login?g=%2fconsole%3f\u0026t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c": {
-          "ID": "https://www.twilio.com/login?g=%2fconsole%3f\u0026t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c",
           "Type": "URL"
         },
         "iam.twilio.com": {
@@ -200862,40 +200842,8 @@
         }
       },
       "OutScope": {
-        "All Kurento domains": {
-          "ID": "All Kurento domains",
-          "Type": "OTHER"
-        },
         "All Twilio acquisitions unless explicitly listed as in-scope": {
           "ID": "All Twilio acquisitions unless explicitly listed as in-scope",
-          "Type": "OTHER"
-        },
-        "All Twilio acquisitions until explicitly noted under the in-scope targets": {
-          "ID": "All Twilio acquisitions until explicitly noted under the in-scope targets",
-          "Type": "OTHER"
-        },
-        "Electric Imp and its assets": {
-          "ID": "Electric Imp and its assets",
-          "Type": "OTHER"
-        },
-        "Third-party services": {
-          "ID": "Third-party services",
-          "Type": "OTHER"
-        },
-        "Twilio Quest": {
-          "ID": "Twilio Quest",
-          "Type": "OTHER"
-        },
-        "Twilio Wireless": {
-          "ID": "Twilio Wireless",
-          "Type": "OTHER"
-        },
-        "TwimlBins": {
-          "ID": "TwimlBins",
-          "Type": "OTHER"
-        },
-        "Ytica and its assets": {
-          "ID": "Ytica and its assets",
           "Type": "OTHER"
         },
         "apjevents.twilio.com": {
@@ -200914,37 +200862,9 @@
           "ID": "click.sendgrid.com",
           "Type": "URL"
         },
-        "community.segment.com": {
-          "ID": "community.segment.com",
-          "Type": "URL"
-        },
         "github.com/stytchauth/sqx": {
           "ID": "github.com/stytchauth/sqx",
           "Type": "SOURCE_CODE"
-        },
-        "http://apjevents.twilio.com": {
-          "ID": "http://apjevents.twilio.com",
-          "Type": "URL"
-        },
-        "http://events.cdpweek.com": {
-          "ID": "http://events.cdpweek.com",
-          "Type": "URL"
-        },
-        "http://segment.com/contact": {
-          "ID": "http://segment.com/contact",
-          "Type": "URL"
-        },
-        "http://segment.com/jobs": {
-          "ID": "http://segment.com/jobs",
-          "Type": "URL"
-        },
-        "http://twilio.com/en-us/company/jobs": {
-          "ID": "http://twilio.com/en-us/company/jobs",
-          "Type": "URL"
-        },
-        "http://twilio.com/labs": {
-          "ID": "http://twilio.com/labs",
-          "Type": "URL"
         },
         "jobs.twilio.com": {
           "ID": "jobs.twilio.com",
@@ -201035,7 +200955,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e3b22cd07fb3aca0c9c8f608dc43efc1e0b400c611cc358542c4e27b2434559f"
+      "Hash": "58a719d86b470d6b9bd9f3627a9f5329062a3d0b81350884e1b3f914d1742d18"
     },
     "h1:uber": {
       "Key": "uber",
@@ -202105,7 +202025,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "2fce49fa244c04c6441068a49988464af9c814f92387f73ff540cca8df2802d8"
+      "Hash": "ada1e37fdde1e962b294d9919ddc94870fd469a1578293b2d6d8b49a1c4d4a70"
     },
     "h1:varonis": {
       "Key": "varonis",
@@ -209797,52 +209717,6 @@
       },
       "OutScope": {},
       "Hash": "ca0c160d17e90a49ff9c71a3d35af84dc37da1d88a11d1d468f9b2f1c9c44e5b"
-    },
-    "in:64f80113-969e-4c55-9649-8a044487941c": {
-      "Key": "64f80113-969e-4c55-9649-8a044487941c",
-      "Name": "PDQ bug bounty program",
-      "URL": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "InScope": {
-        "https://app.pdq.com/": {
-          "ID": "https://app.pdq.com/",
-          "Type": "url"
-        },
-        "https://auth2.pdq.com/": {
-          "ID": "https://auth2.pdq.com/",
-          "Type": "url"
-        },
-        "https://library.pdq.com/": {
-          "ID": "https://library.pdq.com/",
-          "Type": "url"
-        },
-        "https://portal.pdq.com/": {
-          "ID": "https://portal.pdq.com/",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "https://*.pdq.com/": {
-          "ID": "https://*.pdq.com/",
-          "Type": "wildcard"
-        },
-        "https://*.pdq.tools/": {
-          "ID": "https://*.pdq.tools/",
-          "Type": "wildcard"
-        },
-        "https://*.simplemdm.com/ ": {
-          "ID": "https://*.simplemdm.com/ ",
-          "Type": "wildcard"
-        },
-        "https://*.smartdeploy.com/ ": {
-          "ID": "https://*.smartdeploy.com/ ",
-          "Type": "wildcard"
-        },
-        "https://a.simplemdm.com/": {
-          "ID": "https://a.simplemdm.com/",
-          "Type": "url"
-        }
-      },
-      "Hash": "0d7be425b7afc235d90e72d70001778d4fd6b65bda07b72f849ca4755f5d78ec"
     },
     "in:6558543a-236f-4e98-91a3-4536e39b9c1e": {
       "Key": "6558543a-236f-4e98-91a3-4536e39b9c1e",
