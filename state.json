@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-15T01:47:29Z",
+  "captured_at": "2026-10-15T07:20:57Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -850,6 +850,59 @@
       },
       "OutScope": {},
       "Hash": "3a7b3a046c6876242658511a129e43d0b87dacf80b02c34aeab9d73b437786c6"
+    },
+    "bc:Amoeboids": {
+      "Key": "Amoeboids",
+      "Name": "Amoeboids",
+      "URL": "https://bugcrowd.com/engagements/amoeboids",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1212849/upraise-for-employee-success-with-okrs?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1212849/upraise-for-employee-success-with-okrs?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1215431/ai-powered-automated-release-notes-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1215431/ai-powered-automated-release-notes-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1217536/embedder-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1217536/embedder-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1218801/upraise-for-employee-garrison?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1218801/upraise-for-employee-garrison?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1220406/upraise-people-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1220406/upraise-people-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1221519/roadmap-portal-for-jira-service-desk?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1221519/roadmap-portal-for-jira-service-desk?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1225798/screenjar-screen-recorder-for-jira?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1225798/screenjar-screen-recorder-for-jira?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1230896/arn-confluence-helper-app?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1230896/arn-confluence-helper-app?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "71436e116613182e3f96115bce9f581d84040544d1d4b697cb56a6848f310e73"
     },
     "bc:AppFox": {
       "Key": "AppFox",
@@ -2442,6 +2495,35 @@
       },
       "Hash": "94d79dc5fae0a0ec6229e9eff5c666b9f0a3520beb336f1c9cc423e138da9e81"
     },
+    "bc:BitGo Managed Public Bug Bounty Engagement ": {
+      "Key": "BitGo Managed Public Bug Bounty Engagement ",
+      "Name": "BitGo Managed Public Bug Bounty Engagement ",
+      "URL": "https://bugcrowd.com/engagements/bitgo-mbb-og-public",
+      "InScope": {
+        "*.bitgo.com": {
+          "ID": "*.bitgo.com",
+          "Type": "website"
+        },
+        "https://app.bitgo-test.com": {
+          "ID": "https://app.bitgo-test.com",
+          "Type": "website"
+        },
+        "https://app.bitgo.com": {
+          "ID": "https://app.bitgo.com",
+          "Type": "website"
+        },
+        "https://bitgo.ae/": {
+          "ID": "https://bitgo.ae/",
+          "Type": "other"
+        },
+        "https://usdstandard.com/": {
+          "ID": "https://usdstandard.com/",
+          "Type": "other"
+        }
+      },
+      "OutScope": {},
+      "Hash": "bb04cb7a948c5e3ef530ee8d7a6d84daea4c28d7c164445b35adf6c9370709d3"
+    },
     "bc:BitGo Mobile Apps Bug Bounty Engagement ": {
       "Key": "BitGo Mobile Apps Bug Bounty Engagement ",
       "Name": "BitGo Mobile Apps Bug Bounty Engagement ",
@@ -3270,6 +3352,28 @@
         }
       },
       "Hash": "e3b3e0de4e9d7d420720fb83cd49409533dd36f752f765d625b776e92d2930ab"
+    },
+    "bc:Bullish Exchange": {
+      "Key": "Bullish Exchange",
+      "Name": "Bullish Exchange",
+      "URL": "https://bugcrowd.com/engagements/bullish-exchange",
+      "InScope": {
+        "https://api.simnext.bullish-test.com": {
+          "ID": "https://api.simnext.bullish-test.com",
+          "Type": "api"
+        },
+        "https://simnext.bullish-test.com": {
+          "ID": "https://simnext.bullish-test.com",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "*.bullish.com/": {
+          "ID": "*.bullish.com/",
+          "Type": "website"
+        }
+      },
+      "Hash": "a34c797e0573e155ee782a9edd55673f01e86c911db176ba482bb4b5b953529f"
     },
     "bc:Bullish.com": {
       "Key": "Bullish.com",
@@ -8114,6 +8218,35 @@
       "OutScope": {},
       "Hash": "6913b86b2e72a606a7f7b724b4628f343f389a87983a8b7901da2ab2f720e8cc"
     },
+    "bc:Lively Apps GmbH - marketplace Bug Bounty Program ": {
+      "Key": "Lively Apps GmbH - marketplace Bug Bounty Program ",
+      "Name": "Lively Apps GmbH - marketplace Bug Bounty Program ",
+      "URL": "https://bugcrowd.com/engagements/lively-apps",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1211199/pocketquery-sql-rest-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1211199/pocketquery-sql-rest-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1213057/lively-blogs-vibrant-news-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1213057/lively-blogs-vibrant-news-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1214272/task-reminder-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1214272/task-reminder-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224660/link-management-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224660/link-management-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1224662/usage-statistics-for-confluence?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/1224662/usage-statistics-for-confluence?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "e96a14e7dc38d80a3b9eb7617aaefe7132d02b2673757832c4edad443a4aa7ff"
+    },
     "bc:Luno Bug Bounty Program": {
       "Key": "Luno Bug Bounty Program",
       "Name": "Luno Bug Bounty Program",
@@ -12052,6 +12185,176 @@
       "OutScope": {},
       "Hash": "73c4dc0cfc3b145bacddfd585cdd37e9cf96ee49443e4ef3111e635213d50514"
     },
+    "bc:Origin Energy": {
+      "Key": "Origin Energy",
+      "Name": "Origin Energy",
+      "URL": "https://bugcrowd.com/engagements/originenergy-og1",
+      "InScope": {
+        "*.api.originenergy.com.au": {
+          "ID": "*.api.originenergy.com.au",
+          "Type": "api"
+        },
+        "*.download.originenergy.com.au": {
+          "ID": "*.download.originenergy.com.au",
+          "Type": "website"
+        },
+        "*.odcdn.com.au": {
+          "ID": "*.odcdn.com.au",
+          "Type": "website"
+        },
+        "*.origindigital-pac.com.au": {
+          "ID": "*.origindigital-pac.com.au",
+          "Type": "website"
+        },
+        "*.support.originenergy.com.au": {
+          "ID": "*.support.originenergy.com.au",
+          "Type": "website"
+        },
+        "https://api-businessportal.origin.com.au": {
+          "ID": "https://api-businessportal.origin.com.au",
+          "Type": "api"
+        },
+        "https://api-portal.originzero.com.au": {
+          "ID": "https://api-portal.originzero.com.au",
+          "Type": "api"
+        },
+        "https://api.rx.originenergy.com.au/v1/lpg/graphql": {
+          "ID": "https://api.rx.originenergy.com.au/v1/lpg/graphql",
+          "Type": "api"
+        },
+        "https://businessportal.origin.com.au": {
+          "ID": "https://businessportal.origin.com.au",
+          "Type": "website"
+        },
+        "https://customerportal.winconnect.com.au/login": {
+          "ID": "https://customerportal.winconnect.com.au/login",
+          "Type": "website"
+        },
+        "https://dataportal.originenergy.com.au": {
+          "ID": "https://dataportal.originenergy.com.au",
+          "Type": "website"
+        },
+        "https://portal-api.anz.kinergysolutions.com": {
+          "ID": "https://portal-api.anz.kinergysolutions.com",
+          "Type": "api"
+        },
+        "https://portal.anz.kinergysolutions.com": {
+          "ID": "https://portal.anz.kinergysolutions.com",
+          "Type": "website"
+        },
+        "https://portal.originzero.com.au": {
+          "ID": "https://portal.originzero.com.au",
+          "Type": "website"
+        },
+        "https://sign.originzero.com.au": {
+          "ID": "https://sign.originzero.com.au",
+          "Type": "website"
+        },
+        "https://ssu.staging.myconnect.com.au/get-connected": {
+          "ID": "https://ssu.staging.myconnect.com.au/get-connected",
+          "Type": "website"
+        },
+        "https://www.originenergy.com.au/": {
+          "ID": "https://www.originenergy.com.au/",
+          "Type": "website"
+        },
+        "https://www.winconnect.com.au/get-connected/": {
+          "ID": "https://www.winconnect.com.au/get-connected/",
+          "Type": "website"
+        },
+        "https://www.winconnect.com.au/moving-out/": {
+          "ID": "https://www.winconnect.com.au/moving-out/",
+          "Type": "website"
+        },
+        "hub.myconnect.com.au": {
+          "ID": "hub.myconnect.com.au",
+          "Type": "website"
+        },
+        "myconnect.com.au": {
+          "ID": "myconnect.com.au",
+          "Type": "website"
+        },
+        "portal.myconnect.com.au": {
+          "ID": "portal.myconnect.com.au",
+          "Type": "website"
+        },
+        "portal.myconnect.com.au/new-connection": {
+          "ID": "portal.myconnect.com.au/new-connection",
+          "Type": "website"
+        }
+      },
+      "OutScope": {
+        "https://Yourporter.com.au": {
+          "ID": "https://Yourporter.com.au",
+          "Type": "website"
+        },
+        "https://agent.compareandconnect.com.au/": {
+          "ID": "https://agent.compareandconnect.com.au/",
+          "Type": "website"
+        },
+        "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql": {
+          "ID": "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql",
+          "Type": "other"
+        },
+        "https://auth.api.originenergy.com.au/**": {
+          "ID": "https://auth.api.originenergy.com.au/**",
+          "Type": "website"
+        },
+        "https://fastconnect.co.nz": {
+          "ID": "https://fastconnect.co.nz",
+          "Type": "website"
+        },
+        "https://manufacturers.solarquotes.com.au/": {
+          "ID": "https://manufacturers.solarquotes.com.au/",
+          "Type": "website"
+        },
+        "https://origin-energy.formstack.com/**": {
+          "ID": "https://origin-energy.formstack.com/**",
+          "Type": "website"
+        },
+        "https://raywhitehomenow.com/ ": {
+          "ID": "https://raywhitehomenow.com/ ",
+          "Type": "website"
+        },
+        "https://reneweclipse.originenergy.com.au/*": {
+          "ID": "https://reneweclipse.originenergy.com.au/*",
+          "Type": "website"
+        },
+        "https://ssu.myconnect.com.au/**": {
+          "ID": "https://ssu.myconnect.com.au/**",
+          "Type": "website"
+        },
+        "https://www.compareandconnect.com.au/": {
+          "ID": "https://www.compareandconnect.com.au/",
+          "Type": "website"
+        },
+        "https://www.originenergy.com.au/moving/": {
+          "ID": "https://www.originenergy.com.au/moving/",
+          "Type": "website"
+        },
+        "https://www.solarquotes.com.au/leads/": {
+          "ID": "https://www.solarquotes.com.au/leads/",
+          "Type": "website"
+        },
+        "https://www.solarquotes.com.au/quote/start/": {
+          "ID": "https://www.solarquotes.com.au/quote/start/",
+          "Type": "website"
+        },
+        "https://www.solarquotes.com.au/quotesv2/": {
+          "ID": "https://www.solarquotes.com.au/quotesv2/",
+          "Type": "website"
+        },
+        "https://www.solarquotes.com.au/suppliers/": {
+          "ID": "https://www.solarquotes.com.au/suppliers/",
+          "Type": "website"
+        },
+        "https://www.solarquotes.com.au/wp-admin/": {
+          "ID": "https://www.solarquotes.com.au/wp-admin/",
+          "Type": "website"
+        }
+      },
+      "Hash": "fd690bd4772c94768dd1f858d77ade3bd29b0ec46781b8bacc78187822426395"
+    },
     "bc:PNI Media - Bug Bounty": {
       "Key": "PNI Media - Bug Bounty",
       "Name": "PNI Media - Bug Bounty",
@@ -14738,6 +15041,27 @@
         }
       },
       "Hash": "edbb0b5a08ec035a8907798f20077282790fdc00315bd4c609e68c6da3db0337"
+    },
+    "bc:Smart Guess ehf. - Marketplace Bug Bounty Program ": {
+      "Key": "Smart Guess ehf. - Marketplace Bug Bounty Program ",
+      "Name": "Smart Guess ehf. - Marketplace Bug Bounty Program ",
+      "URL": "https://bugcrowd.com/engagements/envision-ehf",
+      "InScope": {
+        "https://marketplace.atlassian.com/apps/1225496/?hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1225496/?hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/1234104/smart-guess-free-planning-poker-for-jira?tab=overview\u0026hosting=cloud": {
+          "ID": "https://marketplace.atlassian.com/apps/1234104/smart-guess-free-planning-poker-for-jira?tab=overview\u0026hosting=cloud",
+          "Type": "website"
+        },
+        "https://marketplace.atlassian.com/apps/4028833452/smart-guess-time-in-status-flow-intelligence-ai-guidance?hosting=cloud\u0026tab=overview": {
+          "ID": "https://marketplace.atlassian.com/apps/4028833452/smart-guess-time-in-status-flow-intelligence-ai-guidance?hosting=cloud\u0026tab=overview",
+          "Type": "website"
+        }
+      },
+      "OutScope": {},
+      "Hash": "f8d361663a288f6adec0db50fefddccd8704158b19b200640a67218c426c00a9"
     },
     "bc:SnapNames Bug Bounty": {
       "Key": "SnapNames Bug Bounty",
@@ -25509,7 +25833,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "49e014179839ea474328fd87dee9144b2f54129b6b53b4f0b1ba3aa3d01cedfe"
+      "Hash": "8eab41963f4ac7046804b4b8a017ddcc54aee2cf89273408705d08e59c471c43"
     },
     "h1:affirm": {
       "Key": "affirm",
@@ -29439,7 +29763,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "40e4e0063116741c2c138bc7b8183c966fec7bb19cf972ae62842feefe9732a2"
+      "Hash": "6c414ff1cabfcaccf5a1cfeaa763db8c2e9f69079d18031c2328eb5d324438ee"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -33063,7 +33387,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "62e183e541d522aa6caa3f8f429dca52fdf4ee41ba50be0ba3b4bfaf5067ee37"
+      "Hash": "16a6cdbc8bb0743602d238a535f9a1b5ed33e9a8d09171b8d6d3317e5ed50e83"
     },
     "h1:bookingcom": {
       "Key": "bookingcom",
@@ -33373,7 +33697,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2f00d5460ad42ad9701358c12e50200416aa79b3bc34821de1a3dd7090131151"
+      "Hash": "1fae5838f1203bd7ae682e234a0c73e5b8799a2b3691809a972cce88e4108f40"
     },
     "h1:boozt": {
       "Key": "boozt",
@@ -33960,7 +34284,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0fbe113a8114236a6cae7d03739c24d93a0c78d583f48a8fd1be6f13c8758fd3"
+      "Hash": "9bcae671473a69ef604ea7c664cd427f8ba9ea814549d48644f491ae40d49e87"
     },
     "h1:bykea": {
       "Key": "bykea",
@@ -69429,7 +69753,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "90aa1fbb04428731a7fa4c1c57a2dcf3e0b4ecef365240ad171f41a52441de0f"
+      "Hash": "a5c07ead38a5cf4acc7dc12915a7ceca400b0b7abc725823373f50edd0711a51"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -90222,7 +90546,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "adbdca61a91b5b3ec81fdb87cbd97d42fd6f27942aa6f927e067ce0ebd6f3cc2"
+      "Hash": "96a27d9747e00ee415b58ae67c39b3965d3113c90d79cfcf002969939c7def39"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -90414,7 +90738,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f67480e65095a615defbda67aa6fefad49d192c2db12cafbcfed6c10951f2871"
+      "Hash": "7814d0e8e7845ae3bca39dcc551e4560f315933cda836b90032d3f78dc33152c"
     },
     "h1:coinbase": {
       "Key": "coinbase",
@@ -93029,7 +93353,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d2e720f48ee30f40aa3c184b7d3bd7c9fedd888811a95af62c13d9e29290786e"
+      "Hash": "bf6e76970c599c5bf3a69088e84a625e6592a2d853f3c01ec835437b98ca9a62"
     },
     "h1:deriv": {
       "Key": "deriv",
@@ -105953,7 +106277,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d432a5e42d162ae47687ff5366681397ea90582910d315113fdde9c2da39ff23"
+      "Hash": "a71cbbd393e73a8f05368ea67d30ae7ebaf85757a15d3a7b23373d4f4284224a"
     },
     "h1:evernote": {
       "Key": "evernote",
@@ -106493,7 +106817,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "1089947a38841b19b3306c31d6db90eb0e89e0781926a2ca16106bd27c25a5fe"
+      "Hash": "44ae7e678796ccd25a005793e7092eec7bf0809e30b050fcb38d5886a6e8c311"
     },
     "h1:expediagroup_bbp": {
       "Key": "expediagroup_bbp",
@@ -153498,7 +153822,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b816388bca231f548d8f451dd9f78548ce64bdd32a8209f2646310006b8dac0f"
+      "Hash": "f34afedb75e85b7bb50b9655d2d8808e25a33b6f43a714c4347dc83b50851491"
     },
     "h1:floqast": {
       "Key": "floqast",
@@ -154595,7 +154919,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7f4c3d4b5131eefc5030a0381ecb7a6b3521094c38c649f59258a9e130c094b2"
+      "Hash": "3bc9b96bb2cc326b03a8475b07157dfc8865874b057329d144d9f4614ac75333"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -155451,7 +155775,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "67d595ffd9fa5fd0aead28a28208bbb065d43d914c1d72289c4d07b24f565021"
+      "Hash": "d9d9f6640d58311d8b0ed57964f9a30b461397e971aa20944cca7790cf0d426b"
     },
     "h1:grab": {
       "Key": "grab",
@@ -157162,7 +157486,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "190364061f41addcdfc5b16895acdeedd2c02bfd22643880b0bc37bb00df8e9d"
+      "Hash": "9f9771a43ab4ac1392a27644d8bb57e265268a973d392b4348150f2801f7f01e"
     },
     "h1:hilton": {
       "Key": "hilton",
@@ -158232,7 +158556,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "86e389a2e8dcd309f0afe6d489d553c67fa922ba1873e4517cd2ea857e5eeb17"
+      "Hash": "502b8f4451cd60759f3746f0126eaefc5082ac2eebaa20ade271c78f719e32a5"
     },
     "h1:hubspot": {
       "Key": "hubspot",
@@ -159675,7 +159999,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f361a44c473463b7b1d4870d5b9be0950f6226c2a42f4ee0282c5aac48755c3e"
+      "Hash": "5ed97e09a0222b6e5d066e480d29877f980c6bf491d64dee631ae703c05c78b4"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -159963,7 +160287,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e52f1585c27a7fb57a2983f3671f25e679c9059fab46fb8d200ebd32139f9d5a"
+      "Hash": "65108fe4ad27c4f6a048b5671f5afe7fcec0adca686faa4402fd9634dea3e70d"
     },
     "h1:intuit_rdp": {
       "Key": "intuit_rdp",
@@ -186988,7 +187312,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7800ef693981dafb7bb1e62622e35eaa02889df26988704c08817151cb0898ae"
+      "Hash": "fbfcaf53d6d64bd17072ff8d9488afbf01dbdd45f6283fa988d50477d9511fe9"
     },
     "h1:nebius_ai_vdp": {
       "Key": "nebius_ai_vdp",
@@ -188426,7 +188750,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b9f8621acf2c359848c4a25034ef82e4be6c06740f9dbbe99c358334f5c67b9e"
+      "Hash": "ab3f4f6efa3bf362f09ef450c52ba6b0638cbbb90beefdb2d0997a2b925b7e26"
     },
     "h1:oportun_vdp": {
       "Key": "oportun_vdp",
@@ -189948,7 +190272,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "2c48d8b3033ca6ab04028320bdaa17036cb598febaf7cf5865067e18da436611"
+      "Hash": "3f2e17cd14552dce313b9c17ea18d59ecc44b017bd246a05e6d6c9d99eb7634a"
     },
     "h1:paystack-vdp": {
       "Key": "paystack-vdp",
@@ -191949,7 +192273,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "9e2d1e942baf7026411c63f51af1b736439ae137ad3d19b38fcfde6da2fddb1f"
+      "Hash": "c3c883d2354c3b9c8c1655962238be8dda9df31f263e9537cb842df25d9bc103"
     },
     "h1:pornbox": {
       "Key": "pornbox",
@@ -194693,7 +195017,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "23b12bbeb48bd18bfb99985df8af41d6b8a69f9efdf295c4b6e76b815e57e33b"
+      "Hash": "98fce06af84b2f7cd41974eaa594e6e712cc0a8329d2e06b7afe2f765b8d71e5"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -195187,7 +195511,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8b12321fc0cd0fd63e4e70870ef37c9fc610800d8a49f887078d110751fa554a"
+      "Hash": "cbca808c41e6e3c9b386344601db363e23e66256edd5bc6720ae31844777cf7b"
     },
     "h1:s-pankki": {
       "Key": "s-pankki",
@@ -195940,7 +196264,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6bac0a4b712418cbf6f48ae6e57bfa7d505e0f75372eeea3d57a6084659c2e6c"
+      "Hash": "ae5d44f0e1deca07d171b1286ea0747c2c4d0be5bb4c2e4dccfd9a2c80572ba9"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -197648,7 +197972,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "b5169d6276c77fa808a612d20d9a4c8a4ba06b5cc81211350e9d39b03d512a02"
+      "Hash": "706d461f768e1667fa336fcb682286b3ddc3886cdcea6c591f1b250ecf86d33d"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -198972,7 +199296,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "efc5c4e38ab8b4dd0983761e3256e746d6547de5b37b99800255fb250c51fa7b"
+      "Hash": "5a3b550e8e83deafd7872a2cc8bd9bc79088cd641ae6982c2216375b8e953c87"
     },
     "h1:tines_automation_vdp": {
       "Key": "tines_automation_vdp",
@@ -200724,7 +201048,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "be628ad52b5c902dd74a6d49fb630d410733ded605eae6283d96d2111648b913"
+      "Hash": "d967c977314e7ffa7e8e2735fe4de62ad6b189cfa4c82be357b01d04a8b23021"
     },
     "h1:uber": {
       "Key": "uber",
@@ -201594,7 +201918,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "df8feccae452078e27487f7cca934b82cdc47109045827db30caeb48f86932be"
+      "Hash": "189f97aca09e20959a72246b1f525b09b71891a1e52ddc38e361c83df92ab1cc"
     },
     "h1:usps": {
       "Key": "usps",
