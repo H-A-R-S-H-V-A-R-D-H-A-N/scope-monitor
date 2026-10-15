@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-14T23:09:44Z",
+  "captured_at": "2026-10-15T01:47:29Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -2442,35 +2442,6 @@
       },
       "Hash": "94d79dc5fae0a0ec6229e9eff5c666b9f0a3520beb336f1c9cc423e138da9e81"
     },
-    "bc:BitGo Managed Public Bug Bounty Engagement ": {
-      "Key": "BitGo Managed Public Bug Bounty Engagement ",
-      "Name": "BitGo Managed Public Bug Bounty Engagement ",
-      "URL": "https://bugcrowd.com/engagements/bitgo-mbb-og-public",
-      "InScope": {
-        "*.bitgo.com": {
-          "ID": "*.bitgo.com",
-          "Type": "website"
-        },
-        "https://app.bitgo-test.com": {
-          "ID": "https://app.bitgo-test.com",
-          "Type": "website"
-        },
-        "https://app.bitgo.com": {
-          "ID": "https://app.bitgo.com",
-          "Type": "website"
-        },
-        "https://bitgo.ae/": {
-          "ID": "https://bitgo.ae/",
-          "Type": "other"
-        },
-        "https://usdstandard.com/": {
-          "ID": "https://usdstandard.com/",
-          "Type": "other"
-        }
-      },
-      "OutScope": {},
-      "Hash": "bb04cb7a948c5e3ef530ee8d7a6d84daea4c28d7c164445b35adf6c9370709d3"
-    },
     "bc:BitGo Mobile Apps Bug Bounty Engagement ": {
       "Key": "BitGo Mobile Apps Bug Bounty Engagement ",
       "Name": "BitGo Mobile Apps Bug Bounty Engagement ",
@@ -3299,28 +3270,6 @@
         }
       },
       "Hash": "e3b3e0de4e9d7d420720fb83cd49409533dd36f752f765d625b776e92d2930ab"
-    },
-    "bc:Bullish Exchange": {
-      "Key": "Bullish Exchange",
-      "Name": "Bullish Exchange",
-      "URL": "https://bugcrowd.com/engagements/bullish-exchange",
-      "InScope": {
-        "https://api.simnext.bullish-test.com": {
-          "ID": "https://api.simnext.bullish-test.com",
-          "Type": "api"
-        },
-        "https://simnext.bullish-test.com": {
-          "ID": "https://simnext.bullish-test.com",
-          "Type": "website"
-        }
-      },
-      "OutScope": {
-        "*.bullish.com/": {
-          "ID": "*.bullish.com/",
-          "Type": "website"
-        }
-      },
-      "Hash": "a34c797e0573e155ee782a9edd55673f01e86c911db176ba482bb4b5b953529f"
     },
     "bc:Bullish.com": {
       "Key": "Bullish.com",
@@ -12103,176 +12052,6 @@
       "OutScope": {},
       "Hash": "73c4dc0cfc3b145bacddfd585cdd37e9cf96ee49443e4ef3111e635213d50514"
     },
-    "bc:Origin Energy": {
-      "Key": "Origin Energy",
-      "Name": "Origin Energy",
-      "URL": "https://bugcrowd.com/engagements/originenergy-og1",
-      "InScope": {
-        "*.api.originenergy.com.au": {
-          "ID": "*.api.originenergy.com.au",
-          "Type": "api"
-        },
-        "*.download.originenergy.com.au": {
-          "ID": "*.download.originenergy.com.au",
-          "Type": "website"
-        },
-        "*.odcdn.com.au": {
-          "ID": "*.odcdn.com.au",
-          "Type": "website"
-        },
-        "*.origindigital-pac.com.au": {
-          "ID": "*.origindigital-pac.com.au",
-          "Type": "website"
-        },
-        "*.support.originenergy.com.au": {
-          "ID": "*.support.originenergy.com.au",
-          "Type": "website"
-        },
-        "https://api-businessportal.origin.com.au": {
-          "ID": "https://api-businessportal.origin.com.au",
-          "Type": "api"
-        },
-        "https://api-portal.originzero.com.au": {
-          "ID": "https://api-portal.originzero.com.au",
-          "Type": "api"
-        },
-        "https://api.rx.originenergy.com.au/v1/lpg/graphql": {
-          "ID": "https://api.rx.originenergy.com.au/v1/lpg/graphql",
-          "Type": "api"
-        },
-        "https://businessportal.origin.com.au": {
-          "ID": "https://businessportal.origin.com.au",
-          "Type": "website"
-        },
-        "https://customerportal.winconnect.com.au/login": {
-          "ID": "https://customerportal.winconnect.com.au/login",
-          "Type": "website"
-        },
-        "https://dataportal.originenergy.com.au": {
-          "ID": "https://dataportal.originenergy.com.au",
-          "Type": "website"
-        },
-        "https://portal-api.anz.kinergysolutions.com": {
-          "ID": "https://portal-api.anz.kinergysolutions.com",
-          "Type": "api"
-        },
-        "https://portal.anz.kinergysolutions.com": {
-          "ID": "https://portal.anz.kinergysolutions.com",
-          "Type": "website"
-        },
-        "https://portal.originzero.com.au": {
-          "ID": "https://portal.originzero.com.au",
-          "Type": "website"
-        },
-        "https://sign.originzero.com.au": {
-          "ID": "https://sign.originzero.com.au",
-          "Type": "website"
-        },
-        "https://ssu.staging.myconnect.com.au/get-connected": {
-          "ID": "https://ssu.staging.myconnect.com.au/get-connected",
-          "Type": "website"
-        },
-        "https://www.originenergy.com.au/": {
-          "ID": "https://www.originenergy.com.au/",
-          "Type": "website"
-        },
-        "https://www.winconnect.com.au/get-connected/": {
-          "ID": "https://www.winconnect.com.au/get-connected/",
-          "Type": "website"
-        },
-        "https://www.winconnect.com.au/moving-out/": {
-          "ID": "https://www.winconnect.com.au/moving-out/",
-          "Type": "website"
-        },
-        "hub.myconnect.com.au": {
-          "ID": "hub.myconnect.com.au",
-          "Type": "website"
-        },
-        "myconnect.com.au": {
-          "ID": "myconnect.com.au",
-          "Type": "website"
-        },
-        "portal.myconnect.com.au": {
-          "ID": "portal.myconnect.com.au",
-          "Type": "website"
-        },
-        "portal.myconnect.com.au/new-connection": {
-          "ID": "portal.myconnect.com.au/new-connection",
-          "Type": "website"
-        }
-      },
-      "OutScope": {
-        "https://Yourporter.com.au": {
-          "ID": "https://Yourporter.com.au",
-          "Type": "website"
-        },
-        "https://agent.compareandconnect.com.au/": {
-          "ID": "https://agent.compareandconnect.com.au/",
-          "Type": "website"
-        },
-        "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql": {
-          "ID": "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql",
-          "Type": "other"
-        },
-        "https://auth.api.originenergy.com.au/**": {
-          "ID": "https://auth.api.originenergy.com.au/**",
-          "Type": "website"
-        },
-        "https://fastconnect.co.nz": {
-          "ID": "https://fastconnect.co.nz",
-          "Type": "website"
-        },
-        "https://manufacturers.solarquotes.com.au/": {
-          "ID": "https://manufacturers.solarquotes.com.au/",
-          "Type": "website"
-        },
-        "https://origin-energy.formstack.com/**": {
-          "ID": "https://origin-energy.formstack.com/**",
-          "Type": "website"
-        },
-        "https://raywhitehomenow.com/ ": {
-          "ID": "https://raywhitehomenow.com/ ",
-          "Type": "website"
-        },
-        "https://reneweclipse.originenergy.com.au/*": {
-          "ID": "https://reneweclipse.originenergy.com.au/*",
-          "Type": "website"
-        },
-        "https://ssu.myconnect.com.au/**": {
-          "ID": "https://ssu.myconnect.com.au/**",
-          "Type": "website"
-        },
-        "https://www.compareandconnect.com.au/": {
-          "ID": "https://www.compareandconnect.com.au/",
-          "Type": "website"
-        },
-        "https://www.originenergy.com.au/moving/": {
-          "ID": "https://www.originenergy.com.au/moving/",
-          "Type": "website"
-        },
-        "https://www.solarquotes.com.au/leads/": {
-          "ID": "https://www.solarquotes.com.au/leads/",
-          "Type": "website"
-        },
-        "https://www.solarquotes.com.au/quote/start/": {
-          "ID": "https://www.solarquotes.com.au/quote/start/",
-          "Type": "website"
-        },
-        "https://www.solarquotes.com.au/quotesv2/": {
-          "ID": "https://www.solarquotes.com.au/quotesv2/",
-          "Type": "website"
-        },
-        "https://www.solarquotes.com.au/suppliers/": {
-          "ID": "https://www.solarquotes.com.au/suppliers/",
-          "Type": "website"
-        },
-        "https://www.solarquotes.com.au/wp-admin/": {
-          "ID": "https://www.solarquotes.com.au/wp-admin/",
-          "Type": "website"
-        }
-      },
-      "Hash": "fd690bd4772c94768dd1f858d77ade3bd29b0ec46781b8bacc78187822426395"
-    },
     "bc:PNI Media - Bug Bounty": {
       "Key": "PNI Media - Bug Bounty",
       "Name": "PNI Media - Bug Bounty",
@@ -19152,7 +18931,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f3129c15a06e1e278571e7ab09cc6826606ce753c61d7689ea0d5013636a2a79"
+      "Hash": "e286603e240fbdd1c07e3d4643ae2f39ab34d7660dcdb99ee858f22f2623dceb"
     },
     "h1:3cx": {
       "Key": "3cx",
@@ -25730,7 +25509,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "842555c41c223606270942d566487e5a28c81e02ba3e36e7d3d62e6a5a8c010f"
+      "Hash": "49e014179839ea474328fd87dee9144b2f54129b6b53b4f0b1ba3aa3d01cedfe"
     },
     "h1:affirm": {
       "Key": "affirm",
@@ -90770,7 +90549,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "75317bb885859b1ce631ce14480d56ce75b2bfbbe9026d5c78760270b5ed856a"
+      "Hash": "a555f267c132e8b6da8ea87cfb07ca2195f13f13ed9fda5bcbca8bb63ee348e0"
     },
     "h1:coinmate": {
       "Key": "coinmate",
@@ -108701,7 +108480,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "90b7117840540da0626078d7cfc613d0d05b34068b7b08954133f1067120b627"
+      "Hash": "2895dafd56731e4e77fbd9fec2cf3524f59af17b045d26d1d5c7413c7ee4a54d"
     },
     "h1:fertitta_entertainment": {
       "Key": "fertitta_entertainment",
@@ -153670,7 +153449,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4bbd83a9168b0e3e0bfe8cb7e558a25e0f77da048c8e132991b93f5ef51c9ce0"
+      "Hash": "fa6679be6e248dcf17ad179e9501243ffdc511929f3be5d7a487eaf87ac3fc65"
     },
     "h1:flipkart": {
       "Key": "flipkart",
@@ -154816,7 +154595,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3bc9b96bb2cc326b03a8475b07157dfc8865874b057329d144d9f4614ac75333"
+      "Hash": "7f4c3d4b5131eefc5030a0381ecb7a6b3521094c38c649f59258a9e130c094b2"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -157533,7 +157312,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c33ebc7962d6dca96e7664aba5032fd9b1f6ea3d17ea81c8c4cbfd37fc3b4f07"
+      "Hash": "6c1701e636cea0c114b30f930d91099be80c19935672d0c3b5b057eacb6c5825"
     },
     "h1:hostinger": {
       "Key": "hostinger",
@@ -159843,7 +159622,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "122a0bb97115f9baf274907c14fe7b2d45bea63ab25f2838d860c831571fd36f"
+      "Hash": "20a9fc6e26872708a7f41d3fed3491fb02dcc95c7a8b9c4224a6378bb9078000"
     },
     "h1:inspectorio": {
       "Key": "inspectorio",
@@ -187209,7 +186988,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "fbfcaf53d6d64bd17072ff8d9488afbf01dbdd45f6283fa988d50477d9511fe9"
+      "Hash": "7800ef693981dafb7bb1e62622e35eaa02889df26988704c08817151cb0898ae"
     },
     "h1:nebius_ai_vdp": {
       "Key": "nebius_ai_vdp",
@@ -187493,7 +187272,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "32e92984a1459dc61aabc7cb92d200c5b4df8e8c4f8befe8e0e7c0697994e4c3"
+      "Hash": "a5082299b4dd8b09689e5e365772aee2d92aa02ea42ce2b494700095e7676aed"
     },
     "h1:netscaler_public_program": {
       "Key": "netscaler_public_program",
@@ -194409,7 +194188,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "5e935a124ca992db6749bc1b0071315d372c6a3cef402098555756e8d7041b2c"
+      "Hash": "3c2d4b1e2e037d47482cce96d6e21aec0e0863b9a6594568d0e4a4e0bc3309b6"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -197869,7 +197648,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "706d461f768e1667fa336fcb682286b3ddc3886cdcea6c591f1b250ecf86d33d"
+      "Hash": "b5169d6276c77fa808a612d20d9a4c8a4ba06b5cc81211350e9d39b03d512a02"
     },
     "h1:stripo": {
       "Key": "stripo",
