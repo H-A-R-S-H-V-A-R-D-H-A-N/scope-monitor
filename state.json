@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-16T14:12:20Z",
+  "captured_at": "2026-10-16T18:19:19Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -33127,7 +33127,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "798a7e30de3742796215c78e92ac0a7909f9137f1030ca29cb093d6a66f77ce5"
+      "Hash": "bc08a8af3464fae6cf705db1921cd0d8c9bf83c5ee10b5dd4405d8599ed762f9"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -98819,7 +98819,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5025976efa19fb86783f651d6ea733c642c199a8838bbf286121907b08629a9c"
+      "Hash": "863c1c6db5ab6b7686f710d8480c5cb031ffceb14a09d4f762b8da4f89097554"
     },
     "h1:duckduckgo": {
       "Key": "duckduckgo",
@@ -156105,7 +156105,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7f2593dd5d9b78e457edceaf48a4c8bf8fdaab98a741b8b1a39b3433ea18443e"
+      "Hash": "1acc950f0367c77937be0ff8361e2771b503ffebeec672f6b082f01bac818a86"
     },
     "h1:gymshark": {
       "Key": "gymshark",
@@ -188694,7 +188694,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "da1331133dda4fb415dbe54ec6c94342101072e7a9e90e0ad26d797a29201e78"
+      "Hash": "290eeeca33a1c38b2d36c3f192a9117996d9fb034872f36cc7c2c0f9314fbb20"
     },
     "h1:omnicell": {
       "Key": "omnicell",
@@ -195418,7 +195418,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "0e166bfe9b164377f605d1fe5fc4e8e404b60b7afb552dc5aa16911a5a702e1a"
+      "Hash": "d6aa017026a024cd4b02c74df89ec56f5b892f047cac379804981e5a0358552a"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -197720,7 +197720,7 @@
       "URL": "https://hackerone.com/stellar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "30e5b96cc41632f9fb0e4c77f25d45c40706ee9647c682b200f0ee3252757723"
+      "Hash": "ebe14f302b25ad50453b207795f30a4fa4a337d79ffcba9d15d81101873888f0"
     },
     "h1:streak_com": {
       "Key": "streak_com",
@@ -198791,7 +198791,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "48b0c4cc6bcf1d2947f0cf535fb19e35af34fd107eae8cca9744a8b3177fd8dc"
+      "Hash": "9d1d1ef30565007b1a2f4376fa127d0772843698df86e7a0a44ba6d1710efad3"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -200302,7 +200302,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "17372c6fd62677ce7f1f16384abdfb496bfd3dfdf8c5c45b4c1c9d37b3a337fd"
+      "Hash": "1972309e5fcddcd7d6191e0397ea48e989338f7cbae9fe11d6c7b0252eab677a"
     },
     "h1:trellix": {
       "Key": "trellix",
@@ -201211,7 +201211,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c203177cb8d02202a520521096cb20985ddcec3cbb5090e6169def620eeac0c2"
+      "Hash": "61b510dbf9e6f3f5eeebfbc5458bfb498de031ef6e3c2ffbfba3aa64271ebf7d"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -201975,7 +201975,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6c44961861a7668f2bb3cda21747495dc2f75804f3f5c8924746458d33904d2e"
+      "Hash": "719baaa4650b3a70f57cf6dafddfb4842fb0b680d8dc8ac3be0f7554a6338e23"
     },
     "h1:usps": {
       "Key": "usps",
@@ -205618,7 +205618,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6e64f169df5090088eb5498e6d08db7fc28c72054f3df953b83d02953a3a371d"
+      "Hash": "5ba1df0627fb5fd8db6ab2496c0b94a1c4871f1ea93ad961947b68ed147a5276"
     },
     "h1:yuga_labs": {
       "Key": "yuga_labs",
@@ -215058,6 +215058,107 @@
         }
       },
       "Hash": "fd3c288a45a7baa56cf666c4635055e4600909a19e1598f8f935deca43559ba2"
+    },
+    "in:e85b4b33-7785-43b5-a5aa-5bcd226688b4": {
+      "Key": "e85b4b33-7785-43b5-a5aa-5bcd226688b4",
+      "Name": "Here Technologies",
+      "URL": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+      "InScope": {
+        "*.data.api.platform.here.com": {
+          "ID": "*.data.api.platform.here.com",
+          "Type": "wildcard"
+        },
+        "*.here.com": {
+          "ID": "*.here.com",
+          "Type": "wildcard"
+        },
+        "*.hereapi.com": {
+          "ID": "*.hereapi.com",
+          "Type": "wildcard"
+        },
+        "*.metrics.platform.here.com": {
+          "ID": "*.metrics.platform.here.com",
+          "Type": "wildcard"
+        },
+        "*.platform.here.com": {
+          "ID": "*.platform.here.com",
+          "Type": "wildcard"
+        },
+        "*.router.hereapi.com": {
+          "ID": "*.router.hereapi.com",
+          "Type": "wildcard"
+        },
+        "*.scbe.api.here.com": {
+          "ID": "*.scbe.api.here.com",
+          "Type": "wildcard"
+        },
+        "*.subp-router.hereapi.com": {
+          "ID": "*.subp-router.hereapi.com",
+          "Type": "wildcard"
+        },
+        "All other related services owned by HERE": {
+          "ID": "All other related services owned by HERE",
+          "Type": "other"
+        },
+        "HERE WeGo Android": {
+          "ID": "HERE WeGo Android",
+          "Type": "android"
+        },
+        "HERE WeGo iOS": {
+          "ID": "HERE WeGo iOS",
+          "Type": "ios"
+        },
+        "Leaked Service Credentials": {
+          "ID": "Leaked Service Credentials",
+          "Type": "other"
+        },
+        "Leaked/Compromised Employee Credentials": {
+          "ID": "Leaked/Compromised Employee Credentials",
+          "Type": "other"
+        },
+        "account.api.here.com": {
+          "ID": "account.api.here.com",
+          "Type": "url"
+        },
+        "account.here.com": {
+          "ID": "account.here.com",
+          "Type": "url"
+        },
+        "listing.here.com": {
+          "ID": "listing.here.com",
+          "Type": "url"
+        },
+        "mapcreator.here.com": {
+          "ID": "mapcreator.here.com",
+          "Type": "url"
+        },
+        "mobilitygraph.hereapi.com": {
+          "ID": "mobilitygraph.hereapi.com",
+          "Type": "url"
+        },
+        "registry.service.api.platform.here.com": {
+          "ID": "registry.service.api.platform.here.com",
+          "Type": "url"
+        },
+        "search.hereapi.com": {
+          "ID": "search.hereapi.com",
+          "Type": "url"
+        },
+        "transit.hereapi.com": {
+          "ID": "transit.hereapi.com",
+          "Type": "url"
+        },
+        "vector.hereapi.com": {
+          "ID": "vector.hereapi.com",
+          "Type": "url"
+        },
+        "xyz.api.here.com": {
+          "ID": "xyz.api.here.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {},
+      "Hash": "34f984912d4a44ba19c371092934d52e338493a6bc132f204d75cbe7ebe80927"
     },
     "in:e8b2e8ca-1fb2-4c17-933f-2a1f5cfb7da7": {
       "Key": "e8b2e8ca-1fb2-4c17-933f-2a1f5cfb7da7",
