@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-17T00:23:33Z",
+  "captured_at": "2026-10-17T04:56:50Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -98465,7 +98465,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "54ba5ffac0225e9d8ac06751350fa5d21d4a649cc654a4bab152e12c2819bd7b"
+      "Hash": "7effccd9c6078cf9af837515ae92d58e8eb54f445b279b43e1d2d610e4ea27d2"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -98748,7 +98748,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6bf2b69dc470fc0a9ff54dba706d61824cfce7c6a21db674b4254f3eba6dabd7"
+      "Hash": "15db524d62720ab009d88078a60f11d08041a18ba5596ae0c063895307a1200b"
     },
     "h1:doppler": {
       "Key": "doppler",
@@ -153859,7 +153859,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "bcfb11337f5889d98a4f58ebeb0cfec455a295284dc59f0c8505f0941360a66a"
+      "Hash": "d8f73d3480a92f416f15942f38fd5ab1a84af65071939176fda9c060cc5bff77"
     },
     "h1:flutteruki": {
       "Key": "flutteruki",
@@ -176327,7 +176327,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c2a115a33be8fd6624d3be59cc759507274392d5f290a25888ebcdfd0cdbeed7"
+      "Hash": "a59b8a6c8b37af59e61b339e29b6011a79e63c1b0b1cd477aac6c6c7bb128156"
     },
     "h1:kraken-tech": {
       "Key": "kraken-tech",
@@ -187715,7 +187715,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8995b10295fb0f7bcef5b24c19ba6adfbfda4d68542b772b0c5c909c6cbca27b"
+      "Hash": "06f6829e3943222132ffb5ac2a852e0ca82ec763b6d22eebd79997177cb3495d"
     },
     "h1:nextcloud": {
       "Key": "nextcloud",
@@ -193439,7 +193439,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5b2ec45d7a7c953a5de3dc5a507f3aac074caa509bedb85742cc8c349d23e6c7"
+      "Hash": "5f07955451153dd20d69a0f4c61d9ca753ab6e78adec72a650936ce4bb46774f"
     },
     "h1:regions_financial": {
       "Key": "regions_financial",
@@ -196316,7 +196316,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6cafe88ea2be3469aabdec11fea2167802ee72fe58c59d049c6dae5f7cd69bcb"
+      "Hash": "7a8be3b7fae762cd35fb606bc2ca1adba8bb136c5d0edc495f38892e65c95ccc"
     },
     "h1:shutterfly_vdp": {
       "Key": "shutterfly_vdp",
@@ -196482,7 +196482,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "45e05c80b064bdab77f1d2105a61465ea0c2a19175f1f3f2d71f280f5907fb43"
+      "Hash": "6fd69af475f5bd7ad7b54b7df32b83af88b03e282523b5e147d8bd45fc24353b"
     },
     "h1:simple_poll": {
       "Key": "simple_poll",
@@ -201100,7 +201100,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e2fe82d77cf5187052eff50eaf2d81fc53b382034446c3a3bb799f22fdc4fef4"
+      "Hash": "94738b6ef9b6c24541d92e0bcd86aa94e1582b7703142b5bfade33d1463b40ad"
     },
     "h1:uber": {
       "Key": "uber",
@@ -202216,7 +202216,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "60ded725cebcdb0177b9c5b468156452fcae33e019c97f50c44fa322f519e89e"
+      "Hash": "3b670fc1dc6dd54e8f276261825f3e02bfa6a9dd0ed9f5d860d5c74831ee8bc0"
     },
     "h1:vectra_ai_vdp": {
       "Key": "vectra_ai_vdp",
@@ -207254,96 +207254,6 @@
       },
       "OutScope": {},
       "Hash": "893563c9240d9f689460275e80f03c6ada93367275b5316904c8b66a3f34b5cc"
-    },
-    "in:0fd1d85b-2d33-4966-b5a0-caabfda5108e": {
-      "Key": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
-      "Name": "Ninja Kiwi Games Bug Bounty program",
-      "URL": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "InScope": {
-        "*.ninjakiwi.me": {
-          "ID": "*.ninjakiwi.me",
-          "Type": "wildcard"
-        },
-        "*.nkstatic.com": {
-          "ID": "*.nkstatic.com",
-          "Type": "wildcard"
-        },
-        "*.souparea.com": {
-          "ID": "*.souparea.com",
-          "Type": "wildcard"
-        },
-        "alerts.ninjakiwi.com": {
-          "ID": "alerts.ninjakiwi.com",
-          "Type": "url"
-        },
-        "analytics.ninjakiwi.com": {
-          "ID": "analytics.ninjakiwi.com",
-          "Type": "url"
-        },
-        "api.ninjakiwi.com": {
-          "ID": "api.ninjakiwi.com",
-          "Type": "url"
-        },
-        "battles.tv": {
-          "ID": "battles.tv",
-          "Type": "url"
-        },
-        "boomer2.ninjakiwi.com": {
-          "ID": "boomer2.ninjakiwi.com",
-          "Type": "url"
-        },
-        "ct.ninjakiwi.com": {
-          "ID": "ct.ninjakiwi.com",
-          "Type": "url"
-        },
-        "data.ninjakiwi.com": {
-          "ID": "data.ninjakiwi.com",
-          "Type": "url"
-        },
-        "guts.ninjakiwi.com": {
-          "ID": "guts.ninjakiwi.com",
-          "Type": "url"
-        },
-        "mynk-dash.ninjakiwi.com": {
-          "ID": "mynk-dash.ninjakiwi.com",
-          "Type": "url"
-        },
-        "mynk.ninjakiwi.com": {
-          "ID": "mynk.ninjakiwi.com",
-          "Type": "url"
-        },
-        "ninja.kiwi": {
-          "ID": "ninja.kiwi",
-          "Type": "url"
-        },
-        "ninjakiwi.com": {
-          "ID": "ninjakiwi.com",
-          "Type": "url"
-        }
-      },
-      "OutScope": {
-        "icarusadmin.ninjakiwi.com": {
-          "ID": "icarusadmin.ninjakiwi.com",
-          "Type": "url"
-        },
-        "rancher.ninjakiwi.com": {
-          "ID": "rancher.ninjakiwi.com",
-          "Type": "url"
-        },
-        "rancher.ninjakiwi.me": {
-          "ID": "rancher.ninjakiwi.me",
-          "Type": "url"
-        },
-        "store.ninjakiwi.com": {
-          "ID": "store.ninjakiwi.com",
-          "Type": "url"
-        },
-        "support.ninjakiwi.com": {
-          "ID": "support.ninjakiwi.com",
-          "Type": "url"
-        }
-      },
-      "Hash": "81dc8548db8a520a1d4ff298cd873a5a6af3d9d18e4010f582a579872707d915"
     },
     "in:104ed53e-3c29-4d16-b89a-d322c9df5e9a": {
       "Key": "104ed53e-3c29-4d16-b89a-d322c9df5e9a",
