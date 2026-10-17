@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-17T16:38:08Z",
+  "captured_at": "2026-10-17T19:18:02Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -29729,7 +29729,7 @@
       "URL": "https://hackerone.com/arkadiyt-projects",
       "InScope": {},
       "OutScope": {},
-      "Hash": "e48448a2f8311ce8262694062487e561ee7aff06dd8ca4d75facc8461a5e657c"
+      "Hash": "a26a457768bee3a20163a1a61b587d913be3b3a02412508681b22a0579e9195c"
     },
     "h1:arkose_labs": {
       "Key": "arkose_labs",
@@ -33000,7 +33000,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "feb2d9633648dcbf546be0867ca6f2dc73678420318390aeca7f75f4d6435b19"
+      "Hash": "d7eb2d653181f819eda49ada23838dd852bf59f4d554e461ed5f90d33972c0f0"
     },
     "h1:basecamp": {
       "Key": "basecamp",
@@ -33235,7 +33235,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6f0f590c96df63c671481df1fd167f272c5decf1d0992911cd54600a202c2246"
+      "Hash": "9ab61c11650eda46a18ad9d8a65718d829901eaa63c61d942858c7e1f10a2ee7"
     },
     "h1:bitwarden": {
       "Key": "bitwarden",
@@ -175242,7 +175242,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "09f46712cfba095a97bf0d30809dd6aa3c72c614e13cfd6e0300e836f696d97c"
+      "Hash": "c0ad195fb34565793af5eb59b6ae5072be454f2e352f7187e6f68d07606bfe6e"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -193328,7 +193328,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "45ff8db64374c7088d83613b3a1c525c9c2a5a39a3a3579e984aeacf9f59cf86"
+      "Hash": "0b530b2fd1a3e883dae8c7f949981e5c96dea67fcfea64392ec0dc7b207f4aaf"
     },
     "h1:redis-vdp": {
       "Key": "redis-vdp",
