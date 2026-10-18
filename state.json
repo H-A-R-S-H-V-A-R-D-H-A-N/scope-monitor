@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-17T23:59:18Z",
+  "captured_at": "2026-10-18T04:21:37Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -33808,7 +33808,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "3ea701f9267fe7b6afa0c6cd69bd6f9b3aafaa254e2a247d1c9cbf464eb87088"
+      "Hash": "aa27b9846beefa6e72e78dee377df76bd4daf85324a24ff38f60ca754a65cc26"
     },
     "h1:box_private": {
       "Key": "box_private",
@@ -34671,7 +34671,7 @@
       "URL": "https://hackerone.com/caterpillar",
       "InScope": {},
       "OutScope": {},
-      "Hash": "dd7acfdceb0e72e4491dacda63adc418ce9d35287f957912e6a3b9f170c92b27"
+      "Hash": "435ebcd3da6ce460e8a17ca11169738b332c421a004a7953fd83eb183602a051"
     },
     "h1:cbre": {
       "Key": "cbre",
@@ -69444,7 +69444,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "79709bcc6290679d284210b0fe89a5181b1f7cee6bb37028d29a5597cf342206"
+      "Hash": "5a147c233662ae3a8f68a9c5752f3f85c549d76750338b854b3d98efe0bf6396"
     },
     "h1:cedars-sinai": {
       "Key": "cedars-sinai",
@@ -109601,7 +109601,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "41bcfdbbbf08e0cb3aac45881a149b11f6f6aa016785f4c6cb3df2d5b49bbc87"
+      "Hash": "0feb91cafda41e1928e6c5dd2d099baf433f509c57173aa104aa17c2d7c5f71d"
     },
     "h1:files": {
       "Key": "files",
@@ -177777,7 +177777,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "11d267c7982d95b180069c01121d43bbb3cec16a7f3ca1246709cbb8a5cd6b64"
+      "Hash": "001222b069f1704658caa33ef7d3729753620dceb6cd3f3cf3deed403f980c68"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -178041,7 +178041,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bae640a59c77d036007da3c6e30bfb99a5ae3de24eb971905e1f2572b9386309"
+      "Hash": "0d856facad6d553a788d55eb7f752d2f4257cef2f3949b61519f0d027ff53467"
     },
     "h1:mariadb": {
       "Key": "mariadb",
@@ -185298,7 +185298,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "39186cc2db6d3429fa516b87ff27c2976048886bea8287bf606f9cf5f211c978"
+      "Hash": "1ae59f9fb058220525afa6404ab8da929ed41a25b7cfcd2eb7f7fb8646331e9d"
     },
     "h1:myndr": {
       "Key": "myndr",
@@ -189814,7 +189814,7 @@
           "Type": "OTHER_APK"
         }
       },
-      "Hash": "b2b9adc4605c9cada4226b92ca424eaee5fb9dc9a5df2d7dd9a66ac5aa9f591f"
+      "Hash": "11811ed017627c79c93d94e7370a791696c201d181a85fb93da9baf8b4d5a80e"
     },
     "h1:owox": {
       "Key": "owox",
@@ -190423,7 +190423,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6215d0e1db7119d59595fcb81190e9016dfaf8eda4c7066e227aa72aa7f5dccf"
+      "Hash": "875259ec0637130fca5d17c32b0cbd1e602873e15cbc9d5da95e0fa88e243e98"
     },
     "h1:penn_entertainment": {
       "Key": "penn_entertainment",
@@ -196132,7 +196132,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "96f81809e2296cd0c804023555a246855f55a709481ceea56d59f9019fb40ee2"
+      "Hash": "0ea4dca7d5e903da93e73024b1aa3f8750a50030e4a63623514d4451913c01f7"
     },
     "h1:sheer_bbp": {
       "Key": "sheer_bbp",
@@ -196186,7 +196186,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0b6bf9168863da1b4aa85dc64b7bf63055409a96a359c637cfc9192c9bf60cc6"
+      "Hash": "f80bae7f02fd8b7ea5c884a1d0092fcdd4a36f786e2624808b99c8675fe08eff"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -198786,7 +198786,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9d1d1ef30565007b1a2f4376fa127d0772843698df86e7a0a44ba6d1710efad3"
+      "Hash": "48b0c4cc6bcf1d2947f0cf535fb19e35af34fd107eae8cca9744a8b3177fd8dc"
     },
     "h1:tenable": {
       "Key": "tenable",
@@ -199348,7 +199348,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a21599d49aa7522e57dcbfd072fa6a47dcfbfbfb02e2d2cc6af9dd72fa91addb"
+      "Hash": "a8417b83c317d85a87451f6d4dd68952fcbcdc52084292897fb1fc41298f5cb2"
     },
     "h1:tines_automation_vdp": {
       "Key": "tines_automation_vdp",
@@ -200473,7 +200473,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "daf4b12eb4235a74035b379883ce32720969502c5bdaa0dcf41b072d7b445373"
+      "Hash": "35eae4abdeeb5f3ba3933e8c67242859437e9162762298c73fc85eece588938e"
     },
     "h1:tron_dao": {
       "Key": "tron_dao",
@@ -201206,7 +201206,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d957e6966659bb7b1aaa5f958d898a39f10df0d3b156364c26d81173974d1d92"
+      "Hash": "acf9af1c173c8997c1ed0b8bd1676bf2a7735658c83eb1ad6f3752fdb107f1eb"
     },
     "h1:udemy": {
       "Key": "udemy",
@@ -204741,7 +204741,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac6550400926cf18306804a2d849af6419cb1a71856155e5dc766152e847127e"
+      "Hash": "5dfb9e4d85456294e41d0bbcba029a5ac7f197a5dfae1d2d07532d1ae0b93433"
     },
     "h1:wisdomtree": {
       "Key": "wisdomtree",
