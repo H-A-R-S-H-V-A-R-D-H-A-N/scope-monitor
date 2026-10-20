@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-19T22:17:24Z",
+  "captured_at": "2026-10-20T01:14:08Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -25833,7 +25833,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a4a48f7f7226b8e02d6f05319ba1c799186665d6dfefea0f61c384cebf3d3a7a"
+      "Hash": "43134f34c8ec9c416c0d7054b7fc2c1dd732a2474f3c7cf95fcd9e317b71e0bc"
     },
     "h1:affirm": {
       "Key": "affirm",
@@ -33718,7 +33718,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "5b486ef53880f3282c288bd2ba04011adaef0bcb9b1b0d0ea277606620779a63"
+      "Hash": "8ae0e35d768bdb08dcf1abaad11024342f1489497dcf29c74423c48af0ca6c85"
     },
     "h1:box_private": {
       "Key": "box_private",
@@ -34602,7 +34602,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "845bdc805ce843d9f04368213cec5596f74414bf0adba55c52bd582a326ad27e"
+      "Hash": "9f9d7a50583f4a3c873127c00bff0cc542a81383cb703ffd283b73a1bdfe8ea9"
     },
     "h1:caterpillar": {
       "Key": "caterpillar",
@@ -90472,7 +90472,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d1087a8fae944cf0d39c6363345d5b47d44529877b4915bb1e86d12f9fd13a80"
+      "Hash": "e858e437eae0ec98cf8331f79b03af3a69466f7afe2ae392b027b37b7ba47e76"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -90664,7 +90664,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "52d50f47b69b491eb8e7871eba3f9203e5f94f8a562fb9ab6ba4aecda5f8cde8"
+      "Hash": "8751e251f308aa0f102f30cf5737e197eb1526001501894033cbf6959ac17389"
     },
     "h1:coinbase": {
       "Key": "coinbase",
@@ -91052,7 +91052,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "23380b4cbe1bc30eedad06c97f5c18fcd018ccda066ce4480baa0293f5d789d4"
+      "Hash": "9fc3949f57fd47bbd74d1931f7f6135531983094503644db9c7d58d9017e2545"
     },
     "h1:concretecms": {
       "Key": "concretecms",
@@ -93154,7 +93154,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "9aae466b289b36c152a82e8143b061a5da3b63b34b08a48b318d41a021c99282"
+      "Hash": "d34045c8b11c50f64ccc84a7500e75d6dc004567b673f864d0f127ec1bdfcb2b"
     },
     "h1:databricks": {
       "Key": "databricks",
@@ -98404,7 +98404,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "afaaa77e70c1720559f42c23e613a19d8f30d1777131aa6b29b13888c9a9dec8"
+      "Hash": "7effccd9c6078cf9af837515ae92d58e8eb54f445b279b43e1d2d610e4ea27d2"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -100542,7 +100542,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a329d99555ef1807d696bd7759d8e5a8abd1b3819c84c578deaa05e77aa9eb6f"
+      "Hash": "309ef9e21db808d7596871e9618251260f349ef0639648673cacb2ff0ad82b54"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -153756,7 +153756,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "194a1c0f510b64dbaf12b64b73ede8c5dd196769dfa47e42589ee40401cf2827"
+      "Hash": "e00e8db4fed3a1ee940e275e53084bd0c576c0b56549cc3985603ec36a9ddbb4"
     },
     "h1:floqast": {
       "Key": "floqast",
@@ -154630,7 +154630,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "26a17433bcdb1de1f3c6ed035e9420cd180306844506904497503d44cbaed78b"
+      "Hash": "368e4dfe0f146a6308cf37b7ad67943a46e4431bfb1dff756174b27192f76bcb"
     },
     "h1:getyourguide_vdp": {
       "Key": "getyourguide_vdp",
@@ -178195,7 +178195,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "d39f963aea0c9dc37d78cd5cb84feb1f26d37dbd20a52d8aa94be8dbc1075b32"
+      "Hash": "bbb50c6dbdf7714a48dffc5167e9437e21d95c812ca63979f21d285539516f99"
     },
     "h1:marriott": {
       "Key": "marriott",
@@ -192115,7 +192115,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7648aa8dec275a6c76460480b062c8939bb008f0138dc5b6b801b69f3eabcdfd"
+      "Hash": "2eb6202b3e4ceeda5f638dc5f3980e4f8b0484450109a0375e2fd9501153d7c8"
     },
     "h1:playtika": {
       "Key": "playtika",
@@ -192450,7 +192450,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "ef356edafe3d5afb7a8de9022c4301ed8607fc1b399f123296de429b6e9d0eb5"
+      "Hash": "49122b5a59ea07afcc453fa51e9a89611dae5810ce93a4adee5791b900e3aa6b"
     },
     "h1:pornbox": {
       "Key": "pornbox",
@@ -192896,7 +192896,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "15348a382c8234c1211701272eed26adf587df802750a8d2089f1178240c4861"
+      "Hash": "deb40592fee25ce8be8fa78008c0c82cad32ee99e3e019f9fe677f6f8006d0bc"
     },
     "h1:privy-bbp": {
       "Key": "privy-bbp",
@@ -195538,7 +195538,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "5734e83f47142106077108fb5cf08c63b4a5b790e6412ebe226688ae5c9bb700"
+      "Hash": "daa87e9d26a0b309522876a06627907d04c53ddbfeee60267c02fa0da0731617"
     },
     "h1:rockstargames": {
       "Key": "rockstargames",
@@ -195729,7 +195729,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "612b13f9c28c143a106d6f7577ff8d5f916ea7cfc0631cfd750b658931358a8f"
+      "Hash": "a4614ea842ca589e0c1221bb2aed3eff6e398951ade90ee933a9111c98304f73"
     },
     "h1:scopely": {
       "Key": "scopely",
@@ -197738,7 +197738,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "9a57d9d690e78b4ef4e9b18e5fa589edcf7d276c787e2387805b1e70fd989be2"
+      "Hash": "f7abf169047f0adf02a885d52299a652d082c845cc0763becae76617b71b6ad7"
     },
     "h1:starbucks_japan": {
       "Key": "starbucks_japan",
@@ -202688,7 +202688,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f1f807fd9fb7e5cbb6627723b796756ad6496f2eecea31a6cd6add389c088548"
+      "Hash": "bfe8c8d31082b69301e49c603e1577dea6c5de5d0a804071e5b6637268c2fa6f"
     },
     "h1:vf-corporation-vdp": {
       "Key": "vf-corporation-vdp",
@@ -204671,7 +204671,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "15f5357e5ceee5133afe23f2b35f77214e3372676fb1f342c2d35cac4c7e4638"
+      "Hash": "bf92a17157351b2fdf4179d9a32cedfdc9c95daa6fc953a8a8b4268af2420c37"
     },
     "h1:whatnot": {
       "Key": "whatnot",
@@ -214045,6 +214045,108 @@
         }
       },
       "Hash": "8c6918c45a681640bff41ad3d7f5f19132151930311b81908198ace04d21f543"
+    },
+    "in:c7b0edf5-6702-4c91-923b-d36e4518c9f1": {
+      "Key": "c7b0edf5-6702-4c91-923b-d36e4518c9f1",
+      "Name": "Lightspark Public Bug Bounty",
+      "URL": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
+      "InScope": {
+        "https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/": {
+          "ID": "https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/",
+          "Type": "url"
+        },
+        "https://api.lightspark.com": {
+          "ID": "https://api.lightspark.com",
+          "Type": "url"
+        },
+        "https://app.lightspark.com": {
+          "ID": "https://app.lightspark.com",
+          "Type": "url"
+        },
+        "https://app.uma.money": {
+          "ID": "https://app.uma.money",
+          "Type": "url"
+        },
+        "https://github.com/buildonspark/spark": {
+          "ID": "https://github.com/buildonspark/spark",
+          "Type": ""
+        },
+        "https://github.com/lightsparkdev/flutter-sdk": {
+          "ID": "https://github.com/lightsparkdev/flutter-sdk",
+          "Type": ""
+        },
+        "https://github.com/lightsparkdev/go-sdk": {
+          "ID": "https://github.com/lightsparkdev/go-sdk",
+          "Type": ""
+        },
+        "https://github.com/lightsparkdev/js-sdk": {
+          "ID": "https://github.com/lightsparkdev/js-sdk",
+          "Type": ""
+        },
+        "https://github.com/lightsparkdev/kotlin-sdk": {
+          "ID": "https://github.com/lightsparkdev/kotlin-sdk",
+          "Type": ""
+        },
+        "https://github.com/lightsparkdev/lightspark-rs": {
+          "ID": "https://github.com/lightsparkdev/lightspark-rs",
+          "Type": ""
+        },
+        "https://github.com/lightsparkdev/python-sdk": {
+          "ID": "https://github.com/lightsparkdev/python-sdk",
+          "Type": ""
+        },
+        "https://hooks.striga.com/core/": {
+          "ID": "https://hooks.striga.com/core/",
+          "Type": "url"
+        },
+        "https://link.uma.me": {
+          "ID": "https://link.uma.me",
+          "Type": "url"
+        },
+        "https://sandbox.striga.com/api/v0": {
+          "ID": "https://sandbox.striga.com/api/v0",
+          "Type": "url"
+        },
+        "https://sandbox.striga.com/api/v1": {
+          "ID": "https://sandbox.striga.com/api/v1",
+          "Type": "url"
+        },
+        "https://sandbox.striga.com/backoffice": {
+          "ID": "https://sandbox.striga.com/backoffice",
+          "Type": "url"
+        },
+        "https://tfr-sandbox.striga.com/": {
+          "ID": "https://tfr-sandbox.striga.com/",
+          "Type": "url"
+        },
+        "https://www.sandbox.striga.com/api/v1/": {
+          "ID": "https://www.sandbox.striga.com/api/v1/",
+          "Type": "url"
+        },
+        "https://www.vault.striga.eu/web/sandbox/": {
+          "ID": "https://www.vault.striga.eu/web/sandbox/",
+          "Type": "url"
+        },
+        "lightsparkdev/lightspark-crypto-uniffi": {
+          "ID": "lightsparkdev/lightspark-crypto-uniffi",
+          "Type": ""
+        },
+        "lightsparkdev/swift-wallet-sdk": {
+          "ID": "lightsparkdev/swift-wallet-sdk",
+          "Type": ""
+        },
+        "sandbox.striga.com": {
+          "ID": "sandbox.striga.com",
+          "Type": "url"
+        }
+      },
+      "OutScope": {
+        "support.lightspark.com": {
+          "ID": "support.lightspark.com",
+          "Type": "url"
+        }
+      },
+      "Hash": "83e6555c43a61d29d5ee8c3587b47ced6041e4d7015cd502558654bdc01a8bce"
     },
     "in:cefc1013-9927-4e4a-b306-e5d57f06d34a": {
       "Key": "cefc1013-9927-4e4a-b306-e5d57f06d34a",
