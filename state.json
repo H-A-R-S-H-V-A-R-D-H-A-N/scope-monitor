@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-21T18:14:24Z",
+  "captured_at": "2026-10-21T21:57:44Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -15957,7 +15957,7 @@
           "Type": "website"
         }
       },
-      "Hash": "b55efbcb602f94b5246fff8dcb92ec7f11aca9fcd8fc0621305562b15ba27bc9"
+      "Hash": "394f0629da97650077a82be93af6f457613b3116796795dd93753808805e2deb"
     },
     "bc:TIDAL": {
       "Key": "TIDAL",
@@ -33807,7 +33807,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "95a6f088871adf4b79375f6d8f2feed59dd49540017ddce275126ac64aba8f1a"
+      "Hash": "b514775ab8ec77c9bea48c7e0f1c78e58d32298ccac9f42ebc95cd3b1e355a2e"
     },
     "h1:box_private": {
       "Key": "box_private",
@@ -34254,7 +34254,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "613a97229c5057669a3c351fa1292c8131b897bf2d34ecd6ff81ebad3297c132"
+      "Hash": "ced0cc235a1a8d4158e0b88bd3eb7e8c4832787ba17df4404dc498d53fe59c44"
     },
     "h1:bybit_fintech": {
       "Key": "bybit_fintech",
@@ -69768,7 +69768,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "308af55375e57bf9c87ce2810659a2e27607841d11cf8121e948d0d09b9a4198"
+      "Hash": "9fc9c5aca14f2ae94806fed8b87a8afc2f46368b6d7eb16844a58635efcafc7b"
     },
     "h1:chaturbate": {
       "Key": "chaturbate",
@@ -69981,7 +69981,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4a44da0600c88d346d15258ae26c6a321a8d2376586b2117da4399f20534f8c0"
+      "Hash": "989bc9c68eaa466cb7c5c23e0ac30aee5ec01087a947e4859c73395c2236b7c8"
     },
     "h1:city_of_los_angeles_vdp": {
       "Key": "city_of_los_angeles_vdp",
@@ -93289,7 +93289,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "99f039d22edb745306154040127a623dbb533c47f2f84d883fca980d0a6851f9"
+      "Hash": "566972bcdcb768f243ceca5055bfb609db56b9eeb2b6aaadce50be831d4e8990"
     },
     "h1:defectdojo": {
       "Key": "defectdojo",
@@ -98995,12 +98995,44 @@
           "ID": "*.zellepay.com",
           "Type": "WILDCARD"
         },
+        "accountinfodirect-snd.earlywarning.com": {
+          "ID": "accountinfodirect-snd.earlywarning.com",
+          "Type": "URL"
+        },
+        "accountinfodirect.earlywarning.com": {
+          "ID": "accountinfodirect.earlywarning.com",
+          "Type": "URL"
+        },
+        "aoa-ws-fis.earlywarning.com": {
+          "ID": "aoa-ws-fis.earlywarning.com",
+          "Type": "URL"
+        },
         "developer*.earlywarning.com": {
           "ID": "developer*.earlywarning.com",
           "Type": "WILDCARD"
         },
         "ews-fusion.my.site.com": {
           "ID": "ews-fusion.my.site.com",
+          "Type": "URL"
+        },
+        "https://accountinfo.earlywarning.com": {
+          "ID": "https://accountinfo.earlywarning.com",
+          "Type": "URL"
+        },
+        "https://aoa-ws-direct-snd.earlywarning.com/aoainquiryservice/services/aoainquiryservice": {
+          "ID": "https://aoa-ws-direct-snd.earlywarning.com/aoainquiryservice/services/aoainquiryservice",
+          "Type": "URL"
+        },
+        "https://aoa-ws-direct.earlywarning.com/aoainquiryservice/services/aoainquiryservice": {
+          "ID": "https://aoa-ws-direct.earlywarning.com/aoainquiryservice/services/aoainquiryservice",
+          "Type": "URL"
+        },
+        "https://aoa-ws.earlywarning.com/aoainquiryservice/services/aoainquiryservice": {
+          "ID": "https://aoa-ws.earlywarning.com/aoainquiryservice/services/aoainquiryservice",
+          "Type": "URL"
+        },
+        "inquirydirect.earlywarning.com": {
+          "ID": "inquirydirect.earlywarning.com",
           "Type": "URL"
         },
         "support*.earlywarning.com": {
@@ -99086,7 +99118,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bf777182d4b2e85e0f5a3a644c787eb6484176f76278ff2751db181cb00315a2"
+      "Hash": "c4c2c670e93144bc33da07c7819a581d8b5314174a1f0e4a32640e55ce19afa9"
     },
     "h1:eero": {
       "Key": "eero",
@@ -154748,7 +154780,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "38bb05501c5220c60e5256f3f0b778dfd56a1684c95902b893ca70919abd9b5c"
+      "Hash": "fd194400e76ac6534b26218dc6c36e71d61d648e8efc89275b6ea749a2dd476c"
     },
     "h1:global-payments": {
       "Key": "global-payments",
@@ -159922,7 +159954,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "bd3601ca380d2222fce7b4e5e9801dc2d0dfedbeeca85032b8cc99f10e0e1e6e"
+      "Hash": "44d0df77e87f47efcc9c1e8c4f2c18ab4651e06fcf78600e65a62188c586405a"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -176781,10 +176813,6 @@
           "ID": "*.latamairlinesgroup.net",
           "Type": "WILDCARD"
         },
-        "*.latamcargo.com": {
-          "ID": "*.latamcargo.com",
-          "Type": "WILDCARD"
-        },
         "*.latamtrade.com": {
           "ID": "*.latamtrade.com",
           "Type": "WILDCARD"
@@ -177028,7 +177056,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ec943f96b91013d7db1afe4d69e1593ceb8e6f396014b673e002f0002add3dd1"
+      "Hash": "8c0b0bd747432848c1fe1462e8393bc008ab0ec845670cbd72a75eb1b2824d36"
     },
     "h1:lemlist": {
       "Key": "lemlist",
@@ -179643,7 +179671,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9e102b99036d776defb5ae43183828088657bba7ec0a137747cae359928f69f2"
+      "Hash": "8d5908970a4d19f2f0ad0588306ff3e638b4d227460073a9943b07da22b793d9"
     },
     "h1:mod_supply_chain_vdp": {
       "Key": "mod_supply_chain_vdp",
@@ -187332,7 +187360,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f7d1bda989dda7cd41b9d45a1c0c715a689f11ad881a7c1a5e94e7aeb0aad1c5"
+      "Hash": "4a69a5d7fa448426d8d71aaeb5254416d0dbc602b7647142bc2752f7b6971989"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -188116,7 +188144,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "129546eeab976024c9835eb5a62509a0c2d3ca1520f3e98c960b560c68426aa7"
+      "Hash": "68c254e7a44e766b49fe54cf499caf4eea0ff76327c06f086899e898b5437fda"
     },
     "h1:nominet": {
       "Key": "nominet",
@@ -191272,7 +191300,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "43b7a8b707207063fa0ad73582968c72fdea429bcb3e76eae64d95f192120187"
+      "Hash": "4fea965b2d02e494a7f8579c34a0540a1d57c39c2c2038ea64da6cf0768496dd"
     },
     "h1:pfizer": {
       "Key": "pfizer",
@@ -191718,7 +191746,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "6ba234dd9e85c96f72d69b2deaae0d188d254bb7899ab859c5ea293616c2d7f6"
+      "Hash": "8c3ac126486b532608a0fa4b313b2db9e395db06e4c59d797211b575aa06a65a"
     },
     "h1:planet-labs": {
       "Key": "planet-labs",
@@ -192998,7 +193026,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "11702ded11858c05376b7062f4d3c8af0b5aa7864efc7922c5139d33e08b8f0c"
+      "Hash": "764b7ba2c12d0bc19da002bb629097a3c0f875162f096552b7d6660ac12a5733"
     },
     "h1:razorpay": {
       "Key": "razorpay",
@@ -193923,7 +193951,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "13cff0a3745031c521eee9447add204ab5683bfeb88e0cf4c84e1fc8cbaaab02"
+      "Hash": "b81e6cd76703f9ef41416b11fa17dce12a6e9d70c7d0f9058c390c6277751a26"
     },
     "h1:resmed": {
       "Key": "resmed",
@@ -194184,7 +194212,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "c74b7611c4f3fd9cb01bbe965e0ab419004ffe34552cbc32d30398972929384e"
+      "Hash": "a43ba51969fbca87625c9c7264896be980b1a7ab6b556b7159971bc32b64b078"
     },
     "h1:revive_adserver": {
       "Key": "revive_adserver",
@@ -194288,7 +194316,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e438b550c2d8d573667c67badf6f9b0077ac502922b032fc4b114aeb456dbd11"
+      "Hash": "9e5ff792ce09e812783e12a81afd254b9e069015732ef0a6c716c199ae8e3f97"
     },
     "h1:ring": {
       "Key": "ring",
@@ -196052,7 +196080,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0b6bf9168863da1b4aa85dc64b7bf63055409a96a359c637cfc9192c9bf60cc6"
+      "Hash": "6a30fe38fd902e9b914e950a8bc7bc472f652b43f3894781148e8a1600fcec46"
     },
     "h1:shopify": {
       "Key": "shopify",
@@ -196475,7 +196503,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8f98472b95b5fb1711f5dbf04877c4a9dc52c1b462f2f287225e9a4c18aaf5a9"
+      "Hash": "16f46e7dc6534e759da72286198d90d981c8a8226a8bf134656ccaf5782ddf11"
     },
     "h1:six-group": {
       "Key": "six-group",
@@ -197152,7 +197180,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "accb038d220dd71d30d9972fdcd35ccea0d8d0b2b35784593f5dddbb63b4f88e"
+      "Hash": "70b14d2074e65d054bc6ab40152113362342e9a817c99615ab3e14c176004fa9"
     },
     "h1:spotify": {
       "Key": "spotify",
@@ -201697,7 +201725,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "7b1180c6e4d4e5f0305dbfcc6e225197e864fccd81134f0a6e10f77adc6ff0e0"
+      "Hash": "bef626e12a0a87514cb87257515fd3f466ed294bd351b5c3e5a15062eb1f337c"
     },
     "h1:urbancompany": {
       "Key": "urbancompany",
@@ -204549,7 +204577,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "b59e5a02f2e19d7bcc9e0750f71fac1296f902a2f3cfbf446b0669211de610d7"
+      "Hash": "b2e65380f0b4b8853f4e86b1befc994b99848674dec6d4b99866d003a53da901"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -204657,7 +204685,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "30369241acf5a8b113f4934dedd03a30202598b30eac8420b3d2a96eaf9cbad9"
+      "Hash": "341b7762b63c76d740bc3a6c332a6607f06d07d2ea1df449d0a632a539b057fd"
     },
     "h1:wolt": {
       "Key": "wolt",
@@ -212234,13 +212262,21 @@
       "Name": "NxtPort VDP",
       "URL": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
       "InScope": {
+        "*.certifiedpickup.com": {
+          "ID": "*.certifiedpickup.com",
+          "Type": "wildcard"
+        },
+        "*.inboundrelease.com": {
+          "ID": "*.inboundrelease.com",
+          "Type": "wildcard"
+        },
         "*.nxtport.com": {
           "ID": "*.nxtport.com",
           "Type": "wildcard"
         }
       },
       "OutScope": {},
-      "Hash": "c3fa38622717a55a45dbd48bb0da42c9af4c3d6522b8b3423fa7c455cef87669"
+      "Hash": "78f95c35c67ce76c8c3aecaedb062e8c9828dacecd070b45cb0ab726fd7eb7ca"
     },
     "in:9b5d8125-aab2-4e21-95db-3ed543c003de": {
       "Key": "9b5d8125-aab2-4e21-95db-3ed543c003de",
