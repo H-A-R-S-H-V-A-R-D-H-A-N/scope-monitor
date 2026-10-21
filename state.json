@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-20T23:22:24Z",
+  "captured_at": "2026-10-21T01:58:38Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -33828,7 +33828,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "8ae0e35d768bdb08dcf1abaad11024342f1489497dcf29c74423c48af0ca6c85"
+      "Hash": "5a719fd73e47882f123206305a32f58f20e9bd8ac6da7cbb7e687981aee9274a"
     },
     "h1:box_private": {
       "Key": "box_private",
@@ -90239,7 +90239,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8d6565f9d9f7a87f4376bc050c0fd8c5dc990b83ea6c23480f4bf8d66056617f"
+      "Hash": "2d964a634178121693a62875b36601e0a768e1eb7b11e5834f09a3fb7a4243e9"
     },
     "h1:clear_street_vdp": {
       "Key": "clear_street_vdp",
@@ -155997,7 +155997,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "e2dd317b85cc82781d755a8722705aaa3d272fcbe1cfa7f3c09f4f0a37f0c91a"
+      "Hash": "63a13efdf42ee1ba54981b5c75c258e2fbb9008f9e765430ed040eac333a861a"
     },
     "h1:grab": {
       "Key": "grab",
@@ -177014,7 +177014,7 @@
           "Type": "SOURCE_CODE"
         }
       },
-      "Hash": "47d7a06c3e7e01a112ace12bdb13f50af47229ec0378be120066a5ee68583d6d"
+      "Hash": "d9e041c786681b3e3c0438c65c56e251dddf5ad9af112fda9c316327a192944b"
     },
     "h1:lark_technologies": {
       "Key": "lark_technologies",
@@ -178016,7 +178016,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "a244f6f40af88b2a708e3e56cb7b9cff6ef37634daceb7ae6e79fa1aacc03f34"
+      "Hash": "4cd2e4758ba9e5d6e1d207467ab98fc24271f6e4c9ac1f5ba37906b4e219d929"
     },
     "h1:lovable-vdp": {
       "Key": "lovable-vdp",
@@ -189342,6 +189342,10 @@
           "ID": "http://progressfinservices.com",
           "Type": "URL"
         },
+        "http://rewardredeem.oportun.com": {
+          "ID": "http://rewardredeem.oportun.com",
+          "Type": "URL"
+        },
         "https://artifact-repository.oportun.com/ui/login": {
           "ID": "https://artifact-repository.oportun.com/ui/login",
           "Type": "URL"
@@ -189511,7 +189515,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "9e29cd12c2586c2a1979ac66f2a5bc5083e64fead75d97797c579d22ac7a4c10"
+      "Hash": "e3e2fa83eec9d56f8e9abb55bc136577f79f6ca55b76ce07cc1dfa36bc905431"
     },
     "h1:oppo_bbp": {
       "Key": "oppo_bbp",
@@ -195847,7 +195851,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "a4614ea842ca589e0c1221bb2aed3eff6e398951ade90ee933a9111c98304f73"
+      "Hash": "6860c3bbdc0aae02df3e581b82010e7920e4d1c555d43d00e234d0cd110d8cf9"
     },
     "h1:scopely": {
       "Key": "scopely",
@@ -198267,7 +198271,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "4463ba12f2e63810d5a0ceaaa12309cc48d3d5d2d006ec67691b4b0f354c33f4"
+      "Hash": "d0c353a88f7c405e31a017cc619b5ae6b97d874b6bd14992dfabb267b05b05a6"
     },
     "h1:stripo": {
       "Key": "stripo",
@@ -199633,7 +199637,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "28fd694096cd29deaa024987dd9674202944f3a9151c822d5b72872ab1d823a6"
+      "Hash": "9647893773d0e23854217eb9679c8a8ea74c7ddca4ba227d63a43f326d813520"
     },
     "h1:toolsforhumanity": {
       "Key": "toolsforhumanity",
