@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-21T21:57:44Z",
+  "captured_at": "2026-10-22T00:38:37Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -3611,24 +3611,44 @@
       "Name": "Centers for Medicare \u0026 Medicaid Services - Public Bug Bounty Program 2026",
       "URL": "https://bugcrowd.com/engagements/cms-bbpublic",
       "InScope": {
-        "█████████████": {
-          "ID": "█████████████",
-          "Type": "website"
-        },
         "████████████████": {
           "ID": "████████████████",
+          "Type": "website"
+        },
+        "█████████████████": {
+          "ID": "█████████████████",
+          "Type": "website"
+        },
+        "███████████████████": {
+          "ID": "███████████████████",
           "Type": "website"
         },
         "████████████████████": {
           "ID": "████████████████████",
           "Type": "website"
         },
+        "██████████████████████": {
+          "ID": "██████████████████████",
+          "Type": "website"
+        },
         "███████████████████████": {
           "ID": "███████████████████████",
           "Type": "website"
         },
+        "████████████████████████": {
+          "ID": "████████████████████████",
+          "Type": "website"
+        },
         "███████████████████████████": {
           "ID": "███████████████████████████",
+          "Type": "website"
+        },
+        "████████████████████████████": {
+          "ID": "████████████████████████████",
+          "Type": "website"
+        },
+        "██████████████████████████████": {
+          "ID": "██████████████████████████████",
           "Type": "website"
         },
         "███████████████████████████████████████████": {
@@ -3636,17 +3656,8 @@
           "Type": "website"
         }
       },
-      "OutScope": {
-        "██████████████████████████████████": {
-          "ID": "██████████████████████████████████",
-          "Type": "website"
-        },
-        "████████████████████████████████████████████████████████████████████████████████████": {
-          "ID": "████████████████████████████████████████████████████████████████████████████████████",
-          "Type": "website"
-        }
-      },
-      "Hash": "8901f2331825037403dfd54439eaea2b893ddc16df2bc039a27e7f48b22882eb"
+      "OutScope": {},
+      "Hash": "4a98e0f06e7dd8176310046ee82ea8f118c7a3aac8332685a00a42eb343be205"
     },
     "bc:Certinia (formerly FinancialForce)": {
       "Key": "Certinia (formerly FinancialForce)",
@@ -90561,7 +90572,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac79c9fcfd7893d4b8a6557d8daee3e73b6a32c2171bcef3d635534a46cc1383"
+      "Hash": "424871eb955dfe4fb98453c7d5421d6ff14c4878523ef34a753ce53403f02f43"
     },
     "h1:coalition": {
       "Key": "coalition",
@@ -100283,7 +100294,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5c593cb495e81addab768a4f805657533c5d6169295a8bf433f3f475b7dad5c8"
+      "Hash": "309ef9e21db808d7596871e9618251260f349ef0639648673cacb2ff0ad82b54"
     },
     "h1:epicgames-vdp": {
       "Key": "epicgames-vdp",
@@ -175120,7 +175131,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f8ae7c001a30d293ab99977fd8154c6eb13a4826f906dc0f2c91ed4004f80971"
+      "Hash": "34bb61e2107c790fcb391d7d6a1d863440eec11014a7049707131aecdeaf2607"
     },
     "h1:judgeme": {
       "Key": "judgeme",
@@ -187360,7 +187371,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "4a69a5d7fa448426d8d71aaeb5254416d0dbc602b7647142bc2752f7b6971989"
+      "Hash": "f7d1bda989dda7cd41b9d45a1c0c715a689f11ad881a7c1a5e94e7aeb0aad1c5"
     },
     "h1:netflix": {
       "Key": "netflix",
@@ -192540,7 +192551,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "c223b27f3b3157798a87c1f3817f7ce7f06303e5857c23dbd2b0a7c6ba354705"
+      "Hash": "15627ebf687dd9aae34ea44885b2940b29538e8e064ed16c9b011ebae3bf6417"
     },
     "h1:prism_vdp": {
       "Key": "prism_vdp",
@@ -194458,7 +194469,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "21663db3e1876ce2afe13e943b375296518641b96067c8118e03942212596a4f"
+      "Hash": "37a68784d8b792e2cf34e7ddaf8f222bd77f1e77d98b456e2c4542e7c9927d85"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -195377,7 +195388,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c2b7dceb1e2160ee34b8d43a3ddf160ade2e6be63cb1bf76533a3bff6e76e63d"
+      "Hash": "94f3276c0a4129e34f1001826a47469aff6c8ffe7eaafea44edc26367557de09"
     },
     "h1:ruby": {
       "Key": "ruby",
@@ -195395,7 +195406,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "ebff561fba0bd2d36b89be99a641a9eacfa8f0e0ac7a897c906c04ddef44af17"
+      "Hash": "614d5e22241b6aa41b1f25c41951b4f81ae9943bb6b71742adb5c63e8bd4a40a"
     },
     "h1:rubygems": {
       "Key": "rubygems",
@@ -204481,7 +204492,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "770fae8f8fa14864edd0d042f3bea402f2eb4acb1bd3723e1dc75c957b945c77"
+      "Hash": "7534c89ae59c52724b6134923e6c77370a87948157975fb59c009f9a54b9b12c"
     },
     "h1:who-covid-19-mobile-app": {
       "Key": "who-covid-19-mobile-app",
