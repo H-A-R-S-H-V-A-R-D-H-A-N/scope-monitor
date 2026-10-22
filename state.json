@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-22T11:43:25Z",
+  "captured_at": "2026-10-22T17:04:58Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -19274,7 +19274,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "e59437e84ffcfb5f1bf70605af26ab7d0f6bd8e620ecfb23837cee2351f71387"
+      "Hash": "79b7e0dc4e19025c886b50d3664845d8248873856c303779c9968f4c4a73620f"
     },
     "h1:3cx": {
       "Key": "3cx",
@@ -25878,7 +25878,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "c73eda51f3ad9842a5ce357f2b9f78ba04c0061ab02fe614375c8f8baf7223a5"
+      "Hash": "b86345bfc79ed5e34cc8cd8c4e9524a134fa8e152cd2adec341c6e91e5e15b17"
     },
     "h1:agoda-public": {
       "Key": "agoda-public",
@@ -29551,7 +29551,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "71634a376d5f474ff3c3b1b9deb6fb1e73069afbd42eb6176106168efdac6378"
+      "Hash": "7bb3d474ff76103696f7a1ddfcae03e07d8a95d970c42cfcfa71c7bcd5937c2c"
     },
     "h1:apnic": {
       "Key": "apnic",
@@ -30509,7 +30509,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "a808f1a9c68bc048e39e95bb1b035e6cd5c769b6d4ae13f488c89effd713cca5"
+      "Hash": "81e39a681202bc61d2be760aa6663a8994c8d76c9793b44e3a6de54808d310f1"
     },
     "h1:avalara": {
       "Key": "avalara",
@@ -33103,14 +33103,6 @@
       "Name": "The Browser Company of NYC",
       "URL": "https://hackerone.com/bcny",
       "InScope": {
-        "Arc on Mac": {
-          "ID": "Arc on Mac",
-          "Type": "DOWNLOADABLE_EXECUTABLES"
-        },
-        "Arc on Windows": {
-          "ID": "Arc on Windows",
-          "Type": "DOWNLOADABLE_EXECUTABLES"
-        },
         "Dia Assistant": {
           "ID": "Dia Assistant",
           "Type": "OTHER"
@@ -33123,33 +33115,42 @@
           "ID": "Dia on Windows",
           "Type": "DOWNLOADABLE_EXECUTABLES"
         },
-        "arc.net": {
-          "ID": "arc.net",
-          "Type": "URL"
-        },
         "bcny.com": {
           "ID": "bcny.com",
           "Type": "URL"
         },
-        "company.thebrowser.arc": {
-          "ID": "company.thebrowser.arc",
-          "Type": "GOOGLE_PLAY_APP_ID"
-        },
         "diabrowser.com": {
           "ID": "diabrowser.com",
           "Type": "URL"
-        },
-        "id6472513080": {
-          "ID": "id6472513080",
-          "Type": "APPLE_STORE_APP_ID"
         },
         "thebrowser.company": {
           "ID": "thebrowser.company",
           "Type": "URL"
         }
       },
-      "OutScope": {},
-      "Hash": "b1f7d0855cf82f156624bb5a5aa402fbfe69d009ae7cc9e7f770b57fe09c15ad"
+      "OutScope": {
+        "Arc on Mac": {
+          "ID": "Arc on Mac",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "Arc on Windows": {
+          "ID": "Arc on Windows",
+          "Type": "DOWNLOADABLE_EXECUTABLES"
+        },
+        "arc.net": {
+          "ID": "arc.net",
+          "Type": "URL"
+        },
+        "company.thebrowser.arc": {
+          "ID": "company.thebrowser.arc",
+          "Type": "GOOGLE_PLAY_APP_ID"
+        },
+        "id6472513080": {
+          "ID": "id6472513080",
+          "Type": "APPLE_STORE_APP_ID"
+        }
+      },
+      "Hash": "e88368bc86ff68e9a17d0967b8bd678bfd47875c3dd57e4006ac045e1beebfa6"
     },
     "h1:beiersdorf": {
       "Key": "beiersdorf",
@@ -34306,7 +34307,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "9e61ea11a9ab0e9d8eafa51250e52a96a9b069e944211347205ea776345453a2"
+      "Hash": "4bb20593964c54985c1fea3ac352744d1689df65ece4865d18082d3312c229ef"
     },
     "h1:bykea": {
       "Key": "bykea",
@@ -34467,7 +34468,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "298fcf839d7a0ebf84e129e59b675d134fad2c21e9d16ee21703285b0d1d978f"
+      "Hash": "eb3619090d05f4e3eaef992f1c2d83ac2700d37694f929369d97dbc3c5a236f3"
     },
     "h1:capital-one": {
       "Key": "capital-one",
@@ -69833,7 +69834,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ed41a664b2ccd2644ac380c097fca0c95587375ff5f478c0e83777863a19b660"
+      "Hash": "9f0ddfde1e598f6db6143912d33cd966c81d030c1194b373d2e0d929835d15c1"
     },
     "h1:chia_network": {
       "Key": "chia_network",
@@ -90238,7 +90239,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "52f955a4829e114d54a3c3706d6903e8d7ba2376592014acab57da85e0529d87"
+      "Hash": "2cee12b6d2c2e0b1c91c11209e6bf043fb703e73814c6bcab92baee35574091c"
     },
     "h1:cloudflare": {
       "Key": "cloudflare",
@@ -98120,7 +98121,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "344a12eef92c4e2eb14410a1e0425690f6eb18bb27eb263befc71bc424e98afd"
+      "Hash": "07dcca5cc429adee4f3cfabb624a840902b8a206fc37bb792e4f76220073dd65"
     },
     "h1:discover-vdp": {
       "Key": "discover-vdp",
@@ -106825,7 +106826,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1aad49e0ac9373d583e9f9268c074c984251027b9c05dcd52576b42e471448d7"
+      "Hash": "db499e03985335bfc59cb235d4b1fcd0358a0ef975133e3e290824384abe653f"
     },
     "h1:experian": {
       "Key": "experian",
@@ -108487,7 +108488,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "381b039089faafd5a13d7af3f9f60be0323b827a7bf1d6e83b3a9aee634adf1e"
+      "Hash": "98a65f3d7f3603578ba36e1e6b360b528b06e03e8e1d14b4a840cf15fb027a26"
     },
     "h1:fertitta_entertainment": {
       "Key": "fertitta_entertainment",
@@ -108929,7 +108930,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ac48e57bf6a03583a6c20ebe0ae20c4a89c5e78df7cb5815479f15efc24496be"
+      "Hash": "bd124d7ac59263bfbb35c38afb340bde75a795f8f5d321f463885d8161e031cc"
     },
     "h1:fifth_third_bank_vdp": {
       "Key": "fifth_third_bank_vdp",
@@ -154342,7 +154343,7 @@
           "Type": "WILDCARD"
         }
       },
-      "Hash": "98e0a7ae09b3dc8140dd10a414c53e845ba49da0a1e7e99554b039df873217d6"
+      "Hash": "f2193ffa01a7b3219c2fe85efd1bb170afca49e5911c6ed35ba601581a91c60b"
     },
     "h1:fresenius": {
       "Key": "fresenius",
@@ -154602,7 +154603,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7502f03e98c5ed2860cb1e8d98bf1245b7c48e41fdf2eb9ebcc8a34a69804bf4"
+      "Hash": "91cf7be05291082dd689b30f15a481d0a32cbf91bb6acf03df13eea97097c451"
     },
     "h1:gitlab": {
       "Key": "gitlab",
@@ -158519,7 +158520,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ade11e196a3ece0321cb747ae00532d16e4cbc74392e96bfc71e24b429e16d78"
+      "Hash": "432133c0eae5761b3dda3b01326ee2d774977b82da3f37f89bf225ac9f9b106f"
     },
     "h1:hy-vee": {
       "Key": "hy-vee",
@@ -159868,7 +159869,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "b6adc0f83b9b44e7968c7c30c4aec663883a2dde2453712a139acbfb9e63b001"
+      "Hash": "086bde6fe3399e99e8224b62843427333fb00cc43ecd7cee2a0f32e557616745"
     },
     "h1:instacart": {
       "Key": "instacart",
@@ -176738,7 +176739,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "85aed9dd8241e99d47aa03af6a3c2d567c0d9211adddc91f96874a9441efc874"
+      "Hash": "79be4cdc7231bd7f1995fdedf3835105d5a3be458aba3194b95e8da436f5d902"
     },
     "h1:latamairlines": {
       "Key": "latamairlines",
@@ -177155,7 +177156,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "f34cafd74fdfbc56a3d98b09416dacdd894a1dd72b9e1c23e61a82548b698ff0"
+      "Hash": "e6274a8875b38c637aa4097a454df7e02046c30b6aa3e6728c3471199d653f6c"
     },
     "h1:live_nation": {
       "Key": "live_nation",
@@ -179548,7 +179549,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "f9b2458e7ea9b9d9d3cb089b666b444e5f44e4f20478282c9367934f75ac74c5"
+      "Hash": "a56d00a052206563887c307e315da1c5455e897f1c244881e980cd87b6b5cf9c"
     },
     "h1:mergify": {
       "Key": "mergify",
@@ -182115,7 +182116,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "de81dd0d2c09f408686f3fb3bb37694a3884b3feea95b75429564696c8246bb7"
+      "Hash": "7954f3d8b9c26546612347c46103f451f912a53ab2fde4c79324f52a7c713a53"
     },
     "h1:mongodb": {
       "Key": "mongodb",
@@ -185163,7 +185164,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "4b83b3769d7c802e975ab16ad6345ec4783ecc6448ffccaa5b2efc33d091089e"
+      "Hash": "b171905157aef68a6655d5e4c7b2309bfd582d7c56a7a87988d18d310880c0d3"
     },
     "h1:mueller_water_products_vdp": {
       "Key": "mueller_water_products_vdp",
@@ -187555,7 +187556,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0187dc724974fcf7f21fe5c8772f49cd97a858b84367ee73d993ba5e3f6ed32f"
+      "Hash": "35343a6ceeaee78fc364d3d425a4faefba740583d29bc56e22ef8a561bd2a25a"
     },
     "h1:newegg": {
       "Key": "newegg",
@@ -189814,7 +189815,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "d933a0c67cadb21810c5d393d0c4ff3d63395f7c91436f2b490ff431066f8a66"
+      "Hash": "890661bf052ddcb43cd9e8216a92125ebbc249623796e04318246b56f6505b81"
     },
     "h1:palantir_public": {
       "Key": "palantir_public",
@@ -191674,7 +191675,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "0624863f0ae13c9a69e08d55930c366879755225506c35f3e8ce4a633d9baa1d"
+      "Hash": "b31ec13d77fbc8cb085e57f025918f8190b7a4a3f90432eeac0be0f286036927"
     },
     "h1:plaid": {
       "Key": "plaid",
@@ -192530,7 +192531,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "15627ebf687dd9aae34ea44885b2940b29538e8e064ed16c9b011ebae3bf6417"
+      "Hash": "c223b27f3b3157798a87c1f3817f7ce7f06303e5857c23dbd2b0a7c6ba354705"
     },
     "h1:prism_vdp": {
       "Key": "prism_vdp",
@@ -192738,7 +192739,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "95360b591b1473c39a1b29019a26ed1d08e7137ec38fc591fb841e59b108a3e7"
+      "Hash": "9f17412505842c4681cc34ff11b2e5dbc7cd26128f434d18076251f836fe4fd4"
     },
     "h1:prudential-financial": {
       "Key": "prudential-financial",
@@ -193323,7 +193324,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "ee5f33b1a8d2bd5ff2a7132b9bb00b27e535c499c4f16a1dbfafc2891c841225"
+      "Hash": "529839fffac7c95591b1d857dbaa38f9382eb8d23aeeca9e53c1fa953cd78520"
     },
     "h1:regions_financial": {
       "Key": "regions_financial",
@@ -194448,7 +194449,7 @@
           "Type": "OTHER"
         }
       },
-      "Hash": "6b2cf4cc08418f2d649fe8b760a8eaf52f51441afc060c9e77d590a485e0799e"
+      "Hash": "97fb52ae8b0d9ffb5820f1096481ae913ee82a35d4531cc6ca83705041a022ce"
     },
     "h1:ripio": {
       "Key": "ripio",
@@ -194953,7 +194954,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "7e21aaed4b1b982ec25535cc5a29b75a353b7b2df1211d96580e1e5f3baf4acb"
+      "Hash": "8b7ba7ba0df1971d91b2cfdad6087a37f510d5203875f7ba3ae439abaf285b42"
     },
     "h1:robinhood_markets": {
       "Key": "robinhood_markets",
@@ -195488,7 +195489,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "0684e73a524c5eb41b9efa1d473e76eb8ec2792011817c3aa94d7bd132ec64c3"
+      "Hash": "c9eee9c29b49e17faa9235d1504df4613fbdf2adb7f82cf4426ac89ff7028df7"
     },
     "h1:scopely": {
       "Key": "scopely",
@@ -196783,7 +196784,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "423d43692f90761bb07338415a985e736aa615a345008be9a3f127310491fe75"
+      "Hash": "6cc1807bdb668937e967fc0af6d686bed4e6a09cc4091a6766c89e7fdfbe94bb"
     },
     "h1:slack": {
       "Key": "slack",
@@ -198007,7 +198008,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "225040c8f147b2910cd2b7b5dc24fc604a41e5166d19c0092b7d740bd260757c"
+      "Hash": "c3687b26715fddb584dd9d0958d9f50fc5eb59bc20c4904cf8a4e8d84a0cd6e2"
     },
     "h1:superbet": {
       "Key": "superbet",
@@ -199232,7 +199233,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "3a5b787abe254b3d501db6e0306e54ec09d087297ac69d5f3e8eb1ad7a2515ca"
+      "Hash": "9b73c47b91ceb5540d098f102db3d5e63bd6d0eb4a04010517be5f022a1d0389"
     },
     "h1:tines_automation_vdp": {
       "Key": "tines_automation_vdp",
@@ -200374,7 +200375,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "601f4119ff65a5f1b7c24df1261b2d1617082e1da7c0602d5596fe0f0eb5f872"
+      "Hash": "806ac1ccdb5e20481580272b8631dd154f0c4c1378b007d01978a30a427a4ffd"
     },
     "h1:truist_financial": {
       "Key": "truist_financial",
@@ -201192,7 +201193,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "af217d1aba07b9907fffff28a6f91a06d0d810ed764b2da3109d19307e003326"
+      "Hash": "e616e22d497724a96f38b29e77fcf9689a16da194b021deb5646c9bb58c0fdb9"
     },
     "h1:ui": {
       "Key": "ui",
@@ -202045,7 +202046,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "d2e2bfb4239746360a190fd0aae873a7aabdcff4a179bc68c1ea8813b78275d2"
+      "Hash": "9a9c1c948335b334bb76afa8537511cd7dd9bf1cf537176538cd89b1ea2d28e0"
     },
     "h1:vanguard": {
       "Key": "vanguard",
@@ -204339,7 +204340,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "de84e7b628ffbf90d06c4ae949fd2c2345b71d3d936bed394979ed7c8576bf1f"
+      "Hash": "3260db67b8c56d69e76888baa24170f69011f3756c5f63137c78ed58eacedf83"
     },
     "h1:wellhive": {
       "Key": "wellhive",
@@ -204434,7 +204435,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "6a53a67b415f2e5800fb5c4e459eb4efb0fdb75345b89f49a91dbc58356e89e0"
+      "Hash": "d42404fcb2939eea926b439b1cf37ee0b45424003f6e97fb8d01527e3a146c44"
     },
     "h1:whatnot": {
       "Key": "whatnot",
@@ -204567,7 +204568,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "5064554019d509b8c4ee2fdc0a3a8ec5157fb4fd393e64bddd815c547949ad56"
+      "Hash": "294a1ba49797b0bf2492416614fe0143884b6a94d15523049ad4f6f93ec4ccec"
     },
     "h1:wickr": {
       "Key": "wickr",
@@ -205062,7 +205063,7 @@
         }
       },
       "OutScope": {},
-      "Hash": "41cd1512b881509ca79fc366d4566c37cf0b846fcb0682ef5ed5095b878eecc9"
+      "Hash": "72d3d96ea04f9faa0f74484dbcd4365a2f5e283e7bea07265551368ea02a470d"
     },
     "h1:xiaomi": {
       "Key": "xiaomi",
