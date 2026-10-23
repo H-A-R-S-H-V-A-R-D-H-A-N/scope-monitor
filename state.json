@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-22T23:34:03Z",
+  "captured_at": "2026-10-23T01:54:57Z",
   "programs": {
     "bc: Comcast Xfinity Vulnerability Disclosure Program": {
       "Key": " Comcast Xfinity Vulnerability Disclosure Program",
@@ -29773,7 +29773,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "99220a0df8856babaffb91b4eaf25dc051f08484ba6c838aa33d8bd5251b02bb"
+      "Hash": "09d06f08d44e19a7a0d9e595be53870d7c809f281821bd538f2c74e10d93e50c"
     },
     "h1:assa_abloy_americas": {
       "Key": "assa_abloy_americas",
@@ -34650,7 +34650,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "308b3e6fb562740983e158e91963da60e3ffec141f35367d524bd6458ce27bb1"
+      "Hash": "d872aead6542d3557c5dc35d2f1e5bc3c2d053d3848727c7d63658f6c7476569"
     },
     "h1:capital-one-bounty": {
       "Key": "capital-one-bounty",
@@ -153886,7 +153886,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "1306bd117487f0a50fadedab3bdc1f4b2f561d61542fa32c134ce1f381218563"
+      "Hash": "f3facf759cecc99136d34d9278fee0da84f13b5b1a4f01305ea0ccfc6f1d968f"
     },
     "h1:ford": {
       "Key": "ford",
@@ -159971,7 +159971,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "097fdb020a5918711e27a6fe0a31be5def307031a7e6961553d544fb21bd8808"
+      "Hash": "314fb5188288d2532378fa87e17876766acd761fd4f51825084c6ead78122acb"
     },
     "h1:insulet_corporation": {
       "Key": "insulet_corporation",
@@ -188082,7 +188082,7 @@
           "Type": "HARDWARE"
         }
       },
-      "Hash": "8e0fd43eef1f82583480a5aa9f1b8a2f0230017f924af773dad7e4f0ecee4ac6"
+      "Hash": "7cb782b7a2ae30e2f69b9200e95485db5188eee1bbc79fb5d4a5069429adf0d2"
     },
     "h1:nisc": {
       "Key": "nisc",
@@ -191593,7 +191593,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "8e2358716fe08922284320dc0f00aa8ee7c784c609d37a7b15119a1be3b99681"
+      "Hash": "cfb0b17ff1e74042e0e017966794ee13f89427a53196ce80915c09461129618a"
     },
     "h1:pixiv": {
       "Key": "pixiv",
@@ -198020,7 +198020,7 @@
           "Type": "URL"
         }
       },
-      "Hash": "c3687b26715fddb584dd9d0958d9f50fc5eb59bc20c4904cf8a4e8d84a0cd6e2"
+      "Hash": "225040c8f147b2910cd2b7b5dc24fc604a41e5166d19c0092b7d740bd260757c"
     },
     "h1:superbet": {
       "Key": "superbet",
@@ -207279,67 +207279,6 @@
       },
       "OutScope": {},
       "Hash": "fef7c41344576a4a21d800256aef71ed27e762cdba110c5443168ba3e78d312a"
-    },
-    "in:196fa177-ac2d-41b0-91bb-07bc9db43b7a": {
-      "Key": "196fa177-ac2d-41b0-91bb-07bc9db43b7a",
-      "Name": "SBB - Swiss Federal Railways",
-      "URL": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
-      "InScope": {
-        " Mobile Apps": {
-          "ID": " Mobile Apps",
-          "Type": "other"
-        },
-        "*.sbb.ch": {
-          "ID": "*.sbb.ch",
-          "Type": "wildcard"
-        },
-        "*.swisspass.ch": {
-          "ID": "*.swisspass.ch",
-          "Type": "wildcard"
-        },
-        "*elvetino.ch": {
-          "ID": "*elvetino.ch",
-          "Type": "wildcard"
-        },
-        "*sbbcargo.com": {
-          "ID": "*sbbcargo.com",
-          "Type": "wildcard"
-        },
-        "*transsicura.ch": {
-          "ID": "*transsicura.ch",
-          "Type": "wildcard"
-        },
-        "All other SBB owned IT assets": {
-          "ID": "All other SBB owned IT assets",
-          "Type": "other"
-        },
-        "All other Web and mobile APPs owned by SBB ": {
-          "ID": "All other Web and mobile APPs owned by SBB ",
-          "Type": "other"
-        },
-        "Mobile Apps": {
-          "ID": "Mobile Apps",
-          "Type": "other"
-        },
-        "www.elvetino.ch": {
-          "ID": "www.elvetino.ch",
-          "Type": "url"
-        },
-        "www.sbb.ch": {
-          "ID": "www.sbb.ch",
-          "Type": "url"
-        },
-        "www.sbbcargo.com": {
-          "ID": "www.sbbcargo.com",
-          "Type": "url"
-        },
-        "www.transsicura.ch": {
-          "ID": "www.transsicura.ch",
-          "Type": "url"
-        }
-      },
-      "OutScope": {},
-      "Hash": "0bf2b0355e8c195f15bbc2efecbcfbd9eaee538e16d26c864be222546e4d3304"
     },
     "in:1cf88d51-7927-4747-af33-204f6f1c161f": {
       "Key": "1cf88d51-7927-4747-af33-204f6f1c161f",
